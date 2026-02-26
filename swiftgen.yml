@@ -1,0 +1,10 @@
+files:
+  inputs:
+    - Sources/Hugeicons/Resources/Hugeicons/raw
+  filter: .+\.svg$
+  outputs:
+    - templateName: structured-swift5
+      output: Sources/Hugeicons/Generated/HugeiconsGenerated.swift
+      params:
+        enumName: HugeiconsGenerated
+        useExtension: ""

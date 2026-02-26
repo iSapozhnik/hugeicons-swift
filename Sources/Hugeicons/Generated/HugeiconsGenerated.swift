@@ -9,7 +9,7 @@ import Foundation
 
 // swiftlint:disable explicit_type_interface identifier_name
 // swiftlint:disable nesting type_body_length type_name vertical_whitespace_opening_braces
-internal enum HugeiconsFreeGenerated {
+internal enum HugeiconsGenerated {
   /// abacus.svg
   internal static let abacus = File(name: "abacus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// absolute.svg
