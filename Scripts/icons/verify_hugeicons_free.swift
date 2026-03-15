@@ -1,5 +1,6 @@
 #!/usr/bin/env swift
 
+import CryptoKit
 import Foundation
 
 struct ManifestEntry: Codable {
@@ -86,28 +87,32 @@ func relativePath(of fileURL: URL, from root: URL) -> String {
     return fileComponents.dropFirst(rootComponents.count).joined(separator: "/")
 }
 
-func sha256(_ path: String) -> String? {
-    let process = Process()
-    process.executableURL = URL(fileURLWithPath: "/usr/bin/env")
-    process.arguments = ["shasum", "-a", "256", path]
-
-    let outputPipe = Pipe()
-    process.standardOutput = outputPipe
-    process.standardError = Pipe()
-
-    do {
-        try process.run()
-        process.waitUntilExit()
-
-        guard process.terminationStatus == 0 else { return nil }
-        let data = outputPipe.fileHandleForReading.readDataToEndOfFile()
-        guard let line = String(data: data, encoding: .utf8)?.split(separator: " ").first else {
-            return nil
-        }
-        return String(line)
-    } catch {
+func sha256(for url: URL) -> String? {
+    guard let stream = InputStream(url: url) else {
         return nil
     }
+
+    stream.open()
+    defer { stream.close() }
+
+    var hasher = SHA256()
+    let bufferSize = 64 * 1024
+    let buffer = UnsafeMutablePointer<UInt8>.allocate(capacity: bufferSize)
+    defer { buffer.deallocate() }
+
+    while stream.hasBytesAvailable {
+        let bytesRead = stream.read(buffer, maxLength: bufferSize)
+        if bytesRead < 0 {
+            return nil
+        }
+        if bytesRead == 0 {
+            break
+        }
+
+        hasher.update(bufferPointer: UnsafeRawBufferPointer(start: buffer, count: bytesRead))
+    }
+
+    return hasher.finalize().map { String(format: "%02x", $0) }.joined()
 }
 
 do {
@@ -139,7 +144,7 @@ do {
 
     let manifestEntries = try svgFiles.map { fileURL in
         try validateSVG(fileURL)
-        guard let checksum = sha256(fileURL.path) else {
+        guard let checksum = sha256(for: fileURL) else {
             throw VerifyError.checksumFailed(path: fileURL.path)
         }
 
