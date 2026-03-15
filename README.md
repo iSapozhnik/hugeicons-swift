@@ -11,7 +11,7 @@
 This Swift package wraps the free Hugeicons source package: `@hugeicons/core-free-icons`.
 
 ### Key Highlights
-- **4,600+ Free Icons**: Stroke Rounded set for unlimited personal and commercial projects
+- **5,000+ Free Icons**: Stroke Rounded set for unlimited personal and commercial projects
 - **Pixel Perfect Grid**: Built on a 24x24 grid for crisp rendering at any size
 - **Customizable**: Easily adjust colors, sizes, and styles to match your design needs
 
