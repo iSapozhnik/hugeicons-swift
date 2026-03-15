@@ -1,6 +1,16 @@
 {
   "entries" : [
     {
+      "relativePath" : "a-arrow-down.svg",
+      "sha256" : "371b6bdd9dc53ee15a55ec88696c6503f59b886d2423d6baed8b397c8aa30d73",
+      "sourceName" : "a-arrow-down"
+    },
+    {
+      "relativePath" : "a-arrow-up.svg",
+      "sha256" : "eea232062dace8e28a6ef9b2383b20f366c4d3da4eee0447bf1f7a09b4bdff99",
+      "sourceName" : "a-arrow-up"
+    },
+    {
       "relativePath" : "abacus.svg",
       "sha256" : "697839cb2ef5c449dc895a21d935831cff399d404c6e9549e6e66ff0b29f5715",
       "sourceName" : "abacus"
@@ -646,9 +656,19 @@
       "sourceName" : "al-aqsa-mosque"
     },
     {
+      "relativePath" : "alarm-clock-off.svg",
+      "sha256" : "8d13bad3ec37d83c43c051acddbfb60245ce45ef9d73748fd4cb202d25a7bda2",
+      "sourceName" : "alarm-clock-off"
+    },
+    {
       "relativePath" : "alarm-clock.svg",
       "sha256" : "31d4d9dcc5c3c553b36b8e89dc0f8dc49e8fe9445edfbb38c53d7182d231132b",
       "sourceName" : "alarm-clock"
+    },
+    {
+      "relativePath" : "alarm-smoke.svg",
+      "sha256" : "927426f71d006b7cb471823983d0c56d96fa4056a3f82c1abee85f6c54749958",
+      "sourceName" : "alarm-smoke"
     },
     {
       "relativePath" : "album-not-found01.svg",
@@ -659,6 +679,11 @@
       "relativePath" : "album-not-found02.svg",
       "sha256" : "93e0d5295dfb22c0c2c38074f86186f6971b86a99826e4028b9174a993b7f41d",
       "sourceName" : "album-not-found02"
+    },
+    {
+      "relativePath" : "album.svg",
+      "sha256" : "1f1245d470cbb98724364a4961e7a28522cf52a2142681b1af5605e4ea47350c",
+      "sourceName" : "album"
     },
     {
       "relativePath" : "album01.svg",
@@ -766,6 +791,36 @@
       "sourceName" : "align-horizontal-center"
     },
     {
+      "relativePath" : "align-horizontal-distribute-end.svg",
+      "sha256" : "c0f13c8419a7e64e56051b21ad2832e93ae4459c3089d179fa41cfae15506ae7",
+      "sourceName" : "align-horizontal-distribute-end"
+    },
+    {
+      "relativePath" : "align-horizontal-distribute-start.svg",
+      "sha256" : "d2cea500cd2e784e7090eb29d9af5f3eef5b86507af481a042a57d86c33de94f",
+      "sourceName" : "align-horizontal-distribute-start"
+    },
+    {
+      "relativePath" : "align-horizontal-justify-end.svg",
+      "sha256" : "60db46c44fb76f103fc8890f5896cda69171d720b26bd0712633e795f9706214",
+      "sourceName" : "align-horizontal-justify-end"
+    },
+    {
+      "relativePath" : "align-horizontal-justify-start.svg",
+      "sha256" : "54242e20511170cbaba10b7790fc2b947c945fe82a45906f13d882ae8c1c39ec",
+      "sourceName" : "align-horizontal-justify-start"
+    },
+    {
+      "relativePath" : "align-horizontal-space-around.svg",
+      "sha256" : "957da45e5733fa5d5bb8542fadb97dc699c6de3f77f217bf5733514c9b95f6cd",
+      "sourceName" : "align-horizontal-space-around"
+    },
+    {
+      "relativePath" : "align-horizontal-space-between.svg",
+      "sha256" : "6911b249450f73e6c5b5e32241f441937add457766d18453012bb06dfc432c37",
+      "sourceName" : "align-horizontal-space-between"
+    },
+    {
       "relativePath" : "align-key-object.svg",
       "sha256" : "89293a4596318af044add5b4fed1e80bc355d393dc4b5e1719c86d42b9288bef",
       "sourceName" : "align-key-object"
@@ -794,6 +849,31 @@
       "relativePath" : "align-vertical-center.svg",
       "sha256" : "0feee23e837cea0e11d0dc5dc1772f21c8ba3e66bc4c86c85bef503cc60672b0",
       "sourceName" : "align-vertical-center"
+    },
+    {
+      "relativePath" : "align-vertical-distribute-center.svg",
+      "sha256" : "56849088f45d9997f7e9462e91f43086b8bb0a89efc26a79b21a24ab84553ca2",
+      "sourceName" : "align-vertical-distribute-center"
+    },
+    {
+      "relativePath" : "align-vertical-distribute-end.svg",
+      "sha256" : "86227ede64dd55d7b9fdb675d470a4a75d1f2e3b53395c339b8c102410c10134",
+      "sourceName" : "align-vertical-distribute-end"
+    },
+    {
+      "relativePath" : "align-vertical-distribute-start.svg",
+      "sha256" : "22e239a6be8cbd46cda67eaa0b1b2c38fa10967643efcdd17a77a4a368ceee7f",
+      "sourceName" : "align-vertical-distribute-start"
+    },
+    {
+      "relativePath" : "align-vertical-justify-start.svg",
+      "sha256" : "a0ee59087a8619f777da884077d244e04d11c898b05dbb8999484254505996ca",
+      "sourceName" : "align-vertical-justify-start"
+    },
+    {
+      "relativePath" : "align-vertical-space-between.svg",
+      "sha256" : "0c995f2c70b9a9a049bb7cf4f289e429c2bedc6e76bd6e3cf6530d7455017fe1",
+      "sourceName" : "align-vertical-space-between"
     },
     {
       "relativePath" : "all-bookmark.svg",
@@ -896,6 +976,11 @@
       "sourceName" : "ammo"
     },
     {
+      "relativePath" : "amphora.svg",
+      "sha256" : "71d00d251d288aee143ce5433d2170a87c062a8da6c439a053707065e777fab0",
+      "sourceName" : "amphora"
+    },
+    {
       "relativePath" : "ampoule.svg",
       "sha256" : "4fa5226deaa335d11471112e733e6b0643da59dd4bcf2fb605e0b0fb91eef9fd",
       "sourceName" : "ampoule"
@@ -974,6 +1059,16 @@
       "relativePath" : "anonymous.svg",
       "sha256" : "ddc86a8a9c40e7e6e37048eb48c3a04e27fba45a2018ff5cf38f63f8996efed2",
       "sourceName" : "anonymous"
+    },
+    {
+      "relativePath" : "antenna.svg",
+      "sha256" : "84ee80245d50fe63d6f274e021ab6a4e477e14121c9b54f88839aecfd96cc71b",
+      "sourceName" : "antenna"
+    },
+    {
+      "relativePath" : "anvil.svg",
+      "sha256" : "eec5c9aa55f633e772813745fed9098fd5f599841c8e9d470b74e11eddf51698",
+      "sourceName" : "anvil"
     },
     {
       "relativePath" : "apartment.svg",
@@ -1111,6 +1206,11 @@
       "sourceName" : "archive-off04"
     },
     {
+      "relativePath" : "archive-restore.svg",
+      "sha256" : "26680b32a16e4603fda1b3833edcd1fafdd793666de8d741f261ab5b67489470",
+      "sourceName" : "archive-restore"
+    },
+    {
       "relativePath" : "archive.svg",
       "sha256" : "9c753ae57ac940e5e5cdef7edfb4f5936a31e01812c2614f66a60e9ea1955f1b",
       "sourceName" : "archive"
@@ -1127,7 +1227,7 @@
     },
     {
       "relativePath" : "archive03.svg",
-      "sha256" : "c7b3d413f02ab980db0991c5ecfeade654a66b99aadda9ec3abad1831e9727c5",
+      "sha256" : "0584a2c84b78294b187f1eedcf34ae4d5a1e46bb9907889c2e01f031a86e86eb",
       "sourceName" : "archive03"
     },
     {
@@ -1191,6 +1291,11 @@
       "sourceName" : "arrow-diagonal"
     },
     {
+      "relativePath" : "arrow-down-az.svg",
+      "sha256" : "1066aa92db402b0e55d59572aa30de70cff3265620e6407fc799fb2928e99f96",
+      "sourceName" : "arrow-down-az"
+    },
+    {
       "relativePath" : "arrow-down-big.svg",
       "sha256" : "12c164911814f418fddd6730795d7fae0c7abbeacd6faa9e59490c91093215ed",
       "sourceName" : "arrow-down-big"
@@ -1211,6 +1316,11 @@
       "sourceName" : "arrow-down-left02"
     },
     {
+      "relativePath" : "arrow-down-one-zero.svg",
+      "sha256" : "5e57d94a4e0a4506850fed0c6a3660b0d5ddbba73ea3be0234f7e9e7ac4d2bd6",
+      "sourceName" : "arrow-down-one-zero"
+    },
+    {
       "relativePath" : "arrow-down-right01.svg",
       "sha256" : "4658cd482037d2544f7cff195da2d92cb28a3e018ea417437b1ac5feedd274f2",
       "sourceName" : "arrow-down-right01"
@@ -1219,6 +1329,11 @@
       "relativePath" : "arrow-down-right02.svg",
       "sha256" : "fbf88f10b3e7f2e3302239f878afe23d598c6c05483c61620bf371b7e6535673",
       "sourceName" : "arrow-down-right02"
+    },
+    {
+      "relativePath" : "arrow-down-zero-one.svg",
+      "sha256" : "4b2c49b79470abaf5fb76267461e4537788ff241fb40e70b5eb97892873e0d75",
+      "sourceName" : "arrow-down-zero-one"
     },
     {
       "relativePath" : "arrow-down01.svg",
@@ -1451,6 +1566,16 @@
       "sourceName" : "arrow-up-left02"
     },
     {
+      "relativePath" : "arrow-up-narrow-wide.svg",
+      "sha256" : "36f4c2b77a3185f01add830319b9a6a2f7d50d978677b09ca23dd7b23fc1432f",
+      "sourceName" : "arrow-up-narrow-wide"
+    },
+    {
+      "relativePath" : "arrow-up-one-zero.svg",
+      "sha256" : "ca04dcd860d49c5131a6e0efce3dd935b5b8b05ddfc331782d6669d7fa25d944",
+      "sourceName" : "arrow-up-one-zero"
+    },
+    {
       "relativePath" : "arrow-up-right-stack.svg",
       "sha256" : "abc0495e6279d6583117af15d1aef899b9f0bf9e19b8b4981b3a35dd63ca6f0d",
       "sourceName" : "arrow-up-right-stack"
@@ -1469,6 +1594,21 @@
       "relativePath" : "arrow-up-right03.svg",
       "sha256" : "a4aac1a43131a1903ae1ebf881ea49a9462023c8dfda4579e68ac62f7330cac4",
       "sourceName" : "arrow-up-right03"
+    },
+    {
+      "relativePath" : "arrow-up-wide-narrow.svg",
+      "sha256" : "cd4352ea6dbcfe4e1db8a7f6ebb3baa38e1daa33624d978e5071f0ccc7bcbbc2",
+      "sourceName" : "arrow-up-wide-narrow"
+    },
+    {
+      "relativePath" : "arrow-up-za.svg",
+      "sha256" : "5593a9a04d00708a5d4c0c0eb4ff6148e91ae3f803e94c903a69bf225b86d592",
+      "sourceName" : "arrow-up-za"
+    },
+    {
+      "relativePath" : "arrow-up-zero-one.svg",
+      "sha256" : "b4552367e90be2ea61a8d12ebe2a30e43bd50076b9ace849c0caaf4129e33a7e",
+      "sourceName" : "arrow-up-zero-one"
     },
     {
       "relativePath" : "arrow-up01.svg",
@@ -1756,6 +1896,16 @@
       "sourceName" : "aws-lambda"
     },
     {
+      "relativePath" : "axe.svg",
+      "sha256" : "b00987095511079cf10aff6cadb150fe4144a644f70069341fe936bc81771f9f",
+      "sourceName" : "axe"
+    },
+    {
+      "relativePath" : "axis-three-d.svg",
+      "sha256" : "55f0898fc17fd2f7f6c4de1a09a826a04632faf8cf5f20f72a4be7e1c03e237c",
+      "sourceName" : "axis-three-d"
+    },
+    {
       "relativePath" : "baby-bed01.svg",
       "sha256" : "7702f6355958a1986ef42030753753ebf6cb3ffec64177a2013eddc0ef6284ea",
       "sourceName" : "baby-bed01"
@@ -1831,6 +1981,71 @@
       "sourceName" : "bacteria"
     },
     {
+      "relativePath" : "badge-alert.svg",
+      "sha256" : "8c304e3459de5791b84172fe0edc6f7b938e1ef58c1767a366d3dbafd233f8ee",
+      "sourceName" : "badge-alert"
+    },
+    {
+      "relativePath" : "badge-cent.svg",
+      "sha256" : "4c50ecb55211d16c7b061807710ba867139fa49f624d9a266d62d136b2ae16ec",
+      "sourceName" : "badge-cent"
+    },
+    {
+      "relativePath" : "badge-dollar-sign.svg",
+      "sha256" : "aacf8156119c160ff9290d1859cef42768bf16fc676fe9eb06d7f18647eb6e72",
+      "sourceName" : "badge-dollar-sign"
+    },
+    {
+      "relativePath" : "badge-euro.svg",
+      "sha256" : "9a71d4d507ad07b95445f26f5ffa322e75bb7826e913320eef409ebd23c3e3c8",
+      "sourceName" : "badge-euro"
+    },
+    {
+      "relativePath" : "badge-indian-rupee.svg",
+      "sha256" : "635f9bc4e6001265f148a76022cc9750034444851db53639a8c9497d45c3ac82",
+      "sourceName" : "badge-indian-rupee"
+    },
+    {
+      "relativePath" : "badge-info.svg",
+      "sha256" : "917eaa682c52131962779764e4c95aa83743768ffa3273771d8bfe38f55bff9c",
+      "sourceName" : "badge-info"
+    },
+    {
+      "relativePath" : "badge-japanese-yen.svg",
+      "sha256" : "bb082a1c9344a3ea4b8b366ac143305f60a569c7655fb76fea4dd9d352ef4e2e",
+      "sourceName" : "badge-japanese-yen"
+    },
+    {
+      "relativePath" : "badge-percent.svg",
+      "sha256" : "8dcc0b4616fe3ec467d1397cb7f2cda356ae9eaac52dcf1d8f7c7959c708f3e8",
+      "sourceName" : "badge-percent"
+    },
+    {
+      "relativePath" : "badge-pound-sterling.svg",
+      "sha256" : "bcbc645a9659713cafe1c527be362b17c0ee4f32ca5e88bf3449cc13ed3d30c9",
+      "sourceName" : "badge-pound-sterling"
+    },
+    {
+      "relativePath" : "badge-russian-ruble.svg",
+      "sha256" : "892e584b9bc4f47b5d409f898a7f25a5b4ca0e79a30a5a82652bd179a3ac7089",
+      "sourceName" : "badge-russian-ruble"
+    },
+    {
+      "relativePath" : "badge-swiss-franc.svg",
+      "sha256" : "6d2cb1bb199febfb76398a1ea7de666ebc5ca78d04b294602f5f982bc1fe3270",
+      "sourceName" : "badge-swiss-franc"
+    },
+    {
+      "relativePath" : "badge-turkish-lira.svg",
+      "sha256" : "c5164cf9de984180a8dad511467d6b08b00b6081caf0fad59b6d742fc457379e",
+      "sourceName" : "badge-turkish-lira"
+    },
+    {
+      "relativePath" : "badge.svg",
+      "sha256" : "11600aeedcafd010d83cd40a893b5bc8ddc2a08220d45e790e175c92ed1474d0",
+      "sourceName" : "badge"
+    },
+    {
       "relativePath" : "badminton-shuttle.svg",
       "sha256" : "3df84fc7e4d64593a7f15c31f4c31b5ab93f7e779fcbb99d492159a54cc58914",
       "sourceName" : "badminton-shuttle"
@@ -1857,7 +2072,7 @@
     },
     {
       "relativePath" : "bandage.svg",
-      "sha256" : "d9060e26af12310be32335c5fc12e58bc2f4db4be891d19425e8be9181f7146d",
+      "sha256" : "23c84631106866f3d5d1ed7e6a223142a169f89dbd5a9eb904babfe472ffc5a4",
       "sourceName" : "bandage"
     },
     {
@@ -1894,6 +2109,11 @@
       "relativePath" : "barns.svg",
       "sha256" : "a5015cca548fda207abf5e857aee7f225c79490eb6fc2ff367c8b4560ed73797",
       "sourceName" : "barns"
+    },
+    {
+      "relativePath" : "barrel.svg",
+      "sha256" : "023b78dcdbad20068cd0b79243db90e3aafc415da2a35b54746cc88a5054ba10",
+      "sourceName" : "barrel"
     },
     {
       "relativePath" : "baseball-bat.svg",
@@ -1986,6 +2206,16 @@
       "sourceName" : "battery-medium02"
     },
     {
+      "relativePath" : "battery-plus.svg",
+      "sha256" : "901ddd17a3e4a0f45f7f8053c2ea420894c3804a7b3740c431aa239f98edbf61",
+      "sourceName" : "battery-plus"
+    },
+    {
+      "relativePath" : "battery-warning.svg",
+      "sha256" : "e3db4cdeb098cbe11d7bfaf5f9643c2bef32ce24d709afe27d449b36c64ffcc7",
+      "sourceName" : "battery-warning"
+    },
+    {
       "relativePath" : "bbq-grill.svg",
       "sha256" : "dac7ef0b6ed3e72aa24c6c648733e1a33acb970f172915c59275d4abdb6afd7c",
       "sourceName" : "bbq-grill"
@@ -1999,6 +2229,16 @@
       "relativePath" : "beach02.svg",
       "sha256" : "96af4c3339f489ddb7e84b5959f040dd27b2562b9d7a79b2199c5961961440d4",
       "sourceName" : "beach02"
+    },
+    {
+      "relativePath" : "bean-off.svg",
+      "sha256" : "058e16e1f13cc573f43889d1a7e9354fae09c99b91bcce06a34662f2f44a140e",
+      "sourceName" : "bean-off"
+    },
+    {
+      "relativePath" : "bean.svg",
+      "sha256" : "1ecddfc4471e7a282d0a0fbbf19a0b7d0738c0c190aa0dc6ab9b90155b5f189c",
+      "sourceName" : "bean"
     },
     {
       "relativePath" : "beater.svg",
@@ -2046,6 +2286,11 @@
       "sourceName" : "bedug02"
     },
     {
+      "relativePath" : "beef.svg",
+      "sha256" : "e96136a0ca73074c1423ffeddcb7325d1db7876cf774336cddc2aaf03905cdbb",
+      "sourceName" : "beef"
+    },
+    {
       "relativePath" : "behance01.svg",
       "sha256" : "74188c68e5c856de704d20f6684a2a137672a3047db976ca4589059baddb04a0",
       "sourceName" : "behance01"
@@ -2054,6 +2299,16 @@
       "relativePath" : "behance02.svg",
       "sha256" : "81da38035fafab774ea576b93f76eae81d1bee08327858623c7502700a28029f",
       "sourceName" : "behance02"
+    },
+    {
+      "relativePath" : "bell-dot.svg",
+      "sha256" : "7df58f443f9abcdde47add48ee5188a07211e9314a655fe44b3e5e2c2940db0c",
+      "sourceName" : "bell-dot"
+    },
+    {
+      "relativePath" : "bell-electric.svg",
+      "sha256" : "41ff890686e8c2c1b01c20d6754e6c2ba86d27f49cb1edffe475419c1065037f",
+      "sourceName" : "bell-electric"
     },
     {
       "relativePath" : "belt.svg",
@@ -2079,6 +2334,16 @@
       "relativePath" : "beta.svg",
       "sha256" : "61cf25dba04598cbadff32beb22fa3f42d673be0d23e51bb0046519a558346f5",
       "sourceName" : "beta"
+    },
+    {
+      "relativePath" : "between-horizontal-end.svg",
+      "sha256" : "1d55a6a95602d27c7239e814e69a7de4926399616fb687ecf2d93dcfb42b7f67",
+      "sourceName" : "between-horizontal-end"
+    },
+    {
+      "relativePath" : "between-vertical-end.svg",
+      "sha256" : "b258d60c4bdc09e2fcec165c1cc7abde2d07b8b9fccfa9442a1d4f550fa2255a",
+      "sourceName" : "between-vertical-end"
     },
     {
       "relativePath" : "bicycle.svg",
@@ -2121,6 +2386,11 @@
       "sourceName" : "bio-energy"
     },
     {
+      "relativePath" : "biohazard.svg",
+      "sha256" : "90f55b3f8c4347fa5816ddaffd3a9f9410d0436422754fa4cb7efa81863ce778",
+      "sourceName" : "biohazard"
+    },
+    {
       "relativePath" : "biomass-energy.svg",
       "sha256" : "4d194713035fda54c2db01e9545128d859751fb90c3d941d80e44d35d86c6619",
       "sourceName" : "biomass-energy"
@@ -2134,6 +2404,16 @@
       "relativePath" : "biometric-device.svg",
       "sha256" : "ffbc0484ecb9570e7292095894f49d74648af00a67ce40f873edc67aee836879",
       "sourceName" : "biometric-device"
+    },
+    {
+      "relativePath" : "bird.svg",
+      "sha256" : "25a96bba20b11a8bb2f90a21b0bd130eb3d1e97d268222f561410fcf41d5fd9d",
+      "sourceName" : "bird"
+    },
+    {
+      "relativePath" : "birdhouse.svg",
+      "sha256" : "a620687965e80f0d527f2d944c0fedc0d6752f08069387b92396ea1114888027",
+      "sourceName" : "birdhouse"
     },
     {
       "relativePath" : "birthday-cake.svg",
@@ -2411,6 +2691,11 @@
       "sourceName" : "blender"
     },
     {
+      "relativePath" : "blinds.svg",
+      "sha256" : "c885c12e923feda5581f4a4a2e2e51c6aef56d49888448c2ef1c2d91d52126d6",
+      "sourceName" : "blinds"
+    },
+    {
       "relativePath" : "block-game.svg",
       "sha256" : "5827ca8816d7bbf58ffc4729a05b7c58a3eb2db762b8a11040e028552a17b3d8",
       "sourceName" : "block-game"
@@ -2586,6 +2871,16 @@
       "sourceName" : "bone02"
     },
     {
+      "relativePath" : "book-a.svg",
+      "sha256" : "a1ca8d0f09b67a2346d67fa623f0dfd5ac1216f19e6be1ee4bfdd7a628956f67",
+      "sourceName" : "book-a"
+    },
+    {
+      "relativePath" : "book-alert.svg",
+      "sha256" : "bed53808d7cf0a6e9a84291ed602f0cff7a4ac7244173baf4e64c6443408ba78",
+      "sourceName" : "book-alert"
+    },
+    {
       "relativePath" : "book-bookmark01.svg",
       "sha256" : "6ba5421cd7d640647fd722cddb1782774430d8da1a67fa144947d54dc88ccf26",
       "sourceName" : "book-bookmark01"
@@ -2594,6 +2889,21 @@
       "relativePath" : "book-bookmark02.svg",
       "sha256" : "6f5e681b42bf60ad502a9fff48e1efb8ef6922343bb458d20ea15d30066baffc",
       "sourceName" : "book-bookmark02"
+    },
+    {
+      "relativePath" : "book-check.svg",
+      "sha256" : "76355463839f0c86b824ebdc0ee5fb82dcaef70f90a768364bc5e74a2032aeff",
+      "sourceName" : "book-check"
+    },
+    {
+      "relativePath" : "book-copy.svg",
+      "sha256" : "93f9fc515dad22384c20682394e42c771d6e910d6eb88122af6a5a586e549acf",
+      "sourceName" : "book-copy"
+    },
+    {
+      "relativePath" : "book-dashed.svg",
+      "sha256" : "2e380a45a6ab6b83381113b7dbde3da9153e4f9f56af734cfd35d00f92a3d4db",
+      "sourceName" : "book-dashed"
     },
     {
       "relativePath" : "book-download.svg",
@@ -2606,6 +2916,41 @@
       "sourceName" : "book-edit"
     },
     {
+      "relativePath" : "book-heart.svg",
+      "sha256" : "267c27b4ab802b13c7bccf574736b413066dfa2c7b160776a633b250f4892c71",
+      "sourceName" : "book-heart"
+    },
+    {
+      "relativePath" : "book-image.svg",
+      "sha256" : "9bd3c0456ef0781aab3cf8835cae782886e1b8445e950e7005717c8326b0e44a",
+      "sourceName" : "book-image"
+    },
+    {
+      "relativePath" : "book-key.svg",
+      "sha256" : "27194c55ac50c34d3e688d04b153fd3743cb417594ca5f72f134ad67d7e0d505",
+      "sourceName" : "book-key"
+    },
+    {
+      "relativePath" : "book-lock.svg",
+      "sha256" : "9ddddaafa861d6d8e0e2917c797d590b3233834a50142ca0b7ab51cc512bf1d6",
+      "sourceName" : "book-lock"
+    },
+    {
+      "relativePath" : "book-minus.svg",
+      "sha256" : "dc0e248aa6dab362e2a672db3c1d6a530ac1fd6e54fb9612474be92ce5ad1c9b",
+      "sourceName" : "book-minus"
+    },
+    {
+      "relativePath" : "book-open-check.svg",
+      "sha256" : "c030d56a52a66cdc7230215c9d74fb63da02eea25c448ebea88d4cd60817b04c",
+      "sourceName" : "book-open-check"
+    },
+    {
+      "relativePath" : "book-open-text.svg",
+      "sha256" : "2893083cf00a8675fe05c604d394ff786906d6638bfd69aa153549a67e1fe35c",
+      "sourceName" : "book-open-text"
+    },
+    {
       "relativePath" : "book-open01.svg",
       "sha256" : "6f1a2ce95323b13d0cf1f07ec259ece28e51e0443509c2a0829bf649f9beca94",
       "sourceName" : "book-open01"
@@ -2616,9 +2961,39 @@
       "sourceName" : "book-open02"
     },
     {
+      "relativePath" : "book-plus.svg",
+      "sha256" : "434ce1d975686a86258170b4d54bf7749f6178d3d07ec9da0999da0a81e738be",
+      "sourceName" : "book-plus"
+    },
+    {
+      "relativePath" : "book-search.svg",
+      "sha256" : "0dca6b18629344f2e84398a8e635817018ac6d6d796cd0ff91b0d4b05bfa320c",
+      "sourceName" : "book-search"
+    },
+    {
+      "relativePath" : "book-type.svg",
+      "sha256" : "b67d5d92625b8422b4a2f09377e6aed5edf75acd573e64df2a0b42143e88f342",
+      "sourceName" : "book-type"
+    },
+    {
+      "relativePath" : "book-up-two.svg",
+      "sha256" : "482a0ed397558a2f2662e4d0ec7d6adcd2012e586d9c2dd626eedfd6e14a096b",
+      "sourceName" : "book-up-two"
+    },
+    {
       "relativePath" : "book-upload.svg",
       "sha256" : "8f968a89748a3d581c70970967d8628f59f9a225f69e8320868ca58a9a7b329f",
       "sourceName" : "book-upload"
+    },
+    {
+      "relativePath" : "book-user.svg",
+      "sha256" : "1bf96d7ac16eac5771d2470a3e6adb272671285baaa4da7b141e27d66e508971",
+      "sourceName" : "book-user"
+    },
+    {
+      "relativePath" : "book-x.svg",
+      "sha256" : "abc6badd17848cd190e7b1f7ef44426fb47a660d3d662a27f1c4e3fcbba6300e",
+      "sourceName" : "book-x"
     },
     {
       "relativePath" : "book01.svg",
@@ -2739,6 +3114,11 @@
       "relativePath" : "bookshelf03.svg",
       "sha256" : "4c0e23721985ab1721a91e03eaa0cc1fa5aa82d0958c5abd24cc2284521b8b44",
       "sourceName" : "bookshelf03"
+    },
+    {
+      "relativePath" : "boom-box.svg",
+      "sha256" : "9cda3a4307fbaa0a15d1668becd56b42e9c6276881d14fb3583e052ff08d87a3",
+      "sourceName" : "boom-box"
     },
     {
       "relativePath" : "bootstrap.svg",
@@ -2891,6 +3271,11 @@
       "sourceName" : "boxing-glove01"
     },
     {
+      "relativePath" : "brain-cog.svg",
+      "sha256" : "55925ec6a8bbcad2678f342a09314e1da5ebc9e8cf22dbaf5072a00c101f1f2e",
+      "sourceName" : "brain-cog"
+    },
+    {
       "relativePath" : "brain.svg",
       "sha256" : "d11d335e2c494f33dd453a0f6d9f45188597d97a9ab97fec83f9a70806f052fe",
       "sourceName" : "brain"
@@ -2941,9 +3326,24 @@
       "sourceName" : "breast-pump"
     },
     {
+      "relativePath" : "brick-wall-shield.svg",
+      "sha256" : "95eea833d370051cec1dc4692d3dab5a85e1d2cd6c5187fcdf95a2ca3aa27a0e",
+      "sourceName" : "brick-wall-shield"
+    },
+    {
+      "relativePath" : "brick-wall.svg",
+      "sha256" : "8250d544761f147ba72a11e53f57b2d176e0589f0a732966c0f3d8a397d90da3",
+      "sourceName" : "brick-wall"
+    },
+    {
       "relativePath" : "bridge.svg",
       "sha256" : "59351b83c84b649863473042a0a0260211d5cad8ea14015d1f9c7110373626f4",
       "sourceName" : "bridge"
+    },
+    {
+      "relativePath" : "briefcase-conveyor-belt.svg",
+      "sha256" : "11d3dd3bd91fce76f7d179085ea60970597c8ec8900eb7c8591dbf8a8ef7b496",
+      "sourceName" : "briefcase-conveyor-belt"
     },
     {
       "relativePath" : "briefcase-dollar.svg",
@@ -2994,6 +3394,11 @@
       "relativePath" : "briefcase09.svg",
       "sha256" : "2b4b538170c4ad6253a36354c479a98f01a6c5da5f60da6084485f18082c94fd",
       "sourceName" : "briefcase09"
+    },
+    {
+      "relativePath" : "bring-to-front.svg",
+      "sha256" : "112b0c29cd96e1713078c6ca4003e744d8226c3149ac705e91cd76bb4abba416",
+      "sourceName" : "bring-to-front"
     },
     {
       "relativePath" : "broccoli.svg",
@@ -3156,6 +3561,11 @@
       "sourceName" : "bubble-tea02"
     },
     {
+      "relativePath" : "bubbles.svg",
+      "sha256" : "1e4c304e38485774f8080c82c83a5a924b31a45e49b5db721a3d896090726367",
+      "sourceName" : "bubbles"
+    },
+    {
       "relativePath" : "bucket.svg",
       "sha256" : "831be70079a680fb7f10b87489482bc603212369487aabf194a3b3e90036264e",
       "sourceName" : "bucket"
@@ -3281,6 +3691,11 @@
       "sourceName" : "cable-car"
     },
     {
+      "relativePath" : "cable.svg",
+      "sha256" : "bfc560ba09d465b36b3718142e02831efed3340f4456413e8d9e333ae68ded8f",
+      "sourceName" : "cable"
+    },
+    {
       "relativePath" : "cactus.svg",
       "sha256" : "09097c7afa49b2c3088ac9345f0cff77eda5d52e69154e2d98db1b0f7b791025",
       "sourceName" : "cactus"
@@ -3294,6 +3709,11 @@
       "relativePath" : "cafe.svg",
       "sha256" : "ad97526631e096b5fc08fda29ce812ad512078e04ea8b80259bf7faa64f3b661",
       "sourceName" : "cafe"
+    },
+    {
+      "relativePath" : "cake-slice.svg",
+      "sha256" : "9c73ad7aadf44e9415cdab771a4c0d55d13e002c0bad03416e42ed59a8bb0214",
+      "sourceName" : "cake-slice"
     },
     {
       "relativePath" : "calculate.svg",
@@ -3376,6 +3796,11 @@
       "sourceName" : "calendar-favorite02"
     },
     {
+      "relativePath" : "calendar-fold.svg",
+      "sha256" : "1496b773ebbfbbef8bf074b892256b77979c3f059adf95e1bc1fc5eb1ee4e1ef",
+      "sourceName" : "calendar-fold"
+    },
+    {
       "relativePath" : "calendar-lock01.svg",
       "sha256" : "c6793b6077f838caf7cefa2da9738a87d11f940bee5382cd4fbf026b60043879",
       "sourceName" : "calendar-lock01"
@@ -3409,6 +3834,11 @@
       "relativePath" : "calendar-mortarboard.svg",
       "sha256" : "a78fcea17ba3d2dd674eebd277a6d0bb7676198619bacf9075ac542fd02e7a35",
       "sourceName" : "calendar-mortarboard"
+    },
+    {
+      "relativePath" : "calendar-off.svg",
+      "sha256" : "71599fe7566ebd8783b9b62515dc5fe43546d82408ff2e950ac1c442cbb1b7c1",
+      "sourceName" : "calendar-off"
     },
     {
       "relativePath" : "calendar-remove01.svg",
@@ -3474,6 +3904,11 @@
       "relativePath" : "calendar05.svg",
       "sha256" : "4bfc2bb765936a5e3c080b2db2a3ed2214e4c1b427e67a9d7f0a030195ddb693",
       "sourceName" : "calendar05"
+    },
+    {
+      "relativePath" : "calendars.svg",
+      "sha256" : "5162438d0482b244c5dc3713a9832a36e6e7d11ce807f414d3316dac4da5e973",
+      "sourceName" : "calendars"
     },
     {
       "relativePath" : "call-add.svg",
@@ -3866,6 +4301,31 @@
       "sourceName" : "candelier02"
     },
     {
+      "relativePath" : "candy-cane.svg",
+      "sha256" : "55d81c40974bf0c8ed5e127cdcbcea8002b6a99d84e65ba2a4c5fbeeaad481aa",
+      "sourceName" : "candy-cane"
+    },
+    {
+      "relativePath" : "candy-off.svg",
+      "sha256" : "0429a9e3d33dab1d496a79c0eb3de6bbd280e76a2f2ad60a67706320890c8782",
+      "sourceName" : "candy-off"
+    },
+    {
+      "relativePath" : "candy.svg",
+      "sha256" : "45adf9c7bea1c6b15b396eca636787c1c415ae8a06efa29fefaaa1c882f312b4",
+      "sourceName" : "candy"
+    },
+    {
+      "relativePath" : "cannabis-off.svg",
+      "sha256" : "62be20dca412ecab47f1e3d49060cdcf0478fa5c2412c0f9cfcb12ea2cd5c8b1",
+      "sourceName" : "cannabis-off"
+    },
+    {
+      "relativePath" : "cannabis.svg",
+      "sha256" : "14b6712c2047e68465814bc1802d11c5d0535d4942ae1b5a4196b4e5a317434d",
+      "sourceName" : "cannabis"
+    },
+    {
       "relativePath" : "canvas.svg",
       "sha256" : "00f239b30bf0fda5dcd15d72cbe1c7ce12ac7ca240266aafc9c37b6eb56664fa",
       "sourceName" : "canvas"
@@ -4061,6 +4521,11 @@
       "sourceName" : "cashier02"
     },
     {
+      "relativePath" : "cassette-tape.svg",
+      "sha256" : "ca4b00766ca23bba877fc21a9e2928ba30956c2228238f0896c1658e0b86c3e4",
+      "sourceName" : "cassette-tape"
+    },
+    {
       "relativePath" : "castbox.svg",
       "sha256" : "365878cddc59f8db64facf3e7441e1c9c4dc61a055685ad95b8c75ad59e9a69a",
       "sourceName" : "castbox"
@@ -4201,14 +4666,39 @@
       "sourceName" : "chart-analysis"
     },
     {
+      "relativePath" : "chart-area.svg",
+      "sha256" : "fb56d304a8d205509ef78f8be70522b9e875ff97b5b0af05999be57de7f52c74",
+      "sourceName" : "chart-area"
+    },
+    {
       "relativePath" : "chart-average.svg",
       "sha256" : "273864c21ae73e86c7098bd6f74aa6d9b3b755d46c9026dc159677a36079bdb3",
       "sourceName" : "chart-average"
     },
     {
+      "relativePath" : "chart-bar-big.svg",
+      "sha256" : "ba66d508cc535d3696d9108b434bbcf97e66c50659367ddeac42522d3ccacff5",
+      "sourceName" : "chart-bar-big"
+    },
+    {
+      "relativePath" : "chart-bar-decreasing.svg",
+      "sha256" : "c4115322b7e781f61fd0569bece126bb91bd765e8d6fabb00624dd8a98d083c0",
+      "sourceName" : "chart-bar-decreasing"
+    },
+    {
+      "relativePath" : "chart-bar-increasing.svg",
+      "sha256" : "2773562e1d1dd629b38d6bb8158572a7856a15526dcd4a7264c21f0ae3917fff",
+      "sourceName" : "chart-bar-increasing"
+    },
+    {
       "relativePath" : "chart-bar-line.svg",
       "sha256" : "a9fa0962cc25051836676342afdb83b4dffb55964551a8775307dc9c57d62109",
       "sourceName" : "chart-bar-line"
+    },
+    {
+      "relativePath" : "chart-bar-stacked.svg",
+      "sha256" : "5a1c5831334a96fe14931eeddbd2b99d7343abfbf221de076c315abbb890d33e",
+      "sourceName" : "chart-bar-stacked"
     },
     {
       "relativePath" : "chart-breakout-circle.svg",
@@ -4236,8 +4726,28 @@
       "sourceName" : "chart-candle"
     },
     {
+      "relativePath" : "chart-candlestick.svg",
+      "sha256" : "55cf7cf6cb4b0d41f9b434632a3e9f7f34bcea009cce14355ad853278d0eda36",
+      "sourceName" : "chart-candlestick"
+    },
+    {
+      "relativePath" : "chart-column-big.svg",
+      "sha256" : "e68ca7e95d49c3ea007caf04f425eef7fe08bd8aa0f0e27c5e985ddd8e7b3ff1",
+      "sourceName" : "chart-column-big"
+    },
+    {
+      "relativePath" : "chart-column-decreasing.svg",
+      "sha256" : "20ca7adec722f2e188daa9036d029d1014e3bbe90d0d6fb07df0dfdfb3ba1f01",
+      "sourceName" : "chart-column-decreasing"
+    },
+    {
+      "relativePath" : "chart-column-stacked.svg",
+      "sha256" : "9735d1c4e9f66e33a546a2953924c88d914c6d94cadb46a803904a718e7c7f32",
+      "sourceName" : "chart-column-stacked"
+    },
+    {
       "relativePath" : "chart-column.svg",
-      "sha256" : "6dc35cf31e990c8080a1a59a33922313cb1af2d319e072b8a9b8fe9aa3a4c4ae",
+      "sha256" : "deb88658be6e5ead10c4ea33f21b064d9bf41a4101fd5a0fa22bfce605b8428e",
       "sourceName" : "chart-column"
     },
     {
@@ -4254,6 +4764,11 @@
       "relativePath" : "chart-evaluation.svg",
       "sha256" : "240eb7cb1606ac25ca5e188f4b0d0b9374e3fa26384b6c34a913dc1582c99587",
       "sourceName" : "chart-evaluation"
+    },
+    {
+      "relativePath" : "chart-gantt.svg",
+      "sha256" : "2b12445601bbdd273b1fef7698f0c6f1260e585387ab54c446cbf95eb2a82aa0",
+      "sourceName" : "chart-gantt"
     },
     {
       "relativePath" : "chart-high-low.svg",
@@ -4299,6 +4814,21 @@
       "relativePath" : "chart-minimum.svg",
       "sha256" : "f09288853a7cd17e75da926f1021f5e4ac0764e7dc1a8fb594216f2aa68523a6",
       "sourceName" : "chart-minimum"
+    },
+    {
+      "relativePath" : "chart-no-axes-column-increasing.svg",
+      "sha256" : "2cb1be94abbac54e36797ea64575189dfeacc4a596c41555bd2c6379a3003352",
+      "sourceName" : "chart-no-axes-column-increasing"
+    },
+    {
+      "relativePath" : "chart-no-axes-combined.svg",
+      "sha256" : "112a1b68afab427c3e7f7f6f097ad610baadbc1a000e9e99bd37e1a57fee0cc4",
+      "sourceName" : "chart-no-axes-combined"
+    },
+    {
+      "relativePath" : "chart-no-axes-gantt.svg",
+      "sha256" : "df3f2117903a63ef9c6b994a3b22b59132481c98ee56beec7dd5d7d4fb0e11ef",
+      "sourceName" : "chart-no-axes-gantt"
     },
     {
       "relativePath" : "chart-radar.svg",
@@ -4726,6 +5256,16 @@
       "sourceName" : "cherry"
     },
     {
+      "relativePath" : "chess-bishop.svg",
+      "sha256" : "5f3b8bd33071393e298c22393c7dfa7874677f353fb9bd0708d07756ff598599",
+      "sourceName" : "chess-bishop"
+    },
+    {
+      "relativePath" : "chess-king.svg",
+      "sha256" : "5da47d94da216d75b950594492aae3f4891affd4559e54ac0e64eed4422e9db7",
+      "sourceName" : "chess-king"
+    },
+    {
       "relativePath" : "chess-pawn.svg",
       "sha256" : "0f3cc55992d7127eaeac2c3a1fd6d9fc5105e4fd5530a77e8670c8336dc45c99",
       "sourceName" : "chess-pawn"
@@ -4799,6 +5339,16 @@
       "relativePath" : "church.svg",
       "sha256" : "aa38ae8f85bfc01dacc9e3f131e6e58cdac8f0234e1658f94b8d0205502c2d58",
       "sourceName" : "church"
+    },
+    {
+      "relativePath" : "cigarette-off.svg",
+      "sha256" : "7ab94ea40e099d3087f0001543aeef2c5221096bce89e53ae807c14ded1eba92",
+      "sourceName" : "cigarette-off"
+    },
+    {
+      "relativePath" : "cigarette.svg",
+      "sha256" : "e32d1c5b15a885fbbef936644b5ff68e86946c270446e5d4a6c64174db72b8bf",
+      "sourceName" : "cigarette"
     },
     {
       "relativePath" : "cinnamon-roll.svg",
@@ -5066,9 +5616,29 @@
       "sourceName" : "circle-lock02"
     },
     {
+      "relativePath" : "circle-parking-off.svg",
+      "sha256" : "2cc452ac9bb9b8945e1517b7188e8fd2d62839a35f865067e34205dc0138ad84",
+      "sourceName" : "circle-parking-off"
+    },
+    {
       "relativePath" : "circle-password.svg",
       "sha256" : "797538ee589fde8dd344781f5ed8322e374ff46be2e5fb18bf19e2ebf425d21e",
       "sourceName" : "circle-password"
+    },
+    {
+      "relativePath" : "circle-pile.svg",
+      "sha256" : "25d542245c20ffcd937a25fa6ebc54ba9636a4201abd38cab23cb9415884ed94",
+      "sourceName" : "circle-pile"
+    },
+    {
+      "relativePath" : "circle-slash-two.svg",
+      "sha256" : "53f95242b673378bc53fda00fe35f386cc71844f017e123a004ea5a5bb362868",
+      "sourceName" : "circle-slash-two"
+    },
+    {
+      "relativePath" : "circle-small.svg",
+      "sha256" : "383858e7d7c343e03ff4685b95adafe9a7fa86bd4c76d5b44aa6f1ee0310f098",
+      "sourceName" : "circle-small"
     },
     {
       "relativePath" : "circle-unlock01.svg",
@@ -5084,6 +5654,16 @@
       "relativePath" : "circle.svg",
       "sha256" : "d6fd1c68d3047f09bd6978c490ba9cb7fb408580810ae0e0199993f1fb7114c9",
       "sourceName" : "circle"
+    },
+    {
+      "relativePath" : "circuit-board.svg",
+      "sha256" : "f96faae323018364dac24727649c74b6c9b7f59eee8229db18958b77c88eb9ce",
+      "sourceName" : "circuit-board"
+    },
+    {
+      "relativePath" : "citrus.svg",
+      "sha256" : "c721fd18c51c55be1ae1db81348dd1e07ae7fa956ddf60a00f4e83b76f0efe84",
+      "sourceName" : "citrus"
     },
     {
       "relativePath" : "city01.svg",
@@ -5141,6 +5721,26 @@
       "sourceName" : "cliparts"
     },
     {
+      "relativePath" : "clipboard-clock.svg",
+      "sha256" : "54d89b1a251061a73b26673d114236a951da08dc3001f3b3294771d96c16fcb2",
+      "sourceName" : "clipboard-clock"
+    },
+    {
+      "relativePath" : "clipboard-copy.svg",
+      "sha256" : "a9851eadb61118e4d9e0c47eca2e33b875c4b18e0ebb4c8c0655b2e20bbaf669",
+      "sourceName" : "clipboard-copy"
+    },
+    {
+      "relativePath" : "clipboard-minus.svg",
+      "sha256" : "401f8c78e55fbc16f18af6519e1728efb224156117d8f464d1b43f7b1b42c8b2",
+      "sourceName" : "clipboard-minus"
+    },
+    {
+      "relativePath" : "clipboard-paste.svg",
+      "sha256" : "e1e578e2f6f61357a73cd5fcf02d05fa4a0e18a448c273d3268e5e73c241c8eb",
+      "sourceName" : "clipboard-paste"
+    },
+    {
       "relativePath" : "clipboard.svg",
       "sha256" : "5f949a3f29113a5ba4f8a20444c026dca8f05619e5c2c41437c89260eabfd012",
       "sourceName" : "clipboard"
@@ -5149,6 +5749,31 @@
       "relativePath" : "clock-add.svg",
       "sha256" : "4d4d64392b10e9dcca2854e1c0b9a643b8c0182a3a89f1d135f521b3eb983bd0",
       "sourceName" : "clock-add"
+    },
+    {
+      "relativePath" : "clock-alert.svg",
+      "sha256" : "139f1cf3d33b321bbdd939c37f8d60ab612423f46f2abbfe0eefb9ee00357412",
+      "sourceName" : "clock-alert"
+    },
+    {
+      "relativePath" : "clock-arrow-down.svg",
+      "sha256" : "5691535a1ce5c98bdf516d8ea58effad2de674e29d9573b0f8a5934cd19edfbf",
+      "sourceName" : "clock-arrow-down"
+    },
+    {
+      "relativePath" : "clock-arrow-up.svg",
+      "sha256" : "bd709260ba9d3c4f2797fa45149620e05db1e23550354c976b4476875a589cb2",
+      "sourceName" : "clock-arrow-up"
+    },
+    {
+      "relativePath" : "clock-check.svg",
+      "sha256" : "44c14d4ee3d5a4c6a85df92ec6008d5fbc5e72167626b188a110cf7decc2d78d",
+      "sourceName" : "clock-check"
+    },
+    {
+      "relativePath" : "clock-plus.svg",
+      "sha256" : "a64dbe1afd98201056a5ab31aa38786624dff7275132745cf32ecbba1bcf2b90",
+      "sourceName" : "clock-plus"
     },
     {
       "relativePath" : "clock01.svg",
@@ -5189,6 +5814,11 @@
       "relativePath" : "clothes.svg",
       "sha256" : "c9a818890d0c8d00cfb1260bec3eeed03622786069df060835c84f41b167e10c",
       "sourceName" : "clothes"
+    },
+    {
+      "relativePath" : "cloud-alert.svg",
+      "sha256" : "683be3484111ffd7552f96708285bc3dbe754e147961e0fc9e9ffab0b5a59d14",
+      "sourceName" : "cloud-alert"
     },
     {
       "relativePath" : "cloud-angled-rain-zap.svg",
@@ -5249,6 +5879,11 @@
       "relativePath" : "cloud-mid-snow.svg",
       "sha256" : "474b003a8c2a5d861d4d94d83d1012df7ed7bc00e70f5b3a51930911d081703e",
       "sourceName" : "cloud-mid-snow"
+    },
+    {
+      "relativePath" : "cloud-off.svg",
+      "sha256" : "a93b7673100964cb6080f912c9b0de25b202b26f7bd2887c0e79290cf90aec0a",
+      "sourceName" : "cloud-off"
     },
     {
       "relativePath" : "cloud-saving-done01.svg",
@@ -5326,6 +5961,11 @@
       "sourceName" : "code"
     },
     {
+      "relativePath" : "codepen.svg",
+      "sha256" : "69471b501d27ca2f4942cd526bed70f7460a56dc2a5013adb45c5210fc651ae9",
+      "sourceName" : "codepen"
+    },
+    {
       "relativePath" : "codesandbox.svg",
       "sha256" : "ef7ea26d4f3fae32fd7732daab7b4273ac4b3d8364139107c8501129d0061d9f",
       "sourceName" : "codesandbox"
@@ -5354,6 +5994,11 @@
       "relativePath" : "coffee04.svg",
       "sha256" : "11738f9872496bafa3835414dbf5f04a71f77240c607558eb64d032f634ac9d5",
       "sourceName" : "coffee04"
+    },
+    {
+      "relativePath" : "cog.svg",
+      "sha256" : "edebdbf2e924c0fc6edad55262d943c02b18b005793a88c756cdbb3b7d6b51a9",
+      "sourceName" : "cog"
     },
     {
       "relativePath" : "coinbase.svg",
@@ -5434,6 +6079,16 @@
       "relativePath" : "column-insert.svg",
       "sha256" : "c95b654ea1793964e8a0be8cd1fc6b09b71a946ea0d98b50b455c9c82f51bec3",
       "sourceName" : "column-insert"
+    },
+    {
+      "relativePath" : "columns-three-cog.svg",
+      "sha256" : "88969721c3393ed7067bcd0378a8eb3d83b09d00897dba1f5811981ed6974d94",
+      "sourceName" : "columns-three-cog"
+    },
+    {
+      "relativePath" : "combine.svg",
+      "sha256" : "d761d4384e72e7af6c57d1f662cfbd1ccfcdcb55da71968e544515bac191838e",
+      "sourceName" : "combine"
     },
     {
       "relativePath" : "comet01.svg",
@@ -5539,6 +6194,11 @@
       "relativePath" : "complaint.svg",
       "sha256" : "6c4ae7be80a87a9ffb79e56929b11a929d63a48ce5524b2d1529e05b39eccc1c",
       "sourceName" : "complaint"
+    },
+    {
+      "relativePath" : "component.svg",
+      "sha256" : "eedb50e1b80fad2989157b0cdb0d7b73056af9d942d1a2197e1db07f0aa36469",
+      "sourceName" : "component"
     },
     {
       "relativePath" : "computer-activity.svg",
@@ -5667,7 +6327,7 @@
     },
     {
       "relativePath" : "computer.svg",
-      "sha256" : "38ab706aa2270fb704bacd7c158f9420025142f2727092e008cb025c849c4d30",
+      "sha256" : "649ca452e91677120990a6e1bec834a6270bcbaf3be87327f4a2b7cf44e32d53",
       "sourceName" : "computer"
     },
     {
@@ -5731,6 +6391,11 @@
       "sourceName" : "constellation"
     },
     {
+      "relativePath" : "construction.svg",
+      "sha256" : "0fbcb2dc6445ca21e674037ae532cf58e069cc7634650594e08a15c97365bcf5",
+      "sourceName" : "construction"
+    },
+    {
       "relativePath" : "contact-book.svg",
       "sha256" : "51cf6f0e07052cbda76e0f5a6b8c9fd63a7104642bd59a615726260fdf0d7626",
       "sourceName" : "contact-book"
@@ -5764,6 +6429,11 @@
       "relativePath" : "container-truck02.svg",
       "sha256" : "a3cfc0273421be527f844643b5d9c5fba209060db48fe8c7b42bdcb3556f2c4b",
       "sourceName" : "container-truck02"
+    },
+    {
+      "relativePath" : "container.svg",
+      "sha256" : "d6ee5639ee98a6d421f63f749daca9c6e6e66f01a5651bdb75d80f5909e7a171",
+      "sourceName" : "container"
     },
     {
       "relativePath" : "content-writing.svg",
@@ -5806,9 +6476,34 @@
       "sourceName" : "copilot"
     },
     {
+      "relativePath" : "copy-check.svg",
+      "sha256" : "93994f1e6df3e5ab3f5b8a9b2e9949fa788f74dde26a6854b0744c7fe270d027",
+      "sourceName" : "copy-check"
+    },
+    {
       "relativePath" : "copy-link.svg",
       "sha256" : "a3df6891589df77cdb4d2708fcefaffe936bac31d45f8e1fe492a24c085af934",
       "sourceName" : "copy-link"
+    },
+    {
+      "relativePath" : "copy-minus.svg",
+      "sha256" : "3c4b6a8c1abb888c33ef0acf702f9e964660555aff40b87297f19b8050f02dcc",
+      "sourceName" : "copy-minus"
+    },
+    {
+      "relativePath" : "copy-plus.svg",
+      "sha256" : "0923eba400a6bf26ece3479f4461aaded64d8827987bc71fe87383caa4502083",
+      "sourceName" : "copy-plus"
+    },
+    {
+      "relativePath" : "copy-slash.svg",
+      "sha256" : "c1ba4fab3da0ce9990d48b4e29c8bd1f1a8fd53703767a3e147fd6105e033300",
+      "sourceName" : "copy-slash"
+    },
+    {
+      "relativePath" : "copy.svg",
+      "sha256" : "356ed0bfe08338ffbd5e71d5c3d940804b9fb8b92b529463654c0c305d476efc",
+      "sourceName" : "copy"
     },
     {
       "relativePath" : "copy01.svg",
@@ -5819,6 +6514,11 @@
       "relativePath" : "copy02.svg",
       "sha256" : "de79357ef1934b4e2fcbbe554f6af2015fddd9ed8b95c2110cde75fdba9d1e3b",
       "sourceName" : "copy02"
+    },
+    {
+      "relativePath" : "copyleft.svg",
+      "sha256" : "51653e66b383a729255398caad3d3ba4264f1451fba4fc0f17b5729b2d5976ae",
+      "sourceName" : "copyleft"
     },
     {
       "relativePath" : "copyright.svg",
@@ -5944,6 +6644,11 @@
       "relativePath" : "crazy.svg",
       "sha256" : "20dce07699e052a7ad90c8f4f43772aacc61982e593973919cd3e05893b55af5",
       "sourceName" : "crazy"
+    },
+    {
+      "relativePath" : "creative-commons.svg",
+      "sha256" : "f25f7995a98d6ba8469096661ece90bad134adc9bd43591f074603e70b78c30e",
+      "sourceName" : "creative-commons"
     },
     {
       "relativePath" : "creative-market.svg",
@@ -6104,6 +6809,11 @@
       "relativePath" : "curling.svg",
       "sha256" : "25ccae6f33e2f3c2766b7c6d9c55a8171bc1b89d5010cf8a708a2cc08a72cfd8",
       "sourceName" : "curling"
+    },
+    {
+      "relativePath" : "currency.svg",
+      "sha256" : "ddf8b7064f122dc651c79a8cd24d86bb7911dd114c3d6b97b28b98170b6385c8",
+      "sourceName" : "currency"
     },
     {
       "relativePath" : "cursor-add-selection01.svg",
@@ -6349,6 +7059,11 @@
       "relativePath" : "cylinder04.svg",
       "sha256" : "b942dbd03ac32360efa774158316297d82178acb9f64149eea4e8ae49c2c82cb",
       "sourceName" : "cylinder04"
+    },
+    {
+      "relativePath" : "dam.svg",
+      "sha256" : "a5f75e97ba8c368db0b800578f2d637c0f68c5036c4ba02b84385e7aee561c37",
+      "sourceName" : "dam"
     },
     {
       "relativePath" : "danger.svg",
@@ -6776,6 +7491,21 @@
       "sourceName" : "diameter"
     },
     {
+      "relativePath" : "diamond-minus.svg",
+      "sha256" : "fb2a74b65a90e5c175178f28af2b7a13f1ccbfdfde27eb0a91a10f871f8d105e",
+      "sourceName" : "diamond-minus"
+    },
+    {
+      "relativePath" : "diamond-percent.svg",
+      "sha256" : "744ae8dd0030a7c7a7f346bb00878f385d61a5f4f85c5e0c31f805e3ed798db7",
+      "sourceName" : "diamond-percent"
+    },
+    {
+      "relativePath" : "diamond-plus.svg",
+      "sha256" : "b49972ba633d6196950ffadcfd40f3b7470046e8068014901e092b382896e29c",
+      "sourceName" : "diamond-plus"
+    },
+    {
       "relativePath" : "diamond.svg",
       "sha256" : "77e3a0b41c8f727304432a1650ce8d3735c1c37340f75334d11fa585db69fcfb",
       "sourceName" : "diamond"
@@ -6909,6 +7639,26 @@
       "relativePath" : "disability02.svg",
       "sha256" : "929bcfdff2a10c9b7b794e7f7cccf702b05812814d994a9c082cafe2f31f26cc",
       "sourceName" : "disability02"
+    },
+    {
+      "relativePath" : "disc-album.svg",
+      "sha256" : "5e8fb6d2663e9a308b1f77549c9918cb638cef389e4297af186c2623a85fc697",
+      "sourceName" : "disc-album"
+    },
+    {
+      "relativePath" : "disc-three.svg",
+      "sha256" : "14d95076d6f40054eedbe87308db62f5bdc7e804a093baad56ef2dff28068cee",
+      "sourceName" : "disc-three"
+    },
+    {
+      "relativePath" : "disc-two.svg",
+      "sha256" : "b7fbdfd703cfbb6ec29a49fce53b119c0ea942f11c8acfba5408be1fb9a9f6e9",
+      "sourceName" : "disc-two"
+    },
+    {
+      "relativePath" : "disc.svg",
+      "sha256" : "e60f09117d7bd6f2c44046e0187e195fc9aec156b824e2e84fd11cebcec3c27b",
+      "sourceName" : "disc"
     },
     {
       "relativePath" : "discord.svg",
@@ -7131,6 +7881,11 @@
       "sourceName" : "door-lock"
     },
     {
+      "relativePath" : "door-open.svg",
+      "sha256" : "5d7d097fc52b123e3b3fb8a08a889d730a89067d13f8a0d0bb8fc630588644d8",
+      "sourceName" : "door-open"
+    },
+    {
       "relativePath" : "door.svg",
       "sha256" : "a2a23eafd665ae243082269e417dc7301300048f0dac74ded9dbea3c7c5e1529",
       "sourceName" : "door"
@@ -7341,6 +8096,11 @@
       "sourceName" : "dribbble"
     },
     {
+      "relativePath" : "drill.svg",
+      "sha256" : "0c9492b1f034e83a5d3273667896e19ff484e6f22f3f5a750f8a2c890940195c",
+      "sourceName" : "drill"
+    },
+    {
       "relativePath" : "drink.svg",
       "sha256" : "f843e7991124380be54cdea8504be5f7731901fd61ff0557cbbf0bdb468cde2b",
       "sourceName" : "drink"
@@ -7369,6 +8129,11 @@
       "relativePath" : "dropdown-field-type.svg",
       "sha256" : "0798facafc777fb83f8cf33e05c4860fdaa281d7797080c742006e04143b7b8c",
       "sourceName" : "dropdown-field-type"
+    },
+    {
+      "relativePath" : "droplet-off.svg",
+      "sha256" : "bcbdf0c9f5be2e09ae0c9a81e621998b26c263636c72c98e75e3ee3e500febc6",
+      "sourceName" : "droplet-off"
     },
     {
       "relativePath" : "droplet.svg",
@@ -7411,6 +8176,11 @@
       "sourceName" : "duplex"
     },
     {
+      "relativePath" : "ear-off.svg",
+      "sha256" : "b4daad8ba90da9216adf98ecd3a128d8e579c8f61aa25a3177f329023119cf3b",
+      "sourceName" : "ear-off"
+    },
+    {
       "relativePath" : "ear-rings01.svg",
       "sha256" : "8d6b24f0f5b71b86b6f4651ecf57322a87c84b050330850a6ee5aa318caa9926",
       "sourceName" : "ear-rings01"
@@ -7429,6 +8199,11 @@
       "relativePath" : "ear.svg",
       "sha256" : "3f42d1bdbb617b15b5b5bd6ea9feb1b36cf129da196ed6d2329ae8e38109e386",
       "sourceName" : "ear"
+    },
+    {
+      "relativePath" : "earth-lock.svg",
+      "sha256" : "6da055fc61e38d265d3ede17e001535171d09d1a953d040abc088b2c83ff5b46",
+      "sourceName" : "earth-lock"
     },
     {
       "relativePath" : "earth.svg",
@@ -7544,6 +8319,21 @@
       "relativePath" : "edit04.svg",
       "sha256" : "591e071a9d717247ebddc76abddec8270064a03eb8f1377f751161652c48ea41",
       "sourceName" : "edit04"
+    },
+    {
+      "relativePath" : "egg-fried.svg",
+      "sha256" : "e3f90411735992f1ea8c990ff6af263c2ad25cfa04039ed8afb572e397e2966c",
+      "sourceName" : "egg-fried"
+    },
+    {
+      "relativePath" : "egg-off.svg",
+      "sha256" : "a22b68e0c9858ff648a5e407ebd12d6fa186c4064e8d6f415dd5976bfb449db7",
+      "sourceName" : "egg-off"
+    },
+    {
+      "relativePath" : "egg.svg",
+      "sha256" : "9239a88146d24bd58afecd380ea003b29dd9764558a4030716ab658ee85e6859",
+      "sourceName" : "egg"
     },
     {
       "relativePath" : "eggs.svg",
@@ -7751,6 +8541,11 @@
       "sourceName" : "ethereum"
     },
     {
+      "relativePath" : "ethernet-port.svg",
+      "sha256" : "683ebfab2b82fe4244990e2f4e3f96d62775eb5beb613cf4c56631dbbc621694",
+      "sourceName" : "ethernet-port"
+    },
+    {
       "relativePath" : "euro-circle.svg",
       "sha256" : "36656c665d7fd7e204ce666a676a2248906a395f2b462dbdfe1ece2362f79b27",
       "sourceName" : "euro-circle"
@@ -7921,6 +8716,11 @@
       "sourceName" : "female02"
     },
     {
+      "relativePath" : "fence.svg",
+      "sha256" : "cd6b545a28432c1e508a4fcc6750162856b5d119f4018981ac764aaa747aceb8",
+      "sourceName" : "fence"
+    },
+    {
       "relativePath" : "fencing-mask.svg",
       "sha256" : "467c458bfb8cca94071348d5a34b1f8be21274a2bf12ff513d1ab79163a37f7d",
       "sourceName" : "fencing-mask"
@@ -7951,6 +8751,11 @@
       "sourceName" : "file-add"
     },
     {
+      "relativePath" : "file-archive.svg",
+      "sha256" : "5c9b58596f8d6a13f034b2dbafe54d89163c690495f3f3250c8d97e5c40644d1",
+      "sourceName" : "file-archive"
+    },
+    {
       "relativePath" : "file-attachment.svg",
       "sha256" : "3a73c64371a0b8d9aaa3c158390dad5f1a70ce970f1aa55b78731f965962986b",
       "sourceName" : "file-attachment"
@@ -7959,6 +8764,16 @@
       "relativePath" : "file-audio.svg",
       "sha256" : "280b102a4b4abe039b210ec3e88414970d5f6cd8930de1dc90d6c99672d1fe72",
       "sourceName" : "file-audio"
+    },
+    {
+      "relativePath" : "file-axis-three-d.svg",
+      "sha256" : "7d746df39a0a8b027d010d2e9c30736481d486329ce5f9113505f0b2318ed86a",
+      "sourceName" : "file-axis-three-d"
+    },
+    {
+      "relativePath" : "file-badge.svg",
+      "sha256" : "67e0b5aa3169be9b1a839be9620a36843f0c033adf06b59f4b854c5166fdc9c7",
+      "sourceName" : "file-badge"
     },
     {
       "relativePath" : "file-bitcoin.svg",
@@ -7976,9 +8791,49 @@
       "sourceName" : "file-bookmark"
     },
     {
+      "relativePath" : "file-box.svg",
+      "sha256" : "f901c5fb61e76e667ffa0277583010b3b6eb8710e47a9b37710927c93353d11a",
+      "sourceName" : "file-box"
+    },
+    {
+      "relativePath" : "file-braces.svg",
+      "sha256" : "ee5f3d01ca0d60879ffec82369def0b9f0a2d173588bd4ac61d788233c180ccf",
+      "sourceName" : "file-braces"
+    },
+    {
+      "relativePath" : "file-chart-column-increasing.svg",
+      "sha256" : "ad9437d43c9d5d9edde8e60b0134935f39b20e17405ee78b1bf1b0f73852513b",
+      "sourceName" : "file-chart-column-increasing"
+    },
+    {
+      "relativePath" : "file-chart-column.svg",
+      "sha256" : "9bbf251cc09d2356a9b629fecf9779b45a184a1a5978d9bcfeea87eac9d4c3e6",
+      "sourceName" : "file-chart-column"
+    },
+    {
+      "relativePath" : "file-chart-pie.svg",
+      "sha256" : "347b44d1ce0d0461c08e28709641dfd66b92daa99c8594299be09a26f86192a9",
+      "sourceName" : "file-chart-pie"
+    },
+    {
+      "relativePath" : "file-clock.svg",
+      "sha256" : "bee4084a58be650d774fbf51d9adc6f0fbd18d7ebf119bc29d36c58e3c128dbb",
+      "sourceName" : "file-clock"
+    },
+    {
       "relativePath" : "file-cloud.svg",
       "sha256" : "f95c649252b4681be2b71bdff4c2e397496ec086887c761d21c834b715124771",
       "sourceName" : "file-cloud"
+    },
+    {
+      "relativePath" : "file-code-corner.svg",
+      "sha256" : "52459e5f4001160db6391465069a4e081ea44aa4e231d521bb34a49104b6ed9b",
+      "sourceName" : "file-code-corner"
+    },
+    {
+      "relativePath" : "file-code.svg",
+      "sha256" : "0829e128e28c9c22aed94d7a83e27f4b8e52da786f6639e3fcf3389a996f26cd",
+      "sourceName" : "file-code"
     },
     {
       "relativePath" : "file-corrupt.svg",
@@ -7991,9 +8846,24 @@
       "sourceName" : "file-database"
     },
     {
+      "relativePath" : "file-diff.svg",
+      "sha256" : "77d3794e50f4aa991e3126a6468a502adefe799458361ac24d096a309f06825b",
+      "sourceName" : "file-diff"
+    },
+    {
+      "relativePath" : "file-digit.svg",
+      "sha256" : "12187a29cd08c402fa8abb2b591185ea98368b6f8df3f327b60eea0b6d15748d",
+      "sourceName" : "file-digit"
+    },
+    {
       "relativePath" : "file-dollar.svg",
       "sha256" : "161ec3b3f98ac60a074db91bde32f944da78c297389f56251340ba91185310cc",
       "sourceName" : "file-dollar"
+    },
+    {
+      "relativePath" : "file-down.svg",
+      "sha256" : "7ef93cc3942e254fc1129453025ac4148d862603ce7fe90db235e2478702f0c9",
+      "sourceName" : "file-down"
     },
     {
       "relativePath" : "file-download.svg",
@@ -8021,6 +8891,11 @@
       "sourceName" : "file-euro"
     },
     {
+      "relativePath" : "file-exclamation-point.svg",
+      "sha256" : "02214fec8bfb85e6cf9a49828f319b27092de7f550f44326cb4f587bf343db4b",
+      "sourceName" : "file-exclamation-point"
+    },
+    {
       "relativePath" : "file-export.svg",
       "sha256" : "17a786a3d4c3abaab39fb499b297f850d47219c285a818d69d7c1ad2f9a05050",
       "sourceName" : "file-export"
@@ -8031,14 +8906,44 @@
       "sourceName" : "file-favourite"
     },
     {
+      "relativePath" : "file-headphone.svg",
+      "sha256" : "e2346d1ce9298854bcb8ee069efa97cb342b4b8bb03d108574a77f185b845c82",
+      "sourceName" : "file-headphone"
+    },
+    {
+      "relativePath" : "file-heart.svg",
+      "sha256" : "6b770f142f7f2bc4518f6e420b06731549d412a6a27d41e01beafe1c9e35a816",
+      "sourceName" : "file-heart"
+    },
+    {
+      "relativePath" : "file-image.svg",
+      "sha256" : "c99a043216d2bad8c2f1ee3a9f286bf9fd011460fd6be73398ed04e242f22385",
+      "sourceName" : "file-image"
+    },
+    {
       "relativePath" : "file-import.svg",
       "sha256" : "b4ed1fbf62c7fd2ee1d9365b059c259f7d16fe099efc4fd802da7a433bc53601",
       "sourceName" : "file-import"
     },
     {
+      "relativePath" : "file-input.svg",
+      "sha256" : "b8cc7dae8d199d76c1f7912bd75fc381e03b38961279a2576ff7d366550d00f3",
+      "sourceName" : "file-input"
+    },
+    {
+      "relativePath" : "file-key.svg",
+      "sha256" : "6482225fb2198d409339caa1760600e219fdf84466d5a1d94d765d9fa51dd89e",
+      "sourceName" : "file-key"
+    },
+    {
       "relativePath" : "file-link.svg",
       "sha256" : "93d81856b594d4472652aa79fdaa5eb957f3a421b5be85b9dfe200436abdb704",
       "sourceName" : "file-link"
+    },
+    {
+      "relativePath" : "file-lock.svg",
+      "sha256" : "d5fa70eea51988dc6df511489a505e5d761bc7322eda2217b04aa85e289a3e3d",
+      "sourceName" : "file-lock"
     },
     {
       "relativePath" : "file-locked.svg",
@@ -8071,9 +8976,24 @@
       "sourceName" : "file-paste"
     },
     {
+      "relativePath" : "file-pen.svg",
+      "sha256" : "ebe9520f1eaab50cda8a79d75e4f6525079ac8deab8710809cc918ebfb2ca69c",
+      "sourceName" : "file-pen"
+    },
+    {
       "relativePath" : "file-pin.svg",
       "sha256" : "a932a037e119405d4ad2b818100368bedebe1f14d13c6c4461ff18043e8526e0",
       "sourceName" : "file-pin"
+    },
+    {
+      "relativePath" : "file-play.svg",
+      "sha256" : "82866cb966b8422205c97c549ee8e8c3c99ffd1d4cdcf18507acb68d0911488d",
+      "sourceName" : "file-play"
+    },
+    {
+      "relativePath" : "file-plus.svg",
+      "sha256" : "afe6ebbaf6662f6f5d9a85eab906d8a1c4d8b7b8685adf35fce0affb2ba3b15f",
+      "sourceName" : "file-plus"
     },
     {
       "relativePath" : "file-pound.svg",
@@ -8081,9 +9001,19 @@
       "sourceName" : "file-pound"
     },
     {
+      "relativePath" : "file-question-mark.svg",
+      "sha256" : "9058eca7606905804306af2c7f0784db825ee437e2aefab51fa38c63e0cd32d9",
+      "sourceName" : "file-question-mark"
+    },
+    {
       "relativePath" : "file-remove.svg",
       "sha256" : "82a8da506c130ca81218c7e9d7da4fbac91cb1fe87afef19e35bbf3905d42cf1",
       "sourceName" : "file-remove"
+    },
+    {
+      "relativePath" : "file-scan.svg",
+      "sha256" : "2f799fd3edcf2848171e3b7e23461ece0bc508c91b94a2aa44f989ecb13d4276",
+      "sourceName" : "file-scan"
     },
     {
       "relativePath" : "file-script.svg",
@@ -8092,7 +9022,7 @@
     },
     {
       "relativePath" : "file-search.svg",
-      "sha256" : "aee937009bd8f1840f99237f6b7ae4b99f63b77659c2d1799591a5c220705860",
+      "sha256" : "75d2474e7abea10e8bfa6adc9de51d741906e10a54b8b723bbeab909654f3692",
       "sourceName" : "file-search"
     },
     {
@@ -8106,6 +9036,26 @@
       "sourceName" : "file-shredder"
     },
     {
+      "relativePath" : "file-signal.svg",
+      "sha256" : "a1764760b1febaa5aa558a90c1761f1f997e68de9a8205f693ef74c4426f26d7",
+      "sourceName" : "file-signal"
+    },
+    {
+      "relativePath" : "file-sliders.svg",
+      "sha256" : "894ef8e53e35e4f5cf8a44d4c245a6802eccb67a9bb6a1be2e2f723f6e7ce3ee",
+      "sourceName" : "file-sliders"
+    },
+    {
+      "relativePath" : "file-spreadsheet.svg",
+      "sha256" : "a159d01bf5593ca5f6079457dfb7c123cc010426911f4ab9077e03ff55140b0b",
+      "sourceName" : "file-spreadsheet"
+    },
+    {
+      "relativePath" : "file-stack.svg",
+      "sha256" : "6b107e1b9a214047dd1180eb4b9afbeeb1eb9de8b853494ac2268b693b822bc9",
+      "sourceName" : "file-stack"
+    },
+    {
       "relativePath" : "file-star.svg",
       "sha256" : "f3ebf262bd49cfc784b3648259206bf8fda73f70ab3184e1f03b49d48844a68a",
       "sourceName" : "file-star"
@@ -8114,6 +9064,16 @@
       "relativePath" : "file-sync.svg",
       "sha256" : "6d88fcb69d47122d4c138a43d8b2e5c289ae04e7a6ff8ac01847e623ff1cc83c",
       "sourceName" : "file-sync"
+    },
+    {
+      "relativePath" : "file-terminal.svg",
+      "sha256" : "35e553d4ae823a2ffe3965962e4f18275e11717e92496943ec70a7b7efb319ae",
+      "sourceName" : "file-terminal"
+    },
+    {
+      "relativePath" : "file-type.svg",
+      "sha256" : "619e3b2800fbe07c4c07d5362c55b74d0822f34eb58a220d7d21b8bae566d338",
+      "sourceName" : "file-type"
     },
     {
       "relativePath" : "file-unknown.svg",
@@ -8126,9 +9086,19 @@
       "sourceName" : "file-unlocked"
     },
     {
+      "relativePath" : "file-up.svg",
+      "sha256" : "76ec93152f584fb4b8d9ec5f81ea1c8f71a373d86ed1b94f721ae8886dff74ea",
+      "sourceName" : "file-up"
+    },
+    {
       "relativePath" : "file-upload.svg",
       "sha256" : "8bc83c4068a98f04be55a4e21454d6252a54ffcac82258e609ade8826cb05159",
       "sourceName" : "file-upload"
+    },
+    {
+      "relativePath" : "file-user.svg",
+      "sha256" : "8cfaab819cd5bf337a0e275f9356d1c0113659ba18b37ebce2021434ef9687c1",
+      "sourceName" : "file-user"
     },
     {
       "relativePath" : "file-validation.svg",
@@ -8141,6 +9111,11 @@
       "sourceName" : "file-verified"
     },
     {
+      "relativePath" : "file-video-camera.svg",
+      "sha256" : "bf7fa5816bb1c169a12203e7ef349bf54906f387d78b45ff51d176e614b00908",
+      "sourceName" : "file-video-camera"
+    },
+    {
       "relativePath" : "file-video.svg",
       "sha256" : "a26050ccdcf1cbeb5df03eef5c812876bf70662f58f896f94f80d127d2902fa2",
       "sourceName" : "file-video"
@@ -8149,6 +9124,21 @@
       "relativePath" : "file-view.svg",
       "sha256" : "c74d411cb414ad5ab7692031f488d1f2446852301629e6a342d6781fc709d2c8",
       "sourceName" : "file-view"
+    },
+    {
+      "relativePath" : "file-volume.svg",
+      "sha256" : "162c81a51d29af98253d621947b55e72695d1e5f5512d2f7db0f87055b18c1e8",
+      "sourceName" : "file-volume"
+    },
+    {
+      "relativePath" : "file-x-corner.svg",
+      "sha256" : "02096348ef6244e7ebd47b0ac77def0821672fac288f03839f448b4accff68ad",
+      "sourceName" : "file-x-corner"
+    },
+    {
+      "relativePath" : "file-x.svg",
+      "sha256" : "931cbaef305e583be904ed93fc4c57fcdd0473d3742a719dad64f53943a6f8f9",
+      "sourceName" : "file-x"
     },
     {
       "relativePath" : "file-yen.svg",
@@ -8301,6 +9291,11 @@
       "sourceName" : "fins"
     },
     {
+      "relativePath" : "fire-extinguisher.svg",
+      "sha256" : "d5696a2d9a1a13e22052f30401068581123e635892b8e9c1b8001309b196eb51",
+      "sourceName" : "fire-extinguisher"
+    },
+    {
       "relativePath" : "fire-pit.svg",
       "sha256" : "7654291e788c140e71ca2bf839f4fa85b53f29dac81f8cdaa37e8c8ea4c01e1c",
       "sourceName" : "fire-pit"
@@ -8361,6 +9356,21 @@
       "sourceName" : "fish-food"
     },
     {
+      "relativePath" : "fish-off.svg",
+      "sha256" : "cdcfb489c6dc66044263774ace3a95be2c45fabdeaf079d26a1cfe18605685e2",
+      "sourceName" : "fish-off"
+    },
+    {
+      "relativePath" : "fish-symbol.svg",
+      "sha256" : "ce01ed0bed059a5e939c94898783ae9e4948e4bf6c4bfdeaca48fc77d6112491",
+      "sourceName" : "fish-symbol"
+    },
+    {
+      "relativePath" : "fishing-hook.svg",
+      "sha256" : "c8336ec08d3ab0bdcd2ae15219ebaaca8b45e9bf67b58792fc1850d1a54816f5",
+      "sourceName" : "fishing-hook"
+    },
+    {
       "relativePath" : "fit-to-screen.svg",
       "sha256" : "36bbed607cdc20630ea070f421782789ed33945275786dd64fa64981f7e10005",
       "sourceName" : "fit-to-screen"
@@ -8394,6 +9404,11 @@
       "relativePath" : "flag03.svg",
       "sha256" : "1d5e635c8883ef65e8e2cbf13bede02b1f5eae40f8fe5c0a732470897d8e65d4",
       "sourceName" : "flag03"
+    },
+    {
+      "relativePath" : "flame-kindling.svg",
+      "sha256" : "41b8147fdb7ecc3e127be64369836cbd8b43338deca4bbf5eb3f775c65a5d60e",
+      "sourceName" : "flame-kindling"
     },
     {
       "relativePath" : "flash-off.svg",
@@ -8531,6 +9546,11 @@
       "sourceName" : "folder-add"
     },
     {
+      "relativePath" : "folder-archive.svg",
+      "sha256" : "c9a5bad3b78f8ee3b8734525d41f55592122692e2d706a983912746f6ad1e8fc",
+      "sourceName" : "folder-archive"
+    },
+    {
       "relativePath" : "folder-attachment.svg",
       "sha256" : "0a0c4732848fd076bd23d070c2983827adb37acba51b5c5d9ca0c05152a1e2cd",
       "sourceName" : "folder-attachment"
@@ -8552,13 +9572,23 @@
     },
     {
       "relativePath" : "folder-clock.svg",
-      "sha256" : "2531eb6cccc8a80735d6bcc08a649c40cbab50b2b31e25e0cc39b942d61fcf6c",
+      "sha256" : "a09577b2782f41a892890c573759df2b00c0a2916ad0389fa774b6b99566a78f",
       "sourceName" : "folder-clock"
     },
     {
       "relativePath" : "folder-cloud.svg",
       "sha256" : "86527bf082f8a65c620cfc9ce5068f165b549352e6c3b4fa3c771da546938e1a",
       "sourceName" : "folder-cloud"
+    },
+    {
+      "relativePath" : "folder-code.svg",
+      "sha256" : "4c890a9e4c346331035971fbdd7e397af26a1e66c900369db775070ddb3edf51",
+      "sourceName" : "folder-code"
+    },
+    {
+      "relativePath" : "folder-cog.svg",
+      "sha256" : "a672afe3e1b7137caee2cf926f30f4e089bad8e59f389bb4b12996404d35fc75",
+      "sourceName" : "folder-cog"
     },
     {
       "relativePath" : "folder-details-reference.svg",
@@ -8569,6 +9599,11 @@
       "relativePath" : "folder-details.svg",
       "sha256" : "484a5bc994be67a99e8e2ec9f501bf681367b300f581fdbd070379de3b95cd43",
       "sourceName" : "folder-details"
+    },
+    {
+      "relativePath" : "folder-dot.svg",
+      "sha256" : "4b4749321a982adc4336bc26bac3d022ab3fb6601ef7639d88fe9d3be80bcd70",
+      "sourceName" : "folder-dot"
     },
     {
       "relativePath" : "folder-download.svg",
@@ -8596,9 +9631,39 @@
       "sourceName" : "folder-file-storage"
     },
     {
+      "relativePath" : "folder-git-two.svg",
+      "sha256" : "40fe01926370d876e81741eb01cf299cb95ba6cb227c2c07470a6364cc5f99f2",
+      "sourceName" : "folder-git-two"
+    },
+    {
+      "relativePath" : "folder-git.svg",
+      "sha256" : "0243613002198ba36c50d5e9988bacba792ce28556a02981c3ea45fcc8d10256",
+      "sourceName" : "folder-git"
+    },
+    {
+      "relativePath" : "folder-heart.svg",
+      "sha256" : "5c74b517f0addf14c956ddc5dbce782d42fd38d5b48db04fdfdf962d305b4f25",
+      "sourceName" : "folder-heart"
+    },
+    {
       "relativePath" : "folder-import.svg",
       "sha256" : "bae5ec93d1fa457210a9f13a08cf68503db6b09dab27e9669959c32e2904dac9",
       "sourceName" : "folder-import"
+    },
+    {
+      "relativePath" : "folder-input.svg",
+      "sha256" : "e9dda3b0ce267df7425d877c877c2dbd50d7b05a8bc13a2cadc0c2654883dfbe",
+      "sourceName" : "folder-input"
+    },
+    {
+      "relativePath" : "folder-kanban.svg",
+      "sha256" : "c0892862919f9d82941c2db343906a10748a41034a48e481a4ef052dc7423905",
+      "sourceName" : "folder-kanban"
+    },
+    {
+      "relativePath" : "folder-key.svg",
+      "sha256" : "849bce2a61e3e89b9f48bd42cee580260b1a26c719440a9f590b2f32a1bf7c9f",
+      "sourceName" : "folder-key"
     },
     {
       "relativePath" : "folder-library.svg",
@@ -8641,6 +9706,16 @@
       "sourceName" : "folder-open"
     },
     {
+      "relativePath" : "folder-output.svg",
+      "sha256" : "fa055d07501298de314bfdd765f021bf494192abf646cac26a4c725826ee034a",
+      "sourceName" : "folder-output"
+    },
+    {
+      "relativePath" : "folder-pen.svg",
+      "sha256" : "2df7c5c5e32f58c1263884ffe9055f6636bc20a1246a7df79d625563cd12e7b1",
+      "sourceName" : "folder-pen"
+    },
+    {
       "relativePath" : "folder-pin.svg",
       "sha256" : "7179891a893b8f7715e1f71b7411282efc432a7766187578fb5ad4474b532494",
       "sourceName" : "folder-pin"
@@ -8649,6 +9724,16 @@
       "relativePath" : "folder-remove.svg",
       "sha256" : "f4349255c327514b85924d389537a20630de24c5751a659b22ef5f4aefc22b7d",
       "sourceName" : "folder-remove"
+    },
+    {
+      "relativePath" : "folder-root.svg",
+      "sha256" : "3804245ef5d553bc99907d5e169733a5bfcf9def170a288e31424454c80a419d",
+      "sourceName" : "folder-root"
+    },
+    {
+      "relativePath" : "folder-search-two.svg",
+      "sha256" : "0433787370a0fd4b13839f951e4a4817fb1e93fe10aaf0255e8e5f28cfceec53",
+      "sourceName" : "folder-search-two"
     },
     {
       "relativePath" : "folder-search.svg",
@@ -8676,14 +9761,24 @@
       "sourceName" : "folder-shared03"
     },
     {
+      "relativePath" : "folder-symlink.svg",
+      "sha256" : "950815566802094955f2dda1ecb4291552402e727893b993414efc2c6898f246",
+      "sourceName" : "folder-symlink"
+    },
+    {
       "relativePath" : "folder-sync.svg",
-      "sha256" : "d794ecaa56388ab26c2ee9df462c063227f9658d39b32f2beb2f7810d4a9de12",
+      "sha256" : "0df501f707ef21be7ae9b1d3d87e56f711b5c7d77ced76cbe04107065586e4a3",
       "sourceName" : "folder-sync"
     },
     {
       "relativePath" : "folder-transfer.svg",
       "sha256" : "d0405e25347ade0907ebdc81e94333434ef2dda9ad43d9c99114cef40a3ca7b1",
       "sourceName" : "folder-transfer"
+    },
+    {
+      "relativePath" : "folder-tree.svg",
+      "sha256" : "bde868e02b8a5d0523af4a552904a5e2df8fae1a12980bc64ae6a58c52e7ce4c",
+      "sourceName" : "folder-tree"
     },
     {
       "relativePath" : "folder-unknown.svg",
@@ -8891,6 +9986,11 @@
       "sourceName" : "galaxy"
     },
     {
+      "relativePath" : "gallery-horizontal-end.svg",
+      "sha256" : "afd4091d9a19ef189ad859288ee72f5b8433297d776491d96c84489a9ef323c9",
+      "sourceName" : "gallery-horizontal-end"
+    },
+    {
       "relativePath" : "game-controller01.svg",
       "sha256" : "c13f87973879ca95403731d970bc9f9a95e9ad0f9f5f29010de92385d4679ac3",
       "sourceName" : "game-controller01"
@@ -8914,6 +10014,11 @@
       "relativePath" : "gameboy.svg",
       "sha256" : "67730a6ec765d9050658b797ae9f305b75bf0b640d456ebc1e966d49729920a1",
       "sourceName" : "gameboy"
+    },
+    {
+      "relativePath" : "gamepad-directional.svg",
+      "sha256" : "dea02374afaf8e3b0998ab125a490910791b01b426484ad3c7a71e5085966428",
+      "sourceName" : "gamepad-directional"
     },
     {
       "relativePath" : "garage.svg",
@@ -8966,6 +10071,11 @@
       "sourceName" : "geometric-shapes02"
     },
     {
+      "relativePath" : "georgian-lari.svg",
+      "sha256" : "bbe5546c376c255b548ec1bb03b5f347c1d13cbee84e33d0cc2ab1690aa62a31",
+      "sourceName" : "georgian-lari"
+    },
+    {
       "relativePath" : "gibbous-moon.svg",
       "sha256" : "73f21231d265921b11760d38ef2b06b65b5ec21e371f446b5fff94ccb9e91c11",
       "sourceName" : "gibbous-moon"
@@ -9001,6 +10111,11 @@
       "sourceName" : "git-branch"
     },
     {
+      "relativePath" : "git-commit-horizontal.svg",
+      "sha256" : "8a82433db46cf08039b35a63bcd7d333b5525fdf00c16f9d665a5604ce8b132c",
+      "sourceName" : "git-commit-horizontal"
+    },
+    {
       "relativePath" : "git-commit.svg",
       "sha256" : "8f75cf786cc72158009bd508f20876972be9e935d5a74bd33be1da17e8084339",
       "sourceName" : "git-commit"
@@ -9027,7 +10142,7 @@
     },
     {
       "relativePath" : "git-pull-request-draft.svg",
-      "sha256" : "496d6423e7230f517f5f717a5ee0224bca1a9f87c9d75b07d3fd4cba95a5d862",
+      "sha256" : "27f68a2ba288cad295a1fb3d2395f905dfc3fc52f50b25c39f29e816ecbfee25",
       "sourceName" : "git-pull-request-draft"
     },
     {
@@ -9094,6 +10209,11 @@
       "relativePath" : "global.svg",
       "sha256" : "6888c398f0019a1d0a6c515a74ffdc90065ed6d9bc89aee499a4904285d8674d",
       "sourceName" : "global"
+    },
+    {
+      "relativePath" : "globe-x.svg",
+      "sha256" : "2de6718709b4fe09603531a318675c3bb172fda7e3ebbf8fe546c0538c57e99e",
+      "sourceName" : "globe-x"
     },
     {
       "relativePath" : "globe.svg",
@@ -9401,6 +10521,11 @@
       "sourceName" : "group-layers"
     },
     {
+      "relativePath" : "group.svg",
+      "sha256" : "59503ec2cd60bb464450d6da547d2c1515193d4b4619abd5c5cd1c5675f85def",
+      "sourceName" : "group"
+    },
+    {
       "relativePath" : "group01.svg",
       "sha256" : "b88361238a9c6566b31ed8e46c84d8aa70d46537b4361b07d23eb69aaa76701f",
       "sourceName" : "group01"
@@ -9456,6 +10581,11 @@
       "sourceName" : "halal"
     },
     {
+      "relativePath" : "ham.svg",
+      "sha256" : "a442f2765ae42ce6b66ea16c6d9c7f0294bd9f4f4c7683a807245542d38c2019",
+      "sourceName" : "ham"
+    },
+    {
       "relativePath" : "hamburger01.svg",
       "sha256" : "2288da09dbd4ba2ca6771fddc9f2281086d3b6867dfb74ec9a7023db910f17fe",
       "sourceName" : "hamburger01"
@@ -9481,9 +10611,24 @@
       "sourceName" : "hand-beater"
     },
     {
+      "relativePath" : "hand-coins.svg",
+      "sha256" : "e63968897cd5c1f444863783189c88f558d979cae797dd6ed4675a8b08b44e9a",
+      "sourceName" : "hand-coins"
+    },
+    {
+      "relativePath" : "hand-grab.svg",
+      "sha256" : "34d12bbd67d9cef938ed79fb1e1ef3f42680670d5a17d27c15ab24f193637aa2",
+      "sourceName" : "hand-grab"
+    },
+    {
       "relativePath" : "hand-grip.svg",
       "sha256" : "2baf587d091cabf7f519cc8b2392b81cebe4c8d69d1b09d51241d27fb9f9722b",
       "sourceName" : "hand-grip"
+    },
+    {
+      "relativePath" : "hand-helping.svg",
+      "sha256" : "bc2a1f31bd310a9fd92b4ed3d4a12980bef4fe508566e5fc69a05f677096cee8",
+      "sourceName" : "hand-helping"
     },
     {
       "relativePath" : "hand-pointing-down01.svg",
@@ -9584,6 +10729,16 @@
       "relativePath" : "happy01.svg",
       "sha256" : "40c5f662adf9372e4713ae8901a273aaa2f519e1665b3b17718bd425dfe174e1",
       "sourceName" : "happy01"
+    },
+    {
+      "relativePath" : "hard-drive-download.svg",
+      "sha256" : "e73a98f839557af02de54094cb5bb054d7cf4f28e4dd39d989366ddbf456dd24",
+      "sourceName" : "hard-drive-download"
+    },
+    {
+      "relativePath" : "hard-drive-upload.svg",
+      "sha256" : "4a8f102e48c7049eeb0c26433d4f22ae95d854f6bde4af8085847feafed45885",
+      "sourceName" : "hard-drive-upload"
     },
     {
       "relativePath" : "hard-drive.svg",
@@ -9696,6 +10851,11 @@
       "sourceName" : "heart-check"
     },
     {
+      "relativePath" : "heart-minus.svg",
+      "sha256" : "6a4a31bf7a09bf24be5f84c167f5cf321203c583802797dfb8dd5d100d804639",
+      "sourceName" : "heart-minus"
+    },
+    {
       "relativePath" : "heart-remove.svg",
       "sha256" : "4e983245eaad37ca70b06bc8750105219915104a47513ae843a4c65b106df3b6",
       "sourceName" : "heart-remove"
@@ -9704,6 +10864,11 @@
       "relativePath" : "heartbreak.svg",
       "sha256" : "7f16d83924040a360ba519009d481378ef77a51d9bd3ef746453801bfc65a676",
       "sourceName" : "heartbreak"
+    },
+    {
+      "relativePath" : "heater.svg",
+      "sha256" : "add04706bbefc480298881554ee68c0b629857c71390763fe75de6bd6c483810",
+      "sourceName" : "heater"
     },
     {
       "relativePath" : "helicopter.svg",
@@ -9966,6 +11131,16 @@
       "sourceName" : "hoodie"
     },
     {
+      "relativePath" : "hop-off.svg",
+      "sha256" : "01f01f78f08091d6109a960f1c415c35503c30b5d2230d95fcbb6779744027a9",
+      "sourceName" : "hop-off"
+    },
+    {
+      "relativePath" : "hop.svg",
+      "sha256" : "a3e9c5d135955711060980a7b56c11c378569d33c606821020bda5e35e5783d9",
+      "sourceName" : "hop"
+    },
+    {
       "relativePath" : "horizonal-scroll-point.svg",
       "sha256" : "e0829cac936e5af06e1f373c7c630392ed7b95c0b766e8a9583e8db551a8bb2a",
       "sourceName" : "horizonal-scroll-point"
@@ -10071,9 +11246,24 @@
       "sourceName" : "hourglass"
     },
     {
+      "relativePath" : "house-heart.svg",
+      "sha256" : "875cde5cd4a63800cde429c58ad451ddff599346d03eaa83ad8b2eeba9e61fd7",
+      "sourceName" : "house-heart"
+    },
+    {
+      "relativePath" : "house-plus.svg",
+      "sha256" : "7f47765e1ea7f2a23fc2a4c8d6f70f0c646e6cc27bfb0eb98377c88b3184cc0a",
+      "sourceName" : "house-plus"
+    },
+    {
       "relativePath" : "house-solar-panel.svg",
       "sha256" : "60a3c99f0a3f98f8c528b67a1f6507111026a1f3d84d3ddc0ff3889ca02aec93",
       "sourceName" : "house-solar-panel"
+    },
+    {
+      "relativePath" : "house-wifi.svg",
+      "sha256" : "67635e5d7b7a6ade5833ff979c055d53e30c45ae9fc5513740abefbf900c7f54",
+      "sourceName" : "house-wifi"
     },
     {
       "relativePath" : "house01.svg",
@@ -10184,6 +11374,11 @@
       "relativePath" : "iconjar.svg",
       "sha256" : "5ae5cf9cfb955563b3d29522e4f6f4c7e18e91c1bb30b266530eb58b1d1b02c9",
       "sourceName" : "iconjar"
+    },
+    {
+      "relativePath" : "id-card-lanyard.svg",
+      "sha256" : "12af5203558e4de4fc3fcac58122a7c121a2093cb81ea4c3d76c10c3fa477f9d",
+      "sourceName" : "id-card-lanyard"
     },
     {
       "relativePath" : "id-not-verified.svg",
@@ -10304,6 +11499,11 @@
       "relativePath" : "image-not-found02.svg",
       "sha256" : "41d7442b3917e45c8bd0141bca1f1a2dafff52183f9cf4d8b8f18d8d4e24fe7a",
       "sourceName" : "image-not-found02"
+    },
+    {
+      "relativePath" : "image-play.svg",
+      "sha256" : "8915c6cab05f8a1843443e384d4f48b74e09a5e9b3fb8ac3cd2ef52aa1e14c6f",
+      "sourceName" : "image-play"
     },
     {
       "relativePath" : "image-remove01.svg",
@@ -11031,6 +12231,16 @@
       "sourceName" : "lake"
     },
     {
+      "relativePath" : "lamp-wall-down.svg",
+      "sha256" : "79cab7de6a1e950c85779f5e819efeb217642090af53b343dc5a8a63be1dd4e1",
+      "sourceName" : "lamp-wall-down"
+    },
+    {
+      "relativePath" : "lamp-wall-up.svg",
+      "sha256" : "f69ae65bff35e2c4c60b8745c26651f7432bf0ad16a1fc20e47395f4ebd71993",
+      "sourceName" : "lamp-wall-up"
+    },
+    {
       "relativePath" : "lamp.svg",
       "sha256" : "efcafae0c8df139749d5d404d901c8ff6344743f39aa2a989b6e3a7ae436950c",
       "sourceName" : "lamp"
@@ -11059,6 +12269,16 @@
       "relativePath" : "lamp05.svg",
       "sha256" : "ced71ec67f27bf6f201428880f0d2538c80bbed6fec9af9b79efea50139a377d",
       "sourceName" : "lamp05"
+    },
+    {
+      "relativePath" : "land-plot.svg",
+      "sha256" : "17f9523756f738c78eaf9f50c63cfcf2590bf3af378516fdc6c6c543f9a9d92c",
+      "sourceName" : "land-plot"
+    },
+    {
+      "relativePath" : "landmark.svg",
+      "sha256" : "3ad8bc69e1da6f15d6b7d93f6877f7146448fe74f0fd6f2f3b342066ff264d6f",
+      "sourceName" : "landmark"
     },
     {
       "relativePath" : "language-circle.svg",
@@ -11139,6 +12359,11 @@
       "relativePath" : "laptop.svg",
       "sha256" : "b6ff22fd07774d3acdb1b95d979bc79c4a9bba0c5510a3fd75046333dda74c45",
       "sourceName" : "laptop"
+    },
+    {
+      "relativePath" : "lasso-select.svg",
+      "sha256" : "bf698413d5e0a062db7289f6c69e891b66230bc68ce19c728645020bb131cf81",
+      "sourceName" : "lasso-select"
     },
     {
       "relativePath" : "lasso-tool01.svg",
@@ -11401,6 +12626,11 @@
       "sourceName" : "leaf04"
     },
     {
+      "relativePath" : "leafy-green.svg",
+      "sha256" : "d6e85377ffbc3c780dcaa8b5080e241273f0e993fa7b4b1b10566d8f5d8474d1",
+      "sourceName" : "leafy-green"
+    },
+    {
       "relativePath" : "leaving-geo-fence.svg",
       "sha256" : "c95704d3b5eb36291cb346b04e3c73d15db41d65a5acf2d8586ca14f41ae29f1",
       "sourceName" : "leaving-geo-fence"
@@ -11551,6 +12781,16 @@
       "sourceName" : "lift-truck"
     },
     {
+      "relativePath" : "ligature.svg",
+      "sha256" : "d39a85f195602827d787c727b0a96bd33bb615941d6e9eae57d70a68b4b43853",
+      "sourceName" : "ligature"
+    },
+    {
+      "relativePath" : "lightbulb-off.svg",
+      "sha256" : "daf90821891fe0dafae5b370b35012584b1f7087efbb519ecb0e4ed605de7578",
+      "sourceName" : "lightbulb-off"
+    },
+    {
       "relativePath" : "lighthouse.svg",
       "sha256" : "00b295ccd90874770e54b9788925cac2a8a2325b56e7de1e20da35c7583bac93",
       "sourceName" : "lighthouse"
@@ -11646,14 +12886,69 @@
       "sourceName" : "linkedin02"
     },
     {
+      "relativePath" : "list-chevrons-down-up.svg",
+      "sha256" : "f41e739ea69e9b4e264c1bbadc22dee2701898bbc976f290556d327d8f241602",
+      "sourceName" : "list-chevrons-down-up"
+    },
+    {
+      "relativePath" : "list-filter-plus.svg",
+      "sha256" : "58517d086856dd61262a6df3427b192ee0614c71a837a3d888475142cf8620c4",
+      "sourceName" : "list-filter-plus"
+    },
+    {
+      "relativePath" : "list-indent-decrease.svg",
+      "sha256" : "6eac4881c2176d259058f8e15033c218e5d55c8d5b6ec7f03f5864a33b91f271",
+      "sourceName" : "list-indent-decrease"
+    },
+    {
+      "relativePath" : "list-indent-increase.svg",
+      "sha256" : "b453740c3f57480418040c4ee413f19970dfdb2c4eba3d3db7d49b3134716c36",
+      "sourceName" : "list-indent-increase"
+    },
+    {
+      "relativePath" : "list-music.svg",
+      "sha256" : "ed6e2610c775c9868ab60b49d94fcc0dc1973aa6335eb1a45878ca6b2710980e",
+      "sourceName" : "list-music"
+    },
+    {
+      "relativePath" : "list-plus.svg",
+      "sha256" : "fcc5d7c924c5e56b9aa01f0b86ede2d997f75fd156ed8e6cff2366971daa7488",
+      "sourceName" : "list-plus"
+    },
+    {
+      "relativePath" : "list-restart.svg",
+      "sha256" : "5edd23bab0c30cd1076238d516a7bd75a0bff7270cdb88e1a4ca7339d3b80359",
+      "sourceName" : "list-restart"
+    },
+    {
       "relativePath" : "list-setting.svg",
       "sha256" : "1cc05bae8ab6e0e28dcc6a13330f0030c2520f31860a0ea747110b1604ad2d9c",
       "sourceName" : "list-setting"
     },
     {
+      "relativePath" : "list-start.svg",
+      "sha256" : "4de15e4dba50c8fa7a47eee0bb63fd05dad3ded18d519b5afeb86ffa411d38f3",
+      "sourceName" : "list-start"
+    },
+    {
+      "relativePath" : "list-tree.svg",
+      "sha256" : "cc2b470dabdeb7541743c45330b7a61ffaea8c918daa0e4995ab9b276329f8cb",
+      "sourceName" : "list-tree"
+    },
+    {
+      "relativePath" : "list-video.svg",
+      "sha256" : "1eac09c644eac325e3af1c116499c163932c497b98895127559ec124e0c15a5f",
+      "sourceName" : "list-video"
+    },
+    {
       "relativePath" : "list-view.svg",
       "sha256" : "de29361cef9d18260a7aadabf745c92174e755ae1e3ed1d1dfc4fccfa99a63f8",
       "sourceName" : "list-view"
+    },
+    {
+      "relativePath" : "list-x.svg",
+      "sha256" : "e60ed433369d89180a66a97829aaa54fae5a06dcf0addb7ff68d26957d7baa95",
+      "sourceName" : "list-x"
     },
     {
       "relativePath" : "litecoin.svg",
@@ -11679,6 +12974,11 @@
       "relativePath" : "liver.svg",
       "sha256" : "6075a5d5c2a0084a89a7775b193125a71418db885a73952ec36a9f570352337a",
       "sourceName" : "liver"
+    },
+    {
+      "relativePath" : "loader-pinwheel.svg",
+      "sha256" : "f1a38179d878166d6cfd01b9d95ecf6c21104b41e01b5d8101208709f9f37f8c",
+      "sourceName" : "loader-pinwheel"
     },
     {
       "relativePath" : "loading01.svg",
@@ -12221,6 +13521,11 @@
       "sourceName" : "mail-open02"
     },
     {
+      "relativePath" : "mail-question-mark.svg",
+      "sha256" : "8981a02b4d5e89f68c520e46c00f54f1e35f3dad07672ebd005e5e7b7fda4e97",
+      "sourceName" : "mail-question-mark"
+    },
+    {
       "relativePath" : "mail-receive01.svg",
       "sha256" : "f83ea5e2aa97e04ad989770b0b476f9395cd61c2b56029746859c63575c22e61",
       "sourceName" : "mail-receive01"
@@ -12341,6 +13646,11 @@
       "sourceName" : "mail-voice02"
     },
     {
+      "relativePath" : "mail-warning.svg",
+      "sha256" : "ffc4b73ddc04fa35329fd783909401d0d8635884cfd5adfc781a01c3e0be2a75",
+      "sourceName" : "mail-warning"
+    },
+    {
       "relativePath" : "mail01.svg",
       "sha256" : "0f59d07188478555608709746a75126f9104ae1d7a7d0defea0159c19f8b448f",
       "sourceName" : "mail01"
@@ -12359,6 +13669,11 @@
       "relativePath" : "mailbox01.svg",
       "sha256" : "2685d4e616c83c540ae8aff9d451f0c01fe0d70d967df4c6f9369998eb1522d8",
       "sourceName" : "mailbox01"
+    },
+    {
+      "relativePath" : "mails.svg",
+      "sha256" : "2b92ffe63232a7a0b006863fb6d08c1885b83fb9995baa8f9de6bea574d23d5f",
+      "sourceName" : "mails"
     },
     {
       "relativePath" : "male-symbol.svg",
@@ -12384,6 +13699,41 @@
       "relativePath" : "manager.svg",
       "sha256" : "06d614ded7282068c8245a1b88c371b3bd08324b50fdcaa3a6a8e9d4f66a014a",
       "sourceName" : "manager"
+    },
+    {
+      "relativePath" : "map-pin-check.svg",
+      "sha256" : "28b00bd2fdbd820afb62eb1fe4da3ceea96dbb1e71aeb69d1a1eef0fb07f4ebb",
+      "sourceName" : "map-pin-check"
+    },
+    {
+      "relativePath" : "map-pin-house.svg",
+      "sha256" : "b8393816defcbe2bf7f3e2c36374145e2dad6b4414c8cdc44732c2b015231f48",
+      "sourceName" : "map-pin-house"
+    },
+    {
+      "relativePath" : "map-pin-minus.svg",
+      "sha256" : "106aa7ca4f6db40618a43aa2444cbf93562506b9cb09793f9e8b76a645b8f17c",
+      "sourceName" : "map-pin-minus"
+    },
+    {
+      "relativePath" : "map-pin-pen.svg",
+      "sha256" : "fd312d4b5eb8338b5e9ab2f00e5aa77f147c36dbd88fa2e248da73d63ea9e121",
+      "sourceName" : "map-pin-pen"
+    },
+    {
+      "relativePath" : "map-pin-plus.svg",
+      "sha256" : "f23f546949ce0c905cdbab9e961e625760c02f8adb0f4b80899250d96d0e5c0c",
+      "sourceName" : "map-pin-plus"
+    },
+    {
+      "relativePath" : "map-pin-x-inside.svg",
+      "sha256" : "2ffbcc0e2b0f6eb18fd4ee87b0be7c287eeee2771049893850174f2472f2eb32",
+      "sourceName" : "map-pin-x-inside"
+    },
+    {
+      "relativePath" : "map-pin-x.svg",
+      "sha256" : "f1909afc91e0f84e8426b6f5b4393c733d3660517ebde93a9eae618ab6dad12c",
+      "sourceName" : "map-pin-x"
     },
     {
       "relativePath" : "map-pin.svg",
@@ -12706,6 +14056,11 @@
       "sourceName" : "meh"
     },
     {
+      "relativePath" : "memory-stick.svg",
+      "sha256" : "9bb2a88436248247dfca4ab2737d825a91894c08219bd61e5eaf9c7eb95274bc",
+      "sourceName" : "memory-stick"
+    },
+    {
       "relativePath" : "mentor.svg",
       "sha256" : "fd24dca8ed2d5a634bafc1bac18e259471f6c557cae5db5cca1470a09a78a593",
       "sourceName" : "mentor"
@@ -12819,6 +14174,16 @@
       "relativePath" : "message-cancel02.svg",
       "sha256" : "bb5ca8e6b10462e0274446dd46c540e0d47e93cee4972cddad8bde10ca29d18a",
       "sourceName" : "message-cancel02"
+    },
+    {
+      "relativePath" : "message-circle-code.svg",
+      "sha256" : "9a16e51eb05e8fee37c4d7ca0179aae068cd322e6383eb730dcff63ee8baaecf",
+      "sourceName" : "message-circle-code"
+    },
+    {
+      "relativePath" : "message-circle-reply.svg",
+      "sha256" : "aa29aae572060f3b6ee29379198ec94ed2f88014d2babcaf7133cc8c68e8c7db",
+      "sourceName" : "message-circle-reply"
     },
     {
       "relativePath" : "message-delay01.svg",
@@ -12961,6 +14326,26 @@
       "sourceName" : "message-secure02"
     },
     {
+      "relativePath" : "message-square-code.svg",
+      "sha256" : "f20ca821e7f1ac493b0dbcdc1848cc96ebc1723ea64aa2f8b03a700fe6f65816",
+      "sourceName" : "message-square-code"
+    },
+    {
+      "relativePath" : "message-square-dashed.svg",
+      "sha256" : "60e793628a707bea61d133510d96ca75a07ca630a5ec0ed5abc73799bc1613a1",
+      "sourceName" : "message-square-dashed"
+    },
+    {
+      "relativePath" : "message-square-diff.svg",
+      "sha256" : "9051467ce4379bca918bc2d7dd70c9661d04f47d0e38aee0ee42b60dc7cfe0a3",
+      "sourceName" : "message-square-diff"
+    },
+    {
+      "relativePath" : "message-square-share.svg",
+      "sha256" : "6d8c7bfc63339355db0474a37f7f21a79b21478e4c4f67506084c423bcaaa0c9",
+      "sourceName" : "message-square-share"
+    },
+    {
       "relativePath" : "message-translate.svg",
       "sha256" : "b9475a9b2ad864830e8c4958ece5f02754350cdfc7175e3ef1e3b85b1ffc8f70",
       "sourceName" : "message-translate"
@@ -13039,6 +14424,11 @@
       "relativePath" : "mic02.svg",
       "sha256" : "b5d618f032303d486c99fcfccaf63d1a055294bc207ddea17eea26120b618941",
       "sourceName" : "mic02"
+    },
+    {
+      "relativePath" : "microchip.svg",
+      "sha256" : "6cd51e18528c136ec55f14598facff0611b1ac720ca4fc18f3fbc78ce4e4c7dc",
+      "sourceName" : "microchip"
     },
     {
       "relativePath" : "microscope.svg",
@@ -13416,6 +14806,26 @@
       "sourceName" : "money04"
     },
     {
+      "relativePath" : "monitor-dot.svg",
+      "sha256" : "8b267b2345374abaa2ae3f2b470b2aeb18b975e0d5a030be4b525db409ac4736",
+      "sourceName" : "monitor-dot"
+    },
+    {
+      "relativePath" : "monitor-pause.svg",
+      "sha256" : "fa6feb80a214e9af4899e64870a39ac533d59f76b3ff4027ae4d003163499e14",
+      "sourceName" : "monitor-pause"
+    },
+    {
+      "relativePath" : "monitor-speaker.svg",
+      "sha256" : "5c86d14736ff68c537582bd1fd4693d8e7746fbba1a68a93960f5aa0c49d11c5",
+      "sourceName" : "monitor-speaker"
+    },
+    {
+      "relativePath" : "monitor-stop.svg",
+      "sha256" : "e62ef61698cb0d831107c06f6f06615432de92b4afe8f1b54eb8190d83c49050",
+      "sourceName" : "monitor-stop"
+    },
+    {
       "relativePath" : "monocle.svg",
       "sha256" : "c601b98eba2bfd6d3afa7dd7569294361acfacc960001b46419cf36fd6b13f1f",
       "sourceName" : "monocle"
@@ -13721,6 +15131,11 @@
       "sourceName" : "mouse-left-click06"
     },
     {
+      "relativePath" : "mouse-pointer-off.svg",
+      "sha256" : "e1b9084e8cca4138dfa27bc963a0c9401528ad27f4c5d4fd56d4df19754096aa",
+      "sourceName" : "mouse-pointer-off"
+    },
+    {
       "relativePath" : "mouse-right-click01.svg",
       "sha256" : "844f03d28a6b9f0010bb8d9ac6d9651597a359b07301b5eb1e20dfea936a8dec",
       "sourceName" : "mouse-right-click01"
@@ -13996,6 +15411,11 @@
       "sourceName" : "music-note04"
     },
     {
+      "relativePath" : "music-three.svg",
+      "sha256" : "ef8747c5189503ed12754387fefea625d493f2bb929ecc5a8b99f90d5f76f6bc",
+      "sourceName" : "music-three"
+    },
+    {
       "relativePath" : "muslim.svg",
       "sha256" : "68400123e83e210d5d084a0588aec0d285fadbac829778f7bd41327cbb1db688",
       "sourceName" : "muslim"
@@ -14044,6 +15464,26 @@
       "relativePath" : "natural-food.svg",
       "sha256" : "d08da1f7fccae6a181e2ec9f5357b351f819cf161c4b41b3d471bc005311fd9b",
       "sourceName" : "natural-food"
+    },
+    {
+      "relativePath" : "navigation-off.svg",
+      "sha256" : "03cad5fd08f2ae524ea86811e73609764d021f4f64db81794ff98a691eebd49d",
+      "sourceName" : "navigation-off"
+    },
+    {
+      "relativePath" : "navigation-two-off.svg",
+      "sha256" : "814aef8984a5631825ec85f36d48602f480bd52e7b9a63db73bf0188f3b0a3ab",
+      "sourceName" : "navigation-two-off"
+    },
+    {
+      "relativePath" : "navigation-two.svg",
+      "sha256" : "a62f56baca6812e96c47244de05d4274909eea6decc4acf4c7b6398b35591eec",
+      "sourceName" : "navigation-two"
+    },
+    {
+      "relativePath" : "navigation.svg",
+      "sha256" : "cce69a5748a8bc7cbaf4cd05c5c57ac69fee1911c0601fdb06c7526d7498e5db",
+      "sourceName" : "navigation"
     },
     {
       "relativePath" : "navigation01.svg",
@@ -14154,6 +15594,11 @@
       "relativePath" : "next.svg",
       "sha256" : "08280780b771318280a0f1e8ff132de298c7cc9ce862ef549728a8352aa6b173",
       "sourceName" : "next"
+    },
+    {
+      "relativePath" : "nfc.svg",
+      "sha256" : "efdf13600b6022ced9408e8d24e70244c31e4b8b2274b5ec21372569bbc5b0af",
+      "sourceName" : "nfc"
     },
     {
       "relativePath" : "nike.svg",
@@ -14316,6 +15761,11 @@
       "sourceName" : "notebook02"
     },
     {
+      "relativePath" : "notepad-text-dashed.svg",
+      "sha256" : "1cf426c099c7e7588a4a714cbeec38cc1f79fd90337cb9999dc94aabe6a64456",
+      "sourceName" : "notepad-text-dashed"
+    },
+    {
       "relativePath" : "notification-block01.svg",
       "sha256" : "edaa9246f73c1577e80defbd01e7c5d5cc28ae39e3e7bc230b6d93b9c9afd8de",
       "sourceName" : "notification-block01"
@@ -14411,6 +15861,11 @@
       "sourceName" : "nuclear-power"
     },
     {
+      "relativePath" : "nut-off.svg",
+      "sha256" : "7f4a0c8aae3276ca654b46cc4c167d20c467ac94ab7dbc2fa93bf9dd777ff2f9",
+      "sourceName" : "nut-off"
+    },
+    {
       "relativePath" : "nut.svg",
       "sha256" : "36488c5d64676b333572d93c892c84c375ce0e5f3bf7a9cfdbf9ce0cbef56a03",
       "sourceName" : "nut"
@@ -14419,6 +15874,11 @@
       "relativePath" : "obtuse.svg",
       "sha256" : "03765b01189957769907377f06111b9b1466e4a6a2f9e91333cbb9370ea30f5d",
       "sourceName" : "obtuse"
+    },
+    {
+      "relativePath" : "octagon-x.svg",
+      "sha256" : "2972642539dba2880527232e9b5d3336c65daf0b70be555b319839a36091a036",
+      "sourceName" : "octagon-x"
     },
     {
       "relativePath" : "octagon.svg",
@@ -14549,6 +16009,11 @@
       "relativePath" : "orientation-potrait-to-landscape.svg",
       "sha256" : "c3231a5f79899711aa5e247239831a49c5dd08dbba7559abbad90906ba66c766",
       "sourceName" : "orientation-potrait-to-landscape"
+    },
+    {
+      "relativePath" : "origami.svg",
+      "sha256" : "9fc875afc418193355f93502df7bd97ecf12a7a2bc1eeeb82f02c8ced2bcf496",
+      "sourceName" : "origami"
     },
     {
       "relativePath" : "orthogonal-edge.svg",
@@ -14751,6 +16216,11 @@
       "sourceName" : "pan03"
     },
     {
+      "relativePath" : "panel-bottom-close.svg",
+      "sha256" : "daebbd416acfbbe1e42a3509edb99299ba47e1e66a8c8fdd481ef040d8d93c96",
+      "sourceName" : "panel-bottom-close"
+    },
+    {
       "relativePath" : "panel-left-close.svg",
       "sha256" : "ef725b204f0a2ce3b2f07d846640d39a9366f9a659d4be18065b6744a4e37350",
       "sourceName" : "panel-left-close"
@@ -14789,6 +16259,11 @@
       "relativePath" : "panel-right.svg",
       "sha256" : "eb042137a7bb0bccf9174205336771c043af3f712b5b31282640c3f20eade788",
       "sourceName" : "panel-right"
+    },
+    {
+      "relativePath" : "panel-top-bottom-dashed.svg",
+      "sha256" : "3fdeba8e18e2c7844c843e8a658aae529b970ba140ac6cf54c40b7a3e648433f",
+      "sourceName" : "panel-top-bottom-dashed"
     },
     {
       "relativePath" : "parabola01.svg",
@@ -14844,6 +16319,11 @@
       "relativePath" : "parking-area-square.svg",
       "sha256" : "dd946ab7df0bb5a9dd6ec5cc8375e5a0a906dc3c039173e8ebfa44406b6b4707",
       "sourceName" : "parking-area-square"
+    },
+    {
+      "relativePath" : "parking-meter.svg",
+      "sha256" : "9148ac6b13953ce725ee81c820466c834cc19db26c30291edefa72d393547ad1",
+      "sourceName" : "parking-meter"
     },
     {
       "relativePath" : "party.svg",
@@ -15081,6 +16561,11 @@
       "sourceName" : "pencil-edit02"
     },
     {
+      "relativePath" : "pencil-ruler.svg",
+      "sha256" : "a3fd3e80c545f994216a76756be519a436f0b9b4641b93ba0d8a4075a146734c",
+      "sourceName" : "pencil-ruler"
+    },
+    {
       "relativePath" : "pencil.svg",
       "sha256" : "b7ced07b1d35d3b52505f77d610320280f3c1d237d8ae1b6ccb9db5033ff984e",
       "sourceName" : "pencil"
@@ -15154,6 +16639,11 @@
       "relativePath" : "pexels.svg",
       "sha256" : "16316650c34901f5e90b8d74ede3ff11f49c8872ee90398f623bd2d5c487e617",
       "sourceName" : "pexels"
+    },
+    {
+      "relativePath" : "philippine-peso.svg",
+      "sha256" : "9e36434a06d89c44927e2a6b2244f0d582046df9280578fbaad3d76776239e7d",
+      "sourceName" : "philippine-peso"
     },
     {
       "relativePath" : "phone-arrow-down.svg",
@@ -15606,6 +17096,16 @@
       "sourceName" : "png02"
     },
     {
+      "relativePath" : "pocket-knife.svg",
+      "sha256" : "187f8ceb148cf58bfa3bb6a59605f580d3e41ff862c151919443a126e1dc0ef7",
+      "sourceName" : "pocket-knife"
+    },
+    {
+      "relativePath" : "pocket.svg",
+      "sha256" : "cac78218d01d059f0c5605070529b547153d641d3f6ac8ffaebe3df3db611c91",
+      "sourceName" : "pocket"
+    },
+    {
       "relativePath" : "podcast.svg",
       "sha256" : "6c7ddf7ce21ddbb9dcf9b7770ed88a6eb6597fe1b0eecc64cc4c5ed1c97ff17b",
       "sourceName" : "podcast"
@@ -15761,6 +17261,11 @@
       "sourceName" : "popcorn"
     },
     {
+      "relativePath" : "popsicle.svg",
+      "sha256" : "50f5d701aa08c1d359d91923514ff8e4830e5d9d979a068bc2f74274f6c00e7e",
+      "sourceName" : "popsicle"
+    },
+    {
       "relativePath" : "pot01.svg",
       "sha256" : "f092597d0e794bd946e66dc0cd04e521143d3f30b8f0730ae6f02d0a0af6e2dd",
       "sourceName" : "pot01"
@@ -15801,6 +17306,11 @@
       "sourceName" : "pound"
     },
     {
+      "relativePath" : "power-off.svg",
+      "sha256" : "7184040abdb1bf327a305f480932f7ddde43a3b019a11d36fedb861ce563a690",
+      "sourceName" : "power-off"
+    },
+    {
       "relativePath" : "power-service.svg",
       "sha256" : "aaef850d6cda44bb9c0442bd3d25eaf327de795d5f24f2baf83acb99785b29a1",
       "sourceName" : "power-service"
@@ -15814,6 +17324,11 @@
       "relativePath" : "power-socket02.svg",
       "sha256" : "50bb92c690ecd9c92065601ac436529c2ae38745f14be2fb56bd1d09b76689d9",
       "sourceName" : "power-socket02"
+    },
+    {
+      "relativePath" : "power.svg",
+      "sha256" : "b708bc7585b66438eefda05192d8b3dab6d84d5b370e5fc5cd5ad13c6363a02b",
+      "sourceName" : "power"
     },
     {
       "relativePath" : "ppt01.svg",
@@ -15931,6 +17446,11 @@
       "sourceName" : "previous"
     },
     {
+      "relativePath" : "printer-check.svg",
+      "sha256" : "d5db433b78502615480a169faff9ed3c8dca6271efd1f1c0ac09f8d954c65434",
+      "sourceName" : "printer-check"
+    },
+    {
       "relativePath" : "printer-off.svg",
       "sha256" : "2b643627302579fabb7c7144e78f0f84010e759c4410d9044e7fe21dfc78572f",
       "sourceName" : "printer-off"
@@ -15939,6 +17459,11 @@
       "relativePath" : "printer-three-d.svg",
       "sha256" : "41653cb59c2995f5107c5518435e3608a3bf0161afad6f21073c719578704665",
       "sourceName" : "printer-three-d"
+    },
+    {
+      "relativePath" : "printer-x.svg",
+      "sha256" : "fa305182d7f4846d3970a0b103d47a8c059b50f6677c269818605673487ed634",
+      "sourceName" : "printer-x"
     },
     {
       "relativePath" : "printer.svg",
@@ -16064,6 +17589,11 @@
       "relativePath" : "property-view.svg",
       "sha256" : "6367a27c83f695e1bdd6c803e0dc7588084b56c4f1dc8626f9a72f09c4c049f6",
       "sourceName" : "property-view"
+    },
+    {
+      "relativePath" : "proportions.svg",
+      "sha256" : "108e9d328915b51f28fdcee4fd96031ccf15ad760c894a1167d353e198c0e8bc",
+      "sourceName" : "proportions"
     },
     {
       "relativePath" : "protection-mask.svg",
@@ -16316,6 +17846,11 @@
       "sourceName" : "radial"
     },
     {
+      "relativePath" : "radiation.svg",
+      "sha256" : "794743bd7e18fa3a62d55d81cf0fd214db2e5b9a6b2b93ff2121a3f0f36dcb56",
+      "sourceName" : "radiation"
+    },
+    {
       "relativePath" : "radio-button.svg",
       "sha256" : "6ee6a3bd5f26afd13e7ae4db771060d2f09fd184932181325d47fe4bc09d83b0",
       "sourceName" : "radio-button"
@@ -16344,6 +17879,11 @@
       "relativePath" : "radius.svg",
       "sha256" : "46e97e050c04d94cd41684e5d787d4e133ad938f6301ba6824eda824cbb1c277",
       "sourceName" : "radius"
+    },
+    {
+      "relativePath" : "rail-symbol.svg",
+      "sha256" : "267e27d6f1cb7307e02198ec57126e785c67cc137bd43249be6bd1a74bebb30d",
+      "sourceName" : "rail-symbol"
     },
     {
       "relativePath" : "rain-double-drop.svg",
@@ -16401,6 +17941,11 @@
       "sourceName" : "rar02"
     },
     {
+      "relativePath" : "ratio.svg",
+      "sha256" : "89906dc3318dd983bbf970349990db3e6dd1ee4f7f5b024e06c13c33517ffbdd",
+      "sourceName" : "ratio"
+    },
+    {
       "relativePath" : "raw01.svg",
       "sha256" : "41ee1322518ddcfcd33b217791908fb682a71aca92d2c6f0f9434846bcf5ef8a",
       "sourceName" : "raw01"
@@ -16431,9 +17976,54 @@
       "sourceName" : "real-estate02"
     },
     {
+      "relativePath" : "receipt-cent.svg",
+      "sha256" : "6ca484f1edcf451ea798aecbe23440e11eb0fc4d07e9c424520d5b55095a503c",
+      "sourceName" : "receipt-cent"
+    },
+    {
       "relativePath" : "receipt-dollar.svg",
       "sha256" : "2cb923c721a28ca453b6b272103dd51c801e1e84968651adc9e0750284e530bf",
       "sourceName" : "receipt-dollar"
+    },
+    {
+      "relativePath" : "receipt-euro.svg",
+      "sha256" : "9b798138e1e966bcfc73cfa24c745d1960f9272b64113ff63f1bfce82e8a7818",
+      "sourceName" : "receipt-euro"
+    },
+    {
+      "relativePath" : "receipt-indian-rupee.svg",
+      "sha256" : "9574ea9b2e9adc7127b531309e2bfee3f05c7cf68f5c40121a1cc12749067a59",
+      "sourceName" : "receipt-indian-rupee"
+    },
+    {
+      "relativePath" : "receipt-japanese-yen.svg",
+      "sha256" : "184a82907644372bd59204037904545d89c41586b56abeac8be1706c4bdbc59b",
+      "sourceName" : "receipt-japanese-yen"
+    },
+    {
+      "relativePath" : "receipt-pound-sterling.svg",
+      "sha256" : "ccee643f66632df24a355f5e806800c85f2f2931c35d9410d0687d48abf2a5e8",
+      "sourceName" : "receipt-pound-sterling"
+    },
+    {
+      "relativePath" : "receipt-russian-ruble.svg",
+      "sha256" : "3b1860833f3978369da050a70c72f5abae835a79f474be95174a65b0b8d1e3ea",
+      "sourceName" : "receipt-russian-ruble"
+    },
+    {
+      "relativePath" : "receipt-swiss-franc.svg",
+      "sha256" : "455edacfd3076d69ba101ad2844cd36f9f1bf7d8163951110d430d180418bf7c",
+      "sourceName" : "receipt-swiss-franc"
+    },
+    {
+      "relativePath" : "receipt-text.svg",
+      "sha256" : "250326dab189d15af88920a6480dd2d62261f4a40b08e53a60a72e81f54f5f07",
+      "sourceName" : "receipt-text"
+    },
+    {
+      "relativePath" : "receipt-turkish-lira.svg",
+      "sha256" : "cf3cda4b3a5048649eea509baf5a1fabf529231ce9db4e5f61f437e9fbd8457e",
+      "sourceName" : "receipt-turkish-lira"
     },
     {
       "relativePath" : "record.svg",
@@ -16444,6 +18034,11 @@
       "relativePath" : "recovery-mail.svg",
       "sha256" : "7537b9090e0b45b4a7fc4ca2e7b6b4120c5f1eaa2367108ef44cc969ae014afd",
       "sourceName" : "recovery-mail"
+    },
+    {
+      "relativePath" : "rectangle-circle.svg",
+      "sha256" : "7c393d5e6f513de9d5bec7ab23d49e53d12851c37cf3d89fae6ae8f9dd3a2bb2",
+      "sourceName" : "rectangle-circle"
     },
     {
       "relativePath" : "rectangular.svg",
@@ -16529,6 +18124,11 @@
       "relativePath" : "refrigerator.svg",
       "sha256" : "a8a9cbe842940085c2d67ce60458ff67369a412641167b848663a42dfc1a2097",
       "sourceName" : "refrigerator"
+    },
+    {
+      "relativePath" : "regex.svg",
+      "sha256" : "bfbfe0607c0b959fbb33f41e8280884c27fdcdebe41c881df0ede99c4f781395",
+      "sourceName" : "regex"
     },
     {
       "relativePath" : "register.svg",
@@ -16641,6 +18241,16 @@
       "sourceName" : "repeat"
     },
     {
+      "relativePath" : "replace-all.svg",
+      "sha256" : "889e3439d98a213d107b542c79e420fa1948fee3cb7e67e77416875de491ce97",
+      "sourceName" : "replace-all"
+    },
+    {
+      "relativePath" : "replace.svg",
+      "sha256" : "824c99eb58b912bcdeda6240f32a8d7415970afc58cd3539d2363eabe820ae43",
+      "sourceName" : "replace"
+    },
+    {
       "relativePath" : "replay.svg",
       "sha256" : "ca7cc69c3b3ea4692f075260d758bcee2123983889b944feac9c29bf0e58dd91",
       "sourceName" : "replay"
@@ -16749,6 +18359,11 @@
       "relativePath" : "rhombus01.svg",
       "sha256" : "95106716dca88157b2ee9738302f0f083ec87c2ddd2629289c72c9cb826be435",
       "sourceName" : "rhombus01"
+    },
+    {
+      "relativePath" : "ribbon.svg",
+      "sha256" : "b79d1447efdeb5359a1f073b7efca3c7f40c0a07c852d9683a6586ed0a332d0e",
+      "sourceName" : "ribbon"
     },
     {
       "relativePath" : "rice-bowl01.svg",
@@ -16881,6 +18496,11 @@
       "sourceName" : "rocking-horse"
     },
     {
+      "relativePath" : "roller-coaster.svg",
+      "sha256" : "a8b1c2d21450b5da0163fa11a1a0f3a39df21d4ab2317de71959160c02e3e71e",
+      "sourceName" : "roller-coaster"
+    },
+    {
       "relativePath" : "roller-skate.svg",
       "sha256" : "0be566314df2cba9edea071b281d9e2552860628260678f8a4c64b7670247a33",
       "sourceName" : "roller-skate"
@@ -16919,6 +18539,11 @@
       "relativePath" : "root02.svg",
       "sha256" : "7a0e921c7539c4dafe99de064b32053d218c21e264dd3147937a45d382d7dd06",
       "sourceName" : "root02"
+    },
+    {
+      "relativePath" : "rose.svg",
+      "sha256" : "54b63a1917602d4759c3ac62a8a56a68688798dcb833d605cf429b928ef95529",
+      "sourceName" : "rose"
     },
     {
       "relativePath" : "rotate-bottom-left.svg",
@@ -17156,6 +18781,11 @@
       "sourceName" : "rupee"
     },
     {
+      "relativePath" : "russian-ruble.svg",
+      "sha256" : "81c4120080f65bab3f6af2b5b2c1952987fe3fa569b8c0fdafc680e604907373",
+      "sourceName" : "russian-ruble"
+    },
+    {
       "relativePath" : "sad-dizzy.svg",
       "sha256" : "78bc62133637cd5430abb572795948fe09a48e8f939a3b1b69af15f104440ac0",
       "sourceName" : "sad-dizzy"
@@ -17221,6 +18851,11 @@
       "sourceName" : "sakura"
     },
     {
+      "relativePath" : "salad.svg",
+      "sha256" : "4027b9141bcfd0e6022a722d9a6b03d3125e695a284b2d896fd5c97a6a3174f4",
+      "sourceName" : "salad"
+    },
+    {
       "relativePath" : "salah-time.svg",
       "sha256" : "306b7903032a10d3b9540bf945e70cad22e0083c6273a7e8a6c6dceb4ce88ad5",
       "sourceName" : "salah-time"
@@ -17281,9 +18916,19 @@
       "sourceName" : "saturn02"
     },
     {
+      "relativePath" : "saudi-riyal.svg",
+      "sha256" : "a42eb69159443c0a392aa223539726ba156d1861333dfaf4878356a3e69db947",
+      "sourceName" : "saudi-riyal"
+    },
+    {
       "relativePath" : "sausage.svg",
       "sha256" : "8d4577962f38b6fe00a7d0ff72bc2e796f39965c0cdb2352ab46ff5bdc2de570",
       "sourceName" : "sausage"
+    },
+    {
+      "relativePath" : "save-all.svg",
+      "sha256" : "f4223ec81d6431cb61fd325f7c016d79f17b43ce22345d310b99722661137fae",
+      "sourceName" : "save-all"
     },
     {
       "relativePath" : "save-energy01.svg",
@@ -17316,9 +18961,29 @@
       "sourceName" : "save-money-yen"
     },
     {
+      "relativePath" : "save-off.svg",
+      "sha256" : "0d8ff2d4c80e3f08a9a7200114e7168c792d64aa5eb0f9a4b3df4f6a752d05fe",
+      "sourceName" : "save-off"
+    },
+    {
+      "relativePath" : "save.svg",
+      "sha256" : "f03130cf2359a67026de808cff9c464f89ca8c818f82198623fdb331b8a6c51a",
+      "sourceName" : "save"
+    },
+    {
       "relativePath" : "savings.svg",
       "sha256" : "b0619667636a352046411a5ccef64c1c76896890139776ee5bde70692b8acef7",
       "sourceName" : "savings"
+    },
+    {
+      "relativePath" : "scan-eye.svg",
+      "sha256" : "1f2ca83454ed60f407d0e4f820c2072d0eba619f598557588b439c4ac8645809",
+      "sourceName" : "scan-eye"
+    },
+    {
+      "relativePath" : "scan-heart.svg",
+      "sha256" : "0d833137803726129ad95c869e52b43e065db8de0068840ed4492342f61f54a7",
+      "sourceName" : "scan-heart"
     },
     {
       "relativePath" : "scan-image.svg",
@@ -17486,6 +19151,11 @@
       "sourceName" : "search-circle"
     },
     {
+      "relativePath" : "search-code.svg",
+      "sha256" : "9fda23434ef1ff0b2c089165d121decf64daba188ffaf6b1f386fc14a3cbd1e4",
+      "sourceName" : "search-code"
+    },
+    {
       "relativePath" : "search-dollar.svg",
       "sha256" : "e5cc8b729c5e3f4d951dc319c1a66ad8a3700f7fc3a5318849bf6487019befca",
       "sourceName" : "search-dollar"
@@ -17566,6 +19236,11 @@
       "sourceName" : "second-bracket"
     },
     {
+      "relativePath" : "section.svg",
+      "sha256" : "d12c51fb6b266dddc1d9ba86aa3fa1f9fe67e2ac01acc83ffefb2edc15debf6c",
+      "sourceName" : "section"
+    },
+    {
       "relativePath" : "secured-network.svg",
       "sha256" : "c50e7515dcac93d77ce649fc1999c5e2dc32c4be51e045cb20916601778d38c4",
       "sourceName" : "secured-network"
@@ -17644,6 +19319,11 @@
       "relativePath" : "semi-truck.svg",
       "sha256" : "c5c4654f78f5b4e6236fb086ab221cfa5861f7eebaf00ce75ec3000e3bd84927",
       "sourceName" : "semi-truck"
+    },
+    {
+      "relativePath" : "send-to-back.svg",
+      "sha256" : "2b8ddbe09eeb86cfe64fa1a2278c8d39e6698e2ef1f6eebd02fe75c0de95c8b3",
+      "sourceName" : "send-to-back"
     },
     {
       "relativePath" : "send-to-mobile.svg",
@@ -17931,6 +19611,11 @@
       "sourceName" : "sharing"
     },
     {
+      "relativePath" : "shell.svg",
+      "sha256" : "5558f3f2ed5a5494ebb3ad8803b7ae74ca2141376e656d4ff858b8500df11e8e",
+      "sourceName" : "shell"
+    },
+    {
       "relativePath" : "shellfish.svg",
       "sha256" : "d7ece3ae5e8968ccc904e6f96855c1f9e592d158ff1691e7ddab7b75c1397c06",
       "sourceName" : "shellfish"
@@ -17946,6 +19631,11 @@
       "sourceName" : "sheriff02"
     },
     {
+      "relativePath" : "shield-ban.svg",
+      "sha256" : "0ff8ccc2e1c220a82dcb93c5a60d8c06c59cab5de041a6c72a7bd8bd6b305e63",
+      "sourceName" : "shield-ban"
+    },
+    {
       "relativePath" : "shield-blockchain.svg",
       "sha256" : "e9be4b2dab07121662708ba0f1777a7ac5521a4d4bce6dc92cacd170d14e31c7",
       "sourceName" : "shield-blockchain"
@@ -17956,9 +19646,29 @@
       "sourceName" : "shield-energy"
     },
     {
+      "relativePath" : "shield-half.svg",
+      "sha256" : "68848ea19796d00f64250e981b392aa1802a8d5b5631b4bfd0aaf8b8624847ba",
+      "sourceName" : "shield-half"
+    },
+    {
       "relativePath" : "shield-key.svg",
       "sha256" : "81dea601f1c419b2f1f206340b46e50f7e8b238b22bf079b3a4db85a6df17186",
       "sourceName" : "shield-key"
+    },
+    {
+      "relativePath" : "shield-minus.svg",
+      "sha256" : "1247816eabbce755253b8e6a931e6ac07d0aa1d69c6b3551d93e70369a39fe4e",
+      "sourceName" : "shield-minus"
+    },
+    {
+      "relativePath" : "shield-plus.svg",
+      "sha256" : "60cc1a22de5b5884f670c3962b6c127a92cddc408305b1291eb13d1ba80b5705",
+      "sourceName" : "shield-plus"
+    },
+    {
+      "relativePath" : "shield-question-mark.svg",
+      "sha256" : "21fda122d18356986bd670b395f863f39802735b4bda398438b9beb04dbd3be9",
+      "sourceName" : "shield-question-mark"
     },
     {
       "relativePath" : "shield-user.svg",
@@ -18256,6 +19966,16 @@
       "sourceName" : "shoulder"
     },
     {
+      "relativePath" : "shovel.svg",
+      "sha256" : "c8b0aae5beddeafe0053aa44ceab8779ded2e329a8181d453b4bc3f572933e5a",
+      "sourceName" : "shovel"
+    },
+    {
+      "relativePath" : "shower-head.svg",
+      "sha256" : "d6ef7e690c9e2598cada7d01605f8f8bb9b063fcaa4e1b64d26abb7c98b3e056",
+      "sourceName" : "shower-head"
+    },
+    {
       "relativePath" : "shrink-dot.svg",
       "sha256" : "1af4fdedecdf949281f4ecb31d031bd6ea0e07d90c5345590441a36f59f53958",
       "sourceName" : "shrink-dot"
@@ -18472,7 +20192,7 @@
     },
     {
       "relativePath" : "skull.svg",
-      "sha256" : "6c48db8131893d1deca1e8771332e720f22551bd74fecb99ce4bd59a1b5b0f10",
+      "sha256" : "5d3f6ef859426cb7d47f5aa11657ff3b98c01a8fa7cb9419eaecaf517cf53db0",
       "sourceName" : "skull"
     },
     {
@@ -18581,9 +20301,19 @@
       "sourceName" : "smart"
     },
     {
+      "relativePath" : "smartphone-charging.svg",
+      "sha256" : "c3b431741c445c57107ddb240d319f454e0b63f4fa6c7ca7a903152150eb92ae",
+      "sourceName" : "smartphone-charging"
+    },
+    {
       "relativePath" : "smartphone-lost-wifi.svg",
       "sha256" : "b1d9769d177e1af22d09e089358a01762d3266e05f0b4f5ba0b9e06f33387793",
       "sourceName" : "smartphone-lost-wifi"
+    },
+    {
+      "relativePath" : "smartphone-nfc.svg",
+      "sha256" : "c001c2c3a96e6a69dd8710915ab5a357a613c76c872c04eae80104e44c3540b6",
+      "sourceName" : "smartphone-nfc"
     },
     {
       "relativePath" : "smartphone-wifi.svg",
@@ -18594,6 +20324,11 @@
       "relativePath" : "smile-dizzy.svg",
       "sha256" : "6b750ca257cfacf56bbc3ef4b5545be5dbcf66390bfd7b6e2a582775656d421d",
       "sourceName" : "smile-dizzy"
+    },
+    {
+      "relativePath" : "smile-plus.svg",
+      "sha256" : "25e91b8be42d54b9eaed4d1fd636523a6b9e4ad9b41eb6a303c246b0f42fd305",
+      "sourceName" : "smile-plus"
     },
     {
       "relativePath" : "smile.svg",
@@ -18906,6 +20641,11 @@
       "sourceName" : "speech-to-text"
     },
     {
+      "relativePath" : "speech.svg",
+      "sha256" : "000daf319fdc77bfa6d5aa8dbdf94a9a0387e7de99ce28ad551b2fd77a7b10d3",
+      "sourceName" : "speech"
+    },
+    {
       "relativePath" : "speed-train01.svg",
       "sha256" : "b2258e35414c99b0e2fc6e2fb8147586973a97f85fb875297ab2ab3dd55173bb",
       "sourceName" : "speed-train01"
@@ -18931,9 +20671,19 @@
       "sourceName" : "spirals"
     },
     {
+      "relativePath" : "spline-pointer.svg",
+      "sha256" : "39b723ed8931b73748b6762ba6971bdb22cdbd45ff9865a3225cb0ae05e5df80",
+      "sourceName" : "spline-pointer"
+    },
+    {
       "relativePath" : "split.svg",
       "sha256" : "263dc0cecf1c9b5e6799cb85d90e8348ad6e502aabd7d49cd051b3b6b4831914",
       "sourceName" : "split"
+    },
+    {
+      "relativePath" : "spool.svg",
+      "sha256" : "44f48d0737525aa8abf858d286ffcf75474b7e85e32e3275ad0e8cc365081335",
+      "sourceName" : "spool"
     },
     {
       "relativePath" : "spoon-and-fork.svg",
@@ -18954,6 +20704,16 @@
       "relativePath" : "spotify.svg",
       "sha256" : "1bbf42bee0152b0bc1dfa49f771dec53fdc0bf6df1c3c0ee4caf7f92677feefc",
       "sourceName" : "spotify"
+    },
+    {
+      "relativePath" : "spotlight.svg",
+      "sha256" : "148bc52cefad6a9ad0b4f03e4629747e15024b07745acc8f0424abcaa36f429c",
+      "sourceName" : "spotlight"
+    },
+    {
+      "relativePath" : "spray-can.svg",
+      "sha256" : "56d2536f0fa22e317a2d1bfa55b9ef66a5ad9e85f350e9ca05ca5266ab422241",
+      "sourceName" : "spray-can"
     },
     {
       "relativePath" : "sql.svg",
@@ -19171,9 +20931,34 @@
       "sourceName" : "square-arrow-vertical"
     },
     {
+      "relativePath" : "square-asterisk.svg",
+      "sha256" : "a5030a7a9323c91111d523c95581e9291dc9766ed25b26e2bdfa56de13377c77",
+      "sourceName" : "square-asterisk"
+    },
+    {
+      "relativePath" : "square-bottom-dashed-scissors.svg",
+      "sha256" : "bcf1e2983d230131a7ce680706126dd4e66c295852f336031cdd006645df3776",
+      "sourceName" : "square-bottom-dashed-scissors"
+    },
+    {
+      "relativePath" : "square-chart-gantt.svg",
+      "sha256" : "7b1ae83807536f04442360f382afac80c858900cffef4ac037498e5d9ceb7398",
+      "sourceName" : "square-chart-gantt"
+    },
+    {
       "relativePath" : "square-circle.svg",
       "sha256" : "8d4821ef8cd33fa413f44c0396db3ae32646a957a5cb9d971cd5542f598c0cb4",
       "sourceName" : "square-circle"
+    },
+    {
+      "relativePath" : "square-dashed-kanban.svg",
+      "sha256" : "98e4f93f4f9247f952ee641f3483206e384d4b543d1a130162a5c82d849369fc",
+      "sourceName" : "square-dashed-kanban"
+    },
+    {
+      "relativePath" : "square-dashed-top-solid.svg",
+      "sha256" : "10fc8953c3f2798a59a5a1df959d5d9244375ebd59326f235df69767ebbd236e",
+      "sourceName" : "square-dashed-top-solid"
     },
     {
       "relativePath" : "square-f.svg",
@@ -19236,14 +21021,44 @@
       "sourceName" : "square-lock02"
     },
     {
+      "relativePath" : "square-m.svg",
+      "sha256" : "aafb4a30f648e1f27e1f7eca7f3bd6591814137e0f8fe42715fdd73fe805ebf4",
+      "sourceName" : "square-m"
+    },
+    {
+      "relativePath" : "square-mouse-pointer.svg",
+      "sha256" : "6ffb37912326a0fa093f9da66c3a3f9db5b2be0093469bd9e19be73e5783d93b",
+      "sourceName" : "square-mouse-pointer"
+    },
+    {
+      "relativePath" : "square-parking-off.svg",
+      "sha256" : "ee4245f4799d76146790fc56a35ae25c660756d3ac49b06c5134ea4fbacc8759",
+      "sourceName" : "square-parking-off"
+    },
+    {
+      "relativePath" : "square-power.svg",
+      "sha256" : "fb8f01300ac6a701fbef30e87c76b3e4787c3f38e5356a03f595769c4601a181",
+      "sourceName" : "square-power"
+    },
+    {
       "relativePath" : "square-root-square.svg",
       "sha256" : "27b4cb8bc12bb709dc9516979124bf934e7f9e366908a935db59b7bdeb28b9fa",
       "sourceName" : "square-root-square"
     },
     {
+      "relativePath" : "square-round-corner.svg",
+      "sha256" : "fbd780a19b11a41bc4808409c63695300d1555a328091087380a4d9bf84a7e5d",
+      "sourceName" : "square-round-corner"
+    },
+    {
       "relativePath" : "square-square.svg",
-      "sha256" : "66e7b7ecb8b25393f1ea9531494531583d12aea23419788fe8bb29f80d77dc46",
+      "sha256" : "8b92e1eb481d6c6ac3c989f30f83745c30478fa933697897f56d6b04849303f9",
       "sourceName" : "square-square"
+    },
+    {
+      "relativePath" : "square-stack.svg",
+      "sha256" : "d9e250895f19bc041b3a2a5395b1b3e6e637646f4478e7f9a7b6507981ba443c",
+      "sourceName" : "square-stack"
     },
     {
       "relativePath" : "square-unlock01.svg",
@@ -19264,6 +21079,11 @@
       "relativePath" : "square01.svg",
       "sha256" : "a15d57915e757af3079ae24ed8195c60b33baefd2e73275332bee3a1933dc154",
       "sourceName" : "square01"
+    },
+    {
+      "relativePath" : "squares-exclude.svg",
+      "sha256" : "5773bccab17e9f61fef23749afc5942fae433cc9601433000bafff8c837e99b0",
+      "sourceName" : "squares-exclude"
     },
     {
       "relativePath" : "stack-star.svg",
@@ -19409,6 +21229,11 @@
       "relativePath" : "stethoscope02.svg",
       "sha256" : "78605a60fdb0748820a108a780fbc7788a7a36aea0920e81784d9ae9bb94bc07",
       "sourceName" : "stethoscope02"
+    },
+    {
+      "relativePath" : "sticker.svg",
+      "sha256" : "85f498ae26e766cfcfcd10eb6a154315e572d6d25eb0618736de45d1e46fffa8",
+      "sourceName" : "sticker"
     },
     {
       "relativePath" : "sticky-note01.svg",
@@ -20126,6 +21951,16 @@
       "sourceName" : "swipe-up08"
     },
     {
+      "relativePath" : "swiss-franc.svg",
+      "sha256" : "0c25ca93171d645a23c684daf02fae42794572dc9e0f0a4321a6e58e9c116e39",
+      "sourceName" : "swiss-franc"
+    },
+    {
+      "relativePath" : "switch-camera.svg",
+      "sha256" : "7f14a0b9154d264a5547bf331eb84aee49aa5dc6421c5b95b23ce74ea6ed47f6",
+      "sourceName" : "switch-camera"
+    },
+    {
       "relativePath" : "sword01.svg",
       "sha256" : "81557f3821d638a8bebca8c3daf552d2bb573b9043b834bfc544fd8cb1d6602f",
       "sourceName" : "sword01"
@@ -20156,6 +21991,11 @@
       "sourceName" : "t-shirt"
     },
     {
+      "relativePath" : "table-columns-split.svg",
+      "sha256" : "77c3bcc6babd14a6c8f846b195e9afa9315a2e92588860dac43740f1e9ce008d",
+      "sourceName" : "table-columns-split"
+    },
+    {
       "relativePath" : "table-lamp01.svg",
       "sha256" : "b52f8f9101fc85f4ceecf724b0c2f016936d79c2d70cd63c883cd6cf31d08d5a",
       "sourceName" : "table-lamp01"
@@ -20169,6 +22009,11 @@
       "relativePath" : "table-round.svg",
       "sha256" : "a5656c6c923dc4a3c42c6a5e57c2655d0fed540f478e840f664cee72a6acc6c3",
       "sourceName" : "table-round"
+    },
+    {
+      "relativePath" : "table-rows-split.svg",
+      "sha256" : "14fd34e09a32a5124e34e8fb0952dc5d14df381a8eac75426f004dc27578993e",
+      "sourceName" : "table-rows-split"
     },
     {
       "relativePath" : "table-tennis-bat.svg",
@@ -20226,6 +22071,11 @@
       "sourceName" : "tablet02"
     },
     {
+      "relativePath" : "tablets.svg",
+      "sha256" : "60e1b88351ec593b1f7e3c2cd1795d4d6882673022039c2d96b94fe8c91c843b",
+      "sourceName" : "tablets"
+    },
+    {
       "relativePath" : "taco01.svg",
       "sha256" : "dd9e3e2cdab341429b486287240c3a88ef8acc872c6e29fbaa037a6379a2d3fb",
       "sourceName" : "taco01"
@@ -20261,9 +22111,39 @@
       "sourceName" : "taj-mahal"
     },
     {
+      "relativePath" : "tally-five.svg",
+      "sha256" : "13824a81797e0c09cf90a5fd921104857bd7fa8227ddb9e7493d31055b826bfc",
+      "sourceName" : "tally-five"
+    },
+    {
+      "relativePath" : "tally-four.svg",
+      "sha256" : "2c5d50be9afdeaef748f6f5852d244d2b78e09edbdd68c110c968280022c3e9d",
+      "sourceName" : "tally-four"
+    },
+    {
+      "relativePath" : "tally-one.svg",
+      "sha256" : "1fa93a2e927f12e4bff74020988ed00f413fa424558aefed07ca97e41c0cccaa",
+      "sourceName" : "tally-one"
+    },
+    {
+      "relativePath" : "tally-three.svg",
+      "sha256" : "ebb0727d75b9cb6b77133191674f7b0917023570a70cd29bf1f47248de407b71",
+      "sourceName" : "tally-three"
+    },
+    {
+      "relativePath" : "tally-two.svg",
+      "sha256" : "af67c6986338cad7e082b75ab4cc96cf41b308389bf13c4a0035cc4cc2c6de1a",
+      "sourceName" : "tally-two"
+    },
+    {
       "relativePath" : "tan.svg",
       "sha256" : "a60b2355c9a82b9c6ef1aca916df28a46a00df6ce8972a07b01246466635f682",
       "sourceName" : "tan"
+    },
+    {
+      "relativePath" : "tangent.svg",
+      "sha256" : "3d358acc322421cbd67d2e90099a10d74b9e39d49ebc160b060e2f78eccdf065",
+      "sourceName" : "tangent"
     },
     {
       "relativePath" : "tank-top.svg",
@@ -20486,9 +22366,24 @@
       "sourceName" : "tennis-racket"
     },
     {
+      "relativePath" : "tent-tree.svg",
+      "sha256" : "3af618ccae667cc02ebed3f75b1bbfaec37c234a79a7e4a4608f0a5c875bc48e",
+      "sourceName" : "tent-tree"
+    },
+    {
+      "relativePath" : "tent.svg",
+      "sha256" : "a1ffdcc834b1330db6f22f34416bdc9bcda5130e0bd86493187484dd83ad3c0e",
+      "sourceName" : "tent"
+    },
+    {
       "relativePath" : "terrace.svg",
       "sha256" : "55a3eb9fb37cf668903e62484ff9892c27731cc58dd1eb5ba985ae2ed4200c88",
       "sourceName" : "terrace"
+    },
+    {
+      "relativePath" : "test-tube-diagonal.svg",
+      "sha256" : "372d167e67e4e045dfdf1c6d97d413d1a111e3bfba54f574cb4e579d76187d58",
+      "sourceName" : "test-tube-diagonal"
     },
     {
       "relativePath" : "test-tube.svg",
@@ -20509,6 +22404,11 @@
       "relativePath" : "test-tube03.svg",
       "sha256" : "1a30cd1920fcae263b489613a5a30b9323394c259bc724f6ea532246a555cda5",
       "sourceName" : "test-tube03"
+    },
+    {
+      "relativePath" : "test-tubes.svg",
+      "sha256" : "ac7b5c16a2cbf4e0c6c797b14e13a25eab64d5766c1b55bb01f26dbfcb346886",
+      "sourceName" : "test-tubes"
     },
     {
       "relativePath" : "tetris.svg",
@@ -20671,6 +22571,11 @@
       "sourceName" : "text-number-sign"
     },
     {
+      "relativePath" : "text-select.svg",
+      "sha256" : "02942863909c3395a84523ab77295934861d0afb70b403875f4c2fec9c295993",
+      "sourceName" : "text-select"
+    },
+    {
       "relativePath" : "text-selection.svg",
       "sha256" : "fdfa9eb75c22192eeeb092e165ee455a7c4dc3896c9a028e5919af0f022413e2",
       "sourceName" : "text-selection"
@@ -20734,6 +22639,11 @@
       "relativePath" : "the-prophets-mosque.svg",
       "sha256" : "ac930df86293ad7231b9b189408eedd15ca6c92e6ca194f075f806ce524601e8",
       "sourceName" : "the-prophets-mosque"
+    },
+    {
+      "relativePath" : "theater.svg",
+      "sha256" : "406ed370ce32e49c1489d742fe8c55fb127d87b570147b7040574a1fd8f1dde9",
+      "sourceName" : "theater"
     },
     {
       "relativePath" : "thermometer-cold.svg",
@@ -21146,6 +23056,16 @@
       "sourceName" : "tongue01"
     },
     {
+      "relativePath" : "tool-case.svg",
+      "sha256" : "2a43be83cab511687457c236c6147017db7da70b83e3e5124d40948752a3ee0f",
+      "sourceName" : "tool-case"
+    },
+    {
+      "relativePath" : "toolbox.svg",
+      "sha256" : "d8be338c4ce63603e9196b1d0589bfca20e868f618fb36474e0b69884e37a75e",
+      "sourceName" : "toolbox"
+    },
+    {
       "relativePath" : "tools.svg",
       "sha256" : "9af098339278982d5d0cdfe1d8bc1029a8cabc86bb4be5d97de0670449f664d8",
       "sourceName" : "tools"
@@ -21164,6 +23084,11 @@
       "relativePath" : "torri-gate.svg",
       "sha256" : "f7108b7e045436fc18b60aaa59744448278746112197c75a856a4ab493fbf6b2",
       "sourceName" : "torri-gate"
+    },
+    {
+      "relativePath" : "torus.svg",
+      "sha256" : "9975c3b56860a35df6b44c2dadb9373eebefc0f5a6c2f83fcc767f5fc0cfe36f",
+      "sourceName" : "torus"
     },
     {
       "relativePath" : "touch-interaction01.svg",
@@ -21256,6 +23181,11 @@
       "sourceName" : "touch10"
     },
     {
+      "relativePath" : "touchpad-off.svg",
+      "sha256" : "4b39a8083e5cdc96b98454af04cb19c945981ca04c6db317c4f848d105af2a40",
+      "sourceName" : "touchpad-off"
+    },
+    {
       "relativePath" : "touchpad01.svg",
       "sha256" : "e84a415782634616a93533887539ad8f8cc1df7df44b0717adfdc7438ed31f6b",
       "sourceName" : "touchpad01"
@@ -21284,6 +23214,11 @@
       "relativePath" : "towels.svg",
       "sha256" : "fa559090bc59f027bb0aa5a749969eca8bbe97ff540b071701c545728f93e2bb",
       "sourceName" : "towels"
+    },
+    {
+      "relativePath" : "toy-brick.svg",
+      "sha256" : "a0d79eeb8c18ffa6e7d06c217f902f9507e1f537bf758d7470a01d9f08dbc462",
+      "sourceName" : "toy-brick"
     },
     {
       "relativePath" : "toy-train.svg",
@@ -21329,6 +23264,11 @@
       "relativePath" : "traffic-light.svg",
       "sha256" : "9758da3c87e42d485388658042a55882ef3a9061e866b5267c70cd5805d31701",
       "sourceName" : "traffic-light"
+    },
+    {
+      "relativePath" : "train-track.svg",
+      "sha256" : "02507e48d3965b376664cf7ac5b4cd865a0812fadbf04904559ef67881fcb70a",
+      "sourceName" : "train-track"
     },
     {
       "relativePath" : "train01.svg",
@@ -21431,6 +23371,11 @@
       "sourceName" : "treatment"
     },
     {
+      "relativePath" : "tree-palm.svg",
+      "sha256" : "1733853ca9fee1784db81603034f5924a95e19b8de4810563f373e9383260f31",
+      "sourceName" : "tree-palm"
+    },
+    {
       "relativePath" : "tree01.svg",
       "sha256" : "e9a969f5bd34587074d81e7a7ab7af4eecb35343997310088e9f26045c7dd28e",
       "sourceName" : "tree01"
@@ -21466,6 +23411,11 @@
       "sourceName" : "tree07"
     },
     {
+      "relativePath" : "trees.svg",
+      "sha256" : "db010494277e8e1fc470adea98cee34ce8bbe87bb916a58e8fe98393f50d41f2",
+      "sourceName" : "trees"
+    },
+    {
       "relativePath" : "trello.svg",
       "sha256" : "c95aaa61d153dcca7bdee9f78982fedb17a814e81719a206eea3a75f8be8f64d",
       "sourceName" : "trello"
@@ -21474,6 +23424,11 @@
       "relativePath" : "triangle-dash.svg",
       "sha256" : "3b2557a641bb95d72cf30d7f7497b451f580a478c523b18fedadc23cc9dad48e",
       "sourceName" : "triangle-dash"
+    },
+    {
+      "relativePath" : "triangle-right.svg",
+      "sha256" : "7d6f7c49ed55de484087c4972d5f89a73466045a9ce8edff819a950e65b3ef90",
+      "sourceName" : "triangle-right"
     },
     {
       "relativePath" : "triangle.svg",
@@ -21559,6 +23514,11 @@
       "relativePath" : "tumblr.svg",
       "sha256" : "f3b93763d92ca0fa87d4ca98ca70b4dddbeb7da7e29be66d383b99810beaac7f",
       "sourceName" : "tumblr"
+    },
+    {
+      "relativePath" : "turkish-lira.svg",
+      "sha256" : "00f6cd7f8380816ba2271781209a4fe5f61315430fd70703e3a5201ef6a45303",
+      "sourceName" : "turkish-lira"
     },
     {
       "relativePath" : "turtle-neck.svg",
@@ -21706,6 +23666,11 @@
       "sourceName" : "umbrella-dollar"
     },
     {
+      "relativePath" : "umbrella-off.svg",
+      "sha256" : "a6f10169c40875cef82ee654c15a0b25e0de5f8f0ed3629428ec42deaffb2cc3",
+      "sourceName" : "umbrella-off"
+    },
+    {
       "relativePath" : "umbrella.svg",
       "sha256" : "8bf486d85d7882883decc5418874e2b72cb93a6c65508773fd70956a606ca0bd",
       "sourceName" : "umbrella"
@@ -21784,6 +23749,11 @@
       "relativePath" : "ungroup-layers.svg",
       "sha256" : "a3a09df8d6515d1b0fa524598690ae89991a653fc8e02069790513ebcd7d29e9",
       "sourceName" : "ungroup-layers"
+    },
+    {
+      "relativePath" : "ungroup.svg",
+      "sha256" : "afef2b56cc9c0579f24ac10653af950d9077ad29085d680136020a49f3a71cb0",
+      "sourceName" : "ungroup"
     },
     {
       "relativePath" : "unhappy.svg",
@@ -22236,6 +24206,11 @@
       "sourceName" : "user03"
     },
     {
+      "relativePath" : "utility-pole.svg",
+      "sha256" : "4c5218f5bb8d16f0dd92bd23663151e6737136049038b49689c34ff0b33d88cb",
+      "sourceName" : "utility-pole"
+    },
+    {
       "relativePath" : "uv01.svg",
       "sha256" : "5f312b27cb18548287569ad71e395b157a48c5137b2f35becf52c11f13df992c",
       "sourceName" : "uv01"
@@ -22281,9 +24256,19 @@
       "sourceName" : "variable"
     },
     {
+      "relativePath" : "vector-square.svg",
+      "sha256" : "c68351a80ba43bae69533ee4b430e6b0f89577005c733d8758a427cba425efbe",
+      "sourceName" : "vector-square"
+    },
+    {
       "relativePath" : "vegetarian-food.svg",
       "sha256" : "f5d33b70758427a0ed8527abccefe71f482e7229f39ff73928b83a41d8d34e86",
       "sourceName" : "vegetarian-food"
+    },
+    {
+      "relativePath" : "venetian-mask.svg",
+      "sha256" : "5444f74f040ba404452edfc9d6342d87cf26e7aa8c6484f583d0a8b3453ae21d",
+      "sourceName" : "venetian-mask"
     },
     {
       "relativePath" : "versus.svg",
@@ -22309,6 +24294,11 @@
       "relativePath" : "viber.svg",
       "sha256" : "76619c31ae8d815a1fe0077fbd041298e1384aa8dcb4ff070a007f16aad0305d",
       "sourceName" : "viber"
+    },
+    {
+      "relativePath" : "vibrate.svg",
+      "sha256" : "b00c9c7d6afba68aa1dcb4a6636518910ed122f7d4b788420cdfc24cea4fe513",
+      "sourceName" : "vibrate"
     },
     {
       "relativePath" : "victory-finger01.svg",
@@ -22359,6 +24349,11 @@
       "relativePath" : "video02.svg",
       "sha256" : "3a94ca3da9ac56dac604e05cd53e9e86aaa4f33067c93bdc726bdefdd1dc0859",
       "sourceName" : "video02"
+    },
+    {
+      "relativePath" : "videotape.svg",
+      "sha256" : "54881bf2d5c0c9079143980219cd98b57c0a35de0da88ba30546bf0e26e5fa7e",
+      "sourceName" : "videotape"
     },
     {
       "relativePath" : "view-agenda.svg",
@@ -22571,6 +24566,11 @@
       "sourceName" : "wallet-add02"
     },
     {
+      "relativePath" : "wallet-cards.svg",
+      "sha256" : "233b4c4db6cac2312a46ec39008415d6ab39d4f52cab0f4610b1b6155da1be90",
+      "sourceName" : "wallet-cards"
+    },
+    {
       "relativePath" : "wallet-done01.svg",
       "sha256" : "ce81fae0ed6f2792fcf1461bfc1c893910409200d1039fd9394812bd22d5d36c",
       "sourceName" : "wallet-done01"
@@ -22626,6 +24626,11 @@
       "sourceName" : "wallet05"
     },
     {
+      "relativePath" : "walpaper.svg",
+      "sha256" : "c49cea584f3f0825c6fa5fd8c404f4970b9efcfcd26bd9b11f52a813b14423b8",
+      "sourceName" : "walpaper"
+    },
+    {
       "relativePath" : "wanted.svg",
       "sha256" : "e98ad057b9da5c89a3ce923afb07d1e9b6e6a223b5f5e48f8f80d767d7eeb243",
       "sourceName" : "wanted"
@@ -22652,7 +24657,7 @@
     },
     {
       "relativePath" : "warehouse.svg",
-      "sha256" : "b048ed342b575a80a8c49351e5ed871fe1f30efad6e5dd0fa3067c5d181b77e5",
+      "sha256" : "cae2fa82cae5b533f61e34e5363f6f958d71cafc71e2eb36886fe65ef3bc02a7",
       "sourceName" : "warehouse"
     },
     {
@@ -22821,6 +24826,11 @@
       "sourceName" : "webflow"
     },
     {
+      "relativePath" : "webhook-off.svg",
+      "sha256" : "b1cb1b29e802995f79474b1d1605a55ef25e99fa0a0ca7544dd41dd07c10d326",
+      "sourceName" : "webhook-off"
+    },
+    {
       "relativePath" : "webhook.svg",
       "sha256" : "55345ee4e76a0ee489eb7e5f3e2b29040400915d3e4c63e2c06782596cf9a969",
       "sourceName" : "webhook"
@@ -22864,6 +24874,16 @@
       "relativePath" : "whatsapp.svg",
       "sha256" : "d3905a864b6cdd7300e46946c5f8aaa6183bfd1f7a9aa7d614827ebc0d002919",
       "sourceName" : "whatsapp"
+    },
+    {
+      "relativePath" : "wheat-off.svg",
+      "sha256" : "a5404efe253059e4eaf28d5c247a5c9b4cb74d64ad57ea1fbf4e5247dcb61022",
+      "sourceName" : "wheat-off"
+    },
+    {
+      "relativePath" : "wheat.svg",
+      "sha256" : "e501a3010a697256948b5c739aed5eefbe374e4eec973c118a7c0ceae3d0cf2c",
+      "sourceName" : "wheat"
     },
     {
       "relativePath" : "wheelchair.svg",
@@ -22976,9 +24996,19 @@
       "sourceName" : "wifi-off02"
     },
     {
+      "relativePath" : "wifi-pen.svg",
+      "sha256" : "b018e330411b0854d57b5a60532e1e0a54774016be2cc74d75b06a8c48c20bb5",
+      "sourceName" : "wifi-pen"
+    },
+    {
       "relativePath" : "wifi-square.svg",
       "sha256" : "31975ae9f87452eb06886708c432b2cb49501def590865b64c6dfcb4ec52eb49",
       "sourceName" : "wifi-square"
+    },
+    {
+      "relativePath" : "wifi-sync.svg",
+      "sha256" : "5dae00db62a02c473e581fdef5b0e8ca49156a6f36e06da190727e01143dc688",
+      "sourceName" : "wifi-sync"
     },
     {
       "relativePath" : "wifi-unlock.svg",
@@ -23441,6 +25471,6 @@
       "sourceName" : "zzz"
     }
   ],
-  "generatedAt" : "2026-02-26T15:52:49Z",
-  "iconCount" : 4688
+  "generatedAt" : "2026-03-15T11:31:55Z",
+  "iconCount" : 5094
 }

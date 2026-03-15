@@ -10,6 +10,10 @@ import Foundation
 // swiftlint:disable explicit_type_interface identifier_name
 // swiftlint:disable nesting type_body_length type_name vertical_whitespace_opening_braces
 internal enum HugeiconsGenerated {
+  /// a-arrow-down.svg
+  internal static let aArrowDown = File(name: "a-arrow-down", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// a-arrow-up.svg
+  internal static let aArrowUp = File(name: "a-arrow-up", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// abacus.svg
   internal static let abacus = File(name: "abacus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// absolute.svg
@@ -270,6 +274,12 @@ internal enum HugeiconsGenerated {
   internal static let alAqsaMosque = File(name: "al-aqsa-mosque", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// alarm-clock.svg
   internal static let alarmClock = File(name: "alarm-clock", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// alarm-clock-off.svg
+  internal static let alarmClockOff = File(name: "alarm-clock-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// alarm-smoke.svg
+  internal static let alarmSmoke = File(name: "alarm-smoke", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// album.svg
+  internal static let album = File(name: "album", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// album-not-found01.svg
   internal static let albumNotFound01 = File(name: "album-not-found01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// album-not-found02.svg
@@ -316,6 +326,18 @@ internal enum HugeiconsGenerated {
   internal static let alignBoxTopRight = File(name: "align-box-top-right", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// align-horizontal-center.svg
   internal static let alignHorizontalCenter = File(name: "align-horizontal-center", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// align-horizontal-distribute-end.svg
+  internal static let alignHorizontalDistributeEnd = File(name: "align-horizontal-distribute-end", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// align-horizontal-distribute-start.svg
+  internal static let alignHorizontalDistributeStart = File(name: "align-horizontal-distribute-start", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// align-horizontal-justify-end.svg
+  internal static let alignHorizontalJustifyEnd = File(name: "align-horizontal-justify-end", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// align-horizontal-justify-start.svg
+  internal static let alignHorizontalJustifyStart = File(name: "align-horizontal-justify-start", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// align-horizontal-space-around.svg
+  internal static let alignHorizontalSpaceAround = File(name: "align-horizontal-space-around", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// align-horizontal-space-between.svg
+  internal static let alignHorizontalSpaceBetween = File(name: "align-horizontal-space-between", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// align-key-object.svg
   internal static let alignKeyObject = File(name: "align-key-object", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// align-left.svg
@@ -328,6 +350,16 @@ internal enum HugeiconsGenerated {
   internal static let alignTop = File(name: "align-top", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// align-vertical-center.svg
   internal static let alignVerticalCenter = File(name: "align-vertical-center", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// align-vertical-distribute-center.svg
+  internal static let alignVerticalDistributeCenter = File(name: "align-vertical-distribute-center", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// align-vertical-distribute-end.svg
+  internal static let alignVerticalDistributeEnd = File(name: "align-vertical-distribute-end", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// align-vertical-distribute-start.svg
+  internal static let alignVerticalDistributeStart = File(name: "align-vertical-distribute-start", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// align-vertical-justify-start.svg
+  internal static let alignVerticalJustifyStart = File(name: "align-vertical-justify-start", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// align-vertical-space-between.svg
+  internal static let alignVerticalSpaceBetween = File(name: "align-vertical-space-between", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// all-bookmark.svg
   internal static let allBookmark = File(name: "all-bookmark", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// allah.svg
@@ -368,6 +400,8 @@ internal enum HugeiconsGenerated {
   internal static let amie = File(name: "amie", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// ammo.svg
   internal static let ammo = File(name: "ammo", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// amphora.svg
+  internal static let amphora = File(name: "amphora", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// ampoule.svg
   internal static let ampoule = File(name: "ampoule", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// analysis-text-link.svg
@@ -400,6 +434,10 @@ internal enum HugeiconsGenerated {
   internal static let angryBird = File(name: "angry-bird", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// anonymous.svg
   internal static let anonymous = File(name: "anonymous", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// antenna.svg
+  internal static let antenna = File(name: "antenna", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// anvil.svg
+  internal static let anvil = File(name: "anvil", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// apartment.svg
   internal static let apartment = File(name: "apartment", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// api.svg
@@ -456,6 +494,8 @@ internal enum HugeiconsGenerated {
   internal static let archiveOff03 = File(name: "archive-off03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// archive-off04.svg
   internal static let archiveOff04 = File(name: "archive-off04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// archive-restore.svg
+  internal static let archiveRestore = File(name: "archive-restore", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// archive01.svg
   internal static let archive01 = File(name: "archive01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// archive02.svg
@@ -486,6 +526,8 @@ internal enum HugeiconsGenerated {
   internal static let arrowDataTransferVertical = File(name: "arrow-data-transfer-vertical", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-diagonal.svg
   internal static let arrowDiagonal = File(name: "arrow-diagonal", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// arrow-down-az.svg
+  internal static let arrowDownAz = File(name: "arrow-down-az", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-down-big.svg
   internal static let arrowDownBig = File(name: "arrow-down-big", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-down-double.svg
@@ -494,10 +536,14 @@ internal enum HugeiconsGenerated {
   internal static let arrowDownLeft01 = File(name: "arrow-down-left01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-down-left02.svg
   internal static let arrowDownLeft02 = File(name: "arrow-down-left02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// arrow-down-one-zero.svg
+  internal static let arrowDownOneZero = File(name: "arrow-down-one-zero", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-down-right01.svg
   internal static let arrowDownRight01 = File(name: "arrow-down-right01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-down-right02.svg
   internal static let arrowDownRight02 = File(name: "arrow-down-right02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// arrow-down-zero-one.svg
+  internal static let arrowDownZeroOne = File(name: "arrow-down-zero-one", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-down01.svg
   internal static let arrowDown01 = File(name: "arrow-down01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-down02.svg
@@ -590,6 +636,10 @@ internal enum HugeiconsGenerated {
   internal static let arrowUpLeft01 = File(name: "arrow-up-left01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-up-left02.svg
   internal static let arrowUpLeft02 = File(name: "arrow-up-left02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// arrow-up-narrow-wide.svg
+  internal static let arrowUpNarrowWide = File(name: "arrow-up-narrow-wide", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// arrow-up-one-zero.svg
+  internal static let arrowUpOneZero = File(name: "arrow-up-one-zero", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-up-right-stack.svg
   internal static let arrowUpRightStack = File(name: "arrow-up-right-stack", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-up-right01.svg
@@ -598,6 +648,12 @@ internal enum HugeiconsGenerated {
   internal static let arrowUpRight02 = File(name: "arrow-up-right02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-up-right03.svg
   internal static let arrowUpRight03 = File(name: "arrow-up-right03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// arrow-up-wide-narrow.svg
+  internal static let arrowUpWideNarrow = File(name: "arrow-up-wide-narrow", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// arrow-up-za.svg
+  internal static let arrowUpZa = File(name: "arrow-up-za", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// arrow-up-zero-one.svg
+  internal static let arrowUpZeroOne = File(name: "arrow-up-zero-one", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-up01.svg
   internal static let arrowUp01 = File(name: "arrow-up01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// arrow-up02.svg
@@ -712,6 +768,10 @@ internal enum HugeiconsGenerated {
   internal static let award05 = File(name: "award05", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// aws-lambda.svg
   internal static let awsLambda = File(name: "aws-lambda", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// axe.svg
+  internal static let axe = File(name: "axe", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// axis-three-d.svg
+  internal static let axisThreeD = File(name: "axis-three-d", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// baby-bed01.svg
   internal static let babyBed01 = File(name: "baby-bed01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// baby-bed02.svg
@@ -742,6 +802,32 @@ internal enum HugeiconsGenerated {
   internal static let backward02 = File(name: "backward02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bacteria.svg
   internal static let bacteria = File(name: "bacteria", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge.svg
+  internal static let badge = File(name: "badge", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge-alert.svg
+  internal static let badgeAlert = File(name: "badge-alert", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge-cent.svg
+  internal static let badgeCent = File(name: "badge-cent", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge-dollar-sign.svg
+  internal static let badgeDollarSign = File(name: "badge-dollar-sign", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge-euro.svg
+  internal static let badgeEuro = File(name: "badge-euro", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge-indian-rupee.svg
+  internal static let badgeIndianRupee = File(name: "badge-indian-rupee", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge-info.svg
+  internal static let badgeInfo = File(name: "badge-info", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge-japanese-yen.svg
+  internal static let badgeJapaneseYen = File(name: "badge-japanese-yen", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge-percent.svg
+  internal static let badgePercent = File(name: "badge-percent", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge-pound-sterling.svg
+  internal static let badgePoundSterling = File(name: "badge-pound-sterling", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge-russian-ruble.svg
+  internal static let badgeRussianRuble = File(name: "badge-russian-ruble", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge-swiss-franc.svg
+  internal static let badgeSwissFranc = File(name: "badge-swiss-franc", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// badge-turkish-lira.svg
+  internal static let badgeTurkishLira = File(name: "badge-turkish-lira", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// badminton.svg
   internal static let badminton = File(name: "badminton", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// badminton-shuttle.svg
@@ -768,6 +854,8 @@ internal enum HugeiconsGenerated {
   internal static let barcodeScan = File(name: "barcode-scan", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// barns.svg
   internal static let barns = File(name: "barns", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// barrel.svg
+  internal static let barrel = File(name: "barrel", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// baseball.svg
   internal static let baseball = File(name: "baseball", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// baseball-bat.svg
@@ -804,12 +892,20 @@ internal enum HugeiconsGenerated {
   internal static let batteryMedium01 = File(name: "battery-medium01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// battery-medium02.svg
   internal static let batteryMedium02 = File(name: "battery-medium02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// battery-plus.svg
+  internal static let batteryPlus = File(name: "battery-plus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// battery-warning.svg
+  internal static let batteryWarning = File(name: "battery-warning", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bbq-grill.svg
   internal static let bbqGrill = File(name: "bbq-grill", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// beach.svg
   internal static let beach = File(name: "beach", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// beach02.svg
   internal static let beach02 = File(name: "beach02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// bean.svg
+  internal static let bean = File(name: "bean", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// bean-off.svg
+  internal static let beanOff = File(name: "bean-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// beater.svg
   internal static let beater = File(name: "beater", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bebo.svg
@@ -828,10 +924,16 @@ internal enum HugeiconsGenerated {
   internal static let bedug01 = File(name: "bedug01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bedug02.svg
   internal static let bedug02 = File(name: "bedug02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// beef.svg
+  internal static let beef = File(name: "beef", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// behance01.svg
   internal static let behance01 = File(name: "behance01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// behance02.svg
   internal static let behance02 = File(name: "behance02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// bell-dot.svg
+  internal static let bellDot = File(name: "bell-dot", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// bell-electric.svg
+  internal static let bellElectric = File(name: "bell-electric", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// belt.svg
   internal static let belt = File(name: "belt", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bend-tool.svg
@@ -842,6 +944,10 @@ internal enum HugeiconsGenerated {
   internal static let berlinTower = File(name: "berlin-tower", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// beta.svg
   internal static let beta = File(name: "beta", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// between-horizontal-end.svg
+  internal static let betweenHorizontalEnd = File(name: "between-horizontal-end", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// between-vertical-end.svg
+  internal static let betweenVerticalEnd = File(name: "between-vertical-end", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bicycle.svg
   internal static let bicycle = File(name: "bicycle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bicycle01.svg
@@ -858,12 +964,18 @@ internal enum HugeiconsGenerated {
   internal static let binoculars = File(name: "binoculars", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bio-energy.svg
   internal static let bioEnergy = File(name: "bio-energy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// biohazard.svg
+  internal static let biohazard = File(name: "biohazard", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// biomass-energy.svg
   internal static let biomassEnergy = File(name: "biomass-energy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// biometric-access.svg
   internal static let biometricAccess = File(name: "biometric-access", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// biometric-device.svg
   internal static let biometricDevice = File(name: "biometric-device", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// bird.svg
+  internal static let bird = File(name: "bird", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// birdhouse.svg
+  internal static let birdhouse = File(name: "birdhouse", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// birthday-cake.svg
   internal static let birthdayCake = File(name: "birthday-cake", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// biscuit.svg
@@ -974,6 +1086,8 @@ internal enum HugeiconsGenerated {
   internal static let blend = File(name: "blend", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// blender.svg
   internal static let blender = File(name: "blender", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// blinds.svg
+  internal static let blinds = File(name: "blinds", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// block-game.svg
   internal static let blockGame = File(name: "block-game", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// blockchain01.svg
@@ -1044,20 +1158,56 @@ internal enum HugeiconsGenerated {
   internal static let bone01 = File(name: "bone01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bone02.svg
   internal static let bone02 = File(name: "bone02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-a.svg
+  internal static let bookA = File(name: "book-a", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-alert.svg
+  internal static let bookAlert = File(name: "book-alert", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// book-bookmark01.svg
   internal static let bookBookmark01 = File(name: "book-bookmark01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// book-bookmark02.svg
   internal static let bookBookmark02 = File(name: "book-bookmark02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-check.svg
+  internal static let bookCheck = File(name: "book-check", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-copy.svg
+  internal static let bookCopy = File(name: "book-copy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-dashed.svg
+  internal static let bookDashed = File(name: "book-dashed", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// book-download.svg
   internal static let bookDownload = File(name: "book-download", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// book-edit.svg
   internal static let bookEdit = File(name: "book-edit", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-heart.svg
+  internal static let bookHeart = File(name: "book-heart", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-image.svg
+  internal static let bookImage = File(name: "book-image", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-key.svg
+  internal static let bookKey = File(name: "book-key", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-lock.svg
+  internal static let bookLock = File(name: "book-lock", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-minus.svg
+  internal static let bookMinus = File(name: "book-minus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-open-check.svg
+  internal static let bookOpenCheck = File(name: "book-open-check", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-open-text.svg
+  internal static let bookOpenText = File(name: "book-open-text", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// book-open01.svg
   internal static let bookOpen01 = File(name: "book-open01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// book-open02.svg
   internal static let bookOpen02 = File(name: "book-open02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-plus.svg
+  internal static let bookPlus = File(name: "book-plus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-search.svg
+  internal static let bookSearch = File(name: "book-search", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-type.svg
+  internal static let bookType = File(name: "book-type", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-up-two.svg
+  internal static let bookUpTwo = File(name: "book-up-two", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// book-upload.svg
   internal static let bookUpload = File(name: "book-upload", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-user.svg
+  internal static let bookUser = File(name: "book-user", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// book-x.svg
+  internal static let bookX = File(name: "book-x", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// book01.svg
   internal static let book01 = File(name: "book01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// book02.svg
@@ -1106,6 +1256,8 @@ internal enum HugeiconsGenerated {
   internal static let bookshelf02 = File(name: "bookshelf02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bookshelf03.svg
   internal static let bookshelf03 = File(name: "bookshelf03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// boom-box.svg
+  internal static let boomBox = File(name: "boom-box", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bootstrap.svg
   internal static let bootstrap = File(name: "bootstrap", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// border-all01.svg
@@ -1168,6 +1320,8 @@ internal enum HugeiconsGenerated {
   internal static let boxingGlove01 = File(name: "boxing-glove01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// brain.svg
   internal static let brain = File(name: "brain", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// brain-cog.svg
+  internal static let brainCog = File(name: "brain-cog", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// brain01.svg
   internal static let brain01 = File(name: "brain01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// brain02.svg
@@ -1186,8 +1340,14 @@ internal enum HugeiconsGenerated {
   internal static let bread04 = File(name: "bread04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// breast-pump.svg
   internal static let breastPump = File(name: "breast-pump", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// brick-wall.svg
+  internal static let brickWall = File(name: "brick-wall", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// brick-wall-shield.svg
+  internal static let brickWallShield = File(name: "brick-wall-shield", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bridge.svg
   internal static let bridge = File(name: "bridge", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// briefcase-conveyor-belt.svg
+  internal static let briefcaseConveyorBelt = File(name: "briefcase-conveyor-belt", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// briefcase-dollar.svg
   internal static let briefcaseDollar = File(name: "briefcase-dollar", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// briefcase01.svg
@@ -1208,6 +1368,8 @@ internal enum HugeiconsGenerated {
   internal static let briefcase08 = File(name: "briefcase08", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// briefcase09.svg
   internal static let briefcase09 = File(name: "briefcase09", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// bring-to-front.svg
+  internal static let bringToFront = File(name: "bring-to-front", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// broccoli.svg
   internal static let broccoli = File(name: "broccoli", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// brochure.svg
@@ -1272,6 +1434,8 @@ internal enum HugeiconsGenerated {
   internal static let bubbleTea01 = File(name: "bubble-tea01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bubble-tea02.svg
   internal static let bubbleTea02 = File(name: "bubble-tea02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// bubbles.svg
+  internal static let bubbles = File(name: "bubbles", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bucket.svg
   internal static let bucket = File(name: "bucket", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// bug01.svg
@@ -1320,6 +1484,8 @@ internal enum HugeiconsGenerated {
   internal static let cabinet03 = File(name: "cabinet03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cabinet04.svg
   internal static let cabinet04 = File(name: "cabinet04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// cable.svg
+  internal static let cable = File(name: "cable", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cable-car.svg
   internal static let cableCar = File(name: "cable-car", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cactus.svg
@@ -1328,6 +1494,8 @@ internal enum HugeiconsGenerated {
   internal static let caduceus = File(name: "caduceus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cafe.svg
   internal static let cafe = File(name: "cafe", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// cake-slice.svg
+  internal static let cakeSlice = File(name: "cake-slice", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// calculate.svg
   internal static let calculate = File(name: "calculate", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// calculator.svg
@@ -1360,6 +1528,8 @@ internal enum HugeiconsGenerated {
   internal static let calendarFavorite01 = File(name: "calendar-favorite01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// calendar-favorite02.svg
   internal static let calendarFavorite02 = File(name: "calendar-favorite02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// calendar-fold.svg
+  internal static let calendarFold = File(name: "calendar-fold", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// calendar-lock01.svg
   internal static let calendarLock01 = File(name: "calendar-lock01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// calendar-lock02.svg
@@ -1374,6 +1544,8 @@ internal enum HugeiconsGenerated {
   internal static let calendarMinus02 = File(name: "calendar-minus02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// calendar-mortarboard.svg
   internal static let calendarMortarboard = File(name: "calendar-mortarboard", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// calendar-off.svg
+  internal static let calendarOff = File(name: "calendar-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// calendar-remove01.svg
   internal static let calendarRemove01 = File(name: "calendar-remove01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// calendar-remove02.svg
@@ -1400,6 +1572,8 @@ internal enum HugeiconsGenerated {
   internal static let calendar04 = File(name: "calendar04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// calendar05.svg
   internal static let calendar05 = File(name: "calendar05", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// calendars.svg
+  internal static let calendars = File(name: "calendars", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// call.svg
   internal static let call = File(name: "call", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// call-add.svg
@@ -1556,6 +1730,16 @@ internal enum HugeiconsGenerated {
   internal static let candelier01 = File(name: "candelier01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// candelier02.svg
   internal static let candelier02 = File(name: "candelier02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// candy.svg
+  internal static let candy = File(name: "candy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// candy-cane.svg
+  internal static let candyCane = File(name: "candy-cane", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// candy-off.svg
+  internal static let candyOff = File(name: "candy-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// cannabis.svg
+  internal static let cannabis = File(name: "cannabis", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// cannabis-off.svg
+  internal static let cannabisOff = File(name: "cannabis-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// canvas.svg
   internal static let canvas = File(name: "canvas", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cap.svg
@@ -1634,6 +1818,8 @@ internal enum HugeiconsGenerated {
   internal static let cashier = File(name: "cashier", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cashier02.svg
   internal static let cashier02 = File(name: "cashier02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// cassette-tape.svg
+  internal static let cassetteTape = File(name: "cassette-tape", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// castbox.svg
   internal static let castbox = File(name: "castbox", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// castle.svg
@@ -1692,10 +1878,20 @@ internal enum HugeiconsGenerated {
   internal static let chart = File(name: "chart", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-analysis.svg
   internal static let chartAnalysis = File(name: "chart-analysis", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-area.svg
+  internal static let chartArea = File(name: "chart-area", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-average.svg
   internal static let chartAverage = File(name: "chart-average", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-bar-big.svg
+  internal static let chartBarBig = File(name: "chart-bar-big", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-bar-decreasing.svg
+  internal static let chartBarDecreasing = File(name: "chart-bar-decreasing", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-bar-increasing.svg
+  internal static let chartBarIncreasing = File(name: "chart-bar-increasing", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-bar-line.svg
   internal static let chartBarLine = File(name: "chart-bar-line", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-bar-stacked.svg
+  internal static let chartBarStacked = File(name: "chart-bar-stacked", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-breakout-circle.svg
   internal static let chartBreakoutCircle = File(name: "chart-breakout-circle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-breakout-square.svg
@@ -1706,14 +1902,24 @@ internal enum HugeiconsGenerated {
   internal static let chartBubble02 = File(name: "chart-bubble02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-candle.svg
   internal static let chartCandle = File(name: "chart-candle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-candlestick.svg
+  internal static let chartCandlestick = File(name: "chart-candlestick", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-column.svg
   internal static let chartColumn = File(name: "chart-column", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-column-big.svg
+  internal static let chartColumnBig = File(name: "chart-column-big", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-column-decreasing.svg
+  internal static let chartColumnDecreasing = File(name: "chart-column-decreasing", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-column-stacked.svg
+  internal static let chartColumnStacked = File(name: "chart-column-stacked", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-decrease.svg
   internal static let chartDecrease = File(name: "chart-decrease", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-down.svg
   internal static let chartDown = File(name: "chart-down", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-evaluation.svg
   internal static let chartEvaluation = File(name: "chart-evaluation", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-gantt.svg
+  internal static let chartGantt = File(name: "chart-gantt", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-high-low.svg
   internal static let chartHighLow = File(name: "chart-high-low", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-histogram.svg
@@ -1732,6 +1938,12 @@ internal enum HugeiconsGenerated {
   internal static let chartMedium = File(name: "chart-medium", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-minimum.svg
   internal static let chartMinimum = File(name: "chart-minimum", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-no-axes-column-increasing.svg
+  internal static let chartNoAxesColumnIncreasing = File(name: "chart-no-axes-column-increasing", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-no-axes-combined.svg
+  internal static let chartNoAxesCombined = File(name: "chart-no-axes-combined", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chart-no-axes-gantt.svg
+  internal static let chartNoAxesGantt = File(name: "chart-no-axes-gantt", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-radar.svg
   internal static let chartRadar = File(name: "chart-radar", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chart-relationship.svg
@@ -1900,6 +2112,10 @@ internal enum HugeiconsGenerated {
   internal static let chemistry03 = File(name: "chemistry03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cherry.svg
   internal static let cherry = File(name: "cherry", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chess-bishop.svg
+  internal static let chessBishop = File(name: "chess-bishop", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// chess-king.svg
+  internal static let chessKing = File(name: "chess-king", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chess-pawn.svg
   internal static let chessPawn = File(name: "chess-pawn", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// chess01.svg
@@ -1930,6 +2146,10 @@ internal enum HugeiconsGenerated {
   internal static let chrysler = File(name: "chrysler", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// church.svg
   internal static let church = File(name: "church", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// cigarette.svg
+  internal static let cigarette = File(name: "cigarette", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// cigarette-off.svg
+  internal static let cigaretteOff = File(name: "cigarette-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cinnamon-roll.svg
   internal static let cinnamonRoll = File(name: "cinnamon-roll", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// circle.svg
@@ -2038,12 +2258,24 @@ internal enum HugeiconsGenerated {
   internal static let circleLock01 = File(name: "circle-lock01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// circle-lock02.svg
   internal static let circleLock02 = File(name: "circle-lock02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// circle-parking-off.svg
+  internal static let circleParkingOff = File(name: "circle-parking-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// circle-password.svg
   internal static let circlePassword = File(name: "circle-password", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// circle-pile.svg
+  internal static let circlePile = File(name: "circle-pile", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// circle-slash-two.svg
+  internal static let circleSlashTwo = File(name: "circle-slash-two", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// circle-small.svg
+  internal static let circleSmall = File(name: "circle-small", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// circle-unlock01.svg
   internal static let circleUnlock01 = File(name: "circle-unlock01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// circle-unlock02.svg
   internal static let circleUnlock02 = File(name: "circle-unlock02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// circuit-board.svg
+  internal static let circuitBoard = File(name: "circuit-board", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// citrus.svg
+  internal static let citrus = File(name: "citrus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// city01.svg
   internal static let city01 = File(name: "city01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// city02.svg
@@ -2068,8 +2300,26 @@ internal enum HugeiconsGenerated {
   internal static let cliparts = File(name: "cliparts", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// clipboard.svg
   internal static let clipboard = File(name: "clipboard", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// clipboard-clock.svg
+  internal static let clipboardClock = File(name: "clipboard-clock", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// clipboard-copy.svg
+  internal static let clipboardCopy = File(name: "clipboard-copy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// clipboard-minus.svg
+  internal static let clipboardMinus = File(name: "clipboard-minus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// clipboard-paste.svg
+  internal static let clipboardPaste = File(name: "clipboard-paste", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// clock-add.svg
   internal static let clockAdd = File(name: "clock-add", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// clock-alert.svg
+  internal static let clockAlert = File(name: "clock-alert", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// clock-arrow-down.svg
+  internal static let clockArrowDown = File(name: "clock-arrow-down", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// clock-arrow-up.svg
+  internal static let clockArrowUp = File(name: "clock-arrow-up", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// clock-check.svg
+  internal static let clockCheck = File(name: "clock-check", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// clock-plus.svg
+  internal static let clockPlus = File(name: "clock-plus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// clock01.svg
   internal static let clock01 = File(name: "clock01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// clock02.svg
@@ -2088,6 +2338,8 @@ internal enum HugeiconsGenerated {
   internal static let clothes = File(name: "clothes", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cloud.svg
   internal static let cloud = File(name: "cloud", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// cloud-alert.svg
+  internal static let cloudAlert = File(name: "cloud-alert", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cloud-angled-rain.svg
   internal static let cloudAngledRain = File(name: "cloud-angled-rain", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cloud-angled-rain-zap.svg
@@ -2112,6 +2364,8 @@ internal enum HugeiconsGenerated {
   internal static let cloudMidRain = File(name: "cloud-mid-rain", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cloud-mid-snow.svg
   internal static let cloudMidSnow = File(name: "cloud-mid-snow", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// cloud-off.svg
+  internal static let cloudOff = File(name: "cloud-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cloud-saving-done01.svg
   internal static let cloudSavingDone01 = File(name: "cloud-saving-done01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cloud-saving-done02.svg
@@ -2140,6 +2394,8 @@ internal enum HugeiconsGenerated {
   internal static let codeSimple = File(name: "code-simple", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// code-square.svg
   internal static let codeSquare = File(name: "code-square", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// codepen.svg
+  internal static let codepen = File(name: "codepen", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// codesandbox.svg
   internal static let codesandbox = File(name: "codesandbox", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// coffee-beans.svg
@@ -2152,6 +2408,8 @@ internal enum HugeiconsGenerated {
   internal static let coffee03 = File(name: "coffee03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// coffee04.svg
   internal static let coffee04 = File(name: "coffee04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// cog.svg
+  internal static let cog = File(name: "cog", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// coinbase.svg
   internal static let coinbase = File(name: "coinbase", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// coins-bitcoin.svg
@@ -2184,6 +2442,10 @@ internal enum HugeiconsGenerated {
   internal static let columnDelete = File(name: "column-delete", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// column-insert.svg
   internal static let columnInsert = File(name: "column-insert", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// columns-three-cog.svg
+  internal static let columnsThreeCog = File(name: "columns-three-cog", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// combine.svg
+  internal static let combine = File(name: "combine", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// comet01.svg
   internal static let comet01 = File(name: "comet01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// comet02.svg
@@ -2226,6 +2488,8 @@ internal enum HugeiconsGenerated {
   internal static let compass01 = File(name: "compass01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// complaint.svg
   internal static let complaint = File(name: "complaint", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// component.svg
+  internal static let component = File(name: "component", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// computer.svg
   internal static let computer = File(name: "computer", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// computer-activity.svg
@@ -2302,6 +2566,8 @@ internal enum HugeiconsGenerated {
   internal static let console = File(name: "console", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// constellation.svg
   internal static let constellation = File(name: "constellation", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// construction.svg
+  internal static let construction = File(name: "construction", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// contact.svg
   internal static let contact = File(name: "contact", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// contact-book.svg
@@ -2310,6 +2576,8 @@ internal enum HugeiconsGenerated {
   internal static let contact01 = File(name: "contact01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// contact02.svg
   internal static let contact02 = File(name: "contact02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// container.svg
+  internal static let container = File(name: "container", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// container-truck.svg
   internal static let containerTruck = File(name: "container-truck", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// container-truck01.svg
@@ -2332,12 +2600,24 @@ internal enum HugeiconsGenerated {
   internal static let coordinate02 = File(name: "coordinate02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// copilot.svg
   internal static let copilot = File(name: "copilot", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// copy.svg
+  internal static let copy = File(name: "copy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// copy-check.svg
+  internal static let copyCheck = File(name: "copy-check", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// copy-link.svg
   internal static let copyLink = File(name: "copy-link", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// copy-minus.svg
+  internal static let copyMinus = File(name: "copy-minus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// copy-plus.svg
+  internal static let copyPlus = File(name: "copy-plus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// copy-slash.svg
+  internal static let copySlash = File(name: "copy-slash", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// copy01.svg
   internal static let copy01 = File(name: "copy01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// copy02.svg
   internal static let copy02 = File(name: "copy02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// copyleft.svg
+  internal static let copyleft = File(name: "copyleft", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// copyright.svg
   internal static let copyright = File(name: "copyright", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// corn.svg
@@ -2388,6 +2668,8 @@ internal enum HugeiconsGenerated {
   internal static let crane = File(name: "crane", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// crazy.svg
   internal static let crazy = File(name: "crazy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// creative-commons.svg
+  internal static let creativeCommons = File(name: "creative-commons", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// creative-market.svg
   internal static let creativeMarket = File(name: "creative-market", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// credit-card.svg
@@ -2452,6 +2734,8 @@ internal enum HugeiconsGenerated {
   internal static let cupcake03 = File(name: "cupcake03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// curling.svg
   internal static let curling = File(name: "curling", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// currency.svg
+  internal static let currency = File(name: "currency", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cursor-add-selection01.svg
   internal static let cursorAddSelection01 = File(name: "cursor-add-selection01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cursor-add-selection02.svg
@@ -2550,6 +2834,8 @@ internal enum HugeiconsGenerated {
   internal static let cylinder03 = File(name: "cylinder03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// cylinder04.svg
   internal static let cylinder04 = File(name: "cylinder04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// dam.svg
+  internal static let dam = File(name: "dam", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// danger.svg
   internal static let danger = File(name: "danger", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// dark-mode.svg
@@ -2722,6 +3008,12 @@ internal enum HugeiconsGenerated {
   internal static let diameter = File(name: "diameter", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// diamond.svg
   internal static let diamond = File(name: "diamond", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// diamond-minus.svg
+  internal static let diamondMinus = File(name: "diamond-minus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// diamond-percent.svg
+  internal static let diamondPercent = File(name: "diamond-percent", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// diamond-plus.svg
+  internal static let diamondPlus = File(name: "diamond-plus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// diamond01.svg
   internal static let diamond01 = File(name: "diamond01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// diamond02.svg
@@ -2774,6 +3066,14 @@ internal enum HugeiconsGenerated {
   internal static let disability01 = File(name: "disability01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// disability02.svg
   internal static let disability02 = File(name: "disability02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// disc.svg
+  internal static let disc = File(name: "disc", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// disc-album.svg
+  internal static let discAlbum = File(name: "disc-album", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// disc-three.svg
+  internal static let discThree = File(name: "disc-three", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// disc-two.svg
+  internal static let discTwo = File(name: "disc-two", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// discord.svg
   internal static let discord = File(name: "discord", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// discount.svg
@@ -2864,6 +3164,8 @@ internal enum HugeiconsGenerated {
   internal static let door = File(name: "door", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// door-lock.svg
   internal static let doorLock = File(name: "door-lock", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// door-open.svg
+  internal static let doorOpen = File(name: "door-open", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// door01.svg
   internal static let door01 = File(name: "door01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// door02.svg
@@ -2946,6 +3248,8 @@ internal enum HugeiconsGenerated {
   internal static let dressingTable03 = File(name: "dressing-table03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// dribbble.svg
   internal static let dribbble = File(name: "dribbble", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// drill.svg
+  internal static let drill = File(name: "drill", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// drink.svg
   internal static let drink = File(name: "drink", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// drive.svg
@@ -2960,6 +3264,8 @@ internal enum HugeiconsGenerated {
   internal static let dropdownFieldType = File(name: "dropdown-field-type", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// droplet.svg
   internal static let droplet = File(name: "droplet", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// droplet-off.svg
+  internal static let dropletOff = File(name: "droplet-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// dropper.svg
   internal static let dropper = File(name: "dropper", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// ds3-tool.svg
@@ -2976,6 +3282,8 @@ internal enum HugeiconsGenerated {
   internal static let duplex = File(name: "duplex", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// ear.svg
   internal static let ear = File(name: "ear", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// ear-off.svg
+  internal static let earOff = File(name: "ear-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// ear-rings01.svg
   internal static let earRings01 = File(name: "ear-rings01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// ear-rings02.svg
@@ -2984,6 +3292,8 @@ internal enum HugeiconsGenerated {
   internal static let earRings03 = File(name: "ear-rings03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// earth.svg
   internal static let earth = File(name: "earth", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// earth-lock.svg
+  internal static let earthLock = File(name: "earth-lock", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// ease-curve-control-points.svg
   internal static let easeCurveControlPoints = File(name: "ease-curve-control-points", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// ease-in.svg
@@ -3028,6 +3338,12 @@ internal enum HugeiconsGenerated {
   internal static let edit03 = File(name: "edit03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// edit04.svg
   internal static let edit04 = File(name: "edit04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// egg.svg
+  internal static let egg = File(name: "egg", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// egg-fried.svg
+  internal static let eggFried = File(name: "egg-fried", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// egg-off.svg
+  internal static let eggOff = File(name: "egg-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// eggs.svg
   internal static let eggs = File(name: "eggs", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// eid-mubarak.svg
@@ -3110,6 +3426,8 @@ internal enum HugeiconsGenerated {
   internal static let ethereumEllipse = File(name: "ethereum-ellipse", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// ethereum-rectangle.svg
   internal static let ethereumRectangle = File(name: "ethereum-rectangle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// ethernet-port.svg
+  internal static let ethernetPort = File(name: "ethernet-port", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// euro.svg
   internal static let euro = File(name: "euro", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// euro-circle.svg
@@ -3178,6 +3496,8 @@ internal enum HugeiconsGenerated {
   internal static let femaleSymbol = File(name: "female-symbol", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// female02.svg
   internal static let female02 = File(name: "female02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// fence.svg
+  internal static let fence = File(name: "fence", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// fencing.svg
   internal static let fencing = File(name: "fencing", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// fencing-mask.svg
@@ -3190,24 +3510,52 @@ internal enum HugeiconsGenerated {
   internal static let figma = File(name: "figma", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-add.svg
   internal static let fileAdd = File(name: "file-add", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-archive.svg
+  internal static let fileArchive = File(name: "file-archive", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-attachment.svg
   internal static let fileAttachment = File(name: "file-attachment", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-audio.svg
   internal static let fileAudio = File(name: "file-audio", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-axis-three-d.svg
+  internal static let fileAxisThreeD = File(name: "file-axis-three-d", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-badge.svg
+  internal static let fileBadge = File(name: "file-badge", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-bitcoin.svg
   internal static let fileBitcoin = File(name: "file-bitcoin", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-block.svg
   internal static let fileBlock = File(name: "file-block", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-bookmark.svg
   internal static let fileBookmark = File(name: "file-bookmark", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-box.svg
+  internal static let fileBox = File(name: "file-box", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-braces.svg
+  internal static let fileBraces = File(name: "file-braces", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-chart-column.svg
+  internal static let fileChartColumn = File(name: "file-chart-column", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-chart-column-increasing.svg
+  internal static let fileChartColumnIncreasing = File(name: "file-chart-column-increasing", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-chart-pie.svg
+  internal static let fileChartPie = File(name: "file-chart-pie", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-clock.svg
+  internal static let fileClock = File(name: "file-clock", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-cloud.svg
   internal static let fileCloud = File(name: "file-cloud", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-code.svg
+  internal static let fileCode = File(name: "file-code", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-code-corner.svg
+  internal static let fileCodeCorner = File(name: "file-code-corner", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-corrupt.svg
   internal static let fileCorrupt = File(name: "file-corrupt", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-database.svg
   internal static let fileDatabase = File(name: "file-database", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-diff.svg
+  internal static let fileDiff = File(name: "file-diff", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-digit.svg
+  internal static let fileDigit = File(name: "file-digit", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-dollar.svg
   internal static let fileDollar = File(name: "file-dollar", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-down.svg
+  internal static let fileDown = File(name: "file-down", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-download.svg
   internal static let fileDownload = File(name: "file-download", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-edit.svg
@@ -3218,14 +3566,28 @@ internal enum HugeiconsGenerated {
   internal static let fileEmpty02 = File(name: "file-empty02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-euro.svg
   internal static let fileEuro = File(name: "file-euro", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-exclamation-point.svg
+  internal static let fileExclamationPoint = File(name: "file-exclamation-point", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-export.svg
   internal static let fileExport = File(name: "file-export", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-favourite.svg
   internal static let fileFavourite = File(name: "file-favourite", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-headphone.svg
+  internal static let fileHeadphone = File(name: "file-headphone", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-heart.svg
+  internal static let fileHeart = File(name: "file-heart", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-image.svg
+  internal static let fileImage = File(name: "file-image", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-import.svg
   internal static let fileImport = File(name: "file-import", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-input.svg
+  internal static let fileInput = File(name: "file-input", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-key.svg
+  internal static let fileKey = File(name: "file-key", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-link.svg
   internal static let fileLink = File(name: "file-link", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-lock.svg
+  internal static let fileLock = File(name: "file-lock", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-locked.svg
   internal static let fileLocked = File(name: "file-locked", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-management.svg
@@ -3238,12 +3600,22 @@ internal enum HugeiconsGenerated {
   internal static let fileNotFound = File(name: "file-not-found", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-paste.svg
   internal static let filePaste = File(name: "file-paste", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-pen.svg
+  internal static let filePen = File(name: "file-pen", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-pin.svg
   internal static let filePin = File(name: "file-pin", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-play.svg
+  internal static let filePlay = File(name: "file-play", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-plus.svg
+  internal static let filePlus = File(name: "file-plus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-pound.svg
   internal static let filePound = File(name: "file-pound", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-question-mark.svg
+  internal static let fileQuestionMark = File(name: "file-question-mark", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-remove.svg
   internal static let fileRemove = File(name: "file-remove", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-scan.svg
+  internal static let fileScan = File(name: "file-scan", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-script.svg
   internal static let fileScript = File(name: "file-script", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-search.svg
@@ -3252,24 +3624,48 @@ internal enum HugeiconsGenerated {
   internal static let fileSecurity = File(name: "file-security", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-shredder.svg
   internal static let fileShredder = File(name: "file-shredder", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-signal.svg
+  internal static let fileSignal = File(name: "file-signal", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-sliders.svg
+  internal static let fileSliders = File(name: "file-sliders", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-spreadsheet.svg
+  internal static let fileSpreadsheet = File(name: "file-spreadsheet", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-stack.svg
+  internal static let fileStack = File(name: "file-stack", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-star.svg
   internal static let fileStar = File(name: "file-star", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-sync.svg
   internal static let fileSync = File(name: "file-sync", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-terminal.svg
+  internal static let fileTerminal = File(name: "file-terminal", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-type.svg
+  internal static let fileType = File(name: "file-type", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-unknown.svg
   internal static let fileUnknown = File(name: "file-unknown", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-unlocked.svg
   internal static let fileUnlocked = File(name: "file-unlocked", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-up.svg
+  internal static let fileUp = File(name: "file-up", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-upload.svg
   internal static let fileUpload = File(name: "file-upload", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-user.svg
+  internal static let fileUser = File(name: "file-user", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-validation.svg
   internal static let fileValidation = File(name: "file-validation", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-verified.svg
   internal static let fileVerified = File(name: "file-verified", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-video.svg
   internal static let fileVideo = File(name: "file-video", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-video-camera.svg
+  internal static let fileVideoCamera = File(name: "file-video-camera", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-view.svg
   internal static let fileView = File(name: "file-view", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-volume.svg
+  internal static let fileVolume = File(name: "file-volume", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-x.svg
+  internal static let fileX = File(name: "file-x", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// file-x-corner.svg
+  internal static let fileXCorner = File(name: "file-x-corner", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-yen.svg
   internal static let fileYen = File(name: "file-yen", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// file-zip.svg
@@ -3332,6 +3728,8 @@ internal enum HugeiconsGenerated {
   internal static let fins = File(name: "fins", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// fire.svg
   internal static let fire = File(name: "fire", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// fire-extinguisher.svg
+  internal static let fireExtinguisher = File(name: "fire-extinguisher", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// fire-pit.svg
   internal static let firePit = File(name: "fire-pit", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// fire-security.svg
@@ -3354,6 +3752,12 @@ internal enum HugeiconsGenerated {
   internal static let firstBracketSquare = File(name: "first-bracket-square", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// fish-food.svg
   internal static let fishFood = File(name: "fish-food", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// fish-off.svg
+  internal static let fishOff = File(name: "fish-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// fish-symbol.svg
+  internal static let fishSymbol = File(name: "fish-symbol", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// fishing-hook.svg
+  internal static let fishingHook = File(name: "fishing-hook", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// fit-to-screen.svg
   internal static let fitToScreen = File(name: "fit-to-screen", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// five-circle.svg
@@ -3368,6 +3772,8 @@ internal enum HugeiconsGenerated {
   internal static let flag02 = File(name: "flag02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// flag03.svg
   internal static let flag03 = File(name: "flag03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// flame-kindling.svg
+  internal static let flameKindling = File(name: "flame-kindling", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// flash.svg
   internal static let flash = File(name: "flash", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// flash-off.svg
@@ -3422,6 +3828,8 @@ internal enum HugeiconsGenerated {
   internal static let focusPoint = File(name: "focus-point", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-add.svg
   internal static let folderAdd = File(name: "folder-add", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-archive.svg
+  internal static let folderArchive = File(name: "folder-archive", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-attachment.svg
   internal static let folderAttachment = File(name: "folder-attachment", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-audio.svg
@@ -3434,10 +3842,16 @@ internal enum HugeiconsGenerated {
   internal static let folderClock = File(name: "folder-clock", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-cloud.svg
   internal static let folderCloud = File(name: "folder-cloud", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-code.svg
+  internal static let folderCode = File(name: "folder-code", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-cog.svg
+  internal static let folderCog = File(name: "folder-cog", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-details.svg
   internal static let folderDetails = File(name: "folder-details", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-details-reference.svg
   internal static let folderDetailsReference = File(name: "folder-details-reference", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-dot.svg
+  internal static let folderDot = File(name: "folder-dot", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-download.svg
   internal static let folderDownload = File(name: "folder-download", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-edit.svg
@@ -3448,8 +3862,20 @@ internal enum HugeiconsGenerated {
   internal static let folderFavourite = File(name: "folder-favourite", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-file-storage.svg
   internal static let folderFileStorage = File(name: "folder-file-storage", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-git.svg
+  internal static let folderGit = File(name: "folder-git", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-git-two.svg
+  internal static let folderGitTwo = File(name: "folder-git-two", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-heart.svg
+  internal static let folderHeart = File(name: "folder-heart", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-import.svg
   internal static let folderImport = File(name: "folder-import", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-input.svg
+  internal static let folderInput = File(name: "folder-input", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-kanban.svg
+  internal static let folderKanban = File(name: "folder-kanban", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-key.svg
+  internal static let folderKey = File(name: "folder-key", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-library.svg
   internal static let folderLibrary = File(name: "folder-library", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-links.svg
@@ -3466,12 +3892,20 @@ internal enum HugeiconsGenerated {
   internal static let folderOff = File(name: "folder-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-open.svg
   internal static let folderOpen = File(name: "folder-open", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-output.svg
+  internal static let folderOutput = File(name: "folder-output", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-pen.svg
+  internal static let folderPen = File(name: "folder-pen", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-pin.svg
   internal static let folderPin = File(name: "folder-pin", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-remove.svg
   internal static let folderRemove = File(name: "folder-remove", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-root.svg
+  internal static let folderRoot = File(name: "folder-root", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-search.svg
   internal static let folderSearch = File(name: "folder-search", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-search-two.svg
+  internal static let folderSearchTwo = File(name: "folder-search-two", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-security.svg
   internal static let folderSecurity = File(name: "folder-security", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-shared01.svg
@@ -3480,10 +3914,14 @@ internal enum HugeiconsGenerated {
   internal static let folderShared02 = File(name: "folder-shared02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-shared03.svg
   internal static let folderShared03 = File(name: "folder-shared03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-symlink.svg
+  internal static let folderSymlink = File(name: "folder-symlink", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-sync.svg
   internal static let folderSync = File(name: "folder-sync", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-transfer.svg
   internal static let folderTransfer = File(name: "folder-transfer", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// folder-tree.svg
+  internal static let folderTree = File(name: "folder-tree", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-unknown.svg
   internal static let folderUnknown = File(name: "folder-unknown", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// folder-unlocked.svg
@@ -3566,6 +4004,8 @@ internal enum HugeiconsGenerated {
   internal static let functionSquare = File(name: "function-square", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// galaxy.svg
   internal static let galaxy = File(name: "galaxy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// gallery-horizontal-end.svg
+  internal static let galleryHorizontalEnd = File(name: "gallery-horizontal-end", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// game.svg
   internal static let game = File(name: "game", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// game-controller01.svg
@@ -3576,6 +4016,8 @@ internal enum HugeiconsGenerated {
   internal static let gameController03 = File(name: "game-controller03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// gameboy.svg
   internal static let gameboy = File(name: "gameboy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// gamepad-directional.svg
+  internal static let gamepadDirectional = File(name: "gamepad-directional", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// garage.svg
   internal static let garage = File(name: "garage", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// garbage-truck.svg
@@ -3596,6 +4038,8 @@ internal enum HugeiconsGenerated {
   internal static let geometricShapes01 = File(name: "geometric-shapes01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// geometric-shapes02.svg
   internal static let geometricShapes02 = File(name: "geometric-shapes02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// georgian-lari.svg
+  internal static let georgianLari = File(name: "georgian-lari", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// gibbous-moon.svg
   internal static let gibbousMoon = File(name: "gibbous-moon", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// gif01.svg
@@ -3612,6 +4056,8 @@ internal enum HugeiconsGenerated {
   internal static let gitBranch = File(name: "git-branch", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// git-commit.svg
   internal static let gitCommit = File(name: "git-commit", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// git-commit-horizontal.svg
+  internal static let gitCommitHorizontal = File(name: "git-commit-horizontal", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// git-compare.svg
   internal static let gitCompare = File(name: "git-compare", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// git-fork.svg
@@ -3650,6 +4096,8 @@ internal enum HugeiconsGenerated {
   internal static let globalSearch = File(name: "global-search", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// globe.svg
   internal static let globe = File(name: "globe", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// globe-x.svg
+  internal static let globeX = File(name: "globe-x", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// globe02.svg
   internal static let globe02 = File(name: "globe02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// glove.svg
@@ -3766,6 +4214,8 @@ internal enum HugeiconsGenerated {
   internal static let grok = File(name: "grok", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// grok02.svg
   internal static let grok02 = File(name: "grok02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// group.svg
+  internal static let group = File(name: "group", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// group-items.svg
   internal static let groupItems = File(name: "group-items", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// group-layers.svg
@@ -3792,6 +4242,8 @@ internal enum HugeiconsGenerated {
   internal static let halal = File(name: "halal", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// halal-lab.svg
   internal static let halalLab = File(name: "halal-lab", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// ham.svg
+  internal static let ham = File(name: "ham", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// hamburger01.svg
   internal static let hamburger01 = File(name: "hamburger01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// hamburger02.svg
@@ -3802,8 +4254,14 @@ internal enum HugeiconsGenerated {
   internal static let handBag02 = File(name: "hand-bag02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// hand-beater.svg
   internal static let handBeater = File(name: "hand-beater", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// hand-coins.svg
+  internal static let handCoins = File(name: "hand-coins", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// hand-grab.svg
+  internal static let handGrab = File(name: "hand-grab", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// hand-grip.svg
   internal static let handGrip = File(name: "hand-grip", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// hand-helping.svg
+  internal static let handHelping = File(name: "hand-helping", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// hand-pointing-down01.svg
   internal static let handPointingDown01 = File(name: "hand-pointing-down01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// hand-pointing-down02.svg
@@ -3846,6 +4304,10 @@ internal enum HugeiconsGenerated {
   internal static let happy01 = File(name: "happy01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// hard-drive.svg
   internal static let hardDrive = File(name: "hard-drive", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// hard-drive-download.svg
+  internal static let hardDriveDownload = File(name: "hard-drive-download", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// hard-drive-upload.svg
+  internal static let hardDriveUpload = File(name: "hard-drive-upload", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// hashtag.svg
   internal static let hashtag = File(name: "hashtag", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// hat.svg
@@ -3888,10 +4350,14 @@ internal enum HugeiconsGenerated {
   internal static let heartAdd = File(name: "heart-add", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// heart-check.svg
   internal static let heartCheck = File(name: "heart-check", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// heart-minus.svg
+  internal static let heartMinus = File(name: "heart-minus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// heart-remove.svg
   internal static let heartRemove = File(name: "heart-remove", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// heartbreak.svg
   internal static let heartbreak = File(name: "heartbreak", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// heater.svg
+  internal static let heater = File(name: "heater", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// helicopter.svg
   internal static let helicopter = File(name: "helicopter", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// help-circle.svg
@@ -3996,6 +4462,10 @@ internal enum HugeiconsGenerated {
   internal static let honourStar = File(name: "honour-star", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// hoodie.svg
   internal static let hoodie = File(name: "hoodie", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// hop.svg
+  internal static let hop = File(name: "hop", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// hop-off.svg
+  internal static let hopOff = File(name: "hop-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// horizonal-scroll-point.svg
   internal static let horizonalScrollPoint = File(name: "horizonal-scroll-point", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// horizontal-resize.svg
@@ -4038,8 +4508,14 @@ internal enum HugeiconsGenerated {
   internal static let hourglass = File(name: "hourglass", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// hourglass-off.svg
   internal static let hourglassOff = File(name: "hourglass-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// house-heart.svg
+  internal static let houseHeart = File(name: "house-heart", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// house-plus.svg
+  internal static let housePlus = File(name: "house-plus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// house-solar-panel.svg
   internal static let houseSolarPanel = File(name: "house-solar-panel", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// house-wifi.svg
+  internal static let houseWifi = File(name: "house-wifi", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// house01.svg
   internal static let house01 = File(name: "house01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// house02.svg
@@ -4086,6 +4562,8 @@ internal enum HugeiconsGenerated {
   internal static let iconjar = File(name: "iconjar", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// id.svg
   internal static let id = File(name: "id", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// id-card-lanyard.svg
+  internal static let idCardLanyard = File(name: "id-card-lanyard", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// id-not-verified.svg
   internal static let idNotVerified = File(name: "id-not-verified", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// id-verified.svg
@@ -4132,6 +4610,8 @@ internal enum HugeiconsGenerated {
   internal static let imageNotFound01 = File(name: "image-not-found01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// image-not-found02.svg
   internal static let imageNotFound02 = File(name: "image-not-found02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// image-play.svg
+  internal static let imagePlay = File(name: "image-play", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// image-remove01.svg
   internal static let imageRemove01 = File(name: "image-remove01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// image-remove02.svg
@@ -4424,6 +4904,10 @@ internal enum HugeiconsGenerated {
   internal static let lake = File(name: "lake", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// lamp.svg
   internal static let lamp = File(name: "lamp", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// lamp-wall-down.svg
+  internal static let lampWallDown = File(name: "lamp-wall-down", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// lamp-wall-up.svg
+  internal static let lampWallUp = File(name: "lamp-wall-up", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// lamp01.svg
   internal static let lamp01 = File(name: "lamp01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// lamp02.svg
@@ -4434,6 +4918,10 @@ internal enum HugeiconsGenerated {
   internal static let lamp04 = File(name: "lamp04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// lamp05.svg
   internal static let lamp05 = File(name: "lamp05", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// land-plot.svg
+  internal static let landPlot = File(name: "land-plot", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// landmark.svg
+  internal static let landmark = File(name: "landmark", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// language-circle.svg
   internal static let languageCircle = File(name: "language-circle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// language-skill.svg
@@ -4466,6 +4954,8 @@ internal enum HugeiconsGenerated {
   internal static let laptopSettings = File(name: "laptop-settings", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// laptop-video.svg
   internal static let laptopVideo = File(name: "laptop-video", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// lasso-select.svg
+  internal static let lassoSelect = File(name: "lasso-select", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// lasso-tool01.svg
   internal static let lassoTool01 = File(name: "lasso-tool01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// lasso-tool02.svg
@@ -4570,6 +5060,8 @@ internal enum HugeiconsGenerated {
   internal static let leaf03 = File(name: "leaf03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// leaf04.svg
   internal static let leaf04 = File(name: "leaf04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// leafy-green.svg
+  internal static let leafyGreen = File(name: "leafy-green", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// leaving-geo-fence.svg
   internal static let leavingGeoFence = File(name: "leaving-geo-fence", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// leetcode.svg
@@ -4630,6 +5122,10 @@ internal enum HugeiconsGenerated {
   internal static let lifebuoy = File(name: "lifebuoy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// lift-truck.svg
   internal static let liftTruck = File(name: "lift-truck", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// ligature.svg
+  internal static let ligature = File(name: "ligature", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// lightbulb-off.svg
+  internal static let lightbulbOff = File(name: "lightbulb-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// lighthouse.svg
   internal static let lighthouse = File(name: "lighthouse", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// limit-order.svg
@@ -4668,10 +5164,32 @@ internal enum HugeiconsGenerated {
   internal static let linkedin01 = File(name: "linkedin01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// linkedin02.svg
   internal static let linkedin02 = File(name: "linkedin02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// list-chevrons-down-up.svg
+  internal static let listChevronsDownUp = File(name: "list-chevrons-down-up", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// list-filter-plus.svg
+  internal static let listFilterPlus = File(name: "list-filter-plus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// list-indent-decrease.svg
+  internal static let listIndentDecrease = File(name: "list-indent-decrease", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// list-indent-increase.svg
+  internal static let listIndentIncrease = File(name: "list-indent-increase", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// list-music.svg
+  internal static let listMusic = File(name: "list-music", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// list-plus.svg
+  internal static let listPlus = File(name: "list-plus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// list-restart.svg
+  internal static let listRestart = File(name: "list-restart", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// list-setting.svg
   internal static let listSetting = File(name: "list-setting", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// list-start.svg
+  internal static let listStart = File(name: "list-start", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// list-tree.svg
+  internal static let listTree = File(name: "list-tree", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// list-video.svg
+  internal static let listVideo = File(name: "list-video", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// list-view.svg
   internal static let listView = File(name: "list-view", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// list-x.svg
+  internal static let listX = File(name: "list-x", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// litecoin.svg
   internal static let litecoin = File(name: "litecoin", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// live-streaming01.svg
@@ -4682,6 +5200,8 @@ internal enum HugeiconsGenerated {
   internal static let liveStreaming03 = File(name: "live-streaming03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// liver.svg
   internal static let liver = File(name: "liver", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// loader-pinwheel.svg
+  internal static let loaderPinwheel = File(name: "loader-pinwheel", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// loading01.svg
   internal static let loading01 = File(name: "loading01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// loading02.svg
@@ -4898,6 +5418,8 @@ internal enum HugeiconsGenerated {
   internal static let mailOpen01 = File(name: "mail-open01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mail-open02.svg
   internal static let mailOpen02 = File(name: "mail-open02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// mail-question-mark.svg
+  internal static let mailQuestionMark = File(name: "mail-question-mark", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mail-receive01.svg
   internal static let mailReceive01 = File(name: "mail-receive01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mail-receive02.svg
@@ -4946,6 +5468,8 @@ internal enum HugeiconsGenerated {
   internal static let mailVoice01 = File(name: "mail-voice01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mail-voice02.svg
   internal static let mailVoice02 = File(name: "mail-voice02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// mail-warning.svg
+  internal static let mailWarning = File(name: "mail-warning", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mail01.svg
   internal static let mail01 = File(name: "mail01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mail02.svg
@@ -4954,6 +5478,8 @@ internal enum HugeiconsGenerated {
   internal static let mailbox = File(name: "mailbox", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mailbox01.svg
   internal static let mailbox01 = File(name: "mailbox01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// mails.svg
+  internal static let mails = File(name: "mails", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// male-symbol.svg
   internal static let maleSymbol = File(name: "male-symbol", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// male02.svg
@@ -4966,6 +5492,20 @@ internal enum HugeiconsGenerated {
   internal static let manager = File(name: "manager", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// map-pin.svg
   internal static let mapPin = File(name: "map-pin", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// map-pin-check.svg
+  internal static let mapPinCheck = File(name: "map-pin-check", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// map-pin-house.svg
+  internal static let mapPinHouse = File(name: "map-pin-house", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// map-pin-minus.svg
+  internal static let mapPinMinus = File(name: "map-pin-minus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// map-pin-pen.svg
+  internal static let mapPinPen = File(name: "map-pin-pen", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// map-pin-plus.svg
+  internal static let mapPinPlus = File(name: "map-pin-plus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// map-pin-x.svg
+  internal static let mapPinX = File(name: "map-pin-x", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// map-pin-x-inside.svg
+  internal static let mapPinXInside = File(name: "map-pin-x-inside", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// map-pinpoint01.svg
   internal static let mapPinpoint01 = File(name: "map-pinpoint01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// map-pinpoint02.svg
@@ -5092,6 +5632,8 @@ internal enum HugeiconsGenerated {
   internal static let megaphone03 = File(name: "megaphone03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// meh.svg
   internal static let meh = File(name: "meh", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// memory-stick.svg
+  internal static let memoryStick = File(name: "memory-stick", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mentor.svg
   internal static let mentor = File(name: "mentor", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mentoring.svg
@@ -5138,6 +5680,10 @@ internal enum HugeiconsGenerated {
   internal static let messageCancel01 = File(name: "message-cancel01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// message-cancel02.svg
   internal static let messageCancel02 = File(name: "message-cancel02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// message-circle-code.svg
+  internal static let messageCircleCode = File(name: "message-circle-code", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// message-circle-reply.svg
+  internal static let messageCircleReply = File(name: "message-circle-reply", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// message-delay01.svg
   internal static let messageDelay01 = File(name: "message-delay01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// message-delay02.svg
@@ -5194,6 +5740,14 @@ internal enum HugeiconsGenerated {
   internal static let messageSecure01 = File(name: "message-secure01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// message-secure02.svg
   internal static let messageSecure02 = File(name: "message-secure02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// message-square-code.svg
+  internal static let messageSquareCode = File(name: "message-square-code", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// message-square-dashed.svg
+  internal static let messageSquareDashed = File(name: "message-square-dashed", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// message-square-diff.svg
+  internal static let messageSquareDiff = File(name: "message-square-diff", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// message-square-share.svg
+  internal static let messageSquareShare = File(name: "message-square-share", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// message-translate.svg
   internal static let messageTranslate = File(name: "message-translate", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// message-unlock01.svg
@@ -5226,6 +5780,8 @@ internal enum HugeiconsGenerated {
   internal static let mic01 = File(name: "mic01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mic02.svg
   internal static let mic02 = File(name: "mic02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// microchip.svg
+  internal static let microchip = File(name: "microchip", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// microscope.svg
   internal static let microscope = File(name: "microscope", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// microsoft.svg
@@ -5376,6 +5932,14 @@ internal enum HugeiconsGenerated {
   internal static let money03 = File(name: "money03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// money04.svg
   internal static let money04 = File(name: "money04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// monitor-dot.svg
+  internal static let monitorDot = File(name: "monitor-dot", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// monitor-pause.svg
+  internal static let monitorPause = File(name: "monitor-pause", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// monitor-speaker.svg
+  internal static let monitorSpeaker = File(name: "monitor-speaker", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// monitor-stop.svg
+  internal static let monitorStop = File(name: "monitor-stop", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// monocle.svg
   internal static let monocle = File(name: "monocle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// monocle01.svg
@@ -5498,6 +6062,8 @@ internal enum HugeiconsGenerated {
   internal static let mouseLeftClick05 = File(name: "mouse-left-click05", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mouse-left-click06.svg
   internal static let mouseLeftClick06 = File(name: "mouse-left-click06", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// mouse-pointer-off.svg
+  internal static let mousePointerOff = File(name: "mouse-pointer-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mouse-right-click01.svg
   internal static let mouseRightClick01 = File(name: "mouse-right-click01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mouse-right-click02.svg
@@ -5608,6 +6174,8 @@ internal enum HugeiconsGenerated {
   internal static let musicNote03 = File(name: "music-note03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// music-note04.svg
   internal static let musicNote04 = File(name: "music-note04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// music-three.svg
+  internal static let musicThree = File(name: "music-three", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// muslim.svg
   internal static let muslim = File(name: "muslim", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// mute.svg
@@ -5628,6 +6196,14 @@ internal enum HugeiconsGenerated {
   internal static let napkins02 = File(name: "napkins02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// natural-food.svg
   internal static let naturalFood = File(name: "natural-food", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// navigation.svg
+  internal static let navigation = File(name: "navigation", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// navigation-off.svg
+  internal static let navigationOff = File(name: "navigation-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// navigation-two.svg
+  internal static let navigationTwo = File(name: "navigation-two", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// navigation-two-off.svg
+  internal static let navigationTwoOff = File(name: "navigation-two-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// navigation01.svg
   internal static let navigation01 = File(name: "navigation01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// navigation02.svg
@@ -5672,6 +6248,8 @@ internal enum HugeiconsGenerated {
   internal static let next = File(name: "next", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// next-week.svg
   internal static let nextWeek = File(name: "next-week", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// nfc.svg
+  internal static let nfc = File(name: "nfc", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// nike.svg
   internal static let nike = File(name: "nike", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// nine-circle.svg
@@ -5736,6 +6314,8 @@ internal enum HugeiconsGenerated {
   internal static let notebook01 = File(name: "notebook01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// notebook02.svg
   internal static let notebook02 = File(name: "notebook02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// notepad-text-dashed.svg
+  internal static let notepadTextDashed = File(name: "notepad-text-dashed", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// notification-block01.svg
   internal static let notificationBlock01 = File(name: "notification-block01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// notification-block02.svg
@@ -5776,10 +6356,14 @@ internal enum HugeiconsGenerated {
   internal static let nuclearPower = File(name: "nuclear-power", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// nut.svg
   internal static let nut = File(name: "nut", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// nut-off.svg
+  internal static let nutOff = File(name: "nut-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// obtuse.svg
   internal static let obtuse = File(name: "obtuse", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// octagon.svg
   internal static let octagon = File(name: "octagon", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// octagon-x.svg
+  internal static let octagonX = File(name: "octagon-x", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// octopus.svg
   internal static let octopus = File(name: "octopus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// office.svg
@@ -5830,6 +6414,8 @@ internal enum HugeiconsGenerated {
   internal static let orientationLandscapeToPotrait = File(name: "orientation-landscape-to-potrait", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// orientation-potrait-to-landscape.svg
   internal static let orientationPotraitToLandscape = File(name: "orientation-potrait-to-landscape", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// origami.svg
+  internal static let origami = File(name: "origami", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// orthogonal-edge.svg
   internal static let orthogonalEdge = File(name: "orthogonal-edge", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// oval.svg
@@ -5910,6 +6496,8 @@ internal enum HugeiconsGenerated {
   internal static let pan02 = File(name: "pan02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// pan03.svg
   internal static let pan03 = File(name: "pan03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// panel-bottom-close.svg
+  internal static let panelBottomClose = File(name: "panel-bottom-close", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// panel-left.svg
   internal static let panelLeft = File(name: "panel-left", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// panel-left-close.svg
@@ -5926,6 +6514,8 @@ internal enum HugeiconsGenerated {
   internal static let panelRightDashed = File(name: "panel-right-dashed", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// panel-right-open.svg
   internal static let panelRightOpen = File(name: "panel-right-open", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// panel-top-bottom-dashed.svg
+  internal static let panelTopBottomDashed = File(name: "panel-top-bottom-dashed", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// parabola01.svg
   internal static let parabola01 = File(name: "parabola01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// parabola02.svg
@@ -5948,6 +6538,8 @@ internal enum HugeiconsGenerated {
   internal static let parkingAreaCircle = File(name: "parking-area-circle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// parking-area-square.svg
   internal static let parkingAreaSquare = File(name: "parking-area-square", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// parking-meter.svg
+  internal static let parkingMeter = File(name: "parking-meter", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// party.svg
   internal static let party = File(name: "party", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// passport.svg
@@ -6044,6 +6636,8 @@ internal enum HugeiconsGenerated {
   internal static let pencilEdit01 = File(name: "pencil-edit01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// pencil-edit02.svg
   internal static let pencilEdit02 = File(name: "pencil-edit02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// pencil-ruler.svg
+  internal static let pencilRuler = File(name: "pencil-ruler", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// pendulum.svg
   internal static let pendulum = File(name: "pendulum", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// pensive.svg
@@ -6072,6 +6666,8 @@ internal enum HugeiconsGenerated {
   internal static let petrolPump = File(name: "petrol-pump", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// pexels.svg
   internal static let pexels = File(name: "pexels", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// philippine-peso.svg
+  internal static let philippinePeso = File(name: "philippine-peso", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// phone-arrow-down.svg
   internal static let phoneArrowDown = File(name: "phone-arrow-down", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// phone-arrow-up.svg
@@ -6252,6 +6848,10 @@ internal enum HugeiconsGenerated {
   internal static let png01 = File(name: "png01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// png02.svg
   internal static let png02 = File(name: "png02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// pocket.svg
+  internal static let pocket = File(name: "pocket", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// pocket-knife.svg
+  internal static let pocketKnife = File(name: "pocket-knife", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// podcast.svg
   internal static let podcast = File(name: "podcast", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// podium.svg
@@ -6314,6 +6914,8 @@ internal enum HugeiconsGenerated {
   internal static let poop = File(name: "poop", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// popcorn.svg
   internal static let popcorn = File(name: "popcorn", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// popsicle.svg
+  internal static let popsicle = File(name: "popsicle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// pot01.svg
   internal static let pot01 = File(name: "pot01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// pot02.svg
@@ -6330,6 +6932,10 @@ internal enum HugeiconsGenerated {
   internal static let poundSend = File(name: "pound-send", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// pound-square.svg
   internal static let poundSquare = File(name: "pound-square", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// power.svg
+  internal static let power = File(name: "power", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// power-off.svg
+  internal static let powerOff = File(name: "power-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// power-service.svg
   internal static let powerService = File(name: "power-service", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// power-socket01.svg
@@ -6384,10 +6990,14 @@ internal enum HugeiconsGenerated {
   internal static let previous = File(name: "previous", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// printer.svg
   internal static let printer = File(name: "printer", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// printer-check.svg
+  internal static let printerCheck = File(name: "printer-check", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// printer-off.svg
   internal static let printerOff = File(name: "printer-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// printer-three-d.svg
   internal static let printerThreeD = File(name: "printer-three-d", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// printer-x.svg
+  internal static let printerX = File(name: "printer-x", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// prism.svg
   internal static let prism = File(name: "prism", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// prism01.svg
@@ -6436,6 +7046,8 @@ internal enum HugeiconsGenerated {
   internal static let propertySearch = File(name: "property-search", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// property-view.svg
   internal static let propertyView = File(name: "property-view", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// proportions.svg
+  internal static let proportions = File(name: "proportions", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// protection-mask.svg
   internal static let protectionMask = File(name: "protection-mask", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// pulley.svg
@@ -6536,6 +7148,8 @@ internal enum HugeiconsGenerated {
   internal static let radar03 = File(name: "radar03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// radial.svg
   internal static let radial = File(name: "radial", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// radiation.svg
+  internal static let radiation = File(name: "radiation", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// radio.svg
   internal static let radio = File(name: "radio", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// radio-button.svg
@@ -6548,6 +7162,8 @@ internal enum HugeiconsGenerated {
   internal static let radioactiveAlert = File(name: "radioactive-alert", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// radius.svg
   internal static let radius = File(name: "radius", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// rail-symbol.svg
+  internal static let railSymbol = File(name: "rail-symbol", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rain.svg
   internal static let rain = File(name: "rain", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rain-double-drop.svg
@@ -6570,6 +7186,8 @@ internal enum HugeiconsGenerated {
   internal static let rar01 = File(name: "rar01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rar02.svg
   internal static let rar02 = File(name: "rar02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// ratio.svg
+  internal static let ratio = File(name: "ratio", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// raw01.svg
   internal static let raw01 = File(name: "raw01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// raw02.svg
@@ -6582,12 +7200,32 @@ internal enum HugeiconsGenerated {
   internal static let realEstate01 = File(name: "real-estate01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// real-estate02.svg
   internal static let realEstate02 = File(name: "real-estate02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// receipt-cent.svg
+  internal static let receiptCent = File(name: "receipt-cent", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// receipt-dollar.svg
   internal static let receiptDollar = File(name: "receipt-dollar", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// receipt-euro.svg
+  internal static let receiptEuro = File(name: "receipt-euro", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// receipt-indian-rupee.svg
+  internal static let receiptIndianRupee = File(name: "receipt-indian-rupee", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// receipt-japanese-yen.svg
+  internal static let receiptJapaneseYen = File(name: "receipt-japanese-yen", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// receipt-pound-sterling.svg
+  internal static let receiptPoundSterling = File(name: "receipt-pound-sterling", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// receipt-russian-ruble.svg
+  internal static let receiptRussianRuble = File(name: "receipt-russian-ruble", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// receipt-swiss-franc.svg
+  internal static let receiptSwissFranc = File(name: "receipt-swiss-franc", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// receipt-text.svg
+  internal static let receiptText = File(name: "receipt-text", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// receipt-turkish-lira.svg
+  internal static let receiptTurkishLira = File(name: "receipt-turkish-lira", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// record.svg
   internal static let record = File(name: "record", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// recovery-mail.svg
   internal static let recoveryMail = File(name: "recovery-mail", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// rectangle-circle.svg
+  internal static let rectangleCircle = File(name: "rectangle-circle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rectangular.svg
   internal static let rectangular = File(name: "rectangular", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rectangular01.svg
@@ -6622,6 +7260,8 @@ internal enum HugeiconsGenerated {
   internal static let refresh04 = File(name: "refresh04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// refrigerator.svg
   internal static let refrigerator = File(name: "refrigerator", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// regex.svg
+  internal static let regex = File(name: "regex", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// register.svg
   internal static let register = File(name: "register", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// registered.svg
@@ -6666,6 +7306,10 @@ internal enum HugeiconsGenerated {
   internal static let repeatOne01 = File(name: "repeat-one01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// repeat-one02.svg
   internal static let repeatOne02 = File(name: "repeat-one02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// replace.svg
+  internal static let replace = File(name: "replace", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// replace-all.svg
+  internal static let replaceAll = File(name: "replace-all", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// replay.svg
   internal static let replay = File(name: "replay", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// replit.svg
@@ -6710,6 +7354,8 @@ internal enum HugeiconsGenerated {
   internal static let rhombus = File(name: "rhombus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rhombus01.svg
   internal static let rhombus01 = File(name: "rhombus01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// ribbon.svg
+  internal static let ribbon = File(name: "ribbon", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rice-bowl01.svg
   internal static let riceBowl01 = File(name: "rice-bowl01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rice-bowl02.svg
@@ -6762,6 +7408,8 @@ internal enum HugeiconsGenerated {
   internal static let rockingChair = File(name: "rocking-chair", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rocking-horse.svg
   internal static let rockingHorse = File(name: "rocking-horse", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// roller-coaster.svg
+  internal static let rollerCoaster = File(name: "roller-coaster", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// roller-skate.svg
   internal static let rollerSkate = File(name: "roller-skate", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rolling-pin.svg
@@ -6778,6 +7426,8 @@ internal enum HugeiconsGenerated {
   internal static let root01 = File(name: "root01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// root02.svg
   internal static let root02 = File(name: "root02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// rose.svg
+  internal static let rose = File(name: "rose", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rotate-bottom-left.svg
   internal static let rotateBottomLeft = File(name: "rotate-bottom-left", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rotate-bottom-right.svg
@@ -6872,6 +7522,8 @@ internal enum HugeiconsGenerated {
   internal static let rupeeShield = File(name: "rupee-shield", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// rupee-square.svg
   internal static let rupeeSquare = File(name: "rupee-square", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// russian-ruble.svg
+  internal static let russianRuble = File(name: "russian-ruble", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sad-dizzy.svg
   internal static let sadDizzy = File(name: "sad-dizzy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sad01.svg
@@ -6898,6 +7550,8 @@ internal enum HugeiconsGenerated {
   internal static let sailboatOffshore = File(name: "sailboat-offshore", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sakura.svg
   internal static let sakura = File(name: "sakura", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// salad.svg
+  internal static let salad = File(name: "salad", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// salah.svg
   internal static let salah = File(name: "salah", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// salah-time.svg
@@ -6922,8 +7576,14 @@ internal enum HugeiconsGenerated {
   internal static let saturn01 = File(name: "saturn01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// saturn02.svg
   internal static let saturn02 = File(name: "saturn02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// saudi-riyal.svg
+  internal static let saudiRiyal = File(name: "saudi-riyal", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sausage.svg
   internal static let sausage = File(name: "sausage", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// save.svg
+  internal static let save = File(name: "save", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// save-all.svg
+  internal static let saveAll = File(name: "save-all", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// save-energy01.svg
   internal static let saveEnergy01 = File(name: "save-energy01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// save-energy02.svg
@@ -6936,10 +7596,16 @@ internal enum HugeiconsGenerated {
   internal static let saveMoneyPound = File(name: "save-money-pound", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// save-money-yen.svg
   internal static let saveMoneyYen = File(name: "save-money-yen", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// save-off.svg
+  internal static let saveOff = File(name: "save-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// savings.svg
   internal static let savings = File(name: "savings", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// scan.svg
   internal static let scan = File(name: "scan", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// scan-eye.svg
+  internal static let scanEye = File(name: "scan-eye", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// scan-heart.svg
+  internal static let scanHeart = File(name: "scan-heart", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// scan-image.svg
   internal static let scanImage = File(name: "scan-image", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// scheme.svg
@@ -7004,6 +7670,8 @@ internal enum HugeiconsGenerated {
   internal static let searchArea = File(name: "search-area", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// search-circle.svg
   internal static let searchCircle = File(name: "search-circle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// search-code.svg
+  internal static let searchCode = File(name: "search-code", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// search-dollar.svg
   internal static let searchDollar = File(name: "search-dollar", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// search-focus.svg
@@ -7036,6 +7704,8 @@ internal enum HugeiconsGenerated {
   internal static let secondBracketCircle = File(name: "second-bracket-circle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// second-bracket-square.svg
   internal static let secondBracketSquare = File(name: "second-bracket-square", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// section.svg
+  internal static let section = File(name: "section", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// secured-network.svg
   internal static let securedNetwork = File(name: "secured-network", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// security.svg
@@ -7068,6 +7738,8 @@ internal enum HugeiconsGenerated {
   internal static let selfTransfer = File(name: "self-transfer", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// semi-truck.svg
   internal static let semiTruck = File(name: "semi-truck", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// send-to-back.svg
+  internal static let sendToBack = File(name: "send-to-back", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// send-to-mobile.svg
   internal static let sendToMobile = File(name: "send-to-mobile", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// send-to-mobile02.svg
@@ -7182,18 +7854,30 @@ internal enum HugeiconsGenerated {
   internal static let sharedWifi = File(name: "shared-wifi", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sharing.svg
   internal static let sharing = File(name: "sharing", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// shell.svg
+  internal static let shell = File(name: "shell", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// shellfish.svg
   internal static let shellfish = File(name: "shellfish", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sheriff01.svg
   internal static let sheriff01 = File(name: "sheriff01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sheriff02.svg
   internal static let sheriff02 = File(name: "sheriff02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// shield-ban.svg
+  internal static let shieldBan = File(name: "shield-ban", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// shield-blockchain.svg
   internal static let shieldBlockchain = File(name: "shield-blockchain", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// shield-energy.svg
   internal static let shieldEnergy = File(name: "shield-energy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// shield-half.svg
+  internal static let shieldHalf = File(name: "shield-half", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// shield-key.svg
   internal static let shieldKey = File(name: "shield-key", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// shield-minus.svg
+  internal static let shieldMinus = File(name: "shield-minus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// shield-plus.svg
+  internal static let shieldPlus = File(name: "shield-plus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// shield-question-mark.svg
+  internal static let shieldQuestionMark = File(name: "shield-question-mark", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// shield-user.svg
   internal static let shieldUser = File(name: "shield-user", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// shield01.svg
@@ -7312,6 +7996,10 @@ internal enum HugeiconsGenerated {
   internal static let shortsPants = File(name: "shorts-pants", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// shoulder.svg
   internal static let shoulder = File(name: "shoulder", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// shovel.svg
+  internal static let shovel = File(name: "shovel", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// shower-head.svg
+  internal static let showerHead = File(name: "shower-head", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// shrink-dot.svg
   internal static let shrinkDot = File(name: "shrink-dot", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// shuffle.svg
@@ -7442,14 +8130,20 @@ internal enum HugeiconsGenerated {
   internal static let smartWatch03 = File(name: "smart-watch03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// smart-watch04.svg
   internal static let smartWatch04 = File(name: "smart-watch04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// smartphone-charging.svg
+  internal static let smartphoneCharging = File(name: "smartphone-charging", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// smartphone-lost-wifi.svg
   internal static let smartphoneLostWifi = File(name: "smartphone-lost-wifi", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// smartphone-nfc.svg
+  internal static let smartphoneNfc = File(name: "smartphone-nfc", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// smartphone-wifi.svg
   internal static let smartphoneWifi = File(name: "smartphone-wifi", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// smile.svg
   internal static let smile = File(name: "smile", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// smile-dizzy.svg
   internal static let smileDizzy = File(name: "smile-dizzy", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// smile-plus.svg
+  internal static let smilePlus = File(name: "smile-plus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sms-code.svg
   internal static let smsCode = File(name: "sms-code", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// snail.svg
@@ -7570,6 +8264,8 @@ internal enum HugeiconsGenerated {
   internal static let speaker = File(name: "speaker", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// speaker01.svg
   internal static let speaker01 = File(name: "speaker01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// speech.svg
+  internal static let speech = File(name: "speech", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// speech-to-text.svg
   internal static let speechToText = File(name: "speech-to-text", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// speed-train01.svg
@@ -7582,8 +8278,12 @@ internal enum HugeiconsGenerated {
   internal static let sphere = File(name: "sphere", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// spirals.svg
   internal static let spirals = File(name: "spirals", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// spline-pointer.svg
+  internal static let splinePointer = File(name: "spline-pointer", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// split.svg
   internal static let split = File(name: "split", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// spool.svg
+  internal static let spool = File(name: "spool", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// spoon.svg
   internal static let spoon = File(name: "spoon", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// spoon-and-fork.svg
@@ -7592,6 +8292,10 @@ internal enum HugeiconsGenerated {
   internal static let spoonAndKnife = File(name: "spoon-and-knife", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// spotify.svg
   internal static let spotify = File(name: "spotify", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// spotlight.svg
+  internal static let spotlight = File(name: "spotlight", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// spray-can.svg
+  internal static let sprayCan = File(name: "spray-can", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sql.svg
   internal static let sql = File(name: "sql", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// square.svg
@@ -7680,8 +8384,18 @@ internal enum HugeiconsGenerated {
   internal static let squareArrowUp03 = File(name: "square-arrow-up03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// square-arrow-vertical.svg
   internal static let squareArrowVertical = File(name: "square-arrow-vertical", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// square-asterisk.svg
+  internal static let squareAsterisk = File(name: "square-asterisk", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// square-bottom-dashed-scissors.svg
+  internal static let squareBottomDashedScissors = File(name: "square-bottom-dashed-scissors", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// square-chart-gantt.svg
+  internal static let squareChartGantt = File(name: "square-chart-gantt", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// square-circle.svg
   internal static let squareCircle = File(name: "square-circle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// square-dashed-kanban.svg
+  internal static let squareDashedKanban = File(name: "square-dashed-kanban", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// square-dashed-top-solid.svg
+  internal static let squareDashedTopSolid = File(name: "square-dashed-top-solid", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// square-f.svg
   internal static let squareF = File(name: "square-f", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// square-lock-add01.svg
@@ -7706,16 +8420,30 @@ internal enum HugeiconsGenerated {
   internal static let squareLock01 = File(name: "square-lock01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// square-lock02.svg
   internal static let squareLock02 = File(name: "square-lock02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// square-m.svg
+  internal static let squareM = File(name: "square-m", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// square-mouse-pointer.svg
+  internal static let squareMousePointer = File(name: "square-mouse-pointer", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// square-parking-off.svg
+  internal static let squareParkingOff = File(name: "square-parking-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// square-power.svg
+  internal static let squarePower = File(name: "square-power", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// square-root-square.svg
   internal static let squareRootSquare = File(name: "square-root-square", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// square-round-corner.svg
+  internal static let squareRoundCorner = File(name: "square-round-corner", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// square-square.svg
   internal static let squareSquare = File(name: "square-square", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// square-stack.svg
+  internal static let squareStack = File(name: "square-stack", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// square-unlock01.svg
   internal static let squareUnlock01 = File(name: "square-unlock01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// square-unlock02.svg
   internal static let squareUnlock02 = File(name: "square-unlock02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// square01.svg
   internal static let square01 = File(name: "square01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// squares-exclude.svg
+  internal static let squaresExclude = File(name: "squares-exclude", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// stack-star.svg
   internal static let stackStar = File(name: "stack-star", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// stairs01.svg
@@ -7774,6 +8502,8 @@ internal enum HugeiconsGenerated {
   internal static let stethoscope = File(name: "stethoscope", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// stethoscope02.svg
   internal static let stethoscope02 = File(name: "stethoscope02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// sticker.svg
+  internal static let sticker = File(name: "sticker", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sticky-note01.svg
   internal static let stickyNote01 = File(name: "sticky-note01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sticky-note02.svg
@@ -8060,6 +8790,10 @@ internal enum HugeiconsGenerated {
   internal static let swipeUp07 = File(name: "swipe-up07", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// swipe-up08.svg
   internal static let swipeUp08 = File(name: "swipe-up08", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// swiss-franc.svg
+  internal static let swissFranc = File(name: "swiss-franc", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// switch-camera.svg
+  internal static let switchCamera = File(name: "switch-camera", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sword01.svg
   internal static let sword01 = File(name: "sword01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// sword02.svg
@@ -8074,12 +8808,16 @@ internal enum HugeiconsGenerated {
   internal static let tShirt = File(name: "t-shirt", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// table.svg
   internal static let table = File(name: "table", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// table-columns-split.svg
+  internal static let tableColumnsSplit = File(name: "table-columns-split", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// table-lamp01.svg
   internal static let tableLamp01 = File(name: "table-lamp01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// table-lamp02.svg
   internal static let tableLamp02 = File(name: "table-lamp02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// table-round.svg
   internal static let tableRound = File(name: "table-round", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// table-rows-split.svg
+  internal static let tableRowsSplit = File(name: "table-rows-split", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// table-tennis-bat.svg
   internal static let tableTennisBat = File(name: "table-tennis-bat", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// table01.svg
@@ -8100,6 +8838,8 @@ internal enum HugeiconsGenerated {
   internal static let tablet01 = File(name: "tablet01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tablet02.svg
   internal static let tablet02 = File(name: "tablet02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// tablets.svg
+  internal static let tablets = File(name: "tablets", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// taco01.svg
   internal static let taco01 = File(name: "taco01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// taco02.svg
@@ -8114,8 +8854,20 @@ internal enum HugeiconsGenerated {
   internal static let tailwindcss = File(name: "tailwindcss", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// taj-mahal.svg
   internal static let tajMahal = File(name: "taj-mahal", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// tally-five.svg
+  internal static let tallyFive = File(name: "tally-five", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// tally-four.svg
+  internal static let tallyFour = File(name: "tally-four", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// tally-one.svg
+  internal static let tallyOne = File(name: "tally-one", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// tally-three.svg
+  internal static let tallyThree = File(name: "tally-three", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// tally-two.svg
+  internal static let tallyTwo = File(name: "tally-two", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tan.svg
   internal static let tan = File(name: "tan", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// tangent.svg
+  internal static let tangent = File(name: "tangent", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tank-top.svg
   internal static let tankTop = File(name: "tank-top", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tanker-truck.svg
@@ -8204,16 +8956,24 @@ internal enum HugeiconsGenerated {
   internal static let tennisBall = File(name: "tennis-ball", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tennis-racket.svg
   internal static let tennisRacket = File(name: "tennis-racket", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// tent.svg
+  internal static let tent = File(name: "tent", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// tent-tree.svg
+  internal static let tentTree = File(name: "tent-tree", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// terrace.svg
   internal static let terrace = File(name: "terrace", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// test-tube.svg
   internal static let testTube = File(name: "test-tube", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// test-tube-diagonal.svg
+  internal static let testTubeDiagonal = File(name: "test-tube-diagonal", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// test-tube01.svg
   internal static let testTube01 = File(name: "test-tube01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// test-tube02.svg
   internal static let testTube02 = File(name: "test-tube02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// test-tube03.svg
   internal static let testTube03 = File(name: "test-tube03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// test-tubes.svg
+  internal static let testTubes = File(name: "test-tubes", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tetris.svg
   internal static let tetris = File(name: "tetris", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// text.svg
@@ -8280,6 +9040,8 @@ internal enum HugeiconsGenerated {
   internal static let textKerning = File(name: "text-kerning", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// text-number-sign.svg
   internal static let textNumberSign = File(name: "text-number-sign", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// text-select.svg
+  internal static let textSelect = File(name: "text-select", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// text-selection.svg
   internal static let textSelection = File(name: "text-selection", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// text-smallcaps.svg
@@ -8304,6 +9066,8 @@ internal enum HugeiconsGenerated {
   internal static let textWrap = File(name: "text-wrap", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// the-prophets-mosque.svg
   internal static let theProphetsMosque = File(name: "the-prophets-mosque", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// theater.svg
+  internal static let theater = File(name: "theater", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// thermometer.svg
   internal static let thermometer = File(name: "thermometer", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// thermometer-cold.svg
@@ -8468,6 +9232,10 @@ internal enum HugeiconsGenerated {
   internal static let tongueWinkRight = File(name: "tongue-wink-right", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tongue01.svg
   internal static let tongue01 = File(name: "tongue01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// tool-case.svg
+  internal static let toolCase = File(name: "tool-case", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// toolbox.svg
+  internal static let toolbox = File(name: "toolbox", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tools.svg
   internal static let tools = File(name: "tools", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tornado01.svg
@@ -8476,6 +9244,8 @@ internal enum HugeiconsGenerated {
   internal static let tornado02 = File(name: "tornado02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// torri-gate.svg
   internal static let torriGate = File(name: "torri-gate", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// torus.svg
+  internal static let torus = File(name: "torus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// touch-interaction01.svg
   internal static let touchInteraction01 = File(name: "touch-interaction01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// touch-interaction02.svg
@@ -8512,6 +9282,8 @@ internal enum HugeiconsGenerated {
   internal static let touch09 = File(name: "touch09", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// touch10.svg
   internal static let touch10 = File(name: "touch10", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// touchpad-off.svg
+  internal static let touchpadOff = File(name: "touchpad-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// touchpad01.svg
   internal static let touchpad01 = File(name: "touchpad01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// touchpad02.svg
@@ -8524,6 +9296,8 @@ internal enum HugeiconsGenerated {
   internal static let towTruck = File(name: "tow-truck", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// towels.svg
   internal static let towels = File(name: "towels", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// toy-brick.svg
+  internal static let toyBrick = File(name: "toy-brick", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// toy-train.svg
   internal static let toyTrain = File(name: "toy-train", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tractor.svg
@@ -8542,6 +9316,8 @@ internal enum HugeiconsGenerated {
   internal static let trafficJam02 = File(name: "traffic-jam02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// traffic-light.svg
   internal static let trafficLight = File(name: "traffic-light", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// train-track.svg
+  internal static let trainTrack = File(name: "train-track", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// train01.svg
   internal static let train01 = File(name: "train01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// train02.svg
@@ -8582,6 +9358,8 @@ internal enum HugeiconsGenerated {
   internal static let treadmill02 = File(name: "treadmill02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// treatment.svg
   internal static let treatment = File(name: "treatment", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// tree-palm.svg
+  internal static let treePalm = File(name: "tree-palm", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tree01.svg
   internal static let tree01 = File(name: "tree01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tree02.svg
@@ -8596,12 +9374,16 @@ internal enum HugeiconsGenerated {
   internal static let tree06 = File(name: "tree06", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tree07.svg
   internal static let tree07 = File(name: "tree07", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// trees.svg
+  internal static let trees = File(name: "trees", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// trello.svg
   internal static let trello = File(name: "trello", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// triangle.svg
   internal static let triangle = File(name: "triangle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// triangle-dash.svg
   internal static let triangleDash = File(name: "triangle-dash", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// triangle-right.svg
+  internal static let triangleRight = File(name: "triangle-right", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// triangle01.svg
   internal static let triangle01 = File(name: "triangle01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// triangle02.svg
@@ -8634,6 +9416,8 @@ internal enum HugeiconsGenerated {
   internal static let tulip = File(name: "tulip", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tumblr.svg
   internal static let tumblr = File(name: "tumblr", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// turkish-lira.svg
+  internal static let turkishLira = File(name: "turkish-lira", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// turtle-neck.svg
   internal static let turtleNeck = File(name: "turtle-neck", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tv-fix.svg
@@ -8694,6 +9478,8 @@ internal enum HugeiconsGenerated {
   internal static let umbrella = File(name: "umbrella", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// umbrella-dollar.svg
   internal static let umbrellaDollar = File(name: "umbrella-dollar", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// umbrella-off.svg
+  internal static let umbrellaOff = File(name: "umbrella-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// unamused.svg
   internal static let unamused = File(name: "unamused", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// unarchive03.svg
@@ -8720,6 +9506,8 @@ internal enum HugeiconsGenerated {
   internal static let unfoldMoreDown = File(name: "unfold-more-down", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// unfold-more-up.svg
   internal static let unfoldMoreUp = File(name: "unfold-more-up", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// ungroup.svg
+  internal static let ungroup = File(name: "ungroup", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// ungroup-items.svg
   internal static let ungroupItems = File(name: "ungroup-items", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// ungroup-layers.svg
@@ -8904,6 +9692,8 @@ internal enum HugeiconsGenerated {
   internal static let user02 = File(name: "user02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// user03.svg
   internal static let user03 = File(name: "user03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// utility-pole.svg
+  internal static let utilityPole = File(name: "utility-pole", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// uv01.svg
   internal static let uv01 = File(name: "uv01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// uv02.svg
@@ -8922,8 +9712,12 @@ internal enum HugeiconsGenerated {
   internal static let van = File(name: "van", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// variable.svg
   internal static let variable = File(name: "variable", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// vector-square.svg
+  internal static let vectorSquare = File(name: "vector-square", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// vegetarian-food.svg
   internal static let vegetarianFood = File(name: "vegetarian-food", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// venetian-mask.svg
+  internal static let venetianMask = File(name: "venetian-mask", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// versus.svg
   internal static let versus = File(name: "versus", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// vertical-resize.svg
@@ -8934,6 +9728,8 @@ internal enum HugeiconsGenerated {
   internal static let vest = File(name: "vest", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// viber.svg
   internal static let viber = File(name: "viber", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// vibrate.svg
+  internal static let vibrate = File(name: "vibrate", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// victory-finger01.svg
   internal static let victoryFinger01 = File(name: "victory-finger01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// victory-finger02.svg
@@ -8954,6 +9750,8 @@ internal enum HugeiconsGenerated {
   internal static let video01 = File(name: "video01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// video02.svg
   internal static let video02 = File(name: "video02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// videotape.svg
+  internal static let videotape = File(name: "videotape", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// view.svg
   internal static let view = File(name: "view", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// view-agenda.svg
@@ -9038,6 +9836,8 @@ internal enum HugeiconsGenerated {
   internal static let walletAdd01 = File(name: "wallet-add01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wallet-add02.svg
   internal static let walletAdd02 = File(name: "wallet-add02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// wallet-cards.svg
+  internal static let walletCards = File(name: "wallet-cards", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wallet-done01.svg
   internal static let walletDone01 = File(name: "wallet-done01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wallet-done02.svg
@@ -9060,6 +9860,8 @@ internal enum HugeiconsGenerated {
   internal static let wallet04 = File(name: "wallet04", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wallet05.svg
   internal static let wallet05 = File(name: "wallet05", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// walpaper.svg
+  internal static let walpaper = File(name: "walpaper", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wanted.svg
   internal static let wanted = File(name: "wanted", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wardrobe01.svg
@@ -9140,6 +9942,8 @@ internal enum HugeiconsGenerated {
   internal static let webflowRectangle = File(name: "webflow-rectangle", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// webhook.svg
   internal static let webhook = File(name: "webhook", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// webhook-off.svg
+  internal static let webhookOff = File(name: "webhook-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wechat.svg
   internal static let wechat = File(name: "wechat", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wedding.svg
@@ -9156,6 +9960,10 @@ internal enum HugeiconsGenerated {
   internal static let whatsapp = File(name: "whatsapp", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// whatsapp-business.svg
   internal static let whatsappBusiness = File(name: "whatsapp-business", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// wheat.svg
+  internal static let wheat = File(name: "wheat", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// wheat-off.svg
+  internal static let wheatOff = File(name: "wheat-off", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wheelchair.svg
   internal static let wheelchair = File(name: "wheelchair", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// whisk.svg
@@ -9200,8 +10008,12 @@ internal enum HugeiconsGenerated {
   internal static let wifiOff01 = File(name: "wifi-off01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wifi-off02.svg
   internal static let wifiOff02 = File(name: "wifi-off02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// wifi-pen.svg
+  internal static let wifiPen = File(name: "wifi-pen", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wifi-square.svg
   internal static let wifiSquare = File(name: "wifi-square", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// wifi-sync.svg
+  internal static let wifiSync = File(name: "wifi-sync", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wifi-unlock.svg
   internal static let wifiUnlock = File(name: "wifi-unlock", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// wifi01.svg
