@@ -109,6 +109,13 @@ icon.image()
     .foregroundStyle(isMuted ? .secondary : .primary)
 ```
 
+Persist and restore by stable identifier:
+
+```swift
+let persistedID = Hugeicons.textCheck.swiftIdentifier
+let restoredIcon = Hugeicons.asset(swiftIdentifier: persistedID)
+```
+
 AppKit menu item:
 
 ```swift
