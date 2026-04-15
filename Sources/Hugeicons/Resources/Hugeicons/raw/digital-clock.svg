@@ -5,5 +5,5 @@
 <path d="M19 13.75V11.25C19 10.5597 18.4404 10 17.75 10C17.0596 10 16.5 10.5597 16.5 11.25V13.75C16.5 14.4404 17.0596 15 17.75 15C18.4404 15 19 14.4404 19 13.75Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
 <path d="M13.5 13.75V11.25C13.5 10.5596 12.9404 10 12.25 10C11.5596 10 11 10.5596 11 11.25V13.75C11 14.4404 11.5596 15 12.25 15C12.9404 15 13.5 14.4403 13.5 13.75Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
 <path d="M5 15V10" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
-<path d="M7.99996 11H8.00894M7.99102 14H8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+<path d="M8.05039 11.0004H8.00039M8.05078 14.0004H8.00078M8.10039 11.0004C8.10039 11.0556 8.05562 11.1004 8.00039 11.1004C7.94516 11.1004 7.90039 11.0556 7.90039 11.0004C7.90039 10.9452 7.94516 10.9004 8.00039 10.9004C8.05562 10.9004 8.10039 10.9452 8.10039 11.0004ZM8.10078 14.0004C8.10078 14.0556 8.05601 14.1004 8.00078 14.1004C7.94555 14.1004 7.90078 14.0556 7.90078 14.0004C7.90078 13.9452 7.94555 13.9004 8.00078 13.9004C8.05601 13.9004 8.10078 13.9452 8.10078 14.0004Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
 </svg>
