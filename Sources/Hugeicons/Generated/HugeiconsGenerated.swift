@@ -3452,6 +3452,14 @@ internal enum HugeiconsGenerated {
   internal static let exchange02 = File(name: "exchange02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// exchange03.svg
   internal static let exchange03 = File(name: "exchange03", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// exclamation-mark.svg
+  internal static let exclamationMark = File(name: "exclamation-mark", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// exclamation-mark-big.svg
+  internal static let exclamationMarkBig = File(name: "exclamation-mark-big", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// exclamation-mark-big-slash.svg
+  internal static let exclamationMarkBigSlash = File(name: "exclamation-mark-big-slash", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// exclamation-mark-slash.svg
+  internal static let exclamationMarkSlash = File(name: "exclamation-mark-slash", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// expand.svg
   internal static let expand = File(name: "expand", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// expand-paragraph.svg
@@ -3990,10 +3998,10 @@ internal enum HugeiconsGenerated {
   internal static let fuel01 = File(name: "fuel01", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// fuel02.svg
   internal static let fuel02 = File(name: "fuel02", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
-  /// full-screen.svg
-  internal static let fullScreen = File(name: "full-screen", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// full-signal.svg
   internal static let fullSignal = File(name: "full-signal", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// fullscreen.svg
+  internal static let fullscreen = File(name: "fullscreen", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// function.svg
   internal static let function = File(name: "function", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// function-circle.svg
@@ -8960,6 +8968,8 @@ internal enum HugeiconsGenerated {
   internal static let tent = File(name: "tent", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// tent-tree.svg
   internal static let tentTree = File(name: "tent-tree", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
+  /// terminal.svg
+  internal static let terminal = File(name: "terminal", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// terrace.svg
   internal static let terrace = File(name: "terrace", ext: "svg", relativePath: "", mimeType: "image/svg+xml")
   /// test-tube.svg

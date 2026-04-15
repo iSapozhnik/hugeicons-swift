@@ -6885,6 +6885,22 @@
       "swiftIdentifier" : "exchange03"
     },
     {
+      "sourceName" : "exclamation-mark",
+      "swiftIdentifier" : "exclamationMark"
+    },
+    {
+      "sourceName" : "exclamation-mark-big",
+      "swiftIdentifier" : "exclamationMarkBig"
+    },
+    {
+      "sourceName" : "exclamation-mark-big-slash",
+      "swiftIdentifier" : "exclamationMarkBigSlash"
+    },
+    {
+      "sourceName" : "exclamation-mark-slash",
+      "swiftIdentifier" : "exclamationMarkSlash"
+    },
+    {
       "sourceName" : "expand",
       "swiftIdentifier" : "expand"
     },
@@ -7961,12 +7977,12 @@
       "swiftIdentifier" : "fuel02"
     },
     {
-      "sourceName" : "full-screen",
-      "swiftIdentifier" : "fullScreen"
-    },
-    {
       "sourceName" : "full-signal",
       "swiftIdentifier" : "fullSignal"
+    },
+    {
+      "sourceName" : "fullscreen",
+      "swiftIdentifier" : "fullscreen"
     },
     {
       "sourceName" : "function",
@@ -17901,6 +17917,10 @@
       "swiftIdentifier" : "tentTree"
     },
     {
+      "sourceName" : "terminal",
+      "swiftIdentifier" : "terminal"
+    },
+    {
       "sourceName" : "terrace",
       "swiftIdentifier" : "terrace"
     },
@@ -20377,6 +20397,6 @@
       "swiftIdentifier" : "zzz"
     }
   ],
-  "entryCount" : 5094,
-  "generatedAt" : "2026-03-15T11:31:56Z"
+  "entryCount" : 5099,
+  "generatedAt" : "2026-04-15T10:13:52Z"
 }

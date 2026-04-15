@@ -5168,6 +5168,18 @@ public extension Hugeicons {
     static var exchangeDollar: HugeiconsAsset {
         HugeiconsCatalog.exchangeDollar
     }
+    static var exclamationMark: HugeiconsAsset {
+        HugeiconsCatalog.exclamationMark
+    }
+    static var exclamationMarkBig: HugeiconsAsset {
+        HugeiconsCatalog.exclamationMarkBig
+    }
+    static var exclamationMarkBigSlash: HugeiconsAsset {
+        HugeiconsCatalog.exclamationMarkBigSlash
+    }
+    static var exclamationMarkSlash: HugeiconsAsset {
+        HugeiconsCatalog.exclamationMarkSlash
+    }
     static var expand: HugeiconsAsset {
         HugeiconsCatalog.expand
     }
@@ -5975,11 +5987,11 @@ public extension Hugeicons {
     static var fuelStation: HugeiconsAsset {
         HugeiconsCatalog.fuelStation
     }
-    static var fullScreen: HugeiconsAsset {
-        HugeiconsCatalog.fullScreen
-    }
     static var fullSignal: HugeiconsAsset {
         HugeiconsCatalog.fullSignal
+    }
+    static var fullscreen: HugeiconsAsset {
+        HugeiconsCatalog.fullscreen
     }
     static var function: HugeiconsAsset {
         HugeiconsCatalog.function
@@ -13429,6 +13441,9 @@ public extension Hugeicons {
     }
     static var tentTree: HugeiconsAsset {
         HugeiconsCatalog.tentTree
+    }
+    static var terminal: HugeiconsAsset {
+        HugeiconsCatalog.terminal
     }
     static var terrace: HugeiconsAsset {
         HugeiconsCatalog.terrace
@@ -23895,6 +23910,26 @@ enum HugeiconsCatalog {
         swiftIdentifier: "exchangeDollar",
         resourceName: HugeiconsGenerated.`exchangeDollar`.name
     )
+    static let exclamationMark = HugeiconsAsset(
+        sourceName: "exclamation-mark",
+        swiftIdentifier: "exclamationMark",
+        resourceName: HugeiconsGenerated.`exclamationMark`.name
+    )
+    static let exclamationMarkBig = HugeiconsAsset(
+        sourceName: "exclamation-mark-big",
+        swiftIdentifier: "exclamationMarkBig",
+        resourceName: HugeiconsGenerated.`exclamationMarkBig`.name
+    )
+    static let exclamationMarkBigSlash = HugeiconsAsset(
+        sourceName: "exclamation-mark-big-slash",
+        swiftIdentifier: "exclamationMarkBigSlash",
+        resourceName: HugeiconsGenerated.`exclamationMarkBigSlash`.name
+    )
+    static let exclamationMarkSlash = HugeiconsAsset(
+        sourceName: "exclamation-mark-slash",
+        swiftIdentifier: "exclamationMarkSlash",
+        resourceName: HugeiconsGenerated.`exclamationMarkSlash`.name
+    )
     static let expand = HugeiconsAsset(
         sourceName: "expand",
         swiftIdentifier: "expand",
@@ -25240,15 +25275,15 @@ enum HugeiconsCatalog {
         swiftIdentifier: "fuelStation",
         resourceName: HugeiconsGenerated.`fuelStation`.name
     )
-    static let fullScreen = HugeiconsAsset(
-        sourceName: "full-screen",
-        swiftIdentifier: "fullScreen",
-        resourceName: HugeiconsGenerated.`fullScreen`.name
-    )
     static let fullSignal = HugeiconsAsset(
         sourceName: "full-signal",
         swiftIdentifier: "fullSignal",
         resourceName: HugeiconsGenerated.`fullSignal`.name
+    )
+    static let fullscreen = HugeiconsAsset(
+        sourceName: "fullscreen",
+        swiftIdentifier: "fullscreen",
+        resourceName: HugeiconsGenerated.`fullscreen`.name
     )
     static let function = HugeiconsAsset(
         sourceName: "function",
@@ -37665,6 +37700,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "tentTree",
         resourceName: HugeiconsGenerated.`tentTree`.name
     )
+    static let terminal = HugeiconsAsset(
+        sourceName: "terminal",
+        swiftIdentifier: "terminal",
+        resourceName: HugeiconsGenerated.`terminal`.name
+    )
     static let terrace = HugeiconsAsset(
         sourceName: "terrace",
         swiftIdentifier: "terrace",
@@ -42483,6 +42523,10 @@ enum HugeiconsCatalog {
         exchange03,
         exchangeBitcoin,
         exchangeDollar,
+        exclamationMark,
+        exclamationMarkBig,
+        exclamationMarkBigSlash,
+        exclamationMarkSlash,
         expand,
         expandParagraph,
         expander,
@@ -42752,8 +42796,8 @@ enum HugeiconsCatalog {
         fuel01,
         fuel02,
         fuelStation,
-        fullScreen,
         fullSignal,
+        fullscreen,
         function,
         functionCircle,
         functionOfX,
@@ -45237,6 +45281,7 @@ enum HugeiconsCatalog {
         tennisRacket,
         tent,
         tentTree,
+        terminal,
         terrace,
         testTube,
         testTube01,
