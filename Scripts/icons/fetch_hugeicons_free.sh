@@ -5,17 +5,18 @@ PACKAGE_NAME="@hugeicons/core-free-icons"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "${SCRIPT_DIR}/../.." && pwd)"
 DEFAULT_VERSION_LOCK="${REPO_ROOT}/version.lock"
-DEFAULT_OUTPUT_DIR="${REPO_ROOT}/Sources/Hugeicons/Resources/Hugeicons/raw"
-CONVERTER_SCRIPT="${SCRIPT_DIR}/convert_hugeicons_core_to_svg.mjs"
+DEFAULT_OUTPUT_DIR="${REPO_ROOT}/Sources/Hugeicons/Resources/Hugeicons/Hugeicons.xcassets"
+CONVERTER_SCRIPT="${SCRIPT_DIR}/convert_hugeicons_core_to_asset_catalog.mjs"
 
 VERSION_LOCK="${DEFAULT_VERSION_LOCK}"
 OUTPUT_DIR="${DEFAULT_OUTPUT_DIR}"
 
 usage() {
-  cat <<USAGE
-Usage: $(basename "$0") [--version-lock <path>] [--output-dir <path>]
+  cat <<'USAGE'
+Usage: fetch_hugeicons_free.sh [--version-lock PATH] [--output-dir PATH]
 
-Fetches pinned free Hugeicons icon modules from npm, converts to SVG, and writes to OUTPUT_DIR.
+Fetches pinned free Hugeicons icon modules from npm, converts them into a
+PDF-based asset catalog, and writes the result to OUTPUT_DIR.
 USAGE
 }
 
@@ -46,9 +47,14 @@ if [[ ! -f "${VERSION_LOCK}" ]]; then
   exit 1
 fi
 
-VERSION="$(awk '!/^[[:space:]]*#/ && NF {print $1; exit}' "${VERSION_LOCK}")"
+VERSION="$(awk '!/^[[:space:]]*#/ && NF { print $1; exit }' "${VERSION_LOCK}")"
 if [[ -z "${VERSION:-}" || "${VERSION}" == "0.0.0" ]]; then
   echo "Set a valid pinned version in ${VERSION_LOCK} before fetching." >&2
+  exit 1
+fi
+
+if [[ ! -f "${CONVERTER_SCRIPT}" ]]; then
+  echo "Converter script not found: ${CONVERTER_SCRIPT}" >&2
   exit 1
 fi
 
@@ -63,11 +69,6 @@ TARBALL="$(npm pack "${PACKAGE_NAME}@${VERSION}" | tail -n 1)"
 tar -xzf "${TARBALL}"
 popd >/dev/null
 
-if [[ ! -f "${CONVERTER_SCRIPT}" ]]; then
-  echo "Converter script not found: ${CONVERTER_SCRIPT}" >&2
-  exit 1
-fi
-
 ESM_DIR="${TMP_DIR}/package/dist/esm"
 if [[ ! -d "${ESM_DIR}" ]]; then
   echo "Expected ESM icon directory not found in package payload: ${ESM_DIR}" >&2
@@ -78,6 +79,7 @@ rm -rf "${OUTPUT_DIR}"
 mkdir -p "${OUTPUT_DIR}"
 
 REPORT_PATH="${OUTPUT_DIR}/conversion-report.json"
+
 node "${CONVERTER_SCRIPT}" \
   --esm-dir "${ESM_DIR}" \
   --output-dir "${OUTPUT_DIR}" \
@@ -90,9 +92,9 @@ if [[ ! -f "${REPORT_PATH}" ]]; then
   exit 1
 fi
 
-module_count="$(node -e 'const fs=require("node:fs");const r=JSON.parse(fs.readFileSync(process.argv[1],"utf8"));process.stdout.write(String(r.moduleCount ?? ""));' "${REPORT_PATH}")"
-converted_count="$(node -e 'const fs=require("node:fs");const r=JSON.parse(fs.readFileSync(process.argv[1],"utf8"));process.stdout.write(String(r.convertedCount ?? ""));' "${REPORT_PATH}")"
-skipped_count="$(node -e 'const fs=require("node:fs");const r=JSON.parse(fs.readFileSync(process.argv[1],"utf8"));process.stdout.write(String(r.skippedCount ?? ""));' "${REPORT_PATH}")"
+module_count="$(node -e 'const fs=require("node:fs"); const r=JSON.parse(fs.readFileSync(process.argv[1], "utf8")); process.stdout.write(String(r.moduleCount ?? ""));' "${REPORT_PATH}")"
+converted_count="$(node -e 'const fs=require("node:fs"); const r=JSON.parse(fs.readFileSync(process.argv[1], "utf8")); process.stdout.write(String(r.convertedCount ?? ""));' "${REPORT_PATH}")"
+skipped_count="$(node -e 'const fs=require("node:fs"); const r=JSON.parse(fs.readFileSync(process.argv[1], "utf8")); process.stdout.write(String(r.skippedCount ?? ""));' "${REPORT_PATH}")"
 
 if [[ ! "${converted_count}" =~ ^[0-9]+$ ]]; then
   echo "Invalid convertedCount in report: ${converted_count}" >&2
@@ -104,13 +106,26 @@ if [[ "${converted_count}" -eq 0 ]]; then
   exit 1
 fi
 
-icon_count="$(rg --files "${OUTPUT_DIR}" -g '*.svg' | wc -l | tr -d '[:space:]')"
-if [[ "${icon_count}" -eq 0 ]]; then
-  echo "No SVG files written to output directory: ${OUTPUT_DIR}" >&2
+catalog_contents="${OUTPUT_DIR}/Contents.json"
+if [[ ! -f "${catalog_contents}" ]]; then
+  echo "Asset catalog root Contents.json missing: ${catalog_contents}" >&2
   exit 1
 fi
 
-echo "Fetched and converted ${icon_count} SVG icons from ${PACKAGE_NAME}@${VERSION} into ${OUTPUT_DIR}."
+imageset_count="$(find "${OUTPUT_DIR}" -type d -name '*.imageset' | wc -l | tr -d '[:space:]')"
+pdf_count="$(find "${OUTPUT_DIR}" -type f -name '*.pdf' | wc -l | tr -d '[:space:]')"
+
+if [[ "${imageset_count}" -eq 0 ]]; then
+  echo "No .imageset folders written to output directory: ${OUTPUT_DIR}" >&2
+  exit 1
+fi
+
+if [[ "${pdf_count}" -eq 0 ]]; then
+  echo "No PDF assets written to output directory: ${OUTPUT_DIR}" >&2
+  exit 1
+fi
+
+echo "Fetched and converted ${pdf_count} PDF icons from ${PACKAGE_NAME}@${VERSION} into ${OUTPUT_DIR}."
 echo "Conversion report: ${REPORT_PATH} (modules=${module_count}, converted=${converted_count}, skipped=${skipped_count})"
 
 if [[ "${skipped_count}" =~ ^[0-9]+$ ]] && [[ "${skipped_count}" -gt 0 ]]; then

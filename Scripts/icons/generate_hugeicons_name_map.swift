@@ -4,18 +4,18 @@ import Foundation
 
 enum NameMapError: Error, CustomStringConvertible {
     case usage
-    case svgRootMissing(String)
+    case assetsRootMissing(String)
     case noIconsFound(String)
     case nameCollision(identifier: String, first: String, second: String)
 
     var description: String {
         switch self {
         case .usage:
-            return "Usage: generate_hugeicons_name_map.swift <svg-root-dir> <name-map-output-path>"
-        case .svgRootMissing(let root):
-            return "SVG root directory does not exist: \(root)"
+            return "Usage: generate_hugeicons_name_map.swift <xcassets-root-dir> <name-map-output-path>"
+        case .assetsRootMissing(let root):
+            return "Asset catalog directory does not exist: \(root)"
         case .noIconsFound(let root):
-            return "No .svg files found under: \(root)"
+            return "No .imageset folders found under: \(root)"
         case .nameCollision(let id, let first, let second):
             return "Swift identifier collision for '\(id)': \(first) and \(second)"
         }
@@ -75,7 +75,7 @@ func toSwiftIdentifier(_ source: String) -> String {
     return combined
 }
 
-func collectSVGBaseNames(root: URL) throws -> [String] {
+func collectImageSetBaseNames(root: URL) throws -> [String] {
     let enumerator = FileManager.default.enumerator(
         at: root,
         includingPropertiesForKeys: [.isRegularFileKey],
@@ -84,7 +84,8 @@ func collectSVGBaseNames(root: URL) throws -> [String] {
 
     var names: [String] = []
     while let fileURL = enumerator?.nextObject() as? URL {
-        guard fileURL.pathExtension.lowercased() == "svg" else { continue }
+        guard fileURL.hasDirectoryPath else { continue }
+        guard fileURL.pathExtension.lowercased() == "imageset" else { continue }
         names.append(fileURL.deletingPathExtension().lastPathComponent)
     }
 
@@ -101,10 +102,10 @@ do {
 
     var isDir: ObjCBool = false
     guard FileManager.default.fileExists(atPath: root.path, isDirectory: &isDir), isDir.boolValue else {
-        throw NameMapError.svgRootMissing(root.path)
+        throw NameMapError.assetsRootMissing(root.path)
     }
 
-    let baseNames = try collectSVGBaseNames(root: root)
+    let baseNames = try collectImageSetBaseNames(root: root)
     guard !baseNames.isEmpty else {
         throw NameMapError.noIconsFound(root.path)
     }

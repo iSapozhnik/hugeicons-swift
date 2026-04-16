@@ -124,22 +124,14 @@ item.image = Hugeicons.settings01.nsImage()
     ?? NSImage(systemSymbolName: "gearshape", accessibilityDescription: nil)
 ```
 
-Load icon file URL directly (for custom renderers/web views):
-
-```swift
-if let iconURL = Hugeicons.qrCode.url() {
-    webView.loadFileURL(iconURL, allowingReadAccessTo: iconURL.deletingLastPathComponent())
-}
-```
-
 Notes:
 
 - `image()` is non-optional and fails fast if the icon resource is missing.
-- `nsImage()` and `url()` are optional and can be used for defensive flows.
+- `nsImage()` and `uiImage()` are optional and can be used for defensive flows.
 
 ## For Maintainers (Pipeline and Updates)
 
-Important: the npm payload does not ship raw `.svg` files. It ships icon modules in `dist/esm/*Icon.js`, and the fetch script converts those modules into `.svg` files.
+Important: the npm payload does not ship raw `.svg` files. It ships icon modules in `dist/esm/*Icon.js`, and the fetch script converts those modules into PDF-backed `.imageset` entries in `Hugeicons.xcassets`.
 
 ### Installation (Maintainers)
 
@@ -153,8 +145,8 @@ cd hugeicons-swift
 Install required tooling (macOS/Homebrew):
 
 ```bash
-brew install node
-brew install swiftgen
+brew install node swiftgen
+npm ci
 ```
 
 Verify tooling:
@@ -177,35 +169,35 @@ swift build
 Required tools:
 
 - Node.js + npm (used by `npm pack` and the JS converter)
-- SwiftGen CLI (used to generate `HugeiconsGenerated.swift`)
+- SwiftGen CLI (used to generate `Assets+Generated.swift`)
+- npm dev dependencies from `package.json` (install with `npm ci`)
 
 ### Generated artifacts
 
-- Raw payload:
-  - `Sources/Hugeicons/Resources/Hugeicons/raw/*.svg`
-- Verification artifacts:
-  - `Sources/Hugeicons/Resources/Hugeicons/raw/conversion-report.json`
-  - `Sources/Hugeicons/Resources/Hugeicons/manifest.json`
+- Asset catalog payload:
+  - `Sources/Hugeicons/Resources/Hugeicons/Hugeicons.xcassets/*.imageset/*.pdf`
+  - `Sources/Hugeicons/Resources/Hugeicons/Hugeicons.xcassets/conversion-report.json`
+- Metadata artifact:
   - `Sources/Hugeicons/Resources/Hugeicons/name-map.json`
 - Swift API artifacts:
-  - `Sources/Hugeicons/Generated/HugeiconsGenerated.swift` (SwiftGen output, machine-owned)
+  - `Sources/Hugeicons/Generated/Assets+Generated.swift` (SwiftGen output, machine-owned)
   - `Sources/Hugeicons/Generated/Hugeicons+Catalog.generated.swift` (wrapper catalog, machine-owned)
 
 ### Scripts
 
 Run commands from repository root.
 
-1. Fetch free Hugeicons SVGs
+1. Fetch free Hugeicons asset catalog
 - Script: `Scripts/icons/fetch_hugeicons_free.sh`
 - Usage: `Scripts/icons/fetch_hugeicons_free.sh [--version-lock <path>] [--output-dir <path>]`
 
-2. Verify SVG payload + manifest
-- Script: `Scripts/icons/verify_hugeicons_free.swift`
-- Usage: `Scripts/icons/verify_hugeicons_free.swift <svg-root-dir> <manifest-output-path>`
+2. Verify generated asset catalog
+- Script: `Scripts/icons/verify_hugeicons_xcassets.swift`
+- Usage: `Scripts/icons/verify_hugeicons_xcassets.swift <xcassets-root-dir> [--report-path <path>] [--max-skipped <count>]`
 
 3. Generate stable Swift name map
 - Script: `Scripts/icons/generate_hugeicons_name_map.swift`
-- Usage: `Scripts/icons/generate_hugeicons_name_map.swift <svg-root-dir> <name-map-output-path>`
+- Usage: `Scripts/icons/generate_hugeicons_name_map.swift <xcassets-root-dir> <name-map-output-path>`
 
 4. Generate Swift wrappers
 - Script: `Scripts/icons/generate_hugeicons_swift_api.sh`
@@ -218,7 +210,7 @@ Run commands from repository root.
 - Script: `Scripts/icons/update_hugeicons_free.sh`
 - Runs:
   1. fetch
-  2. verify
+  2. verify asset catalog
   3. regenerate name map + Swift wrapper API
   4. print added/removed/renamed summary
 

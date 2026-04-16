@@ -6,7 +6,7 @@ REPO_ROOT="$(cd "${SCRIPT_DIR}/../.." && pwd)"
 
 DEFAULT_SWIFTGEN_CONFIG="${REPO_ROOT}/swiftgen.yml"
 DEFAULT_NAME_MAP="${REPO_ROOT}/Sources/Hugeicons/Resources/Hugeicons/name-map.json"
-DEFAULT_SWIFTGEN_OUTPUT="${REPO_ROOT}/Sources/Hugeicons/Generated/HugeiconsGenerated.swift"
+DEFAULT_SWIFTGEN_OUTPUT="${REPO_ROOT}/Sources/Hugeicons/Generated/Assets+Generated.swift"
 DEFAULT_WRAPPER_OUTPUT="${REPO_ROOT}/Sources/Hugeicons/Generated/Hugeicons+Catalog.generated.swift"
 WRAPPER_SCRIPT="${SCRIPT_DIR}/generate_hugeicons_wrapper.swift"
 
@@ -22,7 +22,7 @@ Usage: $(basename "$0") [--swiftgen-config <path>] [--name-map <path>] [--swiftg
 Runs:
 1) swiftgen config lint
 2) swiftgen config run
-3) Hugeicons wrapper generation
+3) Hugeicons wrapper generation from asset-catalog symbols
 USAGE
 }
 
