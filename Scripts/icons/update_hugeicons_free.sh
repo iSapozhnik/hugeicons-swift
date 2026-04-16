@@ -5,28 +5,26 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "${SCRIPT_DIR}/../.." && pwd)"
 
 FETCH_SCRIPT="${SCRIPT_DIR}/fetch_hugeicons_free.sh"
-VERIFY_SCRIPT="${SCRIPT_DIR}/verify_hugeicons_free.swift"
+VERIFY_SCRIPT="${SCRIPT_DIR}/verify_hugeicons_xcassets.swift"
 NAME_MAP_SCRIPT="${SCRIPT_DIR}/generate_hugeicons_name_map.swift"
 SWIFT_API_SCRIPT="${SCRIPT_DIR}/generate_hugeicons_swift_api.sh"
 
 DEFAULT_VERSION_LOCK="${REPO_ROOT}/version.lock"
-DEFAULT_OUTPUT_DIR="${REPO_ROOT}/Sources/Hugeicons/Resources/Hugeicons/raw"
-DEFAULT_MANIFEST_PATH="${REPO_ROOT}/Sources/Hugeicons/Resources/Hugeicons/manifest.json"
+DEFAULT_OUTPUT_DIR="${REPO_ROOT}/Sources/Hugeicons/Resources/Hugeicons/Hugeicons.xcassets"
 DEFAULT_NAME_MAP_PATH="${REPO_ROOT}/Sources/Hugeicons/Resources/Hugeicons/name-map.json"
 
 VERSION_LOCK="${DEFAULT_VERSION_LOCK}"
 OUTPUT_DIR="${DEFAULT_OUTPUT_DIR}"
-MANIFEST_PATH="${DEFAULT_MANIFEST_PATH}"
 NAME_MAP_PATH="${DEFAULT_NAME_MAP_PATH}"
 
 usage() {
   cat <<USAGE
-Usage: $(basename "$0") [--version-lock <path>] [--output-dir <path>] [--manifest-path <path>] [--name-map-path <path>]
+Usage: $(basename "$0") [--version-lock <path>] [--output-dir <path>] [--name-map-path <path>]
 
-Phase 5 refresh pipeline:
+Refresh pipeline:
 1) fetch
-2) verify
-3) regenerate SwiftGen/wrapper API
+2) verify generated asset catalog
+3) regenerate name map + SwiftGen/wrapper API
 4) output summary (added/removed/renamed)
 USAGE
 }
@@ -39,10 +37,6 @@ while [[ $# -gt 0 ]]; do
       ;;
     --output-dir)
       OUTPUT_DIR="$2"
-      shift 2
-      ;;
-    --manifest-path)
-      MANIFEST_PATH="$2"
       shift 2
       ;;
     --name-map-path)
@@ -84,8 +78,8 @@ fi
 echo "[1/4] Fetching pinned Hugeicons free payload..."
 "${FETCH_SCRIPT}" --version-lock "${VERSION_LOCK}" --output-dir "${OUTPUT_DIR}"
 
-echo "[2/4] Verifying SVG payload + writing manifest..."
-"${VERIFY_SCRIPT}" "${OUTPUT_DIR}" "${MANIFEST_PATH}"
+echo "[2/4] Verifying asset catalog consistency..."
+"${VERIFY_SCRIPT}" "${OUTPUT_DIR}"
 
 echo "[3/4] Regenerating name map + SwiftGen wrapper API..."
 "${NAME_MAP_SCRIPT}" "${OUTPUT_DIR}" "${NAME_MAP_PATH}"

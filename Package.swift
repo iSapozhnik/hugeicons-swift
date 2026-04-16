@@ -6,7 +6,8 @@ import PackageDescription
 let package = Package(
     name: "hugeicons-swift",
     platforms: [
-        .macOS(.v10_15),
+        .iOS(.v17),
+        .macOS(.v14),
     ],
     products: [
         .library(
@@ -19,11 +20,10 @@ let package = Package(
             name: "Hugeicons",
             path: "Sources/Hugeicons",
             exclude: [
-                "Resources/Hugeicons/manifest.json",
                 "Resources/Hugeicons/name-map.json",
             ],
             resources: [
-                .process("Resources/Hugeicons/raw"),
+                .process("Resources/Hugeicons/Hugeicons.xcassets"),
             ]
         ),
         .testTarget(

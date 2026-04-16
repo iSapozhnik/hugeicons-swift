@@ -1,0 +1,14 @@
+{
+  "name": "hugeicons-swift",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Maintainer tooling for Hugeicons asset-catalog generation.",
+  "scripts": {
+    "convert:xcassets": "node Scripts/icons/convert_hugeicons_core_to_asset_catalog.mjs"
+  },
+  "type": "commonjs",
+  "devDependencies": {
+    "pdfkit": "0.17.2",
+    "svg-to-pdfkit": "0.1.8"
+  }
+}

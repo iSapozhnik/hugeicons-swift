@@ -1,10 +1,10 @@
-files:
+xcassets:
   inputs:
-    - Sources/Hugeicons/Resources/Hugeicons/raw
-  filter: .+\.svg$
+    - Sources/Hugeicons/Resources/Hugeicons/Hugeicons.xcassets
   outputs:
-    - templateName: structured-swift5
-      output: Sources/Hugeicons/Generated/HugeiconsGenerated.swift
+    - templateName: swift5
+      output: Sources/Hugeicons/Generated/Assets+Generated.swift
       params:
-        enumName: HugeiconsGenerated
-        useExtension: ""
+        enumName: HugeiconsAssets
+        bundle: Bundle.module
+        forceProvidesNamespaces: true

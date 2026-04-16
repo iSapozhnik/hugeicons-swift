@@ -29,7 +29,7 @@ enum WrapperGenerationError: Error, CustomStringConvertible {
         case .inputMissing(let path):
             return "Input file not found: \(path)"
         case .invalidGeneratedSwift:
-            return "Failed to parse source icon mappings from generated SwiftGen file."
+            return "Failed to parse source icon mappings from generated SwiftGen asset file."
         case .duplicateGeneratedSourceName(let name):
             return "Duplicate source icon name found in generated SwiftGen file: \(name)"
         case .duplicatePublicIdentifier(let name):
@@ -51,7 +51,7 @@ func escapeSwiftString(_ value: String) -> String {
 }
 
 func parseSwiftGenMappings(_ generatedSwift: String) throws -> [String: String] {
-    let pattern = #"internal static let\s+(`?)([A-Za-z_][A-Za-z0-9_]*)\1\s*=\s*File\(name:\s*"([^"]+)""#
+    let pattern = #"internal static let\s+(`?)([A-Za-z_][A-Za-z0-9_]*)\1\s*=\s*ImageAsset\(name:\s*"([^"]+)""#
     let regex = try NSRegularExpression(pattern: pattern, options: [])
     let fullRange = NSRange(generatedSwift.startIndex..<generatedSwift.endIndex, in: generatedSwift)
     let matches = regex.matches(in: generatedSwift, options: [], range: fullRange)
@@ -151,7 +151,7 @@ do {
         lines.append("    static let \(entry.swiftIdentifier) = HugeiconsAsset(")
         lines.append("        sourceName: \"\(escapeSwiftString(entry.sourceName))\",")
         lines.append("        swiftIdentifier: \"\(escapeSwiftString(entry.swiftIdentifier))\",")
-        lines.append("        resourceName: HugeiconsGenerated.`\(generatedIdentifier)`.name")
+        lines.append("        resourceName: HugeiconsAssets.`\(generatedIdentifier)`.name")
         lines.append("    )")
     }
     lines.append("")
