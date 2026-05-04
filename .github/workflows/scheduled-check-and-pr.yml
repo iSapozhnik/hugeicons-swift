@@ -84,8 +84,11 @@ jobs:
       - name: Build summary artifacts
         if: steps.versions.outputs.update_available == 'true'
         run: |
+          temp_dir="$(mktemp -d)"
+          trap 'rm -rf "${temp_dir}"' EXIT
+          git show "origin/${BASE_BRANCH}:Sources/Hugeicons/Resources/Hugeicons/name-map.json" > "${temp_dir}/previous-name-map.json"
           Scripts/icons/summarize_hugeicons_name_map.swift \
-            <(git show "origin/${BASE_BRANCH}:Sources/Hugeicons/Resources/Hugeicons/name-map.json") \
+            "${temp_dir}/previous-name-map.json" \
             Sources/Hugeicons/Resources/Hugeicons/name-map.json \
             --format markdown > summary.md
           cat > pr-body.md <<EOF
