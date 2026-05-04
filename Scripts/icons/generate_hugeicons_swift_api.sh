@@ -76,7 +76,7 @@ swiftgen config run --config "${SWIFTGEN_CONFIG}"
 
 "${WRAPPER_SCRIPT}" "${NAME_MAP}" "${SWIFTGEN_OUTPUT}" "${WRAPPER_OUTPUT}"
 
-generated_count="$(rg -c '^[[:space:]]*static var ' "${WRAPPER_OUTPUT}" | tr -d '[:space:]')"
+generated_count="$(grep -E -c '^[[:space:]]*static var ' "${WRAPPER_OUTPUT}" | tr -d '[:space:]')"
 echo "Hugeicons Swift API generated successfully."
 echo "SwiftGen output: ${SWIFTGEN_OUTPUT}"
 echo "Wrapper output: ${WRAPPER_OUTPUT}"
