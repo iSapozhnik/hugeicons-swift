@@ -1,0 +1,152 @@
+name: Scheduled Hugeicons Update PR
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: scheduled-hugeicons-update
+  cancel-in-progress: false
+
+jobs:
+  check-and-open-pr:
+    runs-on: macos-latest
+    env:
+      UPDATE_BRANCH: automation/hugeicons-update
+      BASE_BRANCH: main
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install SwiftGen
+        run: brew install swiftgen
+
+      - name: Configure git author
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Determine upstream version
+        id: versions
+        run: |
+          current_version="$(Scripts/ci/read_version_lock.sh version.lock)"
+          latest_version="$(npm view @hugeicons/core-free-icons version)"
+          echo "current=${current_version}" >> "${GITHUB_OUTPUT}"
+          echo "latest=${latest_version}" >> "${GITHUB_OUTPUT}"
+          if [[ "${current_version}" == "${latest_version}" ]]; then
+            echo "update_available=false" >> "${GITHUB_OUTPUT}"
+          else
+            echo "update_available=true" >> "${GITHUB_OUTPUT}"
+          fi
+
+      - name: Exit when no upstream update is available
+        if: steps.versions.outputs.update_available != 'true'
+        run: |
+          echo "Pinned Hugeicons version ${CURRENT} is already up to date."
+        env:
+          CURRENT: ${{ steps.versions.outputs.current }}
+
+      - name: Prepare automation branch
+        if: steps.versions.outputs.update_available == 'true'
+        run: git checkout -B "${UPDATE_BRANCH}" "origin/${BASE_BRANCH}"
+
+      - name: Update pinned version
+        if: steps.versions.outputs.update_available == 'true'
+        run: Scripts/ci/write_version_lock.sh version.lock "${LATEST_VERSION}"
+        env:
+          LATEST_VERSION: ${{ steps.versions.outputs.latest }}
+
+      - name: Install maintainer dependencies
+        if: steps.versions.outputs.update_available == 'true'
+        run: npm ci
+
+      - name: Refresh Hugeicons assets
+        if: steps.versions.outputs.update_available == 'true'
+        run: Scripts/icons/update_hugeicons_free.sh
+
+      - name: Run tests
+        if: steps.versions.outputs.update_available == 'true'
+        run: swift test
+
+      - name: Build summary artifacts
+        if: steps.versions.outputs.update_available == 'true'
+        run: |
+          Scripts/icons/summarize_hugeicons_name_map.swift \
+            <(git show "origin/${BASE_BRANCH}:Sources/Hugeicons/Resources/Hugeicons/name-map.json") \
+            Sources/Hugeicons/Resources/Hugeicons/name-map.json \
+            --format markdown > summary.md
+          cat > pr-body.md <<EOF
+          ## Upstream Hugeicons Update
+
+          - Previous upstream version: \`${CURRENT_VERSION}\`
+          - New upstream version: \`${LATEST_VERSION}\`
+
+          $(cat summary.md)
+
+          ## Validation
+
+          - \`Scripts/icons/update_hugeicons_free.sh\`
+          - \`swift test\`
+
+          The repository tag and GitHub release will be created automatically after this PR merges into \`${BASE_BRANCH}\`.
+          EOF
+        env:
+          BASE_BRANCH: ${{ env.BASE_BRANCH }}
+          CURRENT_VERSION: ${{ steps.versions.outputs.current }}
+          LATEST_VERSION: ${{ steps.versions.outputs.latest }}
+
+      - name: Commit refreshed assets
+        if: steps.versions.outputs.update_available == 'true'
+        run: |
+          git add version.lock Sources/Hugeicons
+          if git diff --cached --quiet; then
+            echo "No generated changes detected after update."
+            exit 1
+          fi
+          git commit -m "Update Hugeicons to ${LATEST_VERSION}"
+        env:
+          LATEST_VERSION: ${{ steps.versions.outputs.latest }}
+
+      - name: Push automation branch
+        if: steps.versions.outputs.update_available == 'true'
+        run: git push --force-with-lease origin "HEAD:${UPDATE_BRANCH}"
+        env:
+          UPDATE_BRANCH: ${{ env.UPDATE_BRANCH }}
+
+      - name: Create or update pull request
+        if: steps.versions.outputs.update_available == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          UPDATE_BRANCH: ${{ env.UPDATE_BRANCH }}
+          BASE_BRANCH: ${{ env.BASE_BRANCH }}
+          LATEST_VERSION: ${{ steps.versions.outputs.latest }}
+        run: |
+          existing_pr="$(gh pr list \
+            --base "${BASE_BRANCH}" \
+            --head "${UPDATE_BRANCH}" \
+            --state open \
+            --json number \
+            --jq '.[0].number')"
+          title="Update Hugeicons to ${LATEST_VERSION}"
+          if [[ -n "${existing_pr}" && "${existing_pr}" != "null" ]]; then
+            gh pr edit "${existing_pr}" --title "${title}" --body-file pr-body.md
+          else
+            gh pr create \
+              --base "${BASE_BRANCH}" \
+              --head "${UPDATE_BRANCH}" \
+              --title "${title}" \
+              --body-file pr-body.md
+          fi

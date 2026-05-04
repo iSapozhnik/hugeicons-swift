@@ -8,6 +8,7 @@ FETCH_SCRIPT="${SCRIPT_DIR}/fetch_hugeicons_free.sh"
 VERIFY_SCRIPT="${SCRIPT_DIR}/verify_hugeicons_xcassets.swift"
 NAME_MAP_SCRIPT="${SCRIPT_DIR}/generate_hugeicons_name_map.swift"
 SWIFT_API_SCRIPT="${SCRIPT_DIR}/generate_hugeicons_swift_api.sh"
+SUMMARY_SCRIPT="${SCRIPT_DIR}/summarize_hugeicons_name_map.swift"
 
 DEFAULT_VERSION_LOCK="${REPO_ROOT}/version.lock"
 DEFAULT_OUTPUT_DIR="${REPO_ROOT}/Sources/Hugeicons/Resources/Hugeicons/Hugeicons.xcassets"
@@ -55,7 +56,7 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
-for required in "${FETCH_SCRIPT}" "${VERIFY_SCRIPT}" "${NAME_MAP_SCRIPT}" "${SWIFT_API_SCRIPT}"; do
+for required in "${FETCH_SCRIPT}" "${VERIFY_SCRIPT}" "${NAME_MAP_SCRIPT}" "${SWIFT_API_SCRIPT}" "${SUMMARY_SCRIPT}"; do
   if [[ ! -f "${required}" ]]; then
     echo "Required script not found: ${required}" >&2
     exit 1
@@ -86,72 +87,8 @@ echo "[3/4] Regenerating name map + SwiftGen wrapper API..."
 "${SWIFT_API_SCRIPT}" --name-map "${NAME_MAP_PATH}"
 
 echo "[4/4] Computing icon delta summary..."
-swift - "${HAS_OLD_NAME_MAP}" "${OLD_NAME_MAP_PATH}" "${NAME_MAP_PATH}" <<'SWIFT'
-import Foundation
-
-struct NameMapPayload: Decodable {
-    struct Entry: Decodable {
-        let sourceName: String
-        let swiftIdentifier: String
-    }
-
-    let entries: [Entry]
-}
-
-func loadNameMap(at path: String) throws -> NameMapPayload {
-    let data = try Data(contentsOf: URL(fileURLWithPath: path))
-    return try JSONDecoder().decode(NameMapPayload.self, from: data)
-}
-
-let args = CommandLine.arguments
-guard args.count == 4 else {
-    fputs("Internal error: expected 3 arguments.\n", stderr)
-    exit(1)
-}
-
-let hasOldNameMap = args[1] == "1"
-let oldPath = args[2]
-let newPath = args[3]
-
-do {
-    let newEntries = try loadNameMap(at: newPath).entries
-    let oldEntries = hasOldNameMap ? try loadNameMap(at: oldPath).entries : []
-
-    let oldByIdentifier = Dictionary(uniqueKeysWithValues: oldEntries.map { ($0.swiftIdentifier, $0.sourceName) })
-    let newByIdentifier = Dictionary(uniqueKeysWithValues: newEntries.map { ($0.swiftIdentifier, $0.sourceName) })
-
-    let oldSources = Set(oldByIdentifier.values)
-    let newSources = Set(newByIdentifier.values)
-
-    var renamedCount = 0
-    var renamedOldSources = Set<String>()
-    var renamedNewSources = Set<String>()
-
-    for (identifier, oldSource) in oldByIdentifier {
-        guard let newSource = newByIdentifier[identifier], newSource != oldSource else {
-            continue
-        }
-        renamedCount += 1
-        renamedOldSources.insert(oldSource)
-        renamedNewSources.insert(newSource)
-    }
-
-    var addedCount = newSources.subtracting(oldSources).count
-    var removedCount = oldSources.subtracting(newSources).count
-
-    let renamedAddedOverlap = newSources.subtracting(oldSources).intersection(renamedNewSources).count
-    let renamedRemovedOverlap = oldSources.subtracting(newSources).intersection(renamedOldSources).count
-    addedCount = max(0, addedCount - renamedAddedOverlap)
-    removedCount = max(0, removedCount - renamedRemovedOverlap)
-
-    print("Hugeicons refresh summary:")
-    print("  old count: \(oldSources.count)")
-    print("  new count: \(newSources.count)")
-    print("  added: \(addedCount)")
-    print("  removed: \(removedCount)")
-    print("  renamed: \(renamedCount)")
-} catch {
-    fputs("Failed to compute icon delta summary: \(error)\n", stderr)
-    exit(1)
-}
-SWIFT
+if [[ "${HAS_OLD_NAME_MAP}" -eq 1 ]]; then
+  "${SUMMARY_SCRIPT}" "${OLD_NAME_MAP_PATH}" "${NAME_MAP_PATH}"
+else
+  "${SUMMARY_SCRIPT}" "${TMP_DIR}/missing-old-name-map.json" "${NAME_MAP_PATH}"
+fi
