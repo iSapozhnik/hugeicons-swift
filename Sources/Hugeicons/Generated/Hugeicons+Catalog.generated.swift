@@ -767,6 +767,18 @@ public extension Hugeicons {
     static var arrowAllDirection: HugeiconsAsset {
         HugeiconsCatalog.arrowAllDirection
     }
+    static var arrowBigDownDash: HugeiconsAsset {
+        HugeiconsCatalog.arrowBigDownDash
+    }
+    static var arrowBigLeftDash: HugeiconsAsset {
+        HugeiconsCatalog.arrowBigLeftDash
+    }
+    static var arrowBigRightDash: HugeiconsAsset {
+        HugeiconsCatalog.arrowBigRightDash
+    }
+    static var arrowBigUpDash: HugeiconsAsset {
+        HugeiconsCatalog.arrowBigUpDash
+    }
     static var arrowDataTransferDiagonal: HugeiconsAsset {
         HugeiconsCatalog.arrowDataTransferDiagonal
     }
@@ -803,6 +815,9 @@ public extension Hugeicons {
     static var arrowDownDouble: HugeiconsAsset {
         HugeiconsCatalog.arrowDownDouble
     }
+    static var arrowDownFromLine: HugeiconsAsset {
+        HugeiconsCatalog.arrowDownFromLine
+    }
     static var arrowDownLeft01: HugeiconsAsset {
         HugeiconsCatalog.arrowDownLeft01
     }
@@ -817,6 +832,9 @@ public extension Hugeicons {
     }
     static var arrowDownRight02: HugeiconsAsset {
         HugeiconsCatalog.arrowDownRight02
+    }
+    static var arrowDownToDot: HugeiconsAsset {
+        HugeiconsCatalog.arrowDownToDot
     }
     static var arrowDownZeroOne: HugeiconsAsset {
         HugeiconsCatalog.arrowDownZeroOne
@@ -859,6 +877,9 @@ public extension Hugeicons {
     }
     static var arrowLeftDouble: HugeiconsAsset {
         HugeiconsCatalog.arrowLeftDouble
+    }
+    static var arrowLeftFromLine: HugeiconsAsset {
+        HugeiconsCatalog.arrowLeftFromLine
     }
     static var arrowLeftRight: HugeiconsAsset {
         HugeiconsCatalog.arrowLeftRight
@@ -908,6 +929,9 @@ public extension Hugeicons {
     static var arrowRightDouble: HugeiconsAsset {
         HugeiconsCatalog.arrowRightDouble
     }
+    static var arrowRightFromLine: HugeiconsAsset {
+        HugeiconsCatalog.arrowRightFromLine
+    }
     static var arrowShrink: HugeiconsAsset {
         HugeiconsCatalog.arrowShrink
     }
@@ -952,6 +976,12 @@ public extension Hugeicons {
     }
     static var arrowUpDown: HugeiconsAsset {
         HugeiconsCatalog.arrowUpDown
+    }
+    static var arrowUpFromDot: HugeiconsAsset {
+        HugeiconsCatalog.arrowUpFromDot
+    }
+    static var arrowUpFromLine: HugeiconsAsset {
+        HugeiconsCatalog.arrowUpFromLine
     }
     static var arrowUpLeft01: HugeiconsAsset {
         HugeiconsCatalog.arrowUpLeft01
@@ -3176,6 +3206,9 @@ public extension Hugeicons {
     static var chevronDoubleClose: HugeiconsAsset {
         HugeiconsCatalog.chevronDoubleClose
     }
+    static var chevronsDownUp: HugeiconsAsset {
+        HugeiconsCatalog.chevronsDownUp
+    }
     static var chickenThighs: HugeiconsAsset {
         HugeiconsCatalog.chickenThighs
     }
@@ -3295,6 +3328,9 @@ public extension Hugeicons {
     }
     static var circleArrowMoveUpRight: HugeiconsAsset {
         HugeiconsCatalog.circleArrowMoveUpRight
+    }
+    static var circleArrowOutUpRight: HugeiconsAsset {
+        HugeiconsCatalog.circleArrowOutUpRight
     }
     static var circleArrowReload01: HugeiconsAsset {
         HugeiconsCatalog.circleArrowReload01
@@ -5987,11 +6023,11 @@ public extension Hugeicons {
     static var fuelStation: HugeiconsAsset {
         HugeiconsCatalog.fuelStation
     }
+    static var fullScreen: HugeiconsAsset {
+        HugeiconsCatalog.fullScreen
+    }
     static var fullSignal: HugeiconsAsset {
         HugeiconsCatalog.fullSignal
-    }
-    static var fullscreen: HugeiconsAsset {
-        HugeiconsCatalog.fullscreen
     }
     static var function: HugeiconsAsset {
         HugeiconsCatalog.function
@@ -6439,6 +6475,9 @@ public extension Hugeicons {
     }
     static var handcuffs: HugeiconsAsset {
         HugeiconsCatalog.handcuffs
+    }
+    static var handsClapping: HugeiconsAsset {
+        HugeiconsCatalog.handsClapping
     }
     static var hanger: HugeiconsAsset {
         HugeiconsCatalog.hanger
@@ -7117,6 +7156,12 @@ public extension Hugeicons {
     }
     static var island: HugeiconsAsset {
         HugeiconsCatalog.island
+    }
+    static var iterationCcw: HugeiconsAsset {
+        HugeiconsCatalog.iterationCcw
+    }
+    static var iterationCw: HugeiconsAsset {
+        HugeiconsCatalog.iterationCw
     }
     static var jar: HugeiconsAsset {
         HugeiconsCatalog.jar
@@ -10868,6 +10913,9 @@ public extension Hugeicons {
     static var redo03: HugeiconsAsset {
         HugeiconsCatalog.redo03
     }
+    static var redoDot: HugeiconsAsset {
+        HugeiconsCatalog.redoDot
+    }
     static var reduceParagraph: HugeiconsAsset {
         HugeiconsCatalog.reduceParagraph
     }
@@ -10885,6 +10933,9 @@ public extension Hugeicons {
     }
     static var refresh04: HugeiconsAsset {
         HugeiconsCatalog.refresh04
+    }
+    static var refreshCwOff: HugeiconsAsset {
+        HugeiconsCatalog.refreshCwOff
     }
     static var refreshDot: HugeiconsAsset {
         HugeiconsCatalog.refreshDot
@@ -11159,11 +11210,17 @@ public extension Hugeicons {
     static var rotateBottomRight: HugeiconsAsset {
         HugeiconsCatalog.rotateBottomRight
     }
+    static var rotateCcwSquare: HugeiconsAsset {
+        HugeiconsCatalog.rotateCcwSquare
+    }
     static var rotateClockwise: HugeiconsAsset {
         HugeiconsCatalog.rotateClockwise
     }
     static var rotateCrop: HugeiconsAsset {
         HugeiconsCatalog.rotateCrop
+    }
+    static var rotateCwSquare: HugeiconsAsset {
+        HugeiconsCatalog.rotateCwSquare
     }
     static var rotateLeft01: HugeiconsAsset {
         HugeiconsCatalog.rotateLeft01
@@ -11632,6 +11689,9 @@ public extension Hugeicons {
     }
     static var seo: HugeiconsAsset {
         HugeiconsCatalog.seo
+    }
+    static var separatorHorizontal: HugeiconsAsset {
+        HugeiconsCatalog.separatorHorizontal
     }
     static var serverStack01: HugeiconsAsset {
         HugeiconsCatalog.serverStack01
@@ -13409,6 +13469,9 @@ public extension Hugeicons {
     static var teaching: HugeiconsAsset {
         HugeiconsCatalog.teaching
     }
+    static var teamWork: HugeiconsAsset {
+        HugeiconsCatalog.teamWork
+    }
     static var teamviewer: HugeiconsAsset {
         HugeiconsCatalog.teamviewer
     }
@@ -14071,6 +14134,9 @@ public extension Hugeicons {
     }
     static var trello: HugeiconsAsset {
         HugeiconsCatalog.trello
+    }
+    static var trendingUpDown: HugeiconsAsset {
+        HugeiconsCatalog.trendingUpDown
     }
     static var triangle: HugeiconsAsset {
         HugeiconsCatalog.triangle
@@ -16575,6 +16641,26 @@ enum HugeiconsCatalog {
         swiftIdentifier: "arrowAllDirection",
         resourceName: HugeiconsAssets.`arrowAllDirection`.name
     )
+    static let arrowBigDownDash = HugeiconsAsset(
+        sourceName: "arrow-big-down-dash",
+        swiftIdentifier: "arrowBigDownDash",
+        resourceName: HugeiconsAssets.`arrowBigDownDash`.name
+    )
+    static let arrowBigLeftDash = HugeiconsAsset(
+        sourceName: "arrow-big-left-dash",
+        swiftIdentifier: "arrowBigLeftDash",
+        resourceName: HugeiconsAssets.`arrowBigLeftDash`.name
+    )
+    static let arrowBigRightDash = HugeiconsAsset(
+        sourceName: "arrow-big-right-dash",
+        swiftIdentifier: "arrowBigRightDash",
+        resourceName: HugeiconsAssets.`arrowBigRightDash`.name
+    )
+    static let arrowBigUpDash = HugeiconsAsset(
+        sourceName: "arrow-big-up-dash",
+        swiftIdentifier: "arrowBigUpDash",
+        resourceName: HugeiconsAssets.`arrowBigUpDash`.name
+    )
     static let arrowDataTransferDiagonal = HugeiconsAsset(
         sourceName: "arrow-data-transfer-diagonal",
         swiftIdentifier: "arrowDataTransferDiagonal",
@@ -16635,6 +16721,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "arrowDownDouble",
         resourceName: HugeiconsAssets.`arrowDownDouble`.name
     )
+    static let arrowDownFromLine = HugeiconsAsset(
+        sourceName: "arrow-down-from-line",
+        swiftIdentifier: "arrowDownFromLine",
+        resourceName: HugeiconsAssets.`arrowDownFromLine`.name
+    )
     static let arrowDownLeft01 = HugeiconsAsset(
         sourceName: "arrow-down-left01",
         swiftIdentifier: "arrowDownLeft01",
@@ -16659,6 +16750,11 @@ enum HugeiconsCatalog {
         sourceName: "arrow-down-right02",
         swiftIdentifier: "arrowDownRight02",
         resourceName: HugeiconsAssets.`arrowDownRight02`.name
+    )
+    static let arrowDownToDot = HugeiconsAsset(
+        sourceName: "arrow-down-to-dot",
+        swiftIdentifier: "arrowDownToDot",
+        resourceName: HugeiconsAssets.`arrowDownToDot`.name
     )
     static let arrowDownZeroOne = HugeiconsAsset(
         sourceName: "arrow-down-zero-one",
@@ -16729,6 +16825,11 @@ enum HugeiconsCatalog {
         sourceName: "arrow-left-double",
         swiftIdentifier: "arrowLeftDouble",
         resourceName: HugeiconsAssets.`arrowLeftDouble`.name
+    )
+    static let arrowLeftFromLine = HugeiconsAsset(
+        sourceName: "arrow-left-from-line",
+        swiftIdentifier: "arrowLeftFromLine",
+        resourceName: HugeiconsAssets.`arrowLeftFromLine`.name
     )
     static let arrowLeftRight = HugeiconsAsset(
         sourceName: "arrow-left-right",
@@ -16810,6 +16911,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "arrowRightDouble",
         resourceName: HugeiconsAssets.`arrowRightDouble`.name
     )
+    static let arrowRightFromLine = HugeiconsAsset(
+        sourceName: "arrow-right-from-line",
+        swiftIdentifier: "arrowRightFromLine",
+        resourceName: HugeiconsAssets.`arrowRightFromLine`.name
+    )
     static let arrowShrink = HugeiconsAsset(
         sourceName: "arrow-shrink",
         swiftIdentifier: "arrowShrink",
@@ -16884,6 +16990,16 @@ enum HugeiconsCatalog {
         sourceName: "arrow-up-down",
         swiftIdentifier: "arrowUpDown",
         resourceName: HugeiconsAssets.`arrowUpDown`.name
+    )
+    static let arrowUpFromDot = HugeiconsAsset(
+        sourceName: "arrow-up-from-dot",
+        swiftIdentifier: "arrowUpFromDot",
+        resourceName: HugeiconsAssets.`arrowUpFromDot`.name
+    )
+    static let arrowUpFromLine = HugeiconsAsset(
+        sourceName: "arrow-up-from-line",
+        swiftIdentifier: "arrowUpFromLine",
+        resourceName: HugeiconsAssets.`arrowUpFromLine`.name
     )
     static let arrowUpLeft01 = HugeiconsAsset(
         sourceName: "arrow-up-left01",
@@ -20590,6 +20706,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "chevronDoubleClose",
         resourceName: HugeiconsAssets.`chevronDoubleClose`.name
     )
+    static let chevronsDownUp = HugeiconsAsset(
+        sourceName: "chevrons-down-up",
+        swiftIdentifier: "chevronsDownUp",
+        resourceName: HugeiconsAssets.`chevronsDownUp`.name
+    )
     static let chickenThighs = HugeiconsAsset(
         sourceName: "chicken-thighs",
         swiftIdentifier: "chickenThighs",
@@ -20789,6 +20910,11 @@ enum HugeiconsCatalog {
         sourceName: "circle-arrow-move-up-right",
         swiftIdentifier: "circleArrowMoveUpRight",
         resourceName: HugeiconsAssets.`circleArrowMoveUpRight`.name
+    )
+    static let circleArrowOutUpRight = HugeiconsAsset(
+        sourceName: "circle-arrow-out-up-right",
+        swiftIdentifier: "circleArrowOutUpRight",
+        resourceName: HugeiconsAssets.`circleArrowOutUpRight`.name
     )
     static let circleArrowReload01 = HugeiconsAsset(
         sourceName: "circle-arrow-reload01",
@@ -25275,15 +25401,15 @@ enum HugeiconsCatalog {
         swiftIdentifier: "fuelStation",
         resourceName: HugeiconsAssets.`fuelStation`.name
     )
+    static let fullScreen = HugeiconsAsset(
+        sourceName: "full-screen",
+        swiftIdentifier: "fullScreen",
+        resourceName: HugeiconsAssets.`fullScreen`.name
+    )
     static let fullSignal = HugeiconsAsset(
         sourceName: "full-signal",
         swiftIdentifier: "fullSignal",
         resourceName: HugeiconsAssets.`fullSignal`.name
-    )
-    static let fullscreen = HugeiconsAsset(
-        sourceName: "fullscreen",
-        swiftIdentifier: "fullscreen",
-        resourceName: HugeiconsAssets.`fullscreen`.name
     )
     static let function = HugeiconsAsset(
         sourceName: "function",
@@ -26029,6 +26155,11 @@ enum HugeiconsCatalog {
         sourceName: "handcuffs",
         swiftIdentifier: "handcuffs",
         resourceName: HugeiconsAssets.`handcuffs`.name
+    )
+    static let handsClapping = HugeiconsAsset(
+        sourceName: "hands-clapping",
+        swiftIdentifier: "handsClapping",
+        resourceName: HugeiconsAssets.`handsClapping`.name
     )
     static let hanger = HugeiconsAsset(
         sourceName: "hanger",
@@ -27159,6 +27290,16 @@ enum HugeiconsCatalog {
         sourceName: "island",
         swiftIdentifier: "island",
         resourceName: HugeiconsAssets.`island`.name
+    )
+    static let iterationCcw = HugeiconsAsset(
+        sourceName: "iteration-ccw",
+        swiftIdentifier: "iterationCcw",
+        resourceName: HugeiconsAssets.`iterationCcw`.name
+    )
+    static let iterationCw = HugeiconsAsset(
+        sourceName: "iteration-cw",
+        swiftIdentifier: "iterationCw",
+        resourceName: HugeiconsAssets.`iterationCw`.name
     )
     static let jar = HugeiconsAsset(
         sourceName: "jar",
@@ -33410,6 +33551,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "redo03",
         resourceName: HugeiconsAssets.`redo03`.name
     )
+    static let redoDot = HugeiconsAsset(
+        sourceName: "redo-dot",
+        swiftIdentifier: "redoDot",
+        resourceName: HugeiconsAssets.`redoDot`.name
+    )
     static let reduceParagraph = HugeiconsAsset(
         sourceName: "reduce-paragraph",
         swiftIdentifier: "reduceParagraph",
@@ -33439,6 +33585,11 @@ enum HugeiconsCatalog {
         sourceName: "refresh04",
         swiftIdentifier: "refresh04",
         resourceName: HugeiconsAssets.`refresh04`.name
+    )
+    static let refreshCwOff = HugeiconsAsset(
+        sourceName: "refresh-cw-off",
+        swiftIdentifier: "refreshCwOff",
+        resourceName: HugeiconsAssets.`refreshCwOff`.name
     )
     static let refreshDot = HugeiconsAsset(
         sourceName: "refresh-dot",
@@ -33895,6 +34046,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "rotateBottomRight",
         resourceName: HugeiconsAssets.`rotateBottomRight`.name
     )
+    static let rotateCcwSquare = HugeiconsAsset(
+        sourceName: "rotate-ccw-square",
+        swiftIdentifier: "rotateCcwSquare",
+        resourceName: HugeiconsAssets.`rotateCcwSquare`.name
+    )
     static let rotateClockwise = HugeiconsAsset(
         sourceName: "rotate-clockwise",
         swiftIdentifier: "rotateClockwise",
@@ -33904,6 +34060,11 @@ enum HugeiconsCatalog {
         sourceName: "rotate-crop",
         swiftIdentifier: "rotateCrop",
         resourceName: HugeiconsAssets.`rotateCrop`.name
+    )
+    static let rotateCwSquare = HugeiconsAsset(
+        sourceName: "rotate-cw-square",
+        swiftIdentifier: "rotateCwSquare",
+        resourceName: HugeiconsAssets.`rotateCwSquare`.name
     )
     static let rotateLeft01 = HugeiconsAsset(
         sourceName: "rotate-left01",
@@ -34684,6 +34845,11 @@ enum HugeiconsCatalog {
         sourceName: "seo",
         swiftIdentifier: "seo",
         resourceName: HugeiconsAssets.`seo`.name
+    )
+    static let separatorHorizontal = HugeiconsAsset(
+        sourceName: "separator-horizontal",
+        swiftIdentifier: "separatorHorizontal",
+        resourceName: HugeiconsAssets.`separatorHorizontal`.name
     )
     static let serverStack01 = HugeiconsAsset(
         sourceName: "server-stack01",
@@ -37645,6 +37811,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "teaching",
         resourceName: HugeiconsAssets.`teaching`.name
     )
+    static let teamWork = HugeiconsAsset(
+        sourceName: "team-work",
+        swiftIdentifier: "teamWork",
+        resourceName: HugeiconsAssets.`teamWork`.name
+    )
     static let teamviewer = HugeiconsAsset(
         sourceName: "teamviewer",
         swiftIdentifier: "teamviewer",
@@ -38749,6 +38920,11 @@ enum HugeiconsCatalog {
         sourceName: "trello",
         swiftIdentifier: "trello",
         resourceName: HugeiconsAssets.`trello`.name
+    )
+    static let trendingUpDown = HugeiconsAsset(
+        sourceName: "trending-up-down",
+        swiftIdentifier: "trendingUpDown",
+        resourceName: HugeiconsAssets.`trendingUpDown`.name
     )
     static let triangle = HugeiconsAsset(
         sourceName: "triangle",
@@ -41056,6 +41232,10 @@ enum HugeiconsCatalog {
         arrangeByNumbersNineOne,
         arrangeByNumbersOneNine,
         arrowAllDirection,
+        arrowBigDownDash,
+        arrowBigLeftDash,
+        arrowBigRightDash,
+        arrowBigUpDash,
         arrowDataTransferDiagonal,
         arrowDataTransferHorizontal,
         arrowDataTransferVertical,
@@ -41068,11 +41248,13 @@ enum HugeiconsCatalog {
         arrowDownAz,
         arrowDownBig,
         arrowDownDouble,
+        arrowDownFromLine,
         arrowDownLeft01,
         arrowDownLeft02,
         arrowDownOneZero,
         arrowDownRight01,
         arrowDownRight02,
+        arrowDownToDot,
         arrowDownZeroOne,
         arrowExpand,
         arrowExpand01,
@@ -41087,6 +41269,7 @@ enum HugeiconsCatalog {
         arrowLeft05,
         arrowLeftBig,
         arrowLeftDouble,
+        arrowLeftFromLine,
         arrowLeftRight,
         arrowMoveDownLeft,
         arrowMoveDownRight,
@@ -41103,6 +41286,7 @@ enum HugeiconsCatalog {
         arrowRight05,
         arrowRightBig,
         arrowRightDouble,
+        arrowRightFromLine,
         arrowShrink,
         arrowShrink01,
         arrowShrink02,
@@ -41118,6 +41302,8 @@ enum HugeiconsCatalog {
         arrowUpBig,
         arrowUpDouble,
         arrowUpDown,
+        arrowUpFromDot,
+        arrowUpFromLine,
         arrowUpLeft01,
         arrowUpLeft02,
         arrowUpNarrowWide,
@@ -41859,6 +42045,7 @@ enum HugeiconsCatalog {
         chessKing,
         chessPawn,
         chevronDoubleClose,
+        chevronsDownUp,
         chickenThighs,
         child,
         chimney,
@@ -41899,6 +42086,7 @@ enum HugeiconsCatalog {
         circleArrowMoveRightDown,
         circleArrowMoveUpLeft,
         circleArrowMoveUpRight,
+        circleArrowOutUpRight,
         circleArrowReload01,
         circleArrowReload02,
         circleArrowRight01,
@@ -42796,8 +42984,8 @@ enum HugeiconsCatalog {
         fuel01,
         fuel02,
         fuelStation,
+        fullScreen,
         fullSignal,
-        fullscreen,
         function,
         functionCircle,
         functionOfX,
@@ -42947,6 +43135,7 @@ enum HugeiconsCatalog {
         handPrayer,
         handSanitizer,
         handcuffs,
+        handsClapping,
         hanger,
         hangingClock,
         hangout,
@@ -43173,6 +43362,8 @@ enum HugeiconsCatalog {
         ipod,
         irisScan,
         island,
+        iterationCcw,
+        iterationCw,
         jar,
         java,
         javaScript,
@@ -44423,12 +44614,14 @@ enum HugeiconsCatalog {
         redo,
         redo02,
         redo03,
+        redoDot,
         reduceParagraph,
         reflex,
         refresh,
         refresh01,
         refresh03,
         refresh04,
+        refreshCwOff,
         refreshDot,
         refrigerator,
         regex,
@@ -44520,8 +44713,10 @@ enum HugeiconsCatalog {
         rotate360,
         rotateBottomLeft,
         rotateBottomRight,
+        rotateCcwSquare,
         rotateClockwise,
         rotateCrop,
+        rotateCwSquare,
         rotateLeft01,
         rotateLeft02,
         rotateLeft03,
@@ -44678,6 +44873,7 @@ enum HugeiconsCatalog {
         sent,
         sent02,
         seo,
+        separatorHorizontal,
         serverStack01,
         serverStack02,
         serverStack03,
@@ -45270,6 +45466,7 @@ enum HugeiconsCatalog {
         teaPod,
         teacher,
         teaching,
+        teamWork,
         teamviewer,
         telegram,
         telephone,
@@ -45491,6 +45688,7 @@ enum HugeiconsCatalog {
         treePalm,
         trees,
         trello,
+        trendingUpDown,
         triangle,
         triangle01,
         triangle02,
