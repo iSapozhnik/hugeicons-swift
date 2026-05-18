@@ -129,6 +129,35 @@ Notes:
 - `image()` is non-optional and fails fast if the icon resource is missing.
 - `nsImage()` and `uiImage()` are optional and can be used for defensive flows.
 
+### App Extensions and Binary Distribution
+
+This source package uses SwiftPM resources, so Xcode builds a module resource bundle for each app or extension target that depends on it. For apps with multiple extensions, that can duplicate the icon asset catalog.
+
+For app-extension-heavy projects, use the companion binary package instead:
+
+```text
+hugeicons-swift-binary
+Product: Hugeicons
+Module: Hugeicons
+Artifact: Hugeicons.xcframework
+```
+
+Client source code stays the same:
+
+```swift
+import Hugeicons
+```
+
+The binary package puts `Assets.car` inside `Hugeicons.framework`, allowing a containing app to embed the framework once while extensions link to it.
+
+Recommended Xcode setup:
+
+- Main app target: `Hugeicons.framework` -> `Embed & Sign`
+- Extension targets: `Hugeicons.framework` -> `Do Not Embed`
+- Extension runpaths: include `@executable_path/../../Frameworks`
+
+Binary build and layout verification workflows live in the companion binary package.
+
 ## For Maintainers (Pipeline and Updates)
 
 Important: the npm payload does not ship raw `.svg` files. It ships icon modules in `dist/esm/*Icon.js`, and the fetch script converts those modules into PDF-backed `.imageset` entries in `Hugeicons.xcassets`.

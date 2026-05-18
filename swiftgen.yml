@@ -6,5 +6,5 @@ xcassets:
       output: Sources/Hugeicons/Generated/Assets+Generated.swift
       params:
         enumName: HugeiconsAssets
-        bundle: Bundle.module
+        bundle: HugeiconsResources.bundle
         forceProvidesNamespaces: true

@@ -24,6 +24,9 @@ let package = Package(
             ],
             resources: [
                 .process("Resources/Hugeicons/Hugeicons.xcassets"),
+            ],
+            swiftSettings: [
+                .define("HUGEICONS_SWIFTPM"),
             ]
         ),
         .testTarget(

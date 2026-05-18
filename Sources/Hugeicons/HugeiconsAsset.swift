@@ -16,7 +16,7 @@ public struct HugeiconsAsset: Sendable, Hashable {
 
     #if canImport(AppKit)
     public func nsImage(bundle: Bundle? = nil) -> NSImage? {
-        let resolvedBundle = bundle ?? .module
+        let resolvedBundle = bundle ?? HugeiconsResources.bundle
         let image = resolvedBundle.image(forResource: NSImage.Name(resourceName))
         image?.isTemplate = true
         return image
@@ -28,7 +28,7 @@ public struct HugeiconsAsset: Sendable, Hashable {
         bundle: Bundle? = nil,
         compatibleWith traitCollection: UITraitCollection? = nil
     ) -> UIImage? {
-        let resolvedBundle = bundle ?? .module
+        let resolvedBundle = bundle ?? HugeiconsResources.bundle
         return UIImage(
             named: resourceName,
             in: resolvedBundle,
@@ -40,7 +40,7 @@ public struct HugeiconsAsset: Sendable, Hashable {
 
     @MainActor
     public func image(bundle: Bundle? = nil) -> Image {
-        let resolvedBundle = bundle ?? .module
+        let resolvedBundle = bundle ?? HugeiconsResources.bundle
         return Image(resourceName, bundle: resolvedBundle)
     }
 }
