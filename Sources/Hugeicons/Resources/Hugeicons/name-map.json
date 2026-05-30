@@ -9,6 +9,10 @@
       "swiftIdentifier" : "aArrowUp"
     },
     {
+      "sourceName" : "a-large-small",
+      "swiftIdentifier" : "aLargeSmall"
+    },
+    {
       "sourceName" : "abacus",
       "swiftIdentifier" : "abacus"
     },
@@ -23,6 +27,10 @@
     {
       "sourceName" : "access",
       "swiftIdentifier" : "access"
+    },
+    {
+      "sourceName" : "accessibility",
+      "swiftIdentifier" : "accessibility"
     },
     {
       "sourceName" : "accident",
@@ -441,6 +449,10 @@
       "swiftIdentifier" : "aids"
     },
     {
+      "sourceName" : "air-vent",
+      "swiftIdentifier" : "airVent"
+    },
+    {
       "sourceName" : "airbnb",
       "swiftIdentifier" : "airbnb"
     },
@@ -493,6 +505,10 @@
       "swiftIdentifier" : "airplane02"
     },
     {
+      "sourceName" : "airplay",
+      "swiftIdentifier" : "airplay"
+    },
+    {
       "sourceName" : "airplay-line",
       "swiftIdentifier" : "airplayLine"
     },
@@ -529,8 +545,20 @@
       "swiftIdentifier" : "alarmClock"
     },
     {
+      "sourceName" : "alarm-clock-check",
+      "swiftIdentifier" : "alarmClockCheck"
+    },
+    {
+      "sourceName" : "alarm-clock-minus",
+      "swiftIdentifier" : "alarmClockMinus"
+    },
+    {
       "sourceName" : "alarm-clock-off",
       "swiftIdentifier" : "alarmClockOff"
+    },
+    {
+      "sourceName" : "alarm-clock-plus",
+      "swiftIdentifier" : "alarmClockPlus"
     },
     {
       "sourceName" : "alarm-smoke",
@@ -629,8 +657,20 @@
       "swiftIdentifier" : "alignBoxTopRight"
     },
     {
+      "sourceName" : "align-end-horizontal",
+      "swiftIdentifier" : "alignEndHorizontal"
+    },
+    {
+      "sourceName" : "align-end-vertical",
+      "swiftIdentifier" : "alignEndVertical"
+    },
+    {
       "sourceName" : "align-horizontal-center",
       "swiftIdentifier" : "alignHorizontalCenter"
+    },
+    {
+      "sourceName" : "align-horizontal-distribute-center",
+      "swiftIdentifier" : "alignHorizontalDistributeCenter"
     },
     {
       "sourceName" : "align-horizontal-distribute-end",
@@ -639,6 +679,10 @@
     {
       "sourceName" : "align-horizontal-distribute-start",
       "swiftIdentifier" : "alignHorizontalDistributeStart"
+    },
+    {
+      "sourceName" : "align-horizontal-justify-center",
+      "swiftIdentifier" : "alignHorizontalJustifyCenter"
     },
     {
       "sourceName" : "align-horizontal-justify-end",
@@ -673,6 +717,14 @@
       "swiftIdentifier" : "alignSelection"
     },
     {
+      "sourceName" : "align-start-horizontal",
+      "swiftIdentifier" : "alignStartHorizontal"
+    },
+    {
+      "sourceName" : "align-start-vertical",
+      "swiftIdentifier" : "alignStartVertical"
+    },
+    {
       "sourceName" : "align-top",
       "swiftIdentifier" : "alignTop"
     },
@@ -693,8 +745,20 @@
       "swiftIdentifier" : "alignVerticalDistributeStart"
     },
     {
+      "sourceName" : "align-vertical-justify-center",
+      "swiftIdentifier" : "alignVerticalJustifyCenter"
+    },
+    {
+      "sourceName" : "align-vertical-justify-end",
+      "swiftIdentifier" : "alignVerticalJustifyEnd"
+    },
+    {
       "sourceName" : "align-vertical-justify-start",
       "swiftIdentifier" : "alignVerticalJustifyStart"
+    },
+    {
+      "sourceName" : "align-vertical-space-around",
+      "swiftIdentifier" : "alignVerticalSpaceAround"
     },
     {
       "sourceName" : "align-vertical-space-between",
@@ -781,6 +845,14 @@
       "swiftIdentifier" : "ammo"
     },
     {
+      "sourceName" : "ampersand",
+      "swiftIdentifier" : "ampersand"
+    },
+    {
+      "sourceName" : "ampersands",
+      "swiftIdentifier" : "ampersands"
+    },
+    {
       "sourceName" : "amphora",
       "swiftIdentifier" : "amphora"
     },
@@ -845,6 +917,10 @@
       "swiftIdentifier" : "angryBird"
     },
     {
+      "sourceName" : "annoyed",
+      "swiftIdentifier" : "annoyed"
+    },
+    {
       "sourceName" : "anonymous",
       "swiftIdentifier" : "anonymous"
     },
@@ -861,6 +937,10 @@
       "swiftIdentifier" : "apartment"
     },
     {
+      "sourceName" : "aperture",
+      "swiftIdentifier" : "aperture"
+    },
+    {
       "sourceName" : "api",
       "swiftIdentifier" : "api"
     },
@@ -871,6 +951,14 @@
     {
       "sourceName" : "app-store",
       "swiftIdentifier" : "appStore"
+    },
+    {
+      "sourceName" : "app-window",
+      "swiftIdentifier" : "appWindow"
+    },
+    {
+      "sourceName" : "app-window-mac",
+      "swiftIdentifier" : "appWindowMac"
     },
     {
       "sourceName" : "apple",
@@ -973,6 +1061,10 @@
       "swiftIdentifier" : "archiveRestore"
     },
     {
+      "sourceName" : "archive-x",
+      "swiftIdentifier" : "archiveX"
+    },
+    {
       "sourceName" : "archive01",
       "swiftIdentifier" : "archive01"
     },
@@ -987,6 +1079,10 @@
     {
       "sourceName" : "archive04",
       "swiftIdentifier" : "archive04"
+    },
+    {
+      "sourceName" : "armchair",
+      "swiftIdentifier" : "armchair"
     },
     {
       "sourceName" : "armored-boot",
@@ -1073,6 +1169,10 @@
       "swiftIdentifier" : "arrowDownLeft02"
     },
     {
+      "sourceName" : "arrow-down-narrow-wide",
+      "swiftIdentifier" : "arrowDownNarrowWide"
+    },
+    {
       "sourceName" : "arrow-down-one-zero",
       "swiftIdentifier" : "arrowDownOneZero"
     },
@@ -1087,6 +1187,18 @@
     {
       "sourceName" : "arrow-down-to-dot",
       "swiftIdentifier" : "arrowDownToDot"
+    },
+    {
+      "sourceName" : "arrow-down-to-line",
+      "swiftIdentifier" : "arrowDownToLine"
+    },
+    {
+      "sourceName" : "arrow-down-wide-narrow",
+      "swiftIdentifier" : "arrowDownWideNarrow"
+    },
+    {
+      "sourceName" : "arrow-down-za",
+      "swiftIdentifier" : "arrowDownZa"
     },
     {
       "sourceName" : "arrow-down-zero-one",
@@ -1111,6 +1223,10 @@
     {
       "sourceName" : "arrow-down05",
       "swiftIdentifier" : "arrowDown05"
+    },
+    {
+      "sourceName" : "arrow-down10",
+      "swiftIdentifier" : "arrowDown10"
     },
     {
       "sourceName" : "arrow-expand",
@@ -1151,6 +1267,10 @@
     {
       "sourceName" : "arrow-left-right",
       "swiftIdentifier" : "arrowLeftRight"
+    },
+    {
+      "sourceName" : "arrow-left-to-line",
+      "swiftIdentifier" : "arrowLeftToLine"
     },
     {
       "sourceName" : "arrow-left01",
@@ -1217,6 +1337,10 @@
       "swiftIdentifier" : "arrowRightFromLine"
     },
     {
+      "sourceName" : "arrow-right-to-line",
+      "swiftIdentifier" : "arrowRightToLine"
+    },
+    {
       "sourceName" : "arrow-right01",
       "swiftIdentifier" : "arrowRight01"
     },
@@ -1263,6 +1387,10 @@
     {
       "sourceName" : "arrow-turn-up",
       "swiftIdentifier" : "arrowTurnUp"
+    },
+    {
+      "sourceName" : "arrow-up-az",
+      "swiftIdentifier" : "arrowUpAz"
     },
     {
       "sourceName" : "arrow-up-big",
@@ -1317,6 +1445,10 @@
       "swiftIdentifier" : "arrowUpRight03"
     },
     {
+      "sourceName" : "arrow-up-to-line",
+      "swiftIdentifier" : "arrowUpToLine"
+    },
+    {
       "sourceName" : "arrow-up-wide-narrow",
       "swiftIdentifier" : "arrowUpWideNarrow"
     },
@@ -1349,8 +1481,16 @@
       "swiftIdentifier" : "arrowUp05"
     },
     {
+      "sourceName" : "arrow-up10",
+      "swiftIdentifier" : "arrowUp10"
+    },
+    {
       "sourceName" : "arrow-vertical",
       "swiftIdentifier" : "arrowVertical"
+    },
+    {
+      "sourceName" : "arrows-up-from-line",
+      "swiftIdentifier" : "arrowsUpFromLine"
     },
     {
       "sourceName" : "artboard",
@@ -1429,6 +1569,10 @@
       "swiftIdentifier" : "at"
     },
     {
+      "sourceName" : "at-sign",
+      "swiftIdentifier" : "atSign"
+    },
+    {
       "sourceName" : "atm01",
       "swiftIdentifier" : "atm01"
     },
@@ -1489,12 +1633,20 @@
       "swiftIdentifier" : "audioBook04"
     },
     {
+      "sourceName" : "audio-lines",
+      "swiftIdentifier" : "audioLines"
+    },
+    {
       "sourceName" : "audio-wave01",
       "swiftIdentifier" : "audioWave01"
     },
     {
       "sourceName" : "audio-wave02",
       "swiftIdentifier" : "audioWave02"
+    },
+    {
+      "sourceName" : "audio-waveform",
+      "swiftIdentifier" : "audioWaveform"
     },
     {
       "sourceName" : "audit01",
@@ -1563,6 +1715,10 @@
     {
       "sourceName" : "axis-three-d",
       "swiftIdentifier" : "axisThreeD"
+    },
+    {
+      "sourceName" : "axis3-d",
+      "swiftIdentifier" : "axis3D"
     },
     {
       "sourceName" : "baby-bed01",
@@ -1637,6 +1793,10 @@
       "swiftIdentifier" : "badgeCent"
     },
     {
+      "sourceName" : "badge-check",
+      "swiftIdentifier" : "badgeCheck"
+    },
+    {
       "sourceName" : "badge-dollar-sign",
       "swiftIdentifier" : "badgeDollarSign"
     },
@@ -1657,12 +1817,24 @@
       "swiftIdentifier" : "badgeJapaneseYen"
     },
     {
+      "sourceName" : "badge-minus",
+      "swiftIdentifier" : "badgeMinus"
+    },
+    {
       "sourceName" : "badge-percent",
       "swiftIdentifier" : "badgePercent"
     },
     {
+      "sourceName" : "badge-plus",
+      "swiftIdentifier" : "badgePlus"
+    },
+    {
       "sourceName" : "badge-pound-sterling",
       "swiftIdentifier" : "badgePoundSterling"
+    },
+    {
+      "sourceName" : "badge-question-mark",
+      "swiftIdentifier" : "badgeQuestionMark"
     },
     {
       "sourceName" : "badge-russian-ruble",
@@ -1677,6 +1849,10 @@
       "swiftIdentifier" : "badgeTurkishLira"
     },
     {
+      "sourceName" : "badge-x",
+      "swiftIdentifier" : "badgeX"
+    },
+    {
       "sourceName" : "badminton",
       "swiftIdentifier" : "badminton"
     },
@@ -1685,12 +1861,24 @@
       "swiftIdentifier" : "badmintonShuttle"
     },
     {
+      "sourceName" : "baggage-claim",
+      "swiftIdentifier" : "baggageClaim"
+    },
+    {
       "sourceName" : "balance-scale",
       "swiftIdentifier" : "balanceScale"
     },
     {
+      "sourceName" : "balloon",
+      "swiftIdentifier" : "balloon"
+    },
+    {
       "sourceName" : "balloons",
       "swiftIdentifier" : "balloons"
+    },
+    {
+      "sourceName" : "ban",
+      "swiftIdentifier" : "ban"
     },
     {
       "sourceName" : "banana",
@@ -1703,6 +1891,22 @@
     {
       "sourceName" : "bank",
       "swiftIdentifier" : "bank"
+    },
+    {
+      "sourceName" : "banknote",
+      "swiftIdentifier" : "banknote"
+    },
+    {
+      "sourceName" : "banknote-arrow-down",
+      "swiftIdentifier" : "banknoteArrowDown"
+    },
+    {
+      "sourceName" : "banknote-arrow-up",
+      "swiftIdentifier" : "banknoteArrowUp"
+    },
+    {
+      "sourceName" : "banknote-x",
+      "swiftIdentifier" : "banknoteX"
     },
     {
       "sourceName" : "bar-chart",
@@ -1719,6 +1923,10 @@
     {
       "sourceName" : "bar-code02",
       "swiftIdentifier" : "barCode02"
+    },
+    {
+      "sourceName" : "barcode",
+      "swiftIdentifier" : "barcode"
     },
     {
       "sourceName" : "barcode-scan",
@@ -1745,6 +1953,10 @@
       "swiftIdentifier" : "baseballHelmet"
     },
     {
+      "sourceName" : "baseline",
+      "swiftIdentifier" : "baseline"
+    },
+    {
       "sourceName" : "bash",
       "swiftIdentifier" : "bash"
     },
@@ -1761,6 +1973,10 @@
       "swiftIdentifier" : "basketball02"
     },
     {
+      "sourceName" : "bath",
+      "swiftIdentifier" : "bath"
+    },
+    {
       "sourceName" : "bathtub01",
       "swiftIdentifier" : "bathtub01"
     },
@@ -1771,6 +1987,10 @@
     {
       "sourceName" : "batteries-energy",
       "swiftIdentifier" : "batteriesEnergy"
+    },
+    {
+      "sourceName" : "battery",
+      "swiftIdentifier" : "battery"
     },
     {
       "sourceName" : "battery-charging01",
@@ -1825,6 +2045,10 @@
       "swiftIdentifier" : "beach02"
     },
     {
+      "sourceName" : "beaker",
+      "swiftIdentifier" : "beaker"
+    },
+    {
       "sourceName" : "bean",
       "swiftIdentifier" : "bean"
     },
@@ -1873,6 +2097,18 @@
       "swiftIdentifier" : "beef"
     },
     {
+      "sourceName" : "beef-off",
+      "swiftIdentifier" : "beefOff"
+    },
+    {
+      "sourceName" : "beer",
+      "swiftIdentifier" : "beer"
+    },
+    {
+      "sourceName" : "beer-off",
+      "swiftIdentifier" : "beerOff"
+    },
+    {
       "sourceName" : "behance01",
       "swiftIdentifier" : "behance01"
     },
@@ -1881,12 +2117,32 @@
       "swiftIdentifier" : "behance02"
     },
     {
+      "sourceName" : "bell",
+      "swiftIdentifier" : "bell"
+    },
+    {
       "sourceName" : "bell-dot",
       "swiftIdentifier" : "bellDot"
     },
     {
       "sourceName" : "bell-electric",
       "swiftIdentifier" : "bellElectric"
+    },
+    {
+      "sourceName" : "bell-minus",
+      "swiftIdentifier" : "bellMinus"
+    },
+    {
+      "sourceName" : "bell-off",
+      "swiftIdentifier" : "bellOff"
+    },
+    {
+      "sourceName" : "bell-plus",
+      "swiftIdentifier" : "bellPlus"
+    },
+    {
+      "sourceName" : "bell-ring",
+      "swiftIdentifier" : "bellRing"
     },
     {
       "sourceName" : "belt",
@@ -1913,8 +2169,20 @@
       "swiftIdentifier" : "betweenHorizontalEnd"
     },
     {
+      "sourceName" : "between-horizontal-start",
+      "swiftIdentifier" : "betweenHorizontalStart"
+    },
+    {
       "sourceName" : "between-vertical-end",
       "swiftIdentifier" : "betweenVerticalEnd"
+    },
+    {
+      "sourceName" : "between-vertical-start",
+      "swiftIdentifier" : "betweenVerticalStart"
+    },
+    {
+      "sourceName" : "biceps-flexed",
+      "swiftIdentifier" : "bicepsFlexed"
     },
     {
       "sourceName" : "bicycle",
@@ -1925,12 +2193,20 @@
       "swiftIdentifier" : "bicycle01"
     },
     {
+      "sourceName" : "bike",
+      "swiftIdentifier" : "bike"
+    },
+    {
       "sourceName" : "billiard01",
       "swiftIdentifier" : "billiard01"
     },
     {
       "sourceName" : "billiard02",
       "swiftIdentifier" : "billiard02"
+    },
+    {
+      "sourceName" : "binary",
+      "swiftIdentifier" : "binary"
     },
     {
       "sourceName" : "binary-code",
@@ -2233,6 +2509,10 @@
       "swiftIdentifier" : "blocked"
     },
     {
+      "sourceName" : "blocks",
+      "swiftIdentifier" : "blocks"
+    },
+    {
       "sourceName" : "blogger",
       "swiftIdentifier" : "blogger"
     },
@@ -2269,12 +2549,24 @@
       "swiftIdentifier" : "bluetoothCircle"
     },
     {
+      "sourceName" : "bluetooth-connected",
+      "swiftIdentifier" : "bluetoothConnected"
+    },
+    {
       "sourceName" : "bluetooth-not-connected",
       "swiftIdentifier" : "bluetoothNotConnected"
     },
     {
+      "sourceName" : "bluetooth-off",
+      "swiftIdentifier" : "bluetoothOff"
+    },
+    {
       "sourceName" : "bluetooth-search",
       "swiftIdentifier" : "bluetoothSearch"
+    },
+    {
+      "sourceName" : "bluetooth-searching",
+      "swiftIdentifier" : "bluetoothSearching"
     },
     {
       "sourceName" : "bluetooth-square",
@@ -2325,6 +2617,14 @@
       "swiftIdentifier" : "bodyWeight"
     },
     {
+      "sourceName" : "bold",
+      "swiftIdentifier" : "bold"
+    },
+    {
+      "sourceName" : "bolt",
+      "swiftIdentifier" : "bolt"
+    },
+    {
       "sourceName" : "bomb",
       "swiftIdentifier" : "bomb"
     },
@@ -2365,12 +2665,20 @@
       "swiftIdentifier" : "bookDashed"
     },
     {
+      "sourceName" : "book-down",
+      "swiftIdentifier" : "bookDown"
+    },
+    {
       "sourceName" : "book-download",
       "swiftIdentifier" : "bookDownload"
     },
     {
       "sourceName" : "book-edit",
       "swiftIdentifier" : "bookEdit"
+    },
+    {
+      "sourceName" : "book-headphones",
+      "swiftIdentifier" : "bookHeadphones"
     },
     {
       "sourceName" : "book-heart",
@@ -2387,6 +2695,10 @@
     {
       "sourceName" : "book-lock",
       "swiftIdentifier" : "bookLock"
+    },
+    {
+      "sourceName" : "book-marked",
+      "swiftIdentifier" : "bookMarked"
     },
     {
       "sourceName" : "book-minus",
@@ -2417,12 +2729,20 @@
       "swiftIdentifier" : "bookSearch"
     },
     {
+      "sourceName" : "book-text",
+      "swiftIdentifier" : "bookText"
+    },
+    {
       "sourceName" : "book-type",
       "swiftIdentifier" : "bookType"
     },
     {
       "sourceName" : "book-up-two",
       "swiftIdentifier" : "bookUpTwo"
+    },
+    {
+      "sourceName" : "book-up2",
+      "swiftIdentifier" : "bookUp2"
     },
     {
       "sourceName" : "book-upload",
@@ -2493,12 +2813,20 @@
       "swiftIdentifier" : "bookmarkOff02"
     },
     {
+      "sourceName" : "bookmark-plus",
+      "swiftIdentifier" : "bookmarkPlus"
+    },
+    {
       "sourceName" : "bookmark-remove01",
       "swiftIdentifier" : "bookmarkRemove01"
     },
     {
       "sourceName" : "bookmark-remove02",
       "swiftIdentifier" : "bookmarkRemove02"
+    },
+    {
+      "sourceName" : "bookmark-x",
+      "swiftIdentifier" : "bookmarkX"
     },
     {
       "sourceName" : "bookmark01",
@@ -2613,6 +2941,18 @@
       "swiftIdentifier" : "bot"
     },
     {
+      "sourceName" : "bot-message-square",
+      "swiftIdentifier" : "botMessageSquare"
+    },
+    {
+      "sourceName" : "bot-off",
+      "swiftIdentifier" : "botOff"
+    },
+    {
+      "sourceName" : "bottle-wine",
+      "swiftIdentifier" : "bottleWine"
+    },
+    {
       "sourceName" : "bounce-left",
       "swiftIdentifier" : "bounceLeft"
     },
@@ -2623,6 +2963,10 @@
     {
       "sourceName" : "bounding-box",
       "swiftIdentifier" : "boundingBox"
+    },
+    {
+      "sourceName" : "bow-arrow",
+      "swiftIdentifier" : "bowArrow"
     },
     {
       "sourceName" : "bow-tie",
@@ -2641,8 +2985,16 @@
       "swiftIdentifier" : "bowlingPins"
     },
     {
+      "sourceName" : "box",
+      "swiftIdentifier" : "box"
+    },
+    {
       "sourceName" : "boxer",
       "swiftIdentifier" : "boxer"
+    },
+    {
+      "sourceName" : "boxes",
+      "swiftIdentifier" : "boxes"
     },
     {
       "sourceName" : "boxing-bag",
@@ -2657,8 +3009,20 @@
       "swiftIdentifier" : "boxingGlove01"
     },
     {
+      "sourceName" : "braces",
+      "swiftIdentifier" : "braces"
+    },
+    {
+      "sourceName" : "brackets",
+      "swiftIdentifier" : "brackets"
+    },
+    {
       "sourceName" : "brain",
       "swiftIdentifier" : "brain"
+    },
+    {
+      "sourceName" : "brain-circuit",
+      "swiftIdentifier" : "brainCircuit"
     },
     {
       "sourceName" : "brain-cog",
@@ -2705,6 +3069,10 @@
       "swiftIdentifier" : "brickWall"
     },
     {
+      "sourceName" : "brick-wall-fire",
+      "swiftIdentifier" : "brickWallFire"
+    },
+    {
       "sourceName" : "brick-wall-shield",
       "swiftIdentifier" : "brickWallShield"
     },
@@ -2713,12 +3081,20 @@
       "swiftIdentifier" : "bridge"
     },
     {
+      "sourceName" : "briefcase-business",
+      "swiftIdentifier" : "briefcaseBusiness"
+    },
+    {
       "sourceName" : "briefcase-conveyor-belt",
       "swiftIdentifier" : "briefcaseConveyorBelt"
     },
     {
       "sourceName" : "briefcase-dollar",
       "swiftIdentifier" : "briefcaseDollar"
+    },
+    {
+      "sourceName" : "briefcase-medical",
+      "swiftIdentifier" : "briefcaseMedical"
     },
     {
       "sourceName" : "briefcase01",
@@ -2779,6 +3155,10 @@
     {
       "sourceName" : "brush",
       "swiftIdentifier" : "brush"
+    },
+    {
+      "sourceName" : "brush-cleaning",
+      "swiftIdentifier" : "brushCleaning"
     },
     {
       "sourceName" : "bubble-chat",
@@ -2929,6 +3309,10 @@
       "swiftIdentifier" : "building06"
     },
     {
+      "sourceName" : "building2",
+      "swiftIdentifier" : "building2"
+    },
+    {
       "sourceName" : "bulb",
       "swiftIdentifier" : "bulb"
     },
@@ -2951,6 +3335,10 @@
     {
       "sourceName" : "burning-cd",
       "swiftIdentifier" : "burningCd"
+    },
+    {
+      "sourceName" : "bus-front",
+      "swiftIdentifier" : "busFront"
     },
     {
       "sourceName" : "bus01",
@@ -3009,6 +3397,10 @@
       "swiftIdentifier" : "cafe"
     },
     {
+      "sourceName" : "cake",
+      "swiftIdentifier" : "cake"
+    },
+    {
       "sourceName" : "cake-slice",
       "swiftIdentifier" : "cakeSlice"
     },
@@ -3037,12 +3429,24 @@
       "swiftIdentifier" : "calendarAnalysis"
     },
     {
+      "sourceName" : "calendar-arrow-down",
+      "swiftIdentifier" : "calendarArrowDown"
+    },
+    {
+      "sourceName" : "calendar-arrow-up",
+      "swiftIdentifier" : "calendarArrowUp"
+    },
+    {
       "sourceName" : "calendar-block01",
       "swiftIdentifier" : "calendarBlock01"
     },
     {
       "sourceName" : "calendar-block02",
       "swiftIdentifier" : "calendarBlock02"
+    },
+    {
+      "sourceName" : "calendar-check",
+      "swiftIdentifier" : "calendarCheck"
     },
     {
       "sourceName" : "calendar-check-in01",
@@ -3059,6 +3463,22 @@
     {
       "sourceName" : "calendar-check-out02",
       "swiftIdentifier" : "calendarCheckOut02"
+    },
+    {
+      "sourceName" : "calendar-check2",
+      "swiftIdentifier" : "calendarCheck2"
+    },
+    {
+      "sourceName" : "calendar-clock",
+      "swiftIdentifier" : "calendarClock"
+    },
+    {
+      "sourceName" : "calendar-cog",
+      "swiftIdentifier" : "calendarCog"
+    },
+    {
+      "sourceName" : "calendar-days",
+      "swiftIdentifier" : "calendarDays"
     },
     {
       "sourceName" : "calendar-download01",
@@ -3079,6 +3499,10 @@
     {
       "sourceName" : "calendar-fold",
       "swiftIdentifier" : "calendarFold"
+    },
+    {
+      "sourceName" : "calendar-heart",
+      "swiftIdentifier" : "calendarHeart"
     },
     {
       "sourceName" : "calendar-lock01",
@@ -3105,6 +3529,10 @@
       "swiftIdentifier" : "calendarMinus02"
     },
     {
+      "sourceName" : "calendar-minus2",
+      "swiftIdentifier" : "calendarMinus2"
+    },
+    {
       "sourceName" : "calendar-mortarboard",
       "swiftIdentifier" : "calendarMortarboard"
     },
@@ -3113,12 +3541,28 @@
       "swiftIdentifier" : "calendarOff"
     },
     {
+      "sourceName" : "calendar-plus",
+      "swiftIdentifier" : "calendarPlus"
+    },
+    {
+      "sourceName" : "calendar-plus2",
+      "swiftIdentifier" : "calendarPlus2"
+    },
+    {
+      "sourceName" : "calendar-range",
+      "swiftIdentifier" : "calendarRange"
+    },
+    {
       "sourceName" : "calendar-remove01",
       "swiftIdentifier" : "calendarRemove01"
     },
     {
       "sourceName" : "calendar-remove02",
       "swiftIdentifier" : "calendarRemove02"
+    },
+    {
+      "sourceName" : "calendar-search",
+      "swiftIdentifier" : "calendarSearch"
     },
     {
       "sourceName" : "calendar-setting01",
@@ -3145,6 +3589,14 @@
       "swiftIdentifier" : "calendarUser"
     },
     {
+      "sourceName" : "calendar-x",
+      "swiftIdentifier" : "calendarX"
+    },
+    {
+      "sourceName" : "calendar-x2",
+      "swiftIdentifier" : "calendarX2"
+    },
+    {
       "sourceName" : "calendar01",
       "swiftIdentifier" : "calendar01"
     },
@@ -3163,6 +3615,10 @@
     {
       "sourceName" : "calendar05",
       "swiftIdentifier" : "calendar05"
+    },
+    {
+      "sourceName" : "calendar1",
+      "swiftIdentifier" : "calendar1"
     },
     {
       "sourceName" : "calendars",
@@ -3529,8 +3985,20 @@
       "swiftIdentifier" : "capcutRectangle"
     },
     {
+      "sourceName" : "captions",
+      "swiftIdentifier" : "captions"
+    },
+    {
+      "sourceName" : "captions-off",
+      "swiftIdentifier" : "captionsOff"
+    },
+    {
       "sourceName" : "car-alert",
       "swiftIdentifier" : "carAlert"
+    },
+    {
+      "sourceName" : "car-front",
+      "swiftIdentifier" : "carFront"
     },
     {
       "sourceName" : "car-parking01",
@@ -3543,6 +4011,10 @@
     {
       "sourceName" : "car-signal",
       "swiftIdentifier" : "carSignal"
+    },
+    {
+      "sourceName" : "car-taxi-front",
+      "swiftIdentifier" : "carTaxiFront"
     },
     {
       "sourceName" : "car-time",
@@ -3579,6 +4051,10 @@
     {
       "sourceName" : "card-exchange02",
       "swiftIdentifier" : "cardExchange02"
+    },
+    {
+      "sourceName" : "card-sim",
+      "swiftIdentifier" : "cardSim"
     },
     {
       "sourceName" : "cardigan",
@@ -3621,6 +4097,18 @@
       "swiftIdentifier" : "carrot"
     },
     {
+      "sourceName" : "case-lower",
+      "swiftIdentifier" : "caseLower"
+    },
+    {
+      "sourceName" : "case-sensitive",
+      "swiftIdentifier" : "caseSensitive"
+    },
+    {
+      "sourceName" : "case-upper",
+      "swiftIdentifier" : "caseUpper"
+    },
+    {
       "sourceName" : "cash01",
       "swiftIdentifier" : "cash01"
     },
@@ -3661,6 +4149,10 @@
       "swiftIdentifier" : "cassetteTape"
     },
     {
+      "sourceName" : "cast",
+      "swiftIdentifier" : "cast"
+    },
+    {
       "sourceName" : "castbox",
       "swiftIdentifier" : "castbox"
     },
@@ -3677,6 +4169,10 @@
       "swiftIdentifier" : "castle02"
     },
     {
+      "sourceName" : "cat",
+      "swiftIdentifier" : "cat"
+    },
+    {
       "sourceName" : "catalogue",
       "swiftIdentifier" : "catalogue"
     },
@@ -3685,8 +4181,16 @@
       "swiftIdentifier" : "cayanTower"
     },
     {
+      "sourceName" : "cctv",
+      "swiftIdentifier" : "cctv"
+    },
+    {
       "sourceName" : "cctv-camera",
       "swiftIdentifier" : "cctvCamera"
+    },
+    {
+      "sourceName" : "cctv-off",
+      "swiftIdentifier" : "cctvOff"
     },
     {
       "sourceName" : "cd",
@@ -3841,6 +4345,10 @@
       "swiftIdentifier" : "chartColumnDecreasing"
     },
     {
+      "sourceName" : "chart-column-increasing",
+      "swiftIdentifier" : "chartColumnIncreasing"
+    },
+    {
       "sourceName" : "chart-column-stacked",
       "swiftIdentifier" : "chartColumnStacked"
     },
@@ -3873,6 +4381,10 @@
       "swiftIdentifier" : "chartIncrease"
     },
     {
+      "sourceName" : "chart-line",
+      "swiftIdentifier" : "chartLine"
+    },
+    {
       "sourceName" : "chart-line-data01",
       "swiftIdentifier" : "chartLineData01"
     },
@@ -3895,6 +4407,18 @@
     {
       "sourceName" : "chart-minimum",
       "swiftIdentifier" : "chartMinimum"
+    },
+    {
+      "sourceName" : "chart-network",
+      "swiftIdentifier" : "chartNetwork"
+    },
+    {
+      "sourceName" : "chart-no-axes-column",
+      "swiftIdentifier" : "chartNoAxesColumn"
+    },
+    {
+      "sourceName" : "chart-no-axes-column-decreasing",
+      "swiftIdentifier" : "chartNoAxesColumnDecreasing"
     },
     {
       "sourceName" : "chart-no-axes-column-increasing",
@@ -3927,6 +4451,10 @@
     {
       "sourceName" : "chart-scatter",
       "swiftIdentifier" : "chartScatter"
+    },
+    {
+      "sourceName" : "chart-spline",
+      "swiftIdentifier" : "chartSpline"
     },
     {
       "sourceName" : "chart-up",
@@ -4141,6 +4669,18 @@
       "swiftIdentifier" : "chatting01"
     },
     {
+      "sourceName" : "check",
+      "swiftIdentifier" : "check"
+    },
+    {
+      "sourceName" : "check-check",
+      "swiftIdentifier" : "checkCheck"
+    },
+    {
+      "sourceName" : "check-line",
+      "swiftIdentifier" : "checkLine"
+    },
+    {
       "sourceName" : "check-list",
       "swiftIdentifier" : "checkList"
     },
@@ -4253,8 +4793,20 @@
       "swiftIdentifier" : "chessKing"
     },
     {
+      "sourceName" : "chess-knight",
+      "swiftIdentifier" : "chessKnight"
+    },
+    {
       "sourceName" : "chess-pawn",
       "swiftIdentifier" : "chessPawn"
+    },
+    {
+      "sourceName" : "chess-queen",
+      "swiftIdentifier" : "chessQueen"
+    },
+    {
+      "sourceName" : "chess-rook",
+      "swiftIdentifier" : "chessRook"
     },
     {
       "sourceName" : "chess01",
@@ -4269,8 +4821,60 @@
       "swiftIdentifier" : "chevronDoubleClose"
     },
     {
+      "sourceName" : "chevron-down",
+      "swiftIdentifier" : "chevronDown"
+    },
+    {
+      "sourceName" : "chevron-first",
+      "swiftIdentifier" : "chevronFirst"
+    },
+    {
+      "sourceName" : "chevron-last",
+      "swiftIdentifier" : "chevronLast"
+    },
+    {
+      "sourceName" : "chevron-left",
+      "swiftIdentifier" : "chevronLeft"
+    },
+    {
+      "sourceName" : "chevron-right",
+      "swiftIdentifier" : "chevronRight"
+    },
+    {
+      "sourceName" : "chevron-up",
+      "swiftIdentifier" : "chevronUp"
+    },
+    {
+      "sourceName" : "chevrons-down",
+      "swiftIdentifier" : "chevronsDown"
+    },
+    {
       "sourceName" : "chevrons-down-up",
       "swiftIdentifier" : "chevronsDownUp"
+    },
+    {
+      "sourceName" : "chevrons-left",
+      "swiftIdentifier" : "chevronsLeft"
+    },
+    {
+      "sourceName" : "chevrons-left-right",
+      "swiftIdentifier" : "chevronsLeftRight"
+    },
+    {
+      "sourceName" : "chevrons-left-right-ellipsis",
+      "swiftIdentifier" : "chevronsLeftRightEllipsis"
+    },
+    {
+      "sourceName" : "chevrons-right",
+      "swiftIdentifier" : "chevronsRight"
+    },
+    {
+      "sourceName" : "chevrons-right-left",
+      "swiftIdentifier" : "chevronsRightLeft"
+    },
+    {
+      "sourceName" : "chevrons-up",
+      "swiftIdentifier" : "chevronsUp"
     },
     {
       "sourceName" : "chicken-thighs",
@@ -4433,6 +5037,18 @@
       "swiftIdentifier" : "circleArrowMoveUpRight"
     },
     {
+      "sourceName" : "circle-arrow-out-down-left",
+      "swiftIdentifier" : "circleArrowOutDownLeft"
+    },
+    {
+      "sourceName" : "circle-arrow-out-down-right",
+      "swiftIdentifier" : "circleArrowOutDownRight"
+    },
+    {
+      "sourceName" : "circle-arrow-out-up-left",
+      "swiftIdentifier" : "circleArrowOutUpLeft"
+    },
+    {
       "sourceName" : "circle-arrow-out-up-right",
       "swiftIdentifier" : "circleArrowOutUpRight"
     },
@@ -4505,6 +5121,62 @@
       "swiftIdentifier" : "circleArrowVertical"
     },
     {
+      "sourceName" : "circle-check",
+      "swiftIdentifier" : "circleCheck"
+    },
+    {
+      "sourceName" : "circle-check-big",
+      "swiftIdentifier" : "circleCheckBig"
+    },
+    {
+      "sourceName" : "circle-chevron-down",
+      "swiftIdentifier" : "circleChevronDown"
+    },
+    {
+      "sourceName" : "circle-chevron-left",
+      "swiftIdentifier" : "circleChevronLeft"
+    },
+    {
+      "sourceName" : "circle-chevron-right",
+      "swiftIdentifier" : "circleChevronRight"
+    },
+    {
+      "sourceName" : "circle-chevron-up",
+      "swiftIdentifier" : "circleChevronUp"
+    },
+    {
+      "sourceName" : "circle-dashed",
+      "swiftIdentifier" : "circleDashed"
+    },
+    {
+      "sourceName" : "circle-dollar-sign",
+      "swiftIdentifier" : "circleDollarSign"
+    },
+    {
+      "sourceName" : "circle-dot",
+      "swiftIdentifier" : "circleDot"
+    },
+    {
+      "sourceName" : "circle-dot-dashed",
+      "swiftIdentifier" : "circleDotDashed"
+    },
+    {
+      "sourceName" : "circle-ellipsis",
+      "swiftIdentifier" : "circleEllipsis"
+    },
+    {
+      "sourceName" : "circle-fading-arrow-up",
+      "swiftIdentifier" : "circleFadingArrowUp"
+    },
+    {
+      "sourceName" : "circle-fading-plus",
+      "swiftIdentifier" : "circleFadingPlus"
+    },
+    {
+      "sourceName" : "circle-gauge",
+      "swiftIdentifier" : "circleGauge"
+    },
+    {
       "sourceName" : "circle-lock-add01",
       "swiftIdentifier" : "circleLockAdd01"
     },
@@ -4545,6 +5217,18 @@
       "swiftIdentifier" : "circleLock02"
     },
     {
+      "sourceName" : "circle-minus",
+      "swiftIdentifier" : "circleMinus"
+    },
+    {
+      "sourceName" : "circle-off",
+      "swiftIdentifier" : "circleOff"
+    },
+    {
+      "sourceName" : "circle-parking",
+      "swiftIdentifier" : "circleParking"
+    },
+    {
       "sourceName" : "circle-parking-off",
       "swiftIdentifier" : "circleParkingOff"
     },
@@ -4557,8 +5241,28 @@
       "swiftIdentifier" : "circlePile"
     },
     {
+      "sourceName" : "circle-plus",
+      "swiftIdentifier" : "circlePlus"
+    },
+    {
+      "sourceName" : "circle-pound-sterling",
+      "swiftIdentifier" : "circlePoundSterling"
+    },
+    {
+      "sourceName" : "circle-power",
+      "swiftIdentifier" : "circlePower"
+    },
+    {
+      "sourceName" : "circle-question-mark",
+      "swiftIdentifier" : "circleQuestionMark"
+    },
+    {
       "sourceName" : "circle-slash-two",
       "swiftIdentifier" : "circleSlashTwo"
+    },
+    {
+      "sourceName" : "circle-slash2",
+      "swiftIdentifier" : "circleSlash2"
     },
     {
       "sourceName" : "circle-small",
@@ -4571,6 +5275,10 @@
     {
       "sourceName" : "circle-unlock02",
       "swiftIdentifier" : "circleUnlock02"
+    },
+    {
+      "sourceName" : "circle-x",
+      "swiftIdentifier" : "circleX"
     },
     {
       "sourceName" : "circuit-board",
@@ -4591,6 +5299,10 @@
     {
       "sourceName" : "city03",
       "swiftIdentifier" : "city03"
+    },
+    {
+      "sourceName" : "clapperboard",
+      "swiftIdentifier" : "clapperboard"
     },
     {
       "sourceName" : "clapping01",
@@ -4629,6 +5341,10 @@
       "swiftIdentifier" : "clipboard"
     },
     {
+      "sourceName" : "clipboard-check",
+      "swiftIdentifier" : "clipboardCheck"
+    },
+    {
       "sourceName" : "clipboard-clock",
       "swiftIdentifier" : "clipboardClock"
     },
@@ -4637,12 +5353,36 @@
       "swiftIdentifier" : "clipboardCopy"
     },
     {
+      "sourceName" : "clipboard-list",
+      "swiftIdentifier" : "clipboardList"
+    },
+    {
       "sourceName" : "clipboard-minus",
       "swiftIdentifier" : "clipboardMinus"
     },
     {
       "sourceName" : "clipboard-paste",
       "swiftIdentifier" : "clipboardPaste"
+    },
+    {
+      "sourceName" : "clipboard-pen",
+      "swiftIdentifier" : "clipboardPen"
+    },
+    {
+      "sourceName" : "clipboard-pen-line",
+      "swiftIdentifier" : "clipboardPenLine"
+    },
+    {
+      "sourceName" : "clipboard-plus",
+      "swiftIdentifier" : "clipboardPlus"
+    },
+    {
+      "sourceName" : "clipboard-type",
+      "swiftIdentifier" : "clipboardType"
+    },
+    {
+      "sourceName" : "clipboard-x",
+      "swiftIdentifier" : "clipboardX"
     },
     {
       "sourceName" : "clock-add",
@@ -4663,6 +5403,10 @@
     {
       "sourceName" : "clock-check",
       "swiftIdentifier" : "clockCheck"
+    },
+    {
+      "sourceName" : "clock-fading",
+      "swiftIdentifier" : "clockFading"
     },
     {
       "sourceName" : "clock-plus",
@@ -4687,6 +5431,54 @@
     {
       "sourceName" : "clock05",
       "swiftIdentifier" : "clock05"
+    },
+    {
+      "sourceName" : "clock1",
+      "swiftIdentifier" : "clock1"
+    },
+    {
+      "sourceName" : "clock10",
+      "swiftIdentifier" : "clock10"
+    },
+    {
+      "sourceName" : "clock11",
+      "swiftIdentifier" : "clock11"
+    },
+    {
+      "sourceName" : "clock12",
+      "swiftIdentifier" : "clock12"
+    },
+    {
+      "sourceName" : "clock2",
+      "swiftIdentifier" : "clock2"
+    },
+    {
+      "sourceName" : "clock3",
+      "swiftIdentifier" : "clock3"
+    },
+    {
+      "sourceName" : "clock4",
+      "swiftIdentifier" : "clock4"
+    },
+    {
+      "sourceName" : "clock5",
+      "swiftIdentifier" : "clock5"
+    },
+    {
+      "sourceName" : "clock6",
+      "swiftIdentifier" : "clock6"
+    },
+    {
+      "sourceName" : "clock7",
+      "swiftIdentifier" : "clock7"
+    },
+    {
+      "sourceName" : "clock8",
+      "swiftIdentifier" : "clock8"
+    },
+    {
+      "sourceName" : "clock9",
+      "swiftIdentifier" : "clock9"
     },
     {
       "sourceName" : "closed-caption",
@@ -4721,20 +5513,48 @@
       "swiftIdentifier" : "cloudAngledZap"
     },
     {
+      "sourceName" : "cloud-backup",
+      "swiftIdentifier" : "cloudBackup"
+    },
+    {
       "sourceName" : "cloud-big-rain",
       "swiftIdentifier" : "cloudBigRain"
+    },
+    {
+      "sourceName" : "cloud-check",
+      "swiftIdentifier" : "cloudCheck"
+    },
+    {
+      "sourceName" : "cloud-cog",
+      "swiftIdentifier" : "cloudCog"
     },
     {
       "sourceName" : "cloud-download",
       "swiftIdentifier" : "cloudDownload"
     },
     {
+      "sourceName" : "cloud-drizzle",
+      "swiftIdentifier" : "cloudDrizzle"
+    },
+    {
       "sourceName" : "cloud-fast-wind",
       "swiftIdentifier" : "cloudFastWind"
     },
     {
+      "sourceName" : "cloud-fog",
+      "swiftIdentifier" : "cloudFog"
+    },
+    {
+      "sourceName" : "cloud-hail",
+      "swiftIdentifier" : "cloudHail"
+    },
+    {
       "sourceName" : "cloud-hailstone",
       "swiftIdentifier" : "cloudHailstone"
+    },
+    {
+      "sourceName" : "cloud-lightning",
+      "swiftIdentifier" : "cloudLightning"
     },
     {
       "sourceName" : "cloud-little-rain",
@@ -4757,8 +5577,20 @@
       "swiftIdentifier" : "cloudMidSnow"
     },
     {
+      "sourceName" : "cloud-moon-rain",
+      "swiftIdentifier" : "cloudMoonRain"
+    },
+    {
       "sourceName" : "cloud-off",
       "swiftIdentifier" : "cloudOff"
+    },
+    {
+      "sourceName" : "cloud-rain",
+      "swiftIdentifier" : "cloudRain"
+    },
+    {
+      "sourceName" : "cloud-rain-wind",
+      "swiftIdentifier" : "cloudRainWind"
     },
     {
       "sourceName" : "cloud-saving-done01",
@@ -4781,8 +5613,28 @@
       "swiftIdentifier" : "cloudSnow"
     },
     {
+      "sourceName" : "cloud-sun-rain",
+      "swiftIdentifier" : "cloudSunRain"
+    },
+    {
+      "sourceName" : "cloud-sync",
+      "swiftIdentifier" : "cloudSync"
+    },
+    {
       "sourceName" : "cloud-upload",
       "swiftIdentifier" : "cloudUpload"
+    },
+    {
+      "sourceName" : "cloudy",
+      "swiftIdentifier" : "cloudy"
+    },
+    {
+      "sourceName" : "clover",
+      "swiftIdentifier" : "clover"
+    },
+    {
+      "sourceName" : "club",
+      "swiftIdentifier" : "club"
     },
     {
       "sourceName" : "clubs01",
@@ -4815,6 +5667,10 @@
     {
       "sourceName" : "code-square",
       "swiftIdentifier" : "codeSquare"
+    },
+    {
+      "sourceName" : "code-xml",
+      "swiftIdentifier" : "codeXml"
     },
     {
       "sourceName" : "codepen",
@@ -5113,6 +5969,10 @@
       "swiftIdentifier" : "computerVideoCall"
     },
     {
+      "sourceName" : "concierge-bell",
+      "swiftIdentifier" : "conciergeBell"
+    },
+    {
       "sourceName" : "cone01",
       "swiftIdentifier" : "cone01"
     },
@@ -5173,6 +6033,10 @@
       "swiftIdentifier" : "contactBook"
     },
     {
+      "sourceName" : "contact-round",
+      "swiftIdentifier" : "contactRound"
+    },
+    {
       "sourceName" : "contact01",
       "swiftIdentifier" : "contact01"
     },
@@ -5205,6 +6069,10 @@
       "swiftIdentifier" : "contracts"
     },
     {
+      "sourceName" : "contrast",
+      "swiftIdentifier" : "contrast"
+    },
+    {
       "sourceName" : "conversation",
       "swiftIdentifier" : "conversation"
     },
@@ -5215,6 +6083,10 @@
     {
       "sourceName" : "cookie",
       "swiftIdentifier" : "cookie"
+    },
+    {
+      "sourceName" : "cooking-pot",
+      "swiftIdentifier" : "cookingPot"
     },
     {
       "sourceName" : "coordinate01",
@@ -5253,6 +6125,10 @@
       "swiftIdentifier" : "copySlash"
     },
     {
+      "sourceName" : "copy-x",
+      "swiftIdentifier" : "copyX"
+    },
+    {
       "sourceName" : "copy01",
       "swiftIdentifier" : "copy01"
     },
@@ -5271,6 +6147,38 @@
     {
       "sourceName" : "corn",
       "swiftIdentifier" : "corn"
+    },
+    {
+      "sourceName" : "corner-down-left",
+      "swiftIdentifier" : "cornerDownLeft"
+    },
+    {
+      "sourceName" : "corner-down-right",
+      "swiftIdentifier" : "cornerDownRight"
+    },
+    {
+      "sourceName" : "corner-left-down",
+      "swiftIdentifier" : "cornerLeftDown"
+    },
+    {
+      "sourceName" : "corner-left-up",
+      "swiftIdentifier" : "cornerLeftUp"
+    },
+    {
+      "sourceName" : "corner-right-down",
+      "swiftIdentifier" : "cornerRightDown"
+    },
+    {
+      "sourceName" : "corner-right-up",
+      "swiftIdentifier" : "cornerRightUp"
+    },
+    {
+      "sourceName" : "corner-up-left",
+      "swiftIdentifier" : "cornerUpLeft"
+    },
+    {
+      "sourceName" : "corner-up-right",
+      "swiftIdentifier" : "cornerUpRight"
     },
     {
       "sourceName" : "corporate",
@@ -5429,6 +6337,14 @@
       "swiftIdentifier" : "crop"
     },
     {
+      "sourceName" : "cross",
+      "swiftIdentifier" : "cross"
+    },
+    {
+      "sourceName" : "crosshair",
+      "swiftIdentifier" : "crosshair"
+    },
+    {
       "sourceName" : "crowdfunding",
       "swiftIdentifier" : "crowdfunding"
     },
@@ -5479,6 +6395,10 @@
     {
       "sourceName" : "cube",
       "swiftIdentifier" : "cube"
+    },
+    {
+      "sourceName" : "cup-soda",
+      "swiftIdentifier" : "cupSoda"
     },
     {
       "sourceName" : "cupcake01",
@@ -5797,6 +6717,10 @@
       "swiftIdentifier" : "databaseAdd"
     },
     {
+      "sourceName" : "database-backup",
+      "swiftIdentifier" : "databaseBackup"
+    },
+    {
       "sourceName" : "database-expand",
       "swiftIdentifier" : "databaseExpand"
     },
@@ -5821,6 +6745,10 @@
       "swiftIdentifier" : "databaseRestore"
     },
     {
+      "sourceName" : "database-search",
+      "swiftIdentifier" : "databaseSearch"
+    },
+    {
       "sourceName" : "database-setting",
       "swiftIdentifier" : "databaseSetting"
     },
@@ -5831,6 +6759,10 @@
     {
       "sourceName" : "database-sync01",
       "swiftIdentifier" : "databaseSync01"
+    },
+    {
+      "sourceName" : "database-zap",
+      "swiftIdentifier" : "databaseZap"
     },
     {
       "sourceName" : "database01",
@@ -5997,6 +6929,10 @@
       "swiftIdentifier" : "desk02"
     },
     {
+      "sourceName" : "dessert",
+      "swiftIdentifier" : "dessert"
+    },
+    {
       "sourceName" : "detergent",
       "swiftIdentifier" : "detergent"
     },
@@ -6095,6 +7031,10 @@
     {
       "sourceName" : "dice-faces06",
       "swiftIdentifier" : "diceFaces06"
+    },
+    {
+      "sourceName" : "dices",
+      "swiftIdentifier" : "dices"
     },
     {
       "sourceName" : "digestion",
@@ -6265,6 +7205,10 @@
       "swiftIdentifier" : "dna"
     },
     {
+      "sourceName" : "dna-off",
+      "swiftIdentifier" : "dnaOff"
+    },
+    {
       "sourceName" : "dna01",
       "swiftIdentifier" : "dna01"
     },
@@ -6283,6 +7227,10 @@
     {
       "sourceName" : "doc02",
       "swiftIdentifier" : "doc02"
+    },
+    {
+      "sourceName" : "dock",
+      "swiftIdentifier" : "dock"
     },
     {
       "sourceName" : "doctor01",
@@ -6329,6 +7277,10 @@
       "swiftIdentifier" : "dollarSend02"
     },
     {
+      "sourceName" : "dollar-sign",
+      "swiftIdentifier" : "dollarSign"
+    },
+    {
       "sourceName" : "dollar-square",
       "swiftIdentifier" : "dollarSquare"
     },
@@ -6349,8 +7301,20 @@
       "swiftIdentifier" : "domino"
     },
     {
+      "sourceName" : "donut",
+      "swiftIdentifier" : "donut"
+    },
+    {
       "sourceName" : "door",
       "swiftIdentifier" : "door"
+    },
+    {
+      "sourceName" : "door-closed",
+      "swiftIdentifier" : "doorClosed"
+    },
+    {
+      "sourceName" : "door-closed-locked",
+      "swiftIdentifier" : "doorClosedLocked"
     },
     {
       "sourceName" : "door-lock",
@@ -6367,6 +7331,10 @@
     {
       "sourceName" : "door02",
       "swiftIdentifier" : "door02"
+    },
+    {
+      "sourceName" : "dot",
+      "swiftIdentifier" : "dot"
     },
     {
       "sourceName" : "doughnut",
@@ -6411,6 +7379,10 @@
     {
       "sourceName" : "download06",
       "swiftIdentifier" : "download06"
+    },
+    {
+      "sourceName" : "drafting-compass",
+      "swiftIdentifier" : "draftingCompass"
     },
     {
       "sourceName" : "drag-drop",
@@ -6471,6 +7443,10 @@
     {
       "sourceName" : "drag04",
       "swiftIdentifier" : "drag04"
+    },
+    {
+      "sourceName" : "drama",
+      "swiftIdentifier" : "drama"
     },
     {
       "sourceName" : "drawing-compass",
@@ -6561,8 +7537,20 @@
       "swiftIdentifier" : "dropletOff"
     },
     {
+      "sourceName" : "droplets",
+      "swiftIdentifier" : "droplets"
+    },
+    {
       "sourceName" : "dropper",
       "swiftIdentifier" : "dropper"
+    },
+    {
+      "sourceName" : "drum",
+      "swiftIdentifier" : "drum"
+    },
+    {
+      "sourceName" : "drumstick",
+      "swiftIdentifier" : "drumstick"
     },
     {
       "sourceName" : "ds3-tool",
@@ -6639,6 +7627,10 @@
     {
       "sourceName" : "ease-out-control-point",
       "swiftIdentifier" : "easeOutControlPoint"
+    },
+    {
+      "sourceName" : "eclipse",
+      "swiftIdentifier" : "eclipse"
     },
     {
       "sourceName" : "eco-energy",
@@ -6769,8 +7761,20 @@
       "swiftIdentifier" : "electricityStack"
     },
     {
+      "sourceName" : "ellipse",
+      "swiftIdentifier" : "ellipse"
+    },
+    {
       "sourceName" : "ellipse-selection",
       "swiftIdentifier" : "ellipseSelection"
+    },
+    {
+      "sourceName" : "ellipsis",
+      "swiftIdentifier" : "ellipsis"
+    },
+    {
+      "sourceName" : "ellipsis-vertical",
+      "swiftIdentifier" : "ellipsisVertical"
     },
     {
       "sourceName" : "encrypt",
@@ -6905,6 +7909,10 @@
       "swiftIdentifier" : "euroSquare"
     },
     {
+      "sourceName" : "ev-charger",
+      "swiftIdentifier" : "evCharger"
+    },
+    {
       "sourceName" : "ev-charging",
       "swiftIdentifier" : "evCharging"
     },
@@ -6965,8 +7973,20 @@
       "swiftIdentifier" : "externalDrive"
     },
     {
+      "sourceName" : "external-link",
+      "swiftIdentifier" : "externalLink"
+    },
+    {
       "sourceName" : "eye",
       "swiftIdentifier" : "eye"
+    },
+    {
+      "sourceName" : "eye-closed",
+      "swiftIdentifier" : "eyeClosed"
+    },
+    {
+      "sourceName" : "eye-off",
+      "swiftIdentifier" : "eyeOff"
     },
     {
       "sourceName" : "face-id",
@@ -7007,6 +8027,10 @@
     {
       "sourceName" : "fan02",
       "swiftIdentifier" : "fan02"
+    },
+    {
+      "sourceName" : "fast-forward",
+      "swiftIdentifier" : "fastForward"
     },
     {
       "sourceName" : "fast-wind",
@@ -7081,6 +8105,10 @@
       "swiftIdentifier" : "fileAxisThreeD"
     },
     {
+      "sourceName" : "file-axis3-d",
+      "swiftIdentifier" : "fileAxis3D"
+    },
+    {
       "sourceName" : "file-badge",
       "swiftIdentifier" : "fileBadge"
     },
@@ -7105,6 +8133,10 @@
       "swiftIdentifier" : "fileBraces"
     },
     {
+      "sourceName" : "file-braces-corner",
+      "swiftIdentifier" : "fileBracesCorner"
+    },
+    {
       "sourceName" : "file-chart-column",
       "swiftIdentifier" : "fileChartColumn"
     },
@@ -7113,8 +8145,20 @@
       "swiftIdentifier" : "fileChartColumnIncreasing"
     },
     {
+      "sourceName" : "file-chart-line",
+      "swiftIdentifier" : "fileChartLine"
+    },
+    {
       "sourceName" : "file-chart-pie",
       "swiftIdentifier" : "fileChartPie"
+    },
+    {
+      "sourceName" : "file-check",
+      "swiftIdentifier" : "fileCheck"
+    },
+    {
+      "sourceName" : "file-check-corner",
+      "swiftIdentifier" : "fileCheckCorner"
     },
     {
       "sourceName" : "file-clock",
@@ -7131,6 +8175,10 @@
     {
       "sourceName" : "file-code-corner",
       "swiftIdentifier" : "fileCodeCorner"
+    },
+    {
+      "sourceName" : "file-cog",
+      "swiftIdentifier" : "fileCog"
     },
     {
       "sourceName" : "file-corrupt",
@@ -7493,6 +8541,10 @@
       "swiftIdentifier" : "fingerPrintScan"
     },
     {
+      "sourceName" : "fingerprint-pattern",
+      "swiftIdentifier" : "fingerprintPattern"
+    },
+    {
       "sourceName" : "fins",
       "swiftIdentifier" : "fins"
     },
@@ -7545,6 +8597,10 @@
       "swiftIdentifier" : "firstBracketSquare"
     },
     {
+      "sourceName" : "fish",
+      "swiftIdentifier" : "fish"
+    },
+    {
       "sourceName" : "fish-food",
       "swiftIdentifier" : "fishFood"
     },
@@ -7559,6 +8615,10 @@
     {
       "sourceName" : "fishing-hook",
       "swiftIdentifier" : "fishingHook"
+    },
+    {
+      "sourceName" : "fishing-rod",
+      "swiftIdentifier" : "fishingRod"
     },
     {
       "sourceName" : "fit-to-screen",
@@ -7577,6 +8637,18 @@
       "swiftIdentifier" : "fiverr"
     },
     {
+      "sourceName" : "flag-off",
+      "swiftIdentifier" : "flagOff"
+    },
+    {
+      "sourceName" : "flag-triangle-left",
+      "swiftIdentifier" : "flagTriangleLeft"
+    },
+    {
+      "sourceName" : "flag-triangle-right",
+      "swiftIdentifier" : "flagTriangleRight"
+    },
+    {
       "sourceName" : "flag01",
       "swiftIdentifier" : "flag01"
     },
@@ -7587,6 +8659,10 @@
     {
       "sourceName" : "flag03",
       "swiftIdentifier" : "flag03"
+    },
+    {
+      "sourceName" : "flame",
+      "swiftIdentifier" : "flame"
     },
     {
       "sourceName" : "flame-kindling",
@@ -7603,6 +8679,22 @@
     {
       "sourceName" : "flashlight",
       "swiftIdentifier" : "flashlight"
+    },
+    {
+      "sourceName" : "flashlight-off",
+      "swiftIdentifier" : "flashlightOff"
+    },
+    {
+      "sourceName" : "flask-conical",
+      "swiftIdentifier" : "flaskConical"
+    },
+    {
+      "sourceName" : "flask-conical-off",
+      "swiftIdentifier" : "flaskConicalOff"
+    },
+    {
+      "sourceName" : "flask-round",
+      "swiftIdentifier" : "flaskRound"
     },
     {
       "sourceName" : "flaticon",
@@ -7625,6 +8717,10 @@
       "swiftIdentifier" : "flipHorizontal"
     },
     {
+      "sourceName" : "flip-horizontal2",
+      "swiftIdentifier" : "flipHorizontal2"
+    },
+    {
       "sourceName" : "flip-left",
       "swiftIdentifier" : "flipLeft"
     },
@@ -7643,6 +8739,10 @@
     {
       "sourceName" : "flip-vertical",
       "swiftIdentifier" : "flipVertical"
+    },
+    {
+      "sourceName" : "flip-vertical2",
+      "swiftIdentifier" : "flipVertical2"
     },
     {
       "sourceName" : "floor-plan",
@@ -7685,6 +8785,10 @@
       "swiftIdentifier" : "flowerPot"
     },
     {
+      "sourceName" : "flower2",
+      "swiftIdentifier" : "flower2"
+    },
+    {
       "sourceName" : "flushed",
       "swiftIdentifier" : "flushed"
     },
@@ -7693,8 +8797,20 @@
       "swiftIdentifier" : "flyingHuman"
     },
     {
+      "sourceName" : "focus",
+      "swiftIdentifier" : "focus"
+    },
+    {
       "sourceName" : "focus-point",
       "swiftIdentifier" : "focusPoint"
+    },
+    {
+      "sourceName" : "fold-horizontal",
+      "swiftIdentifier" : "foldHorizontal"
+    },
+    {
+      "sourceName" : "fold-vertical",
+      "swiftIdentifier" : "foldVertical"
     },
     {
       "sourceName" : "folder-add",
@@ -7937,12 +9053,24 @@
       "swiftIdentifier" : "footballPitch"
     },
     {
+      "sourceName" : "footprints",
+      "swiftIdentifier" : "footprints"
+    },
+    {
       "sourceName" : "forgot-password",
       "swiftIdentifier" : "forgotPassword"
     },
     {
       "sourceName" : "fork",
       "swiftIdentifier" : "fork"
+    },
+    {
+      "sourceName" : "forklift",
+      "swiftIdentifier" : "forklift"
+    },
+    {
+      "sourceName" : "form",
+      "swiftIdentifier" : "form"
     },
     {
       "sourceName" : "forrst",
@@ -7981,6 +9109,10 @@
       "swiftIdentifier" : "fourSquare"
     },
     {
+      "sourceName" : "frame",
+      "swiftIdentifier" : "frame"
+    },
+    {
       "sourceName" : "framer",
       "swiftIdentifier" : "framer"
     },
@@ -8003,6 +9135,10 @@
     {
       "sourceName" : "frisbee",
       "swiftIdentifier" : "frisbee"
+    },
+    {
+      "sourceName" : "frown",
+      "swiftIdentifier" : "frown"
     },
     {
       "sourceName" : "fry",
@@ -8049,12 +9185,40 @@
       "swiftIdentifier" : "functionSquare"
     },
     {
+      "sourceName" : "funnel",
+      "swiftIdentifier" : "funnel"
+    },
+    {
+      "sourceName" : "funnel-plus",
+      "swiftIdentifier" : "funnelPlus"
+    },
+    {
+      "sourceName" : "funnel-x",
+      "swiftIdentifier" : "funnelX"
+    },
+    {
       "sourceName" : "galaxy",
       "swiftIdentifier" : "galaxy"
     },
     {
+      "sourceName" : "gallery-horizontal",
+      "swiftIdentifier" : "galleryHorizontal"
+    },
+    {
       "sourceName" : "gallery-horizontal-end",
       "swiftIdentifier" : "galleryHorizontalEnd"
+    },
+    {
+      "sourceName" : "gallery-thumbnails",
+      "swiftIdentifier" : "galleryThumbnails"
+    },
+    {
+      "sourceName" : "gallery-vertical",
+      "swiftIdentifier" : "galleryVertical"
+    },
+    {
+      "sourceName" : "gallery-vertical-end",
+      "swiftIdentifier" : "galleryVerticalEnd"
     },
     {
       "sourceName" : "game",
@@ -8077,8 +9241,16 @@
       "swiftIdentifier" : "gameboy"
     },
     {
+      "sourceName" : "gamepad",
+      "swiftIdentifier" : "gamepad"
+    },
+    {
       "sourceName" : "gamepad-directional",
       "swiftIdentifier" : "gamepadDirectional"
+    },
+    {
+      "sourceName" : "gamepad2",
+      "swiftIdentifier" : "gamepad2"
     },
     {
       "sourceName" : "garage",
@@ -8099,6 +9271,14 @@
     {
       "sourceName" : "gas-stove",
       "swiftIdentifier" : "gasStove"
+    },
+    {
+      "sourceName" : "gauge",
+      "swiftIdentifier" : "gauge"
+    },
+    {
+      "sourceName" : "gavel",
+      "swiftIdentifier" : "gavel"
     },
     {
       "sourceName" : "gears",
@@ -8123,6 +9303,10 @@
     {
       "sourceName" : "georgian-lari",
       "swiftIdentifier" : "georgianLari"
+    },
+    {
+      "sourceName" : "ghost",
+      "swiftIdentifier" : "ghost"
     },
     {
       "sourceName" : "gibbous-moon",
@@ -8153,6 +9337,14 @@
       "swiftIdentifier" : "gitBranch"
     },
     {
+      "sourceName" : "git-branch-minus",
+      "swiftIdentifier" : "gitBranchMinus"
+    },
+    {
+      "sourceName" : "git-branch-plus",
+      "swiftIdentifier" : "gitBranchPlus"
+    },
+    {
       "sourceName" : "git-commit",
       "swiftIdentifier" : "gitCommit"
     },
@@ -8161,24 +9353,52 @@
       "swiftIdentifier" : "gitCommitHorizontal"
     },
     {
+      "sourceName" : "git-commit-vertical",
+      "swiftIdentifier" : "gitCommitVertical"
+    },
+    {
       "sourceName" : "git-compare",
       "swiftIdentifier" : "gitCompare"
+    },
+    {
+      "sourceName" : "git-compare-arrows",
+      "swiftIdentifier" : "gitCompareArrows"
     },
     {
       "sourceName" : "git-fork",
       "swiftIdentifier" : "gitFork"
     },
     {
+      "sourceName" : "git-graph",
+      "swiftIdentifier" : "gitGraph"
+    },
+    {
       "sourceName" : "git-merge",
       "swiftIdentifier" : "gitMerge"
+    },
+    {
+      "sourceName" : "git-merge-conflict",
+      "swiftIdentifier" : "gitMergeConflict"
     },
     {
       "sourceName" : "git-pull-request",
       "swiftIdentifier" : "gitPullRequest"
     },
     {
+      "sourceName" : "git-pull-request-arrow",
+      "swiftIdentifier" : "gitPullRequestArrow"
+    },
+    {
       "sourceName" : "git-pull-request-closed",
       "swiftIdentifier" : "gitPullRequestClosed"
+    },
+    {
+      "sourceName" : "git-pull-request-create",
+      "swiftIdentifier" : "gitPullRequestCreate"
+    },
+    {
+      "sourceName" : "git-pull-request-create-arrow",
+      "swiftIdentifier" : "gitPullRequestCreateArrow"
     },
     {
       "sourceName" : "git-pull-request-draft",
@@ -8209,6 +9429,10 @@
       "swiftIdentifier" : "givePill"
     },
     {
+      "sourceName" : "glass-water",
+      "swiftIdentifier" : "glassWater"
+    },
+    {
       "sourceName" : "glasses",
       "swiftIdentifier" : "glasses"
     },
@@ -8235,6 +9459,14 @@
     {
       "sourceName" : "globe",
       "swiftIdentifier" : "globe"
+    },
+    {
+      "sourceName" : "globe-lock",
+      "swiftIdentifier" : "globeLock"
+    },
+    {
+      "sourceName" : "globe-off",
+      "swiftIdentifier" : "globeOff"
     },
     {
       "sourceName" : "globe-x",
@@ -8291,6 +9523,10 @@
     {
       "sourceName" : "go-forward60-sec",
       "swiftIdentifier" : "goForward60Sec"
+    },
+    {
+      "sourceName" : "goal",
+      "swiftIdentifier" : "goal"
     },
     {
       "sourceName" : "gold",
@@ -8401,8 +9637,16 @@
       "swiftIdentifier" : "graduateMale"
     },
     {
+      "sourceName" : "graduation-cap",
+      "swiftIdentifier" : "graduationCap"
+    },
+    {
       "sourceName" : "graduation-scroll",
       "swiftIdentifier" : "graduationScroll"
+    },
+    {
+      "sourceName" : "grape",
+      "swiftIdentifier" : "grape"
     },
     {
       "sourceName" : "grapes",
@@ -8457,12 +9701,48 @@
       "swiftIdentifier" : "grid02"
     },
     {
+      "sourceName" : "grid2-x2",
+      "swiftIdentifier" : "grid2X2"
+    },
+    {
+      "sourceName" : "grid2-x2-check",
+      "swiftIdentifier" : "grid2X2Check"
+    },
+    {
+      "sourceName" : "grid2-x2-plus",
+      "swiftIdentifier" : "grid2X2Plus"
+    },
+    {
+      "sourceName" : "grid2-x2-x",
+      "swiftIdentifier" : "grid2X2X"
+    },
+    {
+      "sourceName" : "grid3-x2",
+      "swiftIdentifier" : "grid3X2"
+    },
+    {
+      "sourceName" : "grid3-x3",
+      "swiftIdentifier" : "grid3X3"
+    },
+    {
       "sourceName" : "grimacing",
       "swiftIdentifier" : "grimacing"
     },
     {
       "sourceName" : "grinning",
       "swiftIdentifier" : "grinning"
+    },
+    {
+      "sourceName" : "grip",
+      "swiftIdentifier" : "grip"
+    },
+    {
+      "sourceName" : "grip-horizontal",
+      "swiftIdentifier" : "gripHorizontal"
+    },
+    {
+      "sourceName" : "grip-vertical",
+      "swiftIdentifier" : "gripVertical"
     },
     {
       "sourceName" : "grok",
@@ -8489,8 +9769,16 @@
       "swiftIdentifier" : "group01"
     },
     {
+      "sourceName" : "groww",
+      "swiftIdentifier" : "groww"
+    },
+    {
       "sourceName" : "guest-house",
       "swiftIdentifier" : "guestHouse"
+    },
+    {
+      "sourceName" : "guitar",
+      "swiftIdentifier" : "guitar"
     },
     {
       "sourceName" : "gun",
@@ -8541,6 +9829,14 @@
       "swiftIdentifier" : "hamburger02"
     },
     {
+      "sourceName" : "hammer",
+      "swiftIdentifier" : "hammer"
+    },
+    {
+      "sourceName" : "hand",
+      "swiftIdentifier" : "hand"
+    },
+    {
       "sourceName" : "hand-bag01",
       "swiftIdentifier" : "handBag01"
     },
@@ -8557,6 +9853,10 @@
       "swiftIdentifier" : "handCoins"
     },
     {
+      "sourceName" : "hand-fist",
+      "swiftIdentifier" : "handFist"
+    },
+    {
       "sourceName" : "hand-grab",
       "swiftIdentifier" : "handGrab"
     },
@@ -8565,8 +9865,20 @@
       "swiftIdentifier" : "handGrip"
     },
     {
+      "sourceName" : "hand-heart",
+      "swiftIdentifier" : "handHeart"
+    },
+    {
       "sourceName" : "hand-helping",
       "swiftIdentifier" : "handHelping"
+    },
+    {
+      "sourceName" : "hand-metal",
+      "swiftIdentifier" : "handMetal"
+    },
+    {
+      "sourceName" : "hand-platter",
+      "swiftIdentifier" : "handPlatter"
     },
     {
       "sourceName" : "hand-pointing-down01",
@@ -8625,12 +9937,20 @@
       "swiftIdentifier" : "handSanitizer"
     },
     {
+      "sourceName" : "handbag",
+      "swiftIdentifier" : "handbag"
+    },
+    {
       "sourceName" : "handcuffs",
       "swiftIdentifier" : "handcuffs"
     },
     {
       "sourceName" : "hands-clapping",
       "swiftIdentifier" : "handsClapping"
+    },
+    {
+      "sourceName" : "handshake",
+      "swiftIdentifier" : "handshake"
     },
     {
       "sourceName" : "hanger",
@@ -8665,6 +9985,14 @@
       "swiftIdentifier" : "hardDriveUpload"
     },
     {
+      "sourceName" : "hard-hat",
+      "swiftIdentifier" : "hardHat"
+    },
+    {
+      "sourceName" : "hash",
+      "swiftIdentifier" : "hash"
+    },
+    {
       "sourceName" : "hashtag",
       "swiftIdentifier" : "hashtag"
     },
@@ -8673,8 +10001,24 @@
       "swiftIdentifier" : "hat"
     },
     {
+      "sourceName" : "hat-glasses",
+      "swiftIdentifier" : "hatGlasses"
+    },
+    {
+      "sourceName" : "haze",
+      "swiftIdentifier" : "haze"
+    },
+    {
+      "sourceName" : "hd",
+      "swiftIdentifier" : "hd"
+    },
+    {
       "sourceName" : "hdd",
       "swiftIdentifier" : "hdd"
+    },
+    {
+      "sourceName" : "hdmi-port",
+      "swiftIdentifier" : "hdmiPort"
     },
     {
       "sourceName" : "hdr01",
@@ -8713,8 +10057,32 @@
       "swiftIdentifier" : "heading06"
     },
     {
+      "sourceName" : "heading1",
+      "swiftIdentifier" : "heading1"
+    },
+    {
+      "sourceName" : "heading2",
+      "swiftIdentifier" : "heading2"
+    },
+    {
+      "sourceName" : "heading4",
+      "swiftIdentifier" : "heading4"
+    },
+    {
+      "sourceName" : "heading5",
+      "swiftIdentifier" : "heading5"
+    },
+    {
+      "sourceName" : "heading6",
+      "swiftIdentifier" : "heading6"
+    },
+    {
       "sourceName" : "headphone-mute",
       "swiftIdentifier" : "headphoneMute"
+    },
+    {
+      "sourceName" : "headphone-off",
+      "swiftIdentifier" : "headphoneOff"
     },
     {
       "sourceName" : "headphones",
@@ -8741,6 +10109,10 @@
       "swiftIdentifier" : "health"
     },
     {
+      "sourceName" : "heart",
+      "swiftIdentifier" : "heart"
+    },
+    {
       "sourceName" : "heart-add",
       "swiftIdentifier" : "heartAdd"
     },
@@ -8749,8 +10121,28 @@
       "swiftIdentifier" : "heartCheck"
     },
     {
+      "sourceName" : "heart-crack",
+      "swiftIdentifier" : "heartCrack"
+    },
+    {
+      "sourceName" : "heart-handshake",
+      "swiftIdentifier" : "heartHandshake"
+    },
+    {
       "sourceName" : "heart-minus",
       "swiftIdentifier" : "heartMinus"
+    },
+    {
+      "sourceName" : "heart-off",
+      "swiftIdentifier" : "heartOff"
+    },
+    {
+      "sourceName" : "heart-plus",
+      "swiftIdentifier" : "heartPlus"
+    },
+    {
+      "sourceName" : "heart-pulse",
+      "swiftIdentifier" : "heartPulse"
     },
     {
       "sourceName" : "heart-remove",
@@ -8855,6 +10247,10 @@
     {
       "sourceName" : "hijab",
       "swiftIdentifier" : "hijab"
+    },
+    {
+      "sourceName" : "history",
+      "swiftIdentifier" : "history"
     },
     {
       "sourceName" : "hockey",
@@ -9067,6 +10463,10 @@
     {
       "sourceName" : "house-heart",
       "swiftIdentifier" : "houseHeart"
+    },
+    {
+      "sourceName" : "house-plug",
+      "swiftIdentifier" : "housePlug"
     },
     {
       "sourceName" : "house-plus",
@@ -20485,6 +21885,6 @@
       "swiftIdentifier" : "zzz"
     }
   ],
-  "entryCount" : 5121,
-  "generatedAt" : "2026-05-17T08:11:11Z"
+  "entryCount" : 5471,
+  "generatedAt" : "2026-05-30T08:17:17Z"
 }
