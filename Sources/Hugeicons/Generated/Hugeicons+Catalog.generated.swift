@@ -11,6 +11,9 @@ public extension Hugeicons {
     static var aArrowUp: HugeiconsAsset {
         HugeiconsCatalog.aArrowUp
     }
+    static var aLargeSmall: HugeiconsAsset {
+        HugeiconsCatalog.aLargeSmall
+    }
     static var abacus: HugeiconsAsset {
         HugeiconsCatalog.abacus
     }
@@ -22,6 +25,9 @@ public extension Hugeicons {
     }
     static var access: HugeiconsAsset {
         HugeiconsCatalog.access
+    }
+    static var accessibility: HugeiconsAsset {
+        HugeiconsCatalog.accessibility
     }
     static var accident: HugeiconsAsset {
         HugeiconsCatalog.accident
@@ -335,6 +341,9 @@ public extension Hugeicons {
     static var aids: HugeiconsAsset {
         HugeiconsCatalog.aids
     }
+    static var airVent: HugeiconsAsset {
+        HugeiconsCatalog.airVent
+    }
     static var airbnb: HugeiconsAsset {
         HugeiconsCatalog.airbnb
     }
@@ -374,6 +383,9 @@ public extension Hugeicons {
     static var airplaneTakeOff02: HugeiconsAsset {
         HugeiconsCatalog.airplaneTakeOff02
     }
+    static var airplay: HugeiconsAsset {
+        HugeiconsCatalog.airplay
+    }
     static var airplayLine: HugeiconsAsset {
         HugeiconsCatalog.airplayLine
     }
@@ -401,8 +413,17 @@ public extension Hugeicons {
     static var alarmClock: HugeiconsAsset {
         HugeiconsCatalog.alarmClock
     }
+    static var alarmClockCheck: HugeiconsAsset {
+        HugeiconsCatalog.alarmClockCheck
+    }
+    static var alarmClockMinus: HugeiconsAsset {
+        HugeiconsCatalog.alarmClockMinus
+    }
     static var alarmClockOff: HugeiconsAsset {
         HugeiconsCatalog.alarmClockOff
+    }
+    static var alarmClockPlus: HugeiconsAsset {
+        HugeiconsCatalog.alarmClockPlus
     }
     static var alarmSmoke: HugeiconsAsset {
         HugeiconsCatalog.alarmSmoke
@@ -476,14 +497,26 @@ public extension Hugeicons {
     static var alignBoxTopRight: HugeiconsAsset {
         HugeiconsCatalog.alignBoxTopRight
     }
+    static var alignEndHorizontal: HugeiconsAsset {
+        HugeiconsCatalog.alignEndHorizontal
+    }
+    static var alignEndVertical: HugeiconsAsset {
+        HugeiconsCatalog.alignEndVertical
+    }
     static var alignHorizontalCenter: HugeiconsAsset {
         HugeiconsCatalog.alignHorizontalCenter
+    }
+    static var alignHorizontalDistributeCenter: HugeiconsAsset {
+        HugeiconsCatalog.alignHorizontalDistributeCenter
     }
     static var alignHorizontalDistributeEnd: HugeiconsAsset {
         HugeiconsCatalog.alignHorizontalDistributeEnd
     }
     static var alignHorizontalDistributeStart: HugeiconsAsset {
         HugeiconsCatalog.alignHorizontalDistributeStart
+    }
+    static var alignHorizontalJustifyCenter: HugeiconsAsset {
+        HugeiconsCatalog.alignHorizontalJustifyCenter
     }
     static var alignHorizontalJustifyEnd: HugeiconsAsset {
         HugeiconsCatalog.alignHorizontalJustifyEnd
@@ -509,6 +542,12 @@ public extension Hugeicons {
     static var alignSelection: HugeiconsAsset {
         HugeiconsCatalog.alignSelection
     }
+    static var alignStartHorizontal: HugeiconsAsset {
+        HugeiconsCatalog.alignStartHorizontal
+    }
+    static var alignStartVertical: HugeiconsAsset {
+        HugeiconsCatalog.alignStartVertical
+    }
     static var alignTop: HugeiconsAsset {
         HugeiconsCatalog.alignTop
     }
@@ -524,8 +563,17 @@ public extension Hugeicons {
     static var alignVerticalDistributeStart: HugeiconsAsset {
         HugeiconsCatalog.alignVerticalDistributeStart
     }
+    static var alignVerticalJustifyCenter: HugeiconsAsset {
+        HugeiconsCatalog.alignVerticalJustifyCenter
+    }
+    static var alignVerticalJustifyEnd: HugeiconsAsset {
+        HugeiconsCatalog.alignVerticalJustifyEnd
+    }
     static var alignVerticalJustifyStart: HugeiconsAsset {
         HugeiconsCatalog.alignVerticalJustifyStart
+    }
+    static var alignVerticalSpaceAround: HugeiconsAsset {
+        HugeiconsCatalog.alignVerticalSpaceAround
     }
     static var alignVerticalSpaceBetween: HugeiconsAsset {
         HugeiconsCatalog.alignVerticalSpaceBetween
@@ -590,6 +638,12 @@ public extension Hugeicons {
     static var ammo: HugeiconsAsset {
         HugeiconsCatalog.ammo
     }
+    static var ampersand: HugeiconsAsset {
+        HugeiconsCatalog.ampersand
+    }
+    static var ampersands: HugeiconsAsset {
+        HugeiconsCatalog.ampersands
+    }
     static var amphora: HugeiconsAsset {
         HugeiconsCatalog.amphora
     }
@@ -638,6 +692,9 @@ public extension Hugeicons {
     static var angryBird: HugeiconsAsset {
         HugeiconsCatalog.angryBird
     }
+    static var annoyed: HugeiconsAsset {
+        HugeiconsCatalog.annoyed
+    }
     static var anonymous: HugeiconsAsset {
         HugeiconsCatalog.anonymous
     }
@@ -650,6 +707,9 @@ public extension Hugeicons {
     static var apartment: HugeiconsAsset {
         HugeiconsCatalog.apartment
     }
+    static var aperture: HugeiconsAsset {
+        HugeiconsCatalog.aperture
+    }
     static var api: HugeiconsAsset {
         HugeiconsCatalog.api
     }
@@ -658,6 +718,12 @@ public extension Hugeicons {
     }
     static var appStore: HugeiconsAsset {
         HugeiconsCatalog.appStore
+    }
+    static var appWindow: HugeiconsAsset {
+        HugeiconsCatalog.appWindow
+    }
+    static var appWindowMac: HugeiconsAsset {
+        HugeiconsCatalog.appWindowMac
     }
     static var apple: HugeiconsAsset {
         HugeiconsCatalog.apple
@@ -746,6 +812,12 @@ public extension Hugeicons {
     static var archiveRestore: HugeiconsAsset {
         HugeiconsCatalog.archiveRestore
     }
+    static var archiveX: HugeiconsAsset {
+        HugeiconsCatalog.archiveX
+    }
+    static var armchair: HugeiconsAsset {
+        HugeiconsCatalog.armchair
+    }
     static var armoredBoot: HugeiconsAsset {
         HugeiconsCatalog.armoredBoot
     }
@@ -806,6 +878,9 @@ public extension Hugeicons {
     static var arrowDown05: HugeiconsAsset {
         HugeiconsCatalog.arrowDown05
     }
+    static var arrowDown10: HugeiconsAsset {
+        HugeiconsCatalog.arrowDown10
+    }
     static var arrowDownAz: HugeiconsAsset {
         HugeiconsCatalog.arrowDownAz
     }
@@ -824,6 +899,9 @@ public extension Hugeicons {
     static var arrowDownLeft02: HugeiconsAsset {
         HugeiconsCatalog.arrowDownLeft02
     }
+    static var arrowDownNarrowWide: HugeiconsAsset {
+        HugeiconsCatalog.arrowDownNarrowWide
+    }
     static var arrowDownOneZero: HugeiconsAsset {
         HugeiconsCatalog.arrowDownOneZero
     }
@@ -835,6 +913,15 @@ public extension Hugeicons {
     }
     static var arrowDownToDot: HugeiconsAsset {
         HugeiconsCatalog.arrowDownToDot
+    }
+    static var arrowDownToLine: HugeiconsAsset {
+        HugeiconsCatalog.arrowDownToLine
+    }
+    static var arrowDownWideNarrow: HugeiconsAsset {
+        HugeiconsCatalog.arrowDownWideNarrow
+    }
+    static var arrowDownZa: HugeiconsAsset {
+        HugeiconsCatalog.arrowDownZa
     }
     static var arrowDownZeroOne: HugeiconsAsset {
         HugeiconsCatalog.arrowDownZeroOne
@@ -884,6 +971,9 @@ public extension Hugeicons {
     static var arrowLeftRight: HugeiconsAsset {
         HugeiconsCatalog.arrowLeftRight
     }
+    static var arrowLeftToLine: HugeiconsAsset {
+        HugeiconsCatalog.arrowLeftToLine
+    }
     static var arrowMoveDownLeft: HugeiconsAsset {
         HugeiconsCatalog.arrowMoveDownLeft
     }
@@ -932,6 +1022,9 @@ public extension Hugeicons {
     static var arrowRightFromLine: HugeiconsAsset {
         HugeiconsCatalog.arrowRightFromLine
     }
+    static var arrowRightToLine: HugeiconsAsset {
+        HugeiconsCatalog.arrowRightToLine
+    }
     static var arrowShrink: HugeiconsAsset {
         HugeiconsCatalog.arrowShrink
     }
@@ -967,6 +1060,12 @@ public extension Hugeicons {
     }
     static var arrowUp05: HugeiconsAsset {
         HugeiconsCatalog.arrowUp05
+    }
+    static var arrowUp10: HugeiconsAsset {
+        HugeiconsCatalog.arrowUp10
+    }
+    static var arrowUpAz: HugeiconsAsset {
+        HugeiconsCatalog.arrowUpAz
     }
     static var arrowUpBig: HugeiconsAsset {
         HugeiconsCatalog.arrowUpBig
@@ -1007,6 +1106,9 @@ public extension Hugeicons {
     static var arrowUpRightStack: HugeiconsAsset {
         HugeiconsCatalog.arrowUpRightStack
     }
+    static var arrowUpToLine: HugeiconsAsset {
+        HugeiconsCatalog.arrowUpToLine
+    }
     static var arrowUpWideNarrow: HugeiconsAsset {
         HugeiconsCatalog.arrowUpWideNarrow
     }
@@ -1018,6 +1120,9 @@ public extension Hugeicons {
     }
     static var arrowVertical: HugeiconsAsset {
         HugeiconsCatalog.arrowVertical
+    }
+    static var arrowsUpFromLine: HugeiconsAsset {
+        HugeiconsCatalog.arrowsUpFromLine
     }
     static var artboard: HugeiconsAsset {
         HugeiconsCatalog.artboard
@@ -1076,6 +1181,9 @@ public extension Hugeicons {
     static var at: HugeiconsAsset {
         HugeiconsCatalog.at
     }
+    static var atSign: HugeiconsAsset {
+        HugeiconsCatalog.atSign
+    }
     static var atm01: HugeiconsAsset {
         HugeiconsCatalog.atm01
     }
@@ -1121,11 +1229,17 @@ public extension Hugeicons {
     static var audioBook04: HugeiconsAsset {
         HugeiconsCatalog.audioBook04
     }
+    static var audioLines: HugeiconsAsset {
+        HugeiconsCatalog.audioLines
+    }
     static var audioWave01: HugeiconsAsset {
         HugeiconsCatalog.audioWave01
     }
     static var audioWave02: HugeiconsAsset {
         HugeiconsCatalog.audioWave02
+    }
+    static var audioWaveform: HugeiconsAsset {
+        HugeiconsCatalog.audioWaveform
     }
     static var audit01: HugeiconsAsset {
         HugeiconsCatalog.audit01
@@ -1174,6 +1288,9 @@ public extension Hugeicons {
     }
     static var axe: HugeiconsAsset {
         HugeiconsCatalog.axe
+    }
+    static var axis3D: HugeiconsAsset {
+        HugeiconsCatalog.axis3D
     }
     static var axisThreeD: HugeiconsAsset {
         HugeiconsCatalog.axisThreeD
@@ -1232,6 +1349,9 @@ public extension Hugeicons {
     static var badgeCent: HugeiconsAsset {
         HugeiconsCatalog.badgeCent
     }
+    static var badgeCheck: HugeiconsAsset {
+        HugeiconsCatalog.badgeCheck
+    }
     static var badgeDollarSign: HugeiconsAsset {
         HugeiconsCatalog.badgeDollarSign
     }
@@ -1247,11 +1367,20 @@ public extension Hugeicons {
     static var badgeJapaneseYen: HugeiconsAsset {
         HugeiconsCatalog.badgeJapaneseYen
     }
+    static var badgeMinus: HugeiconsAsset {
+        HugeiconsCatalog.badgeMinus
+    }
     static var badgePercent: HugeiconsAsset {
         HugeiconsCatalog.badgePercent
     }
+    static var badgePlus: HugeiconsAsset {
+        HugeiconsCatalog.badgePlus
+    }
     static var badgePoundSterling: HugeiconsAsset {
         HugeiconsCatalog.badgePoundSterling
+    }
+    static var badgeQuestionMark: HugeiconsAsset {
+        HugeiconsCatalog.badgeQuestionMark
     }
     static var badgeRussianRuble: HugeiconsAsset {
         HugeiconsCatalog.badgeRussianRuble
@@ -1262,17 +1391,29 @@ public extension Hugeicons {
     static var badgeTurkishLira: HugeiconsAsset {
         HugeiconsCatalog.badgeTurkishLira
     }
+    static var badgeX: HugeiconsAsset {
+        HugeiconsCatalog.badgeX
+    }
     static var badminton: HugeiconsAsset {
         HugeiconsCatalog.badminton
     }
     static var badmintonShuttle: HugeiconsAsset {
         HugeiconsCatalog.badmintonShuttle
     }
+    static var baggageClaim: HugeiconsAsset {
+        HugeiconsCatalog.baggageClaim
+    }
     static var balanceScale: HugeiconsAsset {
         HugeiconsCatalog.balanceScale
     }
+    static var balloon: HugeiconsAsset {
+        HugeiconsCatalog.balloon
+    }
     static var balloons: HugeiconsAsset {
         HugeiconsCatalog.balloons
+    }
+    static var ban: HugeiconsAsset {
+        HugeiconsCatalog.ban
     }
     static var banana: HugeiconsAsset {
         HugeiconsCatalog.banana
@@ -1282,6 +1423,18 @@ public extension Hugeicons {
     }
     static var bank: HugeiconsAsset {
         HugeiconsCatalog.bank
+    }
+    static var banknote: HugeiconsAsset {
+        HugeiconsCatalog.banknote
+    }
+    static var banknoteArrowDown: HugeiconsAsset {
+        HugeiconsCatalog.banknoteArrowDown
+    }
+    static var banknoteArrowUp: HugeiconsAsset {
+        HugeiconsCatalog.banknoteArrowUp
+    }
+    static var banknoteX: HugeiconsAsset {
+        HugeiconsCatalog.banknoteX
     }
     static var barChart: HugeiconsAsset {
         HugeiconsCatalog.barChart
@@ -1294,6 +1447,9 @@ public extension Hugeicons {
     }
     static var barCode02: HugeiconsAsset {
         HugeiconsCatalog.barCode02
+    }
+    static var barcode: HugeiconsAsset {
+        HugeiconsCatalog.barcode
     }
     static var barcodeScan: HugeiconsAsset {
         HugeiconsCatalog.barcodeScan
@@ -1313,6 +1469,9 @@ public extension Hugeicons {
     static var baseballHelmet: HugeiconsAsset {
         HugeiconsCatalog.baseballHelmet
     }
+    static var baseline: HugeiconsAsset {
+        HugeiconsCatalog.baseline
+    }
     static var bash: HugeiconsAsset {
         HugeiconsCatalog.bash
     }
@@ -1325,6 +1484,9 @@ public extension Hugeicons {
     static var basketballHoop: HugeiconsAsset {
         HugeiconsCatalog.basketballHoop
     }
+    static var bath: HugeiconsAsset {
+        HugeiconsCatalog.bath
+    }
     static var bathtub01: HugeiconsAsset {
         HugeiconsCatalog.bathtub01
     }
@@ -1333,6 +1495,9 @@ public extension Hugeicons {
     }
     static var batteriesEnergy: HugeiconsAsset {
         HugeiconsCatalog.batteriesEnergy
+    }
+    static var battery: HugeiconsAsset {
+        HugeiconsCatalog.battery
     }
     static var batteryCharging01: HugeiconsAsset {
         HugeiconsCatalog.batteryCharging01
@@ -1373,6 +1538,9 @@ public extension Hugeicons {
     static var beach02: HugeiconsAsset {
         HugeiconsCatalog.beach02
     }
+    static var beaker: HugeiconsAsset {
+        HugeiconsCatalog.beaker
+    }
     static var bean: HugeiconsAsset {
         HugeiconsCatalog.bean
     }
@@ -1409,17 +1577,41 @@ public extension Hugeicons {
     static var beef: HugeiconsAsset {
         HugeiconsCatalog.beef
     }
+    static var beefOff: HugeiconsAsset {
+        HugeiconsCatalog.beefOff
+    }
+    static var beer: HugeiconsAsset {
+        HugeiconsCatalog.beer
+    }
+    static var beerOff: HugeiconsAsset {
+        HugeiconsCatalog.beerOff
+    }
     static var behance01: HugeiconsAsset {
         HugeiconsCatalog.behance01
     }
     static var behance02: HugeiconsAsset {
         HugeiconsCatalog.behance02
     }
+    static var bell: HugeiconsAsset {
+        HugeiconsCatalog.bell
+    }
     static var bellDot: HugeiconsAsset {
         HugeiconsCatalog.bellDot
     }
     static var bellElectric: HugeiconsAsset {
         HugeiconsCatalog.bellElectric
+    }
+    static var bellMinus: HugeiconsAsset {
+        HugeiconsCatalog.bellMinus
+    }
+    static var bellOff: HugeiconsAsset {
+        HugeiconsCatalog.bellOff
+    }
+    static var bellPlus: HugeiconsAsset {
+        HugeiconsCatalog.bellPlus
+    }
+    static var bellRing: HugeiconsAsset {
+        HugeiconsCatalog.bellRing
     }
     static var belt: HugeiconsAsset {
         HugeiconsCatalog.belt
@@ -1439,8 +1631,17 @@ public extension Hugeicons {
     static var betweenHorizontalEnd: HugeiconsAsset {
         HugeiconsCatalog.betweenHorizontalEnd
     }
+    static var betweenHorizontalStart: HugeiconsAsset {
+        HugeiconsCatalog.betweenHorizontalStart
+    }
     static var betweenVerticalEnd: HugeiconsAsset {
         HugeiconsCatalog.betweenVerticalEnd
+    }
+    static var betweenVerticalStart: HugeiconsAsset {
+        HugeiconsCatalog.betweenVerticalStart
+    }
+    static var bicepsFlexed: HugeiconsAsset {
+        HugeiconsCatalog.bicepsFlexed
     }
     static var bicycle: HugeiconsAsset {
         HugeiconsCatalog.bicycle
@@ -1448,11 +1649,17 @@ public extension Hugeicons {
     static var bicycle01: HugeiconsAsset {
         HugeiconsCatalog.bicycle01
     }
+    static var bike: HugeiconsAsset {
+        HugeiconsCatalog.bike
+    }
     static var billiard01: HugeiconsAsset {
         HugeiconsCatalog.billiard01
     }
     static var billiard02: HugeiconsAsset {
         HugeiconsCatalog.billiard02
+    }
+    static var binary: HugeiconsAsset {
+        HugeiconsCatalog.binary
     }
     static var binaryCode: HugeiconsAsset {
         HugeiconsCatalog.binaryCode
@@ -1679,6 +1886,9 @@ public extension Hugeicons {
     static var blocked: HugeiconsAsset {
         HugeiconsCatalog.blocked
     }
+    static var blocks: HugeiconsAsset {
+        HugeiconsCatalog.blocks
+    }
     static var blogger: HugeiconsAsset {
         HugeiconsCatalog.blogger
     }
@@ -1706,11 +1916,20 @@ public extension Hugeicons {
     static var bluetoothCircle: HugeiconsAsset {
         HugeiconsCatalog.bluetoothCircle
     }
+    static var bluetoothConnected: HugeiconsAsset {
+        HugeiconsCatalog.bluetoothConnected
+    }
     static var bluetoothNotConnected: HugeiconsAsset {
         HugeiconsCatalog.bluetoothNotConnected
     }
+    static var bluetoothOff: HugeiconsAsset {
+        HugeiconsCatalog.bluetoothOff
+    }
     static var bluetoothSearch: HugeiconsAsset {
         HugeiconsCatalog.bluetoothSearch
+    }
+    static var bluetoothSearching: HugeiconsAsset {
+        HugeiconsCatalog.bluetoothSearching
     }
     static var bluetoothSquare: HugeiconsAsset {
         HugeiconsCatalog.bluetoothSquare
@@ -1747,6 +1966,12 @@ public extension Hugeicons {
     }
     static var bodyWeight: HugeiconsAsset {
         HugeiconsCatalog.bodyWeight
+    }
+    static var bold: HugeiconsAsset {
+        HugeiconsCatalog.bold
+    }
+    static var bolt: HugeiconsAsset {
+        HugeiconsCatalog.bolt
     }
     static var bomb: HugeiconsAsset {
         HugeiconsCatalog.bomb
@@ -1790,11 +2015,17 @@ public extension Hugeicons {
     static var bookDashed: HugeiconsAsset {
         HugeiconsCatalog.bookDashed
     }
+    static var bookDown: HugeiconsAsset {
+        HugeiconsCatalog.bookDown
+    }
     static var bookDownload: HugeiconsAsset {
         HugeiconsCatalog.bookDownload
     }
     static var bookEdit: HugeiconsAsset {
         HugeiconsCatalog.bookEdit
+    }
+    static var bookHeadphones: HugeiconsAsset {
+        HugeiconsCatalog.bookHeadphones
     }
     static var bookHeart: HugeiconsAsset {
         HugeiconsCatalog.bookHeart
@@ -1807,6 +2038,9 @@ public extension Hugeicons {
     }
     static var bookLock: HugeiconsAsset {
         HugeiconsCatalog.bookLock
+    }
+    static var bookMarked: HugeiconsAsset {
+        HugeiconsCatalog.bookMarked
     }
     static var bookMinus: HugeiconsAsset {
         HugeiconsCatalog.bookMinus
@@ -1829,8 +2063,14 @@ public extension Hugeicons {
     static var bookSearch: HugeiconsAsset {
         HugeiconsCatalog.bookSearch
     }
+    static var bookText: HugeiconsAsset {
+        HugeiconsCatalog.bookText
+    }
     static var bookType: HugeiconsAsset {
         HugeiconsCatalog.bookType
+    }
+    static var bookUp2: HugeiconsAsset {
+        HugeiconsCatalog.bookUp2
     }
     static var bookUpTwo: HugeiconsAsset {
         HugeiconsCatalog.bookUpTwo
@@ -1883,11 +2123,17 @@ public extension Hugeicons {
     static var bookmarkOff02: HugeiconsAsset {
         HugeiconsCatalog.bookmarkOff02
     }
+    static var bookmarkPlus: HugeiconsAsset {
+        HugeiconsCatalog.bookmarkPlus
+    }
     static var bookmarkRemove01: HugeiconsAsset {
         HugeiconsCatalog.bookmarkRemove01
     }
     static var bookmarkRemove02: HugeiconsAsset {
         HugeiconsCatalog.bookmarkRemove02
+    }
+    static var bookmarkX: HugeiconsAsset {
+        HugeiconsCatalog.bookmarkX
     }
     static var books01: HugeiconsAsset {
         HugeiconsCatalog.books01
@@ -1964,6 +2210,15 @@ public extension Hugeicons {
     static var bot: HugeiconsAsset {
         HugeiconsCatalog.bot
     }
+    static var botMessageSquare: HugeiconsAsset {
+        HugeiconsCatalog.botMessageSquare
+    }
+    static var botOff: HugeiconsAsset {
+        HugeiconsCatalog.botOff
+    }
+    static var bottleWine: HugeiconsAsset {
+        HugeiconsCatalog.bottleWine
+    }
     static var bounceLeft: HugeiconsAsset {
         HugeiconsCatalog.bounceLeft
     }
@@ -1972,6 +2227,9 @@ public extension Hugeicons {
     }
     static var boundingBox: HugeiconsAsset {
         HugeiconsCatalog.boundingBox
+    }
+    static var bowArrow: HugeiconsAsset {
+        HugeiconsCatalog.bowArrow
     }
     static var bowTie: HugeiconsAsset {
         HugeiconsCatalog.bowTie
@@ -1985,8 +2243,14 @@ public extension Hugeicons {
     static var bowlingPins: HugeiconsAsset {
         HugeiconsCatalog.bowlingPins
     }
+    static var box: HugeiconsAsset {
+        HugeiconsCatalog.box
+    }
     static var boxer: HugeiconsAsset {
         HugeiconsCatalog.boxer
+    }
+    static var boxes: HugeiconsAsset {
+        HugeiconsCatalog.boxes
     }
     static var boxingBag: HugeiconsAsset {
         HugeiconsCatalog.boxingBag
@@ -1996,6 +2260,12 @@ public extension Hugeicons {
     }
     static var boxingGlove01: HugeiconsAsset {
         HugeiconsCatalog.boxingGlove01
+    }
+    static var braces: HugeiconsAsset {
+        HugeiconsCatalog.braces
+    }
+    static var brackets: HugeiconsAsset {
+        HugeiconsCatalog.brackets
     }
     static var brain: HugeiconsAsset {
         HugeiconsCatalog.brain
@@ -2008,6 +2278,9 @@ public extension Hugeicons {
     }
     static var brain03: HugeiconsAsset {
         HugeiconsCatalog.brain03
+    }
+    static var brainCircuit: HugeiconsAsset {
+        HugeiconsCatalog.brainCircuit
     }
     static var brainCog: HugeiconsAsset {
         HugeiconsCatalog.brainCog
@@ -2032,6 +2305,9 @@ public extension Hugeicons {
     }
     static var brickWall: HugeiconsAsset {
         HugeiconsCatalog.brickWall
+    }
+    static var brickWallFire: HugeiconsAsset {
+        HugeiconsCatalog.brickWallFire
     }
     static var brickWallShield: HugeiconsAsset {
         HugeiconsCatalog.brickWallShield
@@ -2066,11 +2342,17 @@ public extension Hugeicons {
     static var briefcase09: HugeiconsAsset {
         HugeiconsCatalog.briefcase09
     }
+    static var briefcaseBusiness: HugeiconsAsset {
+        HugeiconsCatalog.briefcaseBusiness
+    }
     static var briefcaseConveyorBelt: HugeiconsAsset {
         HugeiconsCatalog.briefcaseConveyorBelt
     }
     static var briefcaseDollar: HugeiconsAsset {
         HugeiconsCatalog.briefcaseDollar
+    }
+    static var briefcaseMedical: HugeiconsAsset {
+        HugeiconsCatalog.briefcaseMedical
     }
     static var bringToFront: HugeiconsAsset {
         HugeiconsCatalog.bringToFront
@@ -2089,6 +2371,9 @@ public extension Hugeicons {
     }
     static var brush: HugeiconsAsset {
         HugeiconsCatalog.brush
+    }
+    static var brushCleaning: HugeiconsAsset {
+        HugeiconsCatalog.brushCleaning
     }
     static var bubbleChat: HugeiconsAsset {
         HugeiconsCatalog.bubbleChat
@@ -2201,6 +2486,9 @@ public extension Hugeicons {
     static var building06: HugeiconsAsset {
         HugeiconsCatalog.building06
     }
+    static var building2: HugeiconsAsset {
+        HugeiconsCatalog.building2
+    }
     static var bulb: HugeiconsAsset {
         HugeiconsCatalog.bulb
     }
@@ -2227,6 +2515,9 @@ public extension Hugeicons {
     }
     static var bus03: HugeiconsAsset {
         HugeiconsCatalog.bus03
+    }
+    static var busFront: HugeiconsAsset {
+        HugeiconsCatalog.busFront
     }
     static var c: HugeiconsAsset {
         HugeiconsCatalog.c
@@ -2261,6 +2552,9 @@ public extension Hugeicons {
     static var cafe: HugeiconsAsset {
         HugeiconsCatalog.cafe
     }
+    static var cake: HugeiconsAsset {
+        HugeiconsCatalog.cake
+    }
     static var cakeSlice: HugeiconsAsset {
         HugeiconsCatalog.cakeSlice
     }
@@ -2288,6 +2582,9 @@ public extension Hugeicons {
     static var calendar05: HugeiconsAsset {
         HugeiconsCatalog.calendar05
     }
+    static var calendar1: HugeiconsAsset {
+        HugeiconsCatalog.calendar1
+    }
     static var calendarAdd01: HugeiconsAsset {
         HugeiconsCatalog.calendarAdd01
     }
@@ -2297,11 +2594,23 @@ public extension Hugeicons {
     static var calendarAnalysis: HugeiconsAsset {
         HugeiconsCatalog.calendarAnalysis
     }
+    static var calendarArrowDown: HugeiconsAsset {
+        HugeiconsCatalog.calendarArrowDown
+    }
+    static var calendarArrowUp: HugeiconsAsset {
+        HugeiconsCatalog.calendarArrowUp
+    }
     static var calendarBlock01: HugeiconsAsset {
         HugeiconsCatalog.calendarBlock01
     }
     static var calendarBlock02: HugeiconsAsset {
         HugeiconsCatalog.calendarBlock02
+    }
+    static var calendarCheck: HugeiconsAsset {
+        HugeiconsCatalog.calendarCheck
+    }
+    static var calendarCheck2: HugeiconsAsset {
+        HugeiconsCatalog.calendarCheck2
     }
     static var calendarCheckIn01: HugeiconsAsset {
         HugeiconsCatalog.calendarCheckIn01
@@ -2314,6 +2623,15 @@ public extension Hugeicons {
     }
     static var calendarCheckOut02: HugeiconsAsset {
         HugeiconsCatalog.calendarCheckOut02
+    }
+    static var calendarClock: HugeiconsAsset {
+        HugeiconsCatalog.calendarClock
+    }
+    static var calendarCog: HugeiconsAsset {
+        HugeiconsCatalog.calendarCog
+    }
+    static var calendarDays: HugeiconsAsset {
+        HugeiconsCatalog.calendarDays
     }
     static var calendarDownload01: HugeiconsAsset {
         HugeiconsCatalog.calendarDownload01
@@ -2329,6 +2647,9 @@ public extension Hugeicons {
     }
     static var calendarFold: HugeiconsAsset {
         HugeiconsCatalog.calendarFold
+    }
+    static var calendarHeart: HugeiconsAsset {
+        HugeiconsCatalog.calendarHeart
     }
     static var calendarLock01: HugeiconsAsset {
         HugeiconsCatalog.calendarLock01
@@ -2348,17 +2669,32 @@ public extension Hugeicons {
     static var calendarMinus02: HugeiconsAsset {
         HugeiconsCatalog.calendarMinus02
     }
+    static var calendarMinus2: HugeiconsAsset {
+        HugeiconsCatalog.calendarMinus2
+    }
     static var calendarMortarboard: HugeiconsAsset {
         HugeiconsCatalog.calendarMortarboard
     }
     static var calendarOff: HugeiconsAsset {
         HugeiconsCatalog.calendarOff
     }
+    static var calendarPlus: HugeiconsAsset {
+        HugeiconsCatalog.calendarPlus
+    }
+    static var calendarPlus2: HugeiconsAsset {
+        HugeiconsCatalog.calendarPlus2
+    }
+    static var calendarRange: HugeiconsAsset {
+        HugeiconsCatalog.calendarRange
+    }
     static var calendarRemove01: HugeiconsAsset {
         HugeiconsCatalog.calendarRemove01
     }
     static var calendarRemove02: HugeiconsAsset {
         HugeiconsCatalog.calendarRemove02
+    }
+    static var calendarSearch: HugeiconsAsset {
+        HugeiconsCatalog.calendarSearch
     }
     static var calendarSetting01: HugeiconsAsset {
         HugeiconsCatalog.calendarSetting01
@@ -2377,6 +2713,12 @@ public extension Hugeicons {
     }
     static var calendarUser: HugeiconsAsset {
         HugeiconsCatalog.calendarUser
+    }
+    static var calendarX: HugeiconsAsset {
+        HugeiconsCatalog.calendarX
+    }
+    static var calendarX2: HugeiconsAsset {
+        HugeiconsCatalog.calendarX2
     }
     static var calendars: HugeiconsAsset {
         HugeiconsCatalog.calendars
@@ -2651,6 +2993,12 @@ public extension Hugeicons {
     static var capcutRectangle: HugeiconsAsset {
         HugeiconsCatalog.capcutRectangle
     }
+    static var captions: HugeiconsAsset {
+        HugeiconsCatalog.captions
+    }
+    static var captionsOff: HugeiconsAsset {
+        HugeiconsCatalog.captionsOff
+    }
     static var car01: HugeiconsAsset {
         HugeiconsCatalog.car01
     }
@@ -2669,6 +3017,9 @@ public extension Hugeicons {
     static var carAlert: HugeiconsAsset {
         HugeiconsCatalog.carAlert
     }
+    static var carFront: HugeiconsAsset {
+        HugeiconsCatalog.carFront
+    }
     static var carParking01: HugeiconsAsset {
         HugeiconsCatalog.carParking01
     }
@@ -2677,6 +3028,9 @@ public extension Hugeicons {
     }
     static var carSignal: HugeiconsAsset {
         HugeiconsCatalog.carSignal
+    }
+    static var carTaxiFront: HugeiconsAsset {
+        HugeiconsCatalog.carTaxiFront
     }
     static var carTime: HugeiconsAsset {
         HugeiconsCatalog.carTime
@@ -2689,6 +3043,9 @@ public extension Hugeicons {
     }
     static var cardExchange02: HugeiconsAsset {
         HugeiconsCatalog.cardExchange02
+    }
+    static var cardSim: HugeiconsAsset {
+        HugeiconsCatalog.cardSim
     }
     static var cardigan: HugeiconsAsset {
         HugeiconsCatalog.cardigan
@@ -2720,6 +3077,15 @@ public extension Hugeicons {
     static var carrot: HugeiconsAsset {
         HugeiconsCatalog.carrot
     }
+    static var caseLower: HugeiconsAsset {
+        HugeiconsCatalog.caseLower
+    }
+    static var caseSensitive: HugeiconsAsset {
+        HugeiconsCatalog.caseSensitive
+    }
+    static var caseUpper: HugeiconsAsset {
+        HugeiconsCatalog.caseUpper
+    }
     static var cash01: HugeiconsAsset {
         HugeiconsCatalog.cash01
     }
@@ -2750,6 +3116,9 @@ public extension Hugeicons {
     static var cassetteTape: HugeiconsAsset {
         HugeiconsCatalog.cassetteTape
     }
+    static var cast: HugeiconsAsset {
+        HugeiconsCatalog.cast
+    }
     static var castbox: HugeiconsAsset {
         HugeiconsCatalog.castbox
     }
@@ -2762,14 +3131,23 @@ public extension Hugeicons {
     static var castle02: HugeiconsAsset {
         HugeiconsCatalog.castle02
     }
+    static var cat: HugeiconsAsset {
+        HugeiconsCatalog.cat
+    }
     static var catalogue: HugeiconsAsset {
         HugeiconsCatalog.catalogue
     }
     static var cayanTower: HugeiconsAsset {
         HugeiconsCatalog.cayanTower
     }
+    static var cctv: HugeiconsAsset {
+        HugeiconsCatalog.cctv
+    }
     static var cctvCamera: HugeiconsAsset {
         HugeiconsCatalog.cctvCamera
+    }
+    static var cctvOff: HugeiconsAsset {
+        HugeiconsCatalog.cctvOff
     }
     static var cd: HugeiconsAsset {
         HugeiconsCatalog.cd
@@ -2894,6 +3272,9 @@ public extension Hugeicons {
     static var chartColumnDecreasing: HugeiconsAsset {
         HugeiconsCatalog.chartColumnDecreasing
     }
+    static var chartColumnIncreasing: HugeiconsAsset {
+        HugeiconsCatalog.chartColumnIncreasing
+    }
     static var chartColumnStacked: HugeiconsAsset {
         HugeiconsCatalog.chartColumnStacked
     }
@@ -2918,6 +3299,9 @@ public extension Hugeicons {
     static var chartIncrease: HugeiconsAsset {
         HugeiconsCatalog.chartIncrease
     }
+    static var chartLine: HugeiconsAsset {
+        HugeiconsCatalog.chartLine
+    }
     static var chartLineData01: HugeiconsAsset {
         HugeiconsCatalog.chartLineData01
     }
@@ -2935,6 +3319,15 @@ public extension Hugeicons {
     }
     static var chartMinimum: HugeiconsAsset {
         HugeiconsCatalog.chartMinimum
+    }
+    static var chartNetwork: HugeiconsAsset {
+        HugeiconsCatalog.chartNetwork
+    }
+    static var chartNoAxesColumn: HugeiconsAsset {
+        HugeiconsCatalog.chartNoAxesColumn
+    }
+    static var chartNoAxesColumnDecreasing: HugeiconsAsset {
+        HugeiconsCatalog.chartNoAxesColumnDecreasing
     }
     static var chartNoAxesColumnIncreasing: HugeiconsAsset {
         HugeiconsCatalog.chartNoAxesColumnIncreasing
@@ -2959,6 +3352,9 @@ public extension Hugeicons {
     }
     static var chartScatter: HugeiconsAsset {
         HugeiconsCatalog.chartScatter
+    }
+    static var chartSpline: HugeiconsAsset {
+        HugeiconsCatalog.chartSpline
     }
     static var chartUp: HugeiconsAsset {
         HugeiconsCatalog.chartUp
@@ -3110,6 +3506,15 @@ public extension Hugeicons {
     static var chatting01: HugeiconsAsset {
         HugeiconsCatalog.chatting01
     }
+    static var check: HugeiconsAsset {
+        HugeiconsCatalog.check
+    }
+    static var checkCheck: HugeiconsAsset {
+        HugeiconsCatalog.checkCheck
+    }
+    static var checkLine: HugeiconsAsset {
+        HugeiconsCatalog.checkLine
+    }
     static var checkList: HugeiconsAsset {
         HugeiconsCatalog.checkList
     }
@@ -3200,14 +3605,62 @@ public extension Hugeicons {
     static var chessKing: HugeiconsAsset {
         HugeiconsCatalog.chessKing
     }
+    static var chessKnight: HugeiconsAsset {
+        HugeiconsCatalog.chessKnight
+    }
     static var chessPawn: HugeiconsAsset {
         HugeiconsCatalog.chessPawn
+    }
+    static var chessQueen: HugeiconsAsset {
+        HugeiconsCatalog.chessQueen
+    }
+    static var chessRook: HugeiconsAsset {
+        HugeiconsCatalog.chessRook
     }
     static var chevronDoubleClose: HugeiconsAsset {
         HugeiconsCatalog.chevronDoubleClose
     }
+    static var chevronDown: HugeiconsAsset {
+        HugeiconsCatalog.chevronDown
+    }
+    static var chevronFirst: HugeiconsAsset {
+        HugeiconsCatalog.chevronFirst
+    }
+    static var chevronLast: HugeiconsAsset {
+        HugeiconsCatalog.chevronLast
+    }
+    static var chevronLeft: HugeiconsAsset {
+        HugeiconsCatalog.chevronLeft
+    }
+    static var chevronRight: HugeiconsAsset {
+        HugeiconsCatalog.chevronRight
+    }
+    static var chevronUp: HugeiconsAsset {
+        HugeiconsCatalog.chevronUp
+    }
+    static var chevronsDown: HugeiconsAsset {
+        HugeiconsCatalog.chevronsDown
+    }
     static var chevronsDownUp: HugeiconsAsset {
         HugeiconsCatalog.chevronsDownUp
+    }
+    static var chevronsLeft: HugeiconsAsset {
+        HugeiconsCatalog.chevronsLeft
+    }
+    static var chevronsLeftRight: HugeiconsAsset {
+        HugeiconsCatalog.chevronsLeftRight
+    }
+    static var chevronsLeftRightEllipsis: HugeiconsAsset {
+        HugeiconsCatalog.chevronsLeftRightEllipsis
+    }
+    static var chevronsRight: HugeiconsAsset {
+        HugeiconsCatalog.chevronsRight
+    }
+    static var chevronsRightLeft: HugeiconsAsset {
+        HugeiconsCatalog.chevronsRightLeft
+    }
+    static var chevronsUp: HugeiconsAsset {
+        HugeiconsCatalog.chevronsUp
     }
     static var chickenThighs: HugeiconsAsset {
         HugeiconsCatalog.chickenThighs
@@ -3329,6 +3782,15 @@ public extension Hugeicons {
     static var circleArrowMoveUpRight: HugeiconsAsset {
         HugeiconsCatalog.circleArrowMoveUpRight
     }
+    static var circleArrowOutDownLeft: HugeiconsAsset {
+        HugeiconsCatalog.circleArrowOutDownLeft
+    }
+    static var circleArrowOutDownRight: HugeiconsAsset {
+        HugeiconsCatalog.circleArrowOutDownRight
+    }
+    static var circleArrowOutUpLeft: HugeiconsAsset {
+        HugeiconsCatalog.circleArrowOutUpLeft
+    }
     static var circleArrowOutUpRight: HugeiconsAsset {
         HugeiconsCatalog.circleArrowOutUpRight
     }
@@ -3383,6 +3845,48 @@ public extension Hugeicons {
     static var circleArrowVertical: HugeiconsAsset {
         HugeiconsCatalog.circleArrowVertical
     }
+    static var circleCheck: HugeiconsAsset {
+        HugeiconsCatalog.circleCheck
+    }
+    static var circleCheckBig: HugeiconsAsset {
+        HugeiconsCatalog.circleCheckBig
+    }
+    static var circleChevronDown: HugeiconsAsset {
+        HugeiconsCatalog.circleChevronDown
+    }
+    static var circleChevronLeft: HugeiconsAsset {
+        HugeiconsCatalog.circleChevronLeft
+    }
+    static var circleChevronRight: HugeiconsAsset {
+        HugeiconsCatalog.circleChevronRight
+    }
+    static var circleChevronUp: HugeiconsAsset {
+        HugeiconsCatalog.circleChevronUp
+    }
+    static var circleDashed: HugeiconsAsset {
+        HugeiconsCatalog.circleDashed
+    }
+    static var circleDollarSign: HugeiconsAsset {
+        HugeiconsCatalog.circleDollarSign
+    }
+    static var circleDot: HugeiconsAsset {
+        HugeiconsCatalog.circleDot
+    }
+    static var circleDotDashed: HugeiconsAsset {
+        HugeiconsCatalog.circleDotDashed
+    }
+    static var circleEllipsis: HugeiconsAsset {
+        HugeiconsCatalog.circleEllipsis
+    }
+    static var circleFadingArrowUp: HugeiconsAsset {
+        HugeiconsCatalog.circleFadingArrowUp
+    }
+    static var circleFadingPlus: HugeiconsAsset {
+        HugeiconsCatalog.circleFadingPlus
+    }
+    static var circleGauge: HugeiconsAsset {
+        HugeiconsCatalog.circleGauge
+    }
     static var circleLock01: HugeiconsAsset {
         HugeiconsCatalog.circleLock01
     }
@@ -3413,6 +3917,15 @@ public extension Hugeicons {
     static var circleLockRemove02: HugeiconsAsset {
         HugeiconsCatalog.circleLockRemove02
     }
+    static var circleMinus: HugeiconsAsset {
+        HugeiconsCatalog.circleMinus
+    }
+    static var circleOff: HugeiconsAsset {
+        HugeiconsCatalog.circleOff
+    }
+    static var circleParking: HugeiconsAsset {
+        HugeiconsCatalog.circleParking
+    }
     static var circleParkingOff: HugeiconsAsset {
         HugeiconsCatalog.circleParkingOff
     }
@@ -3421,6 +3934,21 @@ public extension Hugeicons {
     }
     static var circlePile: HugeiconsAsset {
         HugeiconsCatalog.circlePile
+    }
+    static var circlePlus: HugeiconsAsset {
+        HugeiconsCatalog.circlePlus
+    }
+    static var circlePoundSterling: HugeiconsAsset {
+        HugeiconsCatalog.circlePoundSterling
+    }
+    static var circlePower: HugeiconsAsset {
+        HugeiconsCatalog.circlePower
+    }
+    static var circleQuestionMark: HugeiconsAsset {
+        HugeiconsCatalog.circleQuestionMark
+    }
+    static var circleSlash2: HugeiconsAsset {
+        HugeiconsCatalog.circleSlash2
     }
     static var circleSlashTwo: HugeiconsAsset {
         HugeiconsCatalog.circleSlashTwo
@@ -3433,6 +3961,9 @@ public extension Hugeicons {
     }
     static var circleUnlock02: HugeiconsAsset {
         HugeiconsCatalog.circleUnlock02
+    }
+    static var circleX: HugeiconsAsset {
+        HugeiconsCatalog.circleX
     }
     static var circuitBoard: HugeiconsAsset {
         HugeiconsCatalog.circuitBoard
@@ -3448,6 +3979,9 @@ public extension Hugeicons {
     }
     static var city03: HugeiconsAsset {
         HugeiconsCatalog.city03
+    }
+    static var clapperboard: HugeiconsAsset {
+        HugeiconsCatalog.clapperboard
     }
     static var clapping01: HugeiconsAsset {
         HugeiconsCatalog.clapping01
@@ -3476,17 +4010,38 @@ public extension Hugeicons {
     static var clipboard: HugeiconsAsset {
         HugeiconsCatalog.clipboard
     }
+    static var clipboardCheck: HugeiconsAsset {
+        HugeiconsCatalog.clipboardCheck
+    }
     static var clipboardClock: HugeiconsAsset {
         HugeiconsCatalog.clipboardClock
     }
     static var clipboardCopy: HugeiconsAsset {
         HugeiconsCatalog.clipboardCopy
     }
+    static var clipboardList: HugeiconsAsset {
+        HugeiconsCatalog.clipboardList
+    }
     static var clipboardMinus: HugeiconsAsset {
         HugeiconsCatalog.clipboardMinus
     }
     static var clipboardPaste: HugeiconsAsset {
         HugeiconsCatalog.clipboardPaste
+    }
+    static var clipboardPen: HugeiconsAsset {
+        HugeiconsCatalog.clipboardPen
+    }
+    static var clipboardPenLine: HugeiconsAsset {
+        HugeiconsCatalog.clipboardPenLine
+    }
+    static var clipboardPlus: HugeiconsAsset {
+        HugeiconsCatalog.clipboardPlus
+    }
+    static var clipboardType: HugeiconsAsset {
+        HugeiconsCatalog.clipboardType
+    }
+    static var clipboardX: HugeiconsAsset {
+        HugeiconsCatalog.clipboardX
     }
     static var clock01: HugeiconsAsset {
         HugeiconsCatalog.clock01
@@ -3503,6 +4058,42 @@ public extension Hugeicons {
     static var clock05: HugeiconsAsset {
         HugeiconsCatalog.clock05
     }
+    static var clock1: HugeiconsAsset {
+        HugeiconsCatalog.clock1
+    }
+    static var clock10: HugeiconsAsset {
+        HugeiconsCatalog.clock10
+    }
+    static var clock11: HugeiconsAsset {
+        HugeiconsCatalog.clock11
+    }
+    static var clock12: HugeiconsAsset {
+        HugeiconsCatalog.clock12
+    }
+    static var clock2: HugeiconsAsset {
+        HugeiconsCatalog.clock2
+    }
+    static var clock3: HugeiconsAsset {
+        HugeiconsCatalog.clock3
+    }
+    static var clock4: HugeiconsAsset {
+        HugeiconsCatalog.clock4
+    }
+    static var clock5: HugeiconsAsset {
+        HugeiconsCatalog.clock5
+    }
+    static var clock6: HugeiconsAsset {
+        HugeiconsCatalog.clock6
+    }
+    static var clock7: HugeiconsAsset {
+        HugeiconsCatalog.clock7
+    }
+    static var clock8: HugeiconsAsset {
+        HugeiconsCatalog.clock8
+    }
+    static var clock9: HugeiconsAsset {
+        HugeiconsCatalog.clock9
+    }
     static var clockAdd: HugeiconsAsset {
         HugeiconsCatalog.clockAdd
     }
@@ -3517,6 +4108,9 @@ public extension Hugeicons {
     }
     static var clockCheck: HugeiconsAsset {
         HugeiconsCatalog.clockCheck
+    }
+    static var clockFading: HugeiconsAsset {
+        HugeiconsCatalog.clockFading
     }
     static var clockPlus: HugeiconsAsset {
         HugeiconsCatalog.clockPlus
@@ -3545,17 +4139,38 @@ public extension Hugeicons {
     static var cloudAngledZap: HugeiconsAsset {
         HugeiconsCatalog.cloudAngledZap
     }
+    static var cloudBackup: HugeiconsAsset {
+        HugeiconsCatalog.cloudBackup
+    }
     static var cloudBigRain: HugeiconsAsset {
         HugeiconsCatalog.cloudBigRain
+    }
+    static var cloudCheck: HugeiconsAsset {
+        HugeiconsCatalog.cloudCheck
+    }
+    static var cloudCog: HugeiconsAsset {
+        HugeiconsCatalog.cloudCog
     }
     static var cloudDownload: HugeiconsAsset {
         HugeiconsCatalog.cloudDownload
     }
+    static var cloudDrizzle: HugeiconsAsset {
+        HugeiconsCatalog.cloudDrizzle
+    }
     static var cloudFastWind: HugeiconsAsset {
         HugeiconsCatalog.cloudFastWind
     }
+    static var cloudFog: HugeiconsAsset {
+        HugeiconsCatalog.cloudFog
+    }
+    static var cloudHail: HugeiconsAsset {
+        HugeiconsCatalog.cloudHail
+    }
     static var cloudHailstone: HugeiconsAsset {
         HugeiconsCatalog.cloudHailstone
+    }
+    static var cloudLightning: HugeiconsAsset {
+        HugeiconsCatalog.cloudLightning
     }
     static var cloudLittleRain: HugeiconsAsset {
         HugeiconsCatalog.cloudLittleRain
@@ -3572,8 +4187,17 @@ public extension Hugeicons {
     static var cloudMidSnow: HugeiconsAsset {
         HugeiconsCatalog.cloudMidSnow
     }
+    static var cloudMoonRain: HugeiconsAsset {
+        HugeiconsCatalog.cloudMoonRain
+    }
     static var cloudOff: HugeiconsAsset {
         HugeiconsCatalog.cloudOff
+    }
+    static var cloudRain: HugeiconsAsset {
+        HugeiconsCatalog.cloudRain
+    }
+    static var cloudRainWind: HugeiconsAsset {
+        HugeiconsCatalog.cloudRainWind
     }
     static var cloudSavingDone01: HugeiconsAsset {
         HugeiconsCatalog.cloudSavingDone01
@@ -3590,8 +4214,23 @@ public extension Hugeicons {
     static var cloudSnow: HugeiconsAsset {
         HugeiconsCatalog.cloudSnow
     }
+    static var cloudSunRain: HugeiconsAsset {
+        HugeiconsCatalog.cloudSunRain
+    }
+    static var cloudSync: HugeiconsAsset {
+        HugeiconsCatalog.cloudSync
+    }
     static var cloudUpload: HugeiconsAsset {
         HugeiconsCatalog.cloudUpload
+    }
+    static var cloudy: HugeiconsAsset {
+        HugeiconsCatalog.cloudy
+    }
+    static var clover: HugeiconsAsset {
+        HugeiconsCatalog.clover
+    }
+    static var club: HugeiconsAsset {
+        HugeiconsCatalog.club
     }
     static var clubs01: HugeiconsAsset {
         HugeiconsCatalog.clubs01
@@ -3616,6 +4255,9 @@ public extension Hugeicons {
     }
     static var codeSquare: HugeiconsAsset {
         HugeiconsCatalog.codeSquare
+    }
+    static var codeXml: HugeiconsAsset {
+        HugeiconsCatalog.codeXml
     }
     static var codepen: HugeiconsAsset {
         HugeiconsCatalog.codepen
@@ -3839,6 +4481,9 @@ public extension Hugeicons {
     static var computerVideoCall: HugeiconsAsset {
         HugeiconsCatalog.computerVideoCall
     }
+    static var conciergeBell: HugeiconsAsset {
+        HugeiconsCatalog.conciergeBell
+    }
     static var cone01: HugeiconsAsset {
         HugeiconsCatalog.cone01
     }
@@ -3890,6 +4535,9 @@ public extension Hugeicons {
     static var contactBook: HugeiconsAsset {
         HugeiconsCatalog.contactBook
     }
+    static var contactRound: HugeiconsAsset {
+        HugeiconsCatalog.contactRound
+    }
     static var container: HugeiconsAsset {
         HugeiconsCatalog.container
     }
@@ -3908,6 +4556,9 @@ public extension Hugeicons {
     static var contracts: HugeiconsAsset {
         HugeiconsCatalog.contracts
     }
+    static var contrast: HugeiconsAsset {
+        HugeiconsCatalog.contrast
+    }
     static var conversation: HugeiconsAsset {
         HugeiconsCatalog.conversation
     }
@@ -3916,6 +4567,9 @@ public extension Hugeicons {
     }
     static var cookie: HugeiconsAsset {
         HugeiconsCatalog.cookie
+    }
+    static var cookingPot: HugeiconsAsset {
+        HugeiconsCatalog.cookingPot
     }
     static var coordinate01: HugeiconsAsset {
         HugeiconsCatalog.coordinate01
@@ -3950,6 +4604,9 @@ public extension Hugeicons {
     static var copySlash: HugeiconsAsset {
         HugeiconsCatalog.copySlash
     }
+    static var copyX: HugeiconsAsset {
+        HugeiconsCatalog.copyX
+    }
     static var copyleft: HugeiconsAsset {
         HugeiconsCatalog.copyleft
     }
@@ -3958,6 +4615,30 @@ public extension Hugeicons {
     }
     static var corn: HugeiconsAsset {
         HugeiconsCatalog.corn
+    }
+    static var cornerDownLeft: HugeiconsAsset {
+        HugeiconsCatalog.cornerDownLeft
+    }
+    static var cornerDownRight: HugeiconsAsset {
+        HugeiconsCatalog.cornerDownRight
+    }
+    static var cornerLeftDown: HugeiconsAsset {
+        HugeiconsCatalog.cornerLeftDown
+    }
+    static var cornerLeftUp: HugeiconsAsset {
+        HugeiconsCatalog.cornerLeftUp
+    }
+    static var cornerRightDown: HugeiconsAsset {
+        HugeiconsCatalog.cornerRightDown
+    }
+    static var cornerRightUp: HugeiconsAsset {
+        HugeiconsCatalog.cornerRightUp
+    }
+    static var cornerUpLeft: HugeiconsAsset {
+        HugeiconsCatalog.cornerUpLeft
+    }
+    static var cornerUpRight: HugeiconsAsset {
+        HugeiconsCatalog.cornerUpRight
     }
     static var corporate: HugeiconsAsset {
         HugeiconsCatalog.corporate
@@ -4076,6 +4757,12 @@ public extension Hugeicons {
     static var crop: HugeiconsAsset {
         HugeiconsCatalog.crop
     }
+    static var cross: HugeiconsAsset {
+        HugeiconsCatalog.cross
+    }
+    static var crosshair: HugeiconsAsset {
+        HugeiconsCatalog.crosshair
+    }
     static var crowdfunding: HugeiconsAsset {
         HugeiconsCatalog.crowdfunding
     }
@@ -4114,6 +4801,9 @@ public extension Hugeicons {
     }
     static var cube: HugeiconsAsset {
         HugeiconsCatalog.cube
+    }
+    static var cupSoda: HugeiconsAsset {
+        HugeiconsCatalog.cupSoda
     }
     static var cupcake01: HugeiconsAsset {
         HugeiconsCatalog.cupcake01
@@ -4358,6 +5048,9 @@ public extension Hugeicons {
     static var databaseAdd: HugeiconsAsset {
         HugeiconsCatalog.databaseAdd
     }
+    static var databaseBackup: HugeiconsAsset {
+        HugeiconsCatalog.databaseBackup
+    }
     static var databaseExpand: HugeiconsAsset {
         HugeiconsCatalog.databaseExpand
     }
@@ -4376,6 +5069,9 @@ public extension Hugeicons {
     static var databaseRestore: HugeiconsAsset {
         HugeiconsCatalog.databaseRestore
     }
+    static var databaseSearch: HugeiconsAsset {
+        HugeiconsCatalog.databaseSearch
+    }
     static var databaseSetting: HugeiconsAsset {
         HugeiconsCatalog.databaseSetting
     }
@@ -4384,6 +5080,9 @@ public extension Hugeicons {
     }
     static var databaseSync01: HugeiconsAsset {
         HugeiconsCatalog.databaseSync01
+    }
+    static var databaseZap: HugeiconsAsset {
+        HugeiconsCatalog.databaseZap
     }
     static var dateTime: HugeiconsAsset {
         HugeiconsCatalog.dateTime
@@ -4502,6 +5201,9 @@ public extension Hugeicons {
     static var desk02: HugeiconsAsset {
         HugeiconsCatalog.desk02
     }
+    static var dessert: HugeiconsAsset {
+        HugeiconsCatalog.dessert
+    }
     static var detergent: HugeiconsAsset {
         HugeiconsCatalog.detergent
     }
@@ -4576,6 +5278,9 @@ public extension Hugeicons {
     }
     static var diceFaces06: HugeiconsAsset {
         HugeiconsCatalog.diceFaces06
+    }
+    static var dices: HugeiconsAsset {
+        HugeiconsCatalog.dices
     }
     static var digestion: HugeiconsAsset {
         HugeiconsCatalog.digestion
@@ -4706,6 +5411,9 @@ public extension Hugeicons {
     static var dna01: HugeiconsAsset {
         HugeiconsCatalog.dna01
     }
+    static var dnaOff: HugeiconsAsset {
+        HugeiconsCatalog.dnaOff
+    }
     static var doNotTouch01: HugeiconsAsset {
         HugeiconsCatalog.doNotTouch01
     }
@@ -4717,6 +5425,9 @@ public extension Hugeicons {
     }
     static var doc02: HugeiconsAsset {
         HugeiconsCatalog.doc02
+    }
+    static var dock: HugeiconsAsset {
+        HugeiconsCatalog.dock
     }
     static var doctor01: HugeiconsAsset {
         HugeiconsCatalog.doctor01
@@ -4757,6 +5468,9 @@ public extension Hugeicons {
     static var dollarSend02: HugeiconsAsset {
         HugeiconsCatalog.dollarSend02
     }
+    static var dollarSign: HugeiconsAsset {
+        HugeiconsCatalog.dollarSign
+    }
     static var dollarSquare: HugeiconsAsset {
         HugeiconsCatalog.dollarSquare
     }
@@ -4765,6 +5479,9 @@ public extension Hugeicons {
     }
     static var domino: HugeiconsAsset {
         HugeiconsCatalog.domino
+    }
+    static var donut: HugeiconsAsset {
+        HugeiconsCatalog.donut
     }
     static var door: HugeiconsAsset {
         HugeiconsCatalog.door
@@ -4775,11 +5492,20 @@ public extension Hugeicons {
     static var door02: HugeiconsAsset {
         HugeiconsCatalog.door02
     }
+    static var doorClosed: HugeiconsAsset {
+        HugeiconsCatalog.doorClosed
+    }
+    static var doorClosedLocked: HugeiconsAsset {
+        HugeiconsCatalog.doorClosedLocked
+    }
     static var doorLock: HugeiconsAsset {
         HugeiconsCatalog.doorLock
     }
     static var doorOpen: HugeiconsAsset {
         HugeiconsCatalog.doorOpen
+    }
+    static var dot: HugeiconsAsset {
+        HugeiconsCatalog.dot
     }
     static var doughnut: HugeiconsAsset {
         HugeiconsCatalog.doughnut
@@ -4813,6 +5539,9 @@ public extension Hugeicons {
     }
     static var downloadSquare02: HugeiconsAsset {
         HugeiconsCatalog.downloadSquare02
+    }
+    static var draftingCompass: HugeiconsAsset {
+        HugeiconsCatalog.draftingCompass
     }
     static var drag01: HugeiconsAsset {
         HugeiconsCatalog.drag01
@@ -4858,6 +5587,9 @@ public extension Hugeicons {
     }
     static var dragRight04: HugeiconsAsset {
         HugeiconsCatalog.dragRight04
+    }
+    static var drama: HugeiconsAsset {
+        HugeiconsCatalog.drama
     }
     static var drawingCompass: HugeiconsAsset {
         HugeiconsCatalog.drawingCompass
@@ -4925,8 +5657,17 @@ public extension Hugeicons {
     static var dropletOff: HugeiconsAsset {
         HugeiconsCatalog.dropletOff
     }
+    static var droplets: HugeiconsAsset {
+        HugeiconsCatalog.droplets
+    }
     static var dropper: HugeiconsAsset {
         HugeiconsCatalog.dropper
+    }
+    static var drum: HugeiconsAsset {
+        HugeiconsCatalog.drum
+    }
+    static var drumstick: HugeiconsAsset {
+        HugeiconsCatalog.drumstick
     }
     static var ds3Tool: HugeiconsAsset {
         HugeiconsCatalog.ds3Tool
@@ -4984,6 +5725,9 @@ public extension Hugeicons {
     }
     static var easeOutControlPoint: HugeiconsAsset {
         HugeiconsCatalog.easeOutControlPoint
+    }
+    static var eclipse: HugeiconsAsset {
+        HugeiconsCatalog.eclipse
     }
     static var ecoEnergy: HugeiconsAsset {
         HugeiconsCatalog.ecoEnergy
@@ -5081,8 +5825,17 @@ public extension Hugeicons {
     static var electricityStack: HugeiconsAsset {
         HugeiconsCatalog.electricityStack
     }
+    static var ellipse: HugeiconsAsset {
+        HugeiconsCatalog.ellipse
+    }
     static var ellipseSelection: HugeiconsAsset {
         HugeiconsCatalog.ellipseSelection
+    }
+    static var ellipsis: HugeiconsAsset {
+        HugeiconsCatalog.ellipsis
+    }
+    static var ellipsisVertical: HugeiconsAsset {
+        HugeiconsCatalog.ellipsisVertical
     }
     static var encrypt: HugeiconsAsset {
         HugeiconsCatalog.encrypt
@@ -5183,6 +5936,9 @@ public extension Hugeicons {
     static var euroSquare: HugeiconsAsset {
         HugeiconsCatalog.euroSquare
     }
+    static var evCharger: HugeiconsAsset {
+        HugeiconsCatalog.evCharger
+    }
     static var evCharging: HugeiconsAsset {
         HugeiconsCatalog.evCharging
     }
@@ -5228,8 +5984,17 @@ public extension Hugeicons {
     static var externalDrive: HugeiconsAsset {
         HugeiconsCatalog.externalDrive
     }
+    static var externalLink: HugeiconsAsset {
+        HugeiconsCatalog.externalLink
+    }
     static var eye: HugeiconsAsset {
         HugeiconsCatalog.eye
+    }
+    static var eyeClosed: HugeiconsAsset {
+        HugeiconsCatalog.eyeClosed
+    }
+    static var eyeOff: HugeiconsAsset {
+        HugeiconsCatalog.eyeOff
     }
     static var faceId: HugeiconsAsset {
         HugeiconsCatalog.faceId
@@ -5260,6 +6025,9 @@ public extension Hugeicons {
     }
     static var fan02: HugeiconsAsset {
         HugeiconsCatalog.fan02
+    }
+    static var fastForward: HugeiconsAsset {
+        HugeiconsCatalog.fastForward
     }
     static var fastWind: HugeiconsAsset {
         HugeiconsCatalog.fastWind
@@ -5318,6 +6086,9 @@ public extension Hugeicons {
     static var fileAudio: HugeiconsAsset {
         HugeiconsCatalog.fileAudio
     }
+    static var fileAxis3D: HugeiconsAsset {
+        HugeiconsCatalog.fileAxis3D
+    }
     static var fileAxisThreeD: HugeiconsAsset {
         HugeiconsCatalog.fileAxisThreeD
     }
@@ -5339,14 +6110,26 @@ public extension Hugeicons {
     static var fileBraces: HugeiconsAsset {
         HugeiconsCatalog.fileBraces
     }
+    static var fileBracesCorner: HugeiconsAsset {
+        HugeiconsCatalog.fileBracesCorner
+    }
     static var fileChartColumn: HugeiconsAsset {
         HugeiconsCatalog.fileChartColumn
     }
     static var fileChartColumnIncreasing: HugeiconsAsset {
         HugeiconsCatalog.fileChartColumnIncreasing
     }
+    static var fileChartLine: HugeiconsAsset {
+        HugeiconsCatalog.fileChartLine
+    }
     static var fileChartPie: HugeiconsAsset {
         HugeiconsCatalog.fileChartPie
+    }
+    static var fileCheck: HugeiconsAsset {
+        HugeiconsCatalog.fileCheck
+    }
+    static var fileCheckCorner: HugeiconsAsset {
+        HugeiconsCatalog.fileCheckCorner
     }
     static var fileClock: HugeiconsAsset {
         HugeiconsCatalog.fileClock
@@ -5359,6 +6142,9 @@ public extension Hugeicons {
     }
     static var fileCodeCorner: HugeiconsAsset {
         HugeiconsCatalog.fileCodeCorner
+    }
+    static var fileCog: HugeiconsAsset {
+        HugeiconsCatalog.fileCog
     }
     static var fileCorrupt: HugeiconsAsset {
         HugeiconsCatalog.fileCorrupt
@@ -5624,6 +6410,9 @@ public extension Hugeicons {
     static var fingerPrintScan: HugeiconsAsset {
         HugeiconsCatalog.fingerPrintScan
     }
+    static var fingerprintPattern: HugeiconsAsset {
+        HugeiconsCatalog.fingerprintPattern
+    }
     static var fins: HugeiconsAsset {
         HugeiconsCatalog.fins
     }
@@ -5663,6 +6452,9 @@ public extension Hugeicons {
     static var firstBracketSquare: HugeiconsAsset {
         HugeiconsCatalog.firstBracketSquare
     }
+    static var fish: HugeiconsAsset {
+        HugeiconsCatalog.fish
+    }
     static var fishFood: HugeiconsAsset {
         HugeiconsCatalog.fishFood
     }
@@ -5674,6 +6466,9 @@ public extension Hugeicons {
     }
     static var fishingHook: HugeiconsAsset {
         HugeiconsCatalog.fishingHook
+    }
+    static var fishingRod: HugeiconsAsset {
+        HugeiconsCatalog.fishingRod
     }
     static var fitToScreen: HugeiconsAsset {
         HugeiconsCatalog.fitToScreen
@@ -5696,6 +6491,18 @@ public extension Hugeicons {
     static var flag03: HugeiconsAsset {
         HugeiconsCatalog.flag03
     }
+    static var flagOff: HugeiconsAsset {
+        HugeiconsCatalog.flagOff
+    }
+    static var flagTriangleLeft: HugeiconsAsset {
+        HugeiconsCatalog.flagTriangleLeft
+    }
+    static var flagTriangleRight: HugeiconsAsset {
+        HugeiconsCatalog.flagTriangleRight
+    }
+    static var flame: HugeiconsAsset {
+        HugeiconsCatalog.flame
+    }
     static var flameKindling: HugeiconsAsset {
         HugeiconsCatalog.flameKindling
     }
@@ -5707,6 +6514,18 @@ public extension Hugeicons {
     }
     static var flashlight: HugeiconsAsset {
         HugeiconsCatalog.flashlight
+    }
+    static var flashlightOff: HugeiconsAsset {
+        HugeiconsCatalog.flashlightOff
+    }
+    static var flaskConical: HugeiconsAsset {
+        HugeiconsCatalog.flaskConical
+    }
+    static var flaskConicalOff: HugeiconsAsset {
+        HugeiconsCatalog.flaskConicalOff
+    }
+    static var flaskRound: HugeiconsAsset {
+        HugeiconsCatalog.flaskRound
     }
     static var flaticon: HugeiconsAsset {
         HugeiconsCatalog.flaticon
@@ -5723,6 +6542,9 @@ public extension Hugeicons {
     static var flipHorizontal: HugeiconsAsset {
         HugeiconsCatalog.flipHorizontal
     }
+    static var flipHorizontal2: HugeiconsAsset {
+        HugeiconsCatalog.flipHorizontal2
+    }
     static var flipLeft: HugeiconsAsset {
         HugeiconsCatalog.flipLeft
     }
@@ -5737,6 +6559,9 @@ public extension Hugeicons {
     }
     static var flipVertical: HugeiconsAsset {
         HugeiconsCatalog.flipVertical
+    }
+    static var flipVertical2: HugeiconsAsset {
+        HugeiconsCatalog.flipVertical2
     }
     static var floorPlan: HugeiconsAsset {
         HugeiconsCatalog.floorPlan
@@ -5765,6 +6590,9 @@ public extension Hugeicons {
     static var flower: HugeiconsAsset {
         HugeiconsCatalog.flower
     }
+    static var flower2: HugeiconsAsset {
+        HugeiconsCatalog.flower2
+    }
     static var flowerPot: HugeiconsAsset {
         HugeiconsCatalog.flowerPot
     }
@@ -5774,8 +6602,17 @@ public extension Hugeicons {
     static var flyingHuman: HugeiconsAsset {
         HugeiconsCatalog.flyingHuman
     }
+    static var focus: HugeiconsAsset {
+        HugeiconsCatalog.focus
+    }
     static var focusPoint: HugeiconsAsset {
         HugeiconsCatalog.focusPoint
+    }
+    static var foldHorizontal: HugeiconsAsset {
+        HugeiconsCatalog.foldHorizontal
+    }
+    static var foldVertical: HugeiconsAsset {
+        HugeiconsCatalog.foldVertical
     }
     static var folder01: HugeiconsAsset {
         HugeiconsCatalog.folder01
@@ -5957,11 +6794,20 @@ public extension Hugeicons {
     static var footballPitch: HugeiconsAsset {
         HugeiconsCatalog.footballPitch
     }
+    static var footprints: HugeiconsAsset {
+        HugeiconsCatalog.footprints
+    }
     static var forgotPassword: HugeiconsAsset {
         HugeiconsCatalog.forgotPassword
     }
     static var fork: HugeiconsAsset {
         HugeiconsCatalog.fork
+    }
+    static var forklift: HugeiconsAsset {
+        HugeiconsCatalog.forklift
+    }
+    static var form: HugeiconsAsset {
+        HugeiconsCatalog.form
     }
     static var forrst: HugeiconsAsset {
         HugeiconsCatalog.forrst
@@ -5990,6 +6836,9 @@ public extension Hugeicons {
     static var fourSquare: HugeiconsAsset {
         HugeiconsCatalog.fourSquare
     }
+    static var frame: HugeiconsAsset {
+        HugeiconsCatalog.frame
+    }
     static var framer: HugeiconsAsset {
         HugeiconsCatalog.framer
     }
@@ -6007,6 +6856,9 @@ public extension Hugeicons {
     }
     static var frisbee: HugeiconsAsset {
         HugeiconsCatalog.frisbee
+    }
+    static var frown: HugeiconsAsset {
+        HugeiconsCatalog.frown
     }
     static var fry: HugeiconsAsset {
         HugeiconsCatalog.fry
@@ -6041,11 +6893,32 @@ public extension Hugeicons {
     static var functionSquare: HugeiconsAsset {
         HugeiconsCatalog.functionSquare
     }
+    static var funnel: HugeiconsAsset {
+        HugeiconsCatalog.funnel
+    }
+    static var funnelPlus: HugeiconsAsset {
+        HugeiconsCatalog.funnelPlus
+    }
+    static var funnelX: HugeiconsAsset {
+        HugeiconsCatalog.funnelX
+    }
     static var galaxy: HugeiconsAsset {
         HugeiconsCatalog.galaxy
     }
+    static var galleryHorizontal: HugeiconsAsset {
+        HugeiconsCatalog.galleryHorizontal
+    }
     static var galleryHorizontalEnd: HugeiconsAsset {
         HugeiconsCatalog.galleryHorizontalEnd
+    }
+    static var galleryThumbnails: HugeiconsAsset {
+        HugeiconsCatalog.galleryThumbnails
+    }
+    static var galleryVertical: HugeiconsAsset {
+        HugeiconsCatalog.galleryVertical
+    }
+    static var galleryVerticalEnd: HugeiconsAsset {
+        HugeiconsCatalog.galleryVerticalEnd
     }
     static var game: HugeiconsAsset {
         HugeiconsCatalog.game
@@ -6061,6 +6934,12 @@ public extension Hugeicons {
     }
     static var gameboy: HugeiconsAsset {
         HugeiconsCatalog.gameboy
+    }
+    static var gamepad: HugeiconsAsset {
+        HugeiconsCatalog.gamepad
+    }
+    static var gamepad2: HugeiconsAsset {
+        HugeiconsCatalog.gamepad2
     }
     static var gamepadDirectional: HugeiconsAsset {
         HugeiconsCatalog.gamepadDirectional
@@ -6080,6 +6959,12 @@ public extension Hugeicons {
     static var gasStove: HugeiconsAsset {
         HugeiconsCatalog.gasStove
     }
+    static var gauge: HugeiconsAsset {
+        HugeiconsCatalog.gauge
+    }
+    static var gavel: HugeiconsAsset {
+        HugeiconsCatalog.gavel
+    }
     static var gears: HugeiconsAsset {
         HugeiconsCatalog.gears
     }
@@ -6097,6 +6982,9 @@ public extension Hugeicons {
     }
     static var georgianLari: HugeiconsAsset {
         HugeiconsCatalog.georgianLari
+    }
+    static var ghost: HugeiconsAsset {
+        HugeiconsCatalog.ghost
     }
     static var gibbousMoon: HugeiconsAsset {
         HugeiconsCatalog.gibbousMoon
@@ -6119,26 +7007,53 @@ public extension Hugeicons {
     static var gitBranch: HugeiconsAsset {
         HugeiconsCatalog.gitBranch
     }
+    static var gitBranchMinus: HugeiconsAsset {
+        HugeiconsCatalog.gitBranchMinus
+    }
+    static var gitBranchPlus: HugeiconsAsset {
+        HugeiconsCatalog.gitBranchPlus
+    }
     static var gitCommit: HugeiconsAsset {
         HugeiconsCatalog.gitCommit
     }
     static var gitCommitHorizontal: HugeiconsAsset {
         HugeiconsCatalog.gitCommitHorizontal
     }
+    static var gitCommitVertical: HugeiconsAsset {
+        HugeiconsCatalog.gitCommitVertical
+    }
     static var gitCompare: HugeiconsAsset {
         HugeiconsCatalog.gitCompare
+    }
+    static var gitCompareArrows: HugeiconsAsset {
+        HugeiconsCatalog.gitCompareArrows
     }
     static var gitFork: HugeiconsAsset {
         HugeiconsCatalog.gitFork
     }
+    static var gitGraph: HugeiconsAsset {
+        HugeiconsCatalog.gitGraph
+    }
     static var gitMerge: HugeiconsAsset {
         HugeiconsCatalog.gitMerge
+    }
+    static var gitMergeConflict: HugeiconsAsset {
+        HugeiconsCatalog.gitMergeConflict
     }
     static var gitPullRequest: HugeiconsAsset {
         HugeiconsCatalog.gitPullRequest
     }
+    static var gitPullRequestArrow: HugeiconsAsset {
+        HugeiconsCatalog.gitPullRequestArrow
+    }
     static var gitPullRequestClosed: HugeiconsAsset {
         HugeiconsCatalog.gitPullRequestClosed
+    }
+    static var gitPullRequestCreate: HugeiconsAsset {
+        HugeiconsCatalog.gitPullRequestCreate
+    }
+    static var gitPullRequestCreateArrow: HugeiconsAsset {
+        HugeiconsCatalog.gitPullRequestCreateArrow
     }
     static var gitPullRequestDraft: HugeiconsAsset {
         HugeiconsCatalog.gitPullRequestDraft
@@ -6160,6 +7075,9 @@ public extension Hugeicons {
     }
     static var givePill: HugeiconsAsset {
         HugeiconsCatalog.givePill
+    }
+    static var glassWater: HugeiconsAsset {
+        HugeiconsCatalog.glassWater
     }
     static var glasses: HugeiconsAsset {
         HugeiconsCatalog.glasses
@@ -6184,6 +7102,12 @@ public extension Hugeicons {
     }
     static var globe02: HugeiconsAsset {
         HugeiconsCatalog.globe02
+    }
+    static var globeLock: HugeiconsAsset {
+        HugeiconsCatalog.globeLock
+    }
+    static var globeOff: HugeiconsAsset {
+        HugeiconsCatalog.globeOff
     }
     static var globeX: HugeiconsAsset {
         HugeiconsCatalog.globeX
@@ -6223,6 +7147,9 @@ public extension Hugeicons {
     }
     static var goForwardFiveSec: HugeiconsAsset {
         HugeiconsCatalog.goForwardFiveSec
+    }
+    static var goal: HugeiconsAsset {
+        HugeiconsCatalog.goal
     }
     static var gold: HugeiconsAsset {
         HugeiconsCatalog.gold
@@ -6305,8 +7232,14 @@ public extension Hugeicons {
     static var graduateMale: HugeiconsAsset {
         HugeiconsCatalog.graduateMale
     }
+    static var graduationCap: HugeiconsAsset {
+        HugeiconsCatalog.graduationCap
+    }
     static var graduationScroll: HugeiconsAsset {
         HugeiconsCatalog.graduationScroll
+    }
+    static var grape: HugeiconsAsset {
+        HugeiconsCatalog.grape
     }
     static var grapes: HugeiconsAsset {
         HugeiconsCatalog.grapes
@@ -6338,6 +7271,24 @@ public extension Hugeicons {
     static var grid02: HugeiconsAsset {
         HugeiconsCatalog.grid02
     }
+    static var grid2X2: HugeiconsAsset {
+        HugeiconsCatalog.grid2X2
+    }
+    static var grid2X2Check: HugeiconsAsset {
+        HugeiconsCatalog.grid2X2Check
+    }
+    static var grid2X2Plus: HugeiconsAsset {
+        HugeiconsCatalog.grid2X2Plus
+    }
+    static var grid2X2X: HugeiconsAsset {
+        HugeiconsCatalog.grid2X2X
+    }
+    static var grid3X2: HugeiconsAsset {
+        HugeiconsCatalog.grid3X2
+    }
+    static var grid3X3: HugeiconsAsset {
+        HugeiconsCatalog.grid3X3
+    }
     static var gridOff: HugeiconsAsset {
         HugeiconsCatalog.gridOff
     }
@@ -6352,6 +7303,15 @@ public extension Hugeicons {
     }
     static var grinning: HugeiconsAsset {
         HugeiconsCatalog.grinning
+    }
+    static var grip: HugeiconsAsset {
+        HugeiconsCatalog.grip
+    }
+    static var gripHorizontal: HugeiconsAsset {
+        HugeiconsCatalog.gripHorizontal
+    }
+    static var gripVertical: HugeiconsAsset {
+        HugeiconsCatalog.gripVertical
     }
     static var grok: HugeiconsAsset {
         HugeiconsCatalog.grok
@@ -6371,8 +7331,14 @@ public extension Hugeicons {
     static var groupLayers: HugeiconsAsset {
         HugeiconsCatalog.groupLayers
     }
+    static var groww: HugeiconsAsset {
+        HugeiconsCatalog.groww
+    }
     static var guestHouse: HugeiconsAsset {
         HugeiconsCatalog.guestHouse
+    }
+    static var guitar: HugeiconsAsset {
+        HugeiconsCatalog.guitar
     }
     static var gun: HugeiconsAsset {
         HugeiconsCatalog.gun
@@ -6410,6 +7376,12 @@ public extension Hugeicons {
     static var hamburger02: HugeiconsAsset {
         HugeiconsCatalog.hamburger02
     }
+    static var hammer: HugeiconsAsset {
+        HugeiconsCatalog.hammer
+    }
+    static var hand: HugeiconsAsset {
+        HugeiconsCatalog.hand
+    }
     static var handBag01: HugeiconsAsset {
         HugeiconsCatalog.handBag01
     }
@@ -6422,14 +7394,26 @@ public extension Hugeicons {
     static var handCoins: HugeiconsAsset {
         HugeiconsCatalog.handCoins
     }
+    static var handFist: HugeiconsAsset {
+        HugeiconsCatalog.handFist
+    }
     static var handGrab: HugeiconsAsset {
         HugeiconsCatalog.handGrab
     }
     static var handGrip: HugeiconsAsset {
         HugeiconsCatalog.handGrip
     }
+    static var handHeart: HugeiconsAsset {
+        HugeiconsCatalog.handHeart
+    }
     static var handHelping: HugeiconsAsset {
         HugeiconsCatalog.handHelping
+    }
+    static var handMetal: HugeiconsAsset {
+        HugeiconsCatalog.handMetal
+    }
+    static var handPlatter: HugeiconsAsset {
+        HugeiconsCatalog.handPlatter
     }
     static var handPointingDown01: HugeiconsAsset {
         HugeiconsCatalog.handPointingDown01
@@ -6473,11 +7457,17 @@ public extension Hugeicons {
     static var handSanitizer: HugeiconsAsset {
         HugeiconsCatalog.handSanitizer
     }
+    static var handbag: HugeiconsAsset {
+        HugeiconsCatalog.handbag
+    }
     static var handcuffs: HugeiconsAsset {
         HugeiconsCatalog.handcuffs
     }
     static var handsClapping: HugeiconsAsset {
         HugeiconsCatalog.handsClapping
+    }
+    static var handshake: HugeiconsAsset {
+        HugeiconsCatalog.handshake
     }
     static var hanger: HugeiconsAsset {
         HugeiconsCatalog.hanger
@@ -6503,14 +7493,32 @@ public extension Hugeicons {
     static var hardDriveUpload: HugeiconsAsset {
         HugeiconsCatalog.hardDriveUpload
     }
+    static var hardHat: HugeiconsAsset {
+        HugeiconsCatalog.hardHat
+    }
+    static var hash: HugeiconsAsset {
+        HugeiconsCatalog.hash
+    }
     static var hashtag: HugeiconsAsset {
         HugeiconsCatalog.hashtag
     }
     static var hat: HugeiconsAsset {
         HugeiconsCatalog.hat
     }
+    static var hatGlasses: HugeiconsAsset {
+        HugeiconsCatalog.hatGlasses
+    }
+    static var haze: HugeiconsAsset {
+        HugeiconsCatalog.haze
+    }
+    static var hd: HugeiconsAsset {
+        HugeiconsCatalog.hd
+    }
     static var hdd: HugeiconsAsset {
         HugeiconsCatalog.hdd
+    }
+    static var hdmiPort: HugeiconsAsset {
+        HugeiconsCatalog.hdmiPort
     }
     static var hdr01: HugeiconsAsset {
         HugeiconsCatalog.hdr01
@@ -6539,8 +7547,26 @@ public extension Hugeicons {
     static var heading06: HugeiconsAsset {
         HugeiconsCatalog.heading06
     }
+    static var heading1: HugeiconsAsset {
+        HugeiconsCatalog.heading1
+    }
+    static var heading2: HugeiconsAsset {
+        HugeiconsCatalog.heading2
+    }
+    static var heading4: HugeiconsAsset {
+        HugeiconsCatalog.heading4
+    }
+    static var heading5: HugeiconsAsset {
+        HugeiconsCatalog.heading5
+    }
+    static var heading6: HugeiconsAsset {
+        HugeiconsCatalog.heading6
+    }
     static var headphoneMute: HugeiconsAsset {
         HugeiconsCatalog.headphoneMute
+    }
+    static var headphoneOff: HugeiconsAsset {
+        HugeiconsCatalog.headphoneOff
     }
     static var headphones: HugeiconsAsset {
         HugeiconsCatalog.headphones
@@ -6560,14 +7586,32 @@ public extension Hugeicons {
     static var health: HugeiconsAsset {
         HugeiconsCatalog.health
     }
+    static var heart: HugeiconsAsset {
+        HugeiconsCatalog.heart
+    }
     static var heartAdd: HugeiconsAsset {
         HugeiconsCatalog.heartAdd
     }
     static var heartCheck: HugeiconsAsset {
         HugeiconsCatalog.heartCheck
     }
+    static var heartCrack: HugeiconsAsset {
+        HugeiconsCatalog.heartCrack
+    }
+    static var heartHandshake: HugeiconsAsset {
+        HugeiconsCatalog.heartHandshake
+    }
     static var heartMinus: HugeiconsAsset {
         HugeiconsCatalog.heartMinus
+    }
+    static var heartOff: HugeiconsAsset {
+        HugeiconsCatalog.heartOff
+    }
+    static var heartPlus: HugeiconsAsset {
+        HugeiconsCatalog.heartPlus
+    }
+    static var heartPulse: HugeiconsAsset {
+        HugeiconsCatalog.heartPulse
     }
     static var heartRemove: HugeiconsAsset {
         HugeiconsCatalog.heartRemove
@@ -6646,6 +7690,9 @@ public extension Hugeicons {
     }
     static var hijab: HugeiconsAsset {
         HugeiconsCatalog.hijab
+    }
+    static var history: HugeiconsAsset {
+        HugeiconsCatalog.history
     }
     static var hockey: HugeiconsAsset {
         HugeiconsCatalog.hockey
@@ -6820,6 +7867,9 @@ public extension Hugeicons {
     }
     static var houseHeart: HugeiconsAsset {
         HugeiconsCatalog.houseHeart
+    }
+    static var housePlug: HugeiconsAsset {
+        HugeiconsCatalog.housePlug
     }
     static var housePlus: HugeiconsAsset {
         HugeiconsCatalog.housePlus
@@ -15381,6 +16431,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "aArrowUp",
         resourceName: HugeiconsAssets.`aArrowUp`.name
     )
+    static let aLargeSmall = HugeiconsAsset(
+        sourceName: "a-large-small",
+        swiftIdentifier: "aLargeSmall",
+        resourceName: HugeiconsAssets.`aLargeSmall`.name
+    )
     static let abacus = HugeiconsAsset(
         sourceName: "abacus",
         swiftIdentifier: "abacus",
@@ -15400,6 +16455,11 @@ enum HugeiconsCatalog {
         sourceName: "access",
         swiftIdentifier: "access",
         resourceName: HugeiconsAssets.`access`.name
+    )
+    static let accessibility = HugeiconsAsset(
+        sourceName: "accessibility",
+        swiftIdentifier: "accessibility",
+        resourceName: HugeiconsAssets.`accessibility`.name
     )
     static let accident = HugeiconsAsset(
         sourceName: "accident",
@@ -15921,6 +16981,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "aids",
         resourceName: HugeiconsAssets.`aids`.name
     )
+    static let airVent = HugeiconsAsset(
+        sourceName: "air-vent",
+        swiftIdentifier: "airVent",
+        resourceName: HugeiconsAssets.`airVent`.name
+    )
     static let airbnb = HugeiconsAsset(
         sourceName: "airbnb",
         swiftIdentifier: "airbnb",
@@ -15986,6 +17051,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "airplaneTakeOff02",
         resourceName: HugeiconsAssets.`airplaneTakeOff02`.name
     )
+    static let airplay = HugeiconsAsset(
+        sourceName: "airplay",
+        swiftIdentifier: "airplay",
+        resourceName: HugeiconsAssets.`airplay`.name
+    )
     static let airplayLine = HugeiconsAsset(
         sourceName: "airplay-line",
         swiftIdentifier: "airplayLine",
@@ -16031,10 +17101,25 @@ enum HugeiconsCatalog {
         swiftIdentifier: "alarmClock",
         resourceName: HugeiconsAssets.`alarmClock`.name
     )
+    static let alarmClockCheck = HugeiconsAsset(
+        sourceName: "alarm-clock-check",
+        swiftIdentifier: "alarmClockCheck",
+        resourceName: HugeiconsAssets.`alarmClockCheck`.name
+    )
+    static let alarmClockMinus = HugeiconsAsset(
+        sourceName: "alarm-clock-minus",
+        swiftIdentifier: "alarmClockMinus",
+        resourceName: HugeiconsAssets.`alarmClockMinus`.name
+    )
     static let alarmClockOff = HugeiconsAsset(
         sourceName: "alarm-clock-off",
         swiftIdentifier: "alarmClockOff",
         resourceName: HugeiconsAssets.`alarmClockOff`.name
+    )
+    static let alarmClockPlus = HugeiconsAsset(
+        sourceName: "alarm-clock-plus",
+        swiftIdentifier: "alarmClockPlus",
+        resourceName: HugeiconsAssets.`alarmClockPlus`.name
     )
     static let alarmSmoke = HugeiconsAsset(
         sourceName: "alarm-smoke",
@@ -16156,10 +17241,25 @@ enum HugeiconsCatalog {
         swiftIdentifier: "alignBoxTopRight",
         resourceName: HugeiconsAssets.`alignBoxTopRight`.name
     )
+    static let alignEndHorizontal = HugeiconsAsset(
+        sourceName: "align-end-horizontal",
+        swiftIdentifier: "alignEndHorizontal",
+        resourceName: HugeiconsAssets.`alignEndHorizontal`.name
+    )
+    static let alignEndVertical = HugeiconsAsset(
+        sourceName: "align-end-vertical",
+        swiftIdentifier: "alignEndVertical",
+        resourceName: HugeiconsAssets.`alignEndVertical`.name
+    )
     static let alignHorizontalCenter = HugeiconsAsset(
         sourceName: "align-horizontal-center",
         swiftIdentifier: "alignHorizontalCenter",
         resourceName: HugeiconsAssets.`alignHorizontalCenter`.name
+    )
+    static let alignHorizontalDistributeCenter = HugeiconsAsset(
+        sourceName: "align-horizontal-distribute-center",
+        swiftIdentifier: "alignHorizontalDistributeCenter",
+        resourceName: HugeiconsAssets.`alignHorizontalDistributeCenter`.name
     )
     static let alignHorizontalDistributeEnd = HugeiconsAsset(
         sourceName: "align-horizontal-distribute-end",
@@ -16170,6 +17270,11 @@ enum HugeiconsCatalog {
         sourceName: "align-horizontal-distribute-start",
         swiftIdentifier: "alignHorizontalDistributeStart",
         resourceName: HugeiconsAssets.`alignHorizontalDistributeStart`.name
+    )
+    static let alignHorizontalJustifyCenter = HugeiconsAsset(
+        sourceName: "align-horizontal-justify-center",
+        swiftIdentifier: "alignHorizontalJustifyCenter",
+        resourceName: HugeiconsAssets.`alignHorizontalJustifyCenter`.name
     )
     static let alignHorizontalJustifyEnd = HugeiconsAsset(
         sourceName: "align-horizontal-justify-end",
@@ -16211,6 +17316,16 @@ enum HugeiconsCatalog {
         swiftIdentifier: "alignSelection",
         resourceName: HugeiconsAssets.`alignSelection`.name
     )
+    static let alignStartHorizontal = HugeiconsAsset(
+        sourceName: "align-start-horizontal",
+        swiftIdentifier: "alignStartHorizontal",
+        resourceName: HugeiconsAssets.`alignStartHorizontal`.name
+    )
+    static let alignStartVertical = HugeiconsAsset(
+        sourceName: "align-start-vertical",
+        swiftIdentifier: "alignStartVertical",
+        resourceName: HugeiconsAssets.`alignStartVertical`.name
+    )
     static let alignTop = HugeiconsAsset(
         sourceName: "align-top",
         swiftIdentifier: "alignTop",
@@ -16236,10 +17351,25 @@ enum HugeiconsCatalog {
         swiftIdentifier: "alignVerticalDistributeStart",
         resourceName: HugeiconsAssets.`alignVerticalDistributeStart`.name
     )
+    static let alignVerticalJustifyCenter = HugeiconsAsset(
+        sourceName: "align-vertical-justify-center",
+        swiftIdentifier: "alignVerticalJustifyCenter",
+        resourceName: HugeiconsAssets.`alignVerticalJustifyCenter`.name
+    )
+    static let alignVerticalJustifyEnd = HugeiconsAsset(
+        sourceName: "align-vertical-justify-end",
+        swiftIdentifier: "alignVerticalJustifyEnd",
+        resourceName: HugeiconsAssets.`alignVerticalJustifyEnd`.name
+    )
     static let alignVerticalJustifyStart = HugeiconsAsset(
         sourceName: "align-vertical-justify-start",
         swiftIdentifier: "alignVerticalJustifyStart",
         resourceName: HugeiconsAssets.`alignVerticalJustifyStart`.name
+    )
+    static let alignVerticalSpaceAround = HugeiconsAsset(
+        sourceName: "align-vertical-space-around",
+        swiftIdentifier: "alignVerticalSpaceAround",
+        resourceName: HugeiconsAssets.`alignVerticalSpaceAround`.name
     )
     static let alignVerticalSpaceBetween = HugeiconsAsset(
         sourceName: "align-vertical-space-between",
@@ -16346,6 +17476,16 @@ enum HugeiconsCatalog {
         swiftIdentifier: "ammo",
         resourceName: HugeiconsAssets.`ammo`.name
     )
+    static let ampersand = HugeiconsAsset(
+        sourceName: "ampersand",
+        swiftIdentifier: "ampersand",
+        resourceName: HugeiconsAssets.`ampersand`.name
+    )
+    static let ampersands = HugeiconsAsset(
+        sourceName: "ampersands",
+        swiftIdentifier: "ampersands",
+        resourceName: HugeiconsAssets.`ampersands`.name
+    )
     static let amphora = HugeiconsAsset(
         sourceName: "amphora",
         swiftIdentifier: "amphora",
@@ -16426,6 +17566,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "angryBird",
         resourceName: HugeiconsAssets.`angryBird`.name
     )
+    static let annoyed = HugeiconsAsset(
+        sourceName: "annoyed",
+        swiftIdentifier: "annoyed",
+        resourceName: HugeiconsAssets.`annoyed`.name
+    )
     static let anonymous = HugeiconsAsset(
         sourceName: "anonymous",
         swiftIdentifier: "anonymous",
@@ -16446,6 +17591,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "apartment",
         resourceName: HugeiconsAssets.`apartment`.name
     )
+    static let aperture = HugeiconsAsset(
+        sourceName: "aperture",
+        swiftIdentifier: "aperture",
+        resourceName: HugeiconsAssets.`aperture`.name
+    )
     static let api = HugeiconsAsset(
         sourceName: "api",
         swiftIdentifier: "api",
@@ -16460,6 +17610,16 @@ enum HugeiconsCatalog {
         sourceName: "app-store",
         swiftIdentifier: "appStore",
         resourceName: HugeiconsAssets.`appStore`.name
+    )
+    static let appWindow = HugeiconsAsset(
+        sourceName: "app-window",
+        swiftIdentifier: "appWindow",
+        resourceName: HugeiconsAssets.`appWindow`.name
+    )
+    static let appWindowMac = HugeiconsAsset(
+        sourceName: "app-window-mac",
+        swiftIdentifier: "appWindowMac",
+        resourceName: HugeiconsAssets.`appWindowMac`.name
     )
     static let apple = HugeiconsAsset(
         sourceName: "apple",
@@ -16606,6 +17766,16 @@ enum HugeiconsCatalog {
         swiftIdentifier: "archiveRestore",
         resourceName: HugeiconsAssets.`archiveRestore`.name
     )
+    static let archiveX = HugeiconsAsset(
+        sourceName: "archive-x",
+        swiftIdentifier: "archiveX",
+        resourceName: HugeiconsAssets.`archiveX`.name
+    )
+    static let armchair = HugeiconsAsset(
+        sourceName: "armchair",
+        swiftIdentifier: "armchair",
+        resourceName: HugeiconsAssets.`armchair`.name
+    )
     static let armoredBoot = HugeiconsAsset(
         sourceName: "armored-boot",
         swiftIdentifier: "armoredBoot",
@@ -16706,6 +17876,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "arrowDown05",
         resourceName: HugeiconsAssets.`arrowDown05`.name
     )
+    static let arrowDown10 = HugeiconsAsset(
+        sourceName: "arrow-down10",
+        swiftIdentifier: "arrowDown10",
+        resourceName: HugeiconsAssets.`arrowDown10`.name
+    )
     static let arrowDownAz = HugeiconsAsset(
         sourceName: "arrow-down-az",
         swiftIdentifier: "arrowDownAz",
@@ -16736,6 +17911,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "arrowDownLeft02",
         resourceName: HugeiconsAssets.`arrowDownLeft02`.name
     )
+    static let arrowDownNarrowWide = HugeiconsAsset(
+        sourceName: "arrow-down-narrow-wide",
+        swiftIdentifier: "arrowDownNarrowWide",
+        resourceName: HugeiconsAssets.`arrowDownNarrowWide`.name
+    )
     static let arrowDownOneZero = HugeiconsAsset(
         sourceName: "arrow-down-one-zero",
         swiftIdentifier: "arrowDownOneZero",
@@ -16755,6 +17935,21 @@ enum HugeiconsCatalog {
         sourceName: "arrow-down-to-dot",
         swiftIdentifier: "arrowDownToDot",
         resourceName: HugeiconsAssets.`arrowDownToDot`.name
+    )
+    static let arrowDownToLine = HugeiconsAsset(
+        sourceName: "arrow-down-to-line",
+        swiftIdentifier: "arrowDownToLine",
+        resourceName: HugeiconsAssets.`arrowDownToLine`.name
+    )
+    static let arrowDownWideNarrow = HugeiconsAsset(
+        sourceName: "arrow-down-wide-narrow",
+        swiftIdentifier: "arrowDownWideNarrow",
+        resourceName: HugeiconsAssets.`arrowDownWideNarrow`.name
+    )
+    static let arrowDownZa = HugeiconsAsset(
+        sourceName: "arrow-down-za",
+        swiftIdentifier: "arrowDownZa",
+        resourceName: HugeiconsAssets.`arrowDownZa`.name
     )
     static let arrowDownZeroOne = HugeiconsAsset(
         sourceName: "arrow-down-zero-one",
@@ -16836,6 +18031,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "arrowLeftRight",
         resourceName: HugeiconsAssets.`arrowLeftRight`.name
     )
+    static let arrowLeftToLine = HugeiconsAsset(
+        sourceName: "arrow-left-to-line",
+        swiftIdentifier: "arrowLeftToLine",
+        resourceName: HugeiconsAssets.`arrowLeftToLine`.name
+    )
     static let arrowMoveDownLeft = HugeiconsAsset(
         sourceName: "arrow-move-down-left",
         swiftIdentifier: "arrowMoveDownLeft",
@@ -16916,6 +18116,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "arrowRightFromLine",
         resourceName: HugeiconsAssets.`arrowRightFromLine`.name
     )
+    static let arrowRightToLine = HugeiconsAsset(
+        sourceName: "arrow-right-to-line",
+        swiftIdentifier: "arrowRightToLine",
+        resourceName: HugeiconsAssets.`arrowRightToLine`.name
+    )
     static let arrowShrink = HugeiconsAsset(
         sourceName: "arrow-shrink",
         swiftIdentifier: "arrowShrink",
@@ -16975,6 +18180,16 @@ enum HugeiconsCatalog {
         sourceName: "arrow-up05",
         swiftIdentifier: "arrowUp05",
         resourceName: HugeiconsAssets.`arrowUp05`.name
+    )
+    static let arrowUp10 = HugeiconsAsset(
+        sourceName: "arrow-up10",
+        swiftIdentifier: "arrowUp10",
+        resourceName: HugeiconsAssets.`arrowUp10`.name
+    )
+    static let arrowUpAz = HugeiconsAsset(
+        sourceName: "arrow-up-az",
+        swiftIdentifier: "arrowUpAz",
+        resourceName: HugeiconsAssets.`arrowUpAz`.name
     )
     static let arrowUpBig = HugeiconsAsset(
         sourceName: "arrow-up-big",
@@ -17041,6 +18256,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "arrowUpRightStack",
         resourceName: HugeiconsAssets.`arrowUpRightStack`.name
     )
+    static let arrowUpToLine = HugeiconsAsset(
+        sourceName: "arrow-up-to-line",
+        swiftIdentifier: "arrowUpToLine",
+        resourceName: HugeiconsAssets.`arrowUpToLine`.name
+    )
     static let arrowUpWideNarrow = HugeiconsAsset(
         sourceName: "arrow-up-wide-narrow",
         swiftIdentifier: "arrowUpWideNarrow",
@@ -17060,6 +18280,11 @@ enum HugeiconsCatalog {
         sourceName: "arrow-vertical",
         swiftIdentifier: "arrowVertical",
         resourceName: HugeiconsAssets.`arrowVertical`.name
+    )
+    static let arrowsUpFromLine = HugeiconsAsset(
+        sourceName: "arrows-up-from-line",
+        swiftIdentifier: "arrowsUpFromLine",
+        resourceName: HugeiconsAssets.`arrowsUpFromLine`.name
     )
     static let artboard = HugeiconsAsset(
         sourceName: "artboard",
@@ -17156,6 +18381,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "at",
         resourceName: HugeiconsAssets.`at`.name
     )
+    static let atSign = HugeiconsAsset(
+        sourceName: "at-sign",
+        swiftIdentifier: "atSign",
+        resourceName: HugeiconsAssets.`atSign`.name
+    )
     static let atm01 = HugeiconsAsset(
         sourceName: "atm01",
         swiftIdentifier: "atm01",
@@ -17231,6 +18461,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "audioBook04",
         resourceName: HugeiconsAssets.`audioBook04`.name
     )
+    static let audioLines = HugeiconsAsset(
+        sourceName: "audio-lines",
+        swiftIdentifier: "audioLines",
+        resourceName: HugeiconsAssets.`audioLines`.name
+    )
     static let audioWave01 = HugeiconsAsset(
         sourceName: "audio-wave01",
         swiftIdentifier: "audioWave01",
@@ -17240,6 +18475,11 @@ enum HugeiconsCatalog {
         sourceName: "audio-wave02",
         swiftIdentifier: "audioWave02",
         resourceName: HugeiconsAssets.`audioWave02`.name
+    )
+    static let audioWaveform = HugeiconsAsset(
+        sourceName: "audio-waveform",
+        swiftIdentifier: "audioWaveform",
+        resourceName: HugeiconsAssets.`audioWaveform`.name
     )
     static let audit01 = HugeiconsAsset(
         sourceName: "audit01",
@@ -17320,6 +18560,11 @@ enum HugeiconsCatalog {
         sourceName: "axe",
         swiftIdentifier: "axe",
         resourceName: HugeiconsAssets.`axe`.name
+    )
+    static let axis3D = HugeiconsAsset(
+        sourceName: "axis3-d",
+        swiftIdentifier: "axis3D",
+        resourceName: HugeiconsAssets.`axis3D`.name
     )
     static let axisThreeD = HugeiconsAsset(
         sourceName: "axis-three-d",
@@ -17416,6 +18661,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "badgeCent",
         resourceName: HugeiconsAssets.`badgeCent`.name
     )
+    static let badgeCheck = HugeiconsAsset(
+        sourceName: "badge-check",
+        swiftIdentifier: "badgeCheck",
+        resourceName: HugeiconsAssets.`badgeCheck`.name
+    )
     static let badgeDollarSign = HugeiconsAsset(
         sourceName: "badge-dollar-sign",
         swiftIdentifier: "badgeDollarSign",
@@ -17441,15 +18691,30 @@ enum HugeiconsCatalog {
         swiftIdentifier: "badgeJapaneseYen",
         resourceName: HugeiconsAssets.`badgeJapaneseYen`.name
     )
+    static let badgeMinus = HugeiconsAsset(
+        sourceName: "badge-minus",
+        swiftIdentifier: "badgeMinus",
+        resourceName: HugeiconsAssets.`badgeMinus`.name
+    )
     static let badgePercent = HugeiconsAsset(
         sourceName: "badge-percent",
         swiftIdentifier: "badgePercent",
         resourceName: HugeiconsAssets.`badgePercent`.name
     )
+    static let badgePlus = HugeiconsAsset(
+        sourceName: "badge-plus",
+        swiftIdentifier: "badgePlus",
+        resourceName: HugeiconsAssets.`badgePlus`.name
+    )
     static let badgePoundSterling = HugeiconsAsset(
         sourceName: "badge-pound-sterling",
         swiftIdentifier: "badgePoundSterling",
         resourceName: HugeiconsAssets.`badgePoundSterling`.name
+    )
+    static let badgeQuestionMark = HugeiconsAsset(
+        sourceName: "badge-question-mark",
+        swiftIdentifier: "badgeQuestionMark",
+        resourceName: HugeiconsAssets.`badgeQuestionMark`.name
     )
     static let badgeRussianRuble = HugeiconsAsset(
         sourceName: "badge-russian-ruble",
@@ -17466,6 +18731,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "badgeTurkishLira",
         resourceName: HugeiconsAssets.`badgeTurkishLira`.name
     )
+    static let badgeX = HugeiconsAsset(
+        sourceName: "badge-x",
+        swiftIdentifier: "badgeX",
+        resourceName: HugeiconsAssets.`badgeX`.name
+    )
     static let badminton = HugeiconsAsset(
         sourceName: "badminton",
         swiftIdentifier: "badminton",
@@ -17476,15 +18746,30 @@ enum HugeiconsCatalog {
         swiftIdentifier: "badmintonShuttle",
         resourceName: HugeiconsAssets.`badmintonShuttle`.name
     )
+    static let baggageClaim = HugeiconsAsset(
+        sourceName: "baggage-claim",
+        swiftIdentifier: "baggageClaim",
+        resourceName: HugeiconsAssets.`baggageClaim`.name
+    )
     static let balanceScale = HugeiconsAsset(
         sourceName: "balance-scale",
         swiftIdentifier: "balanceScale",
         resourceName: HugeiconsAssets.`balanceScale`.name
     )
+    static let balloon = HugeiconsAsset(
+        sourceName: "balloon",
+        swiftIdentifier: "balloon",
+        resourceName: HugeiconsAssets.`balloon`.name
+    )
     static let balloons = HugeiconsAsset(
         sourceName: "balloons",
         swiftIdentifier: "balloons",
         resourceName: HugeiconsAssets.`balloons`.name
+    )
+    static let ban = HugeiconsAsset(
+        sourceName: "ban",
+        swiftIdentifier: "ban",
+        resourceName: HugeiconsAssets.`ban`.name
     )
     static let banana = HugeiconsAsset(
         sourceName: "banana",
@@ -17500,6 +18785,26 @@ enum HugeiconsCatalog {
         sourceName: "bank",
         swiftIdentifier: "bank",
         resourceName: HugeiconsAssets.`bank`.name
+    )
+    static let banknote = HugeiconsAsset(
+        sourceName: "banknote",
+        swiftIdentifier: "banknote",
+        resourceName: HugeiconsAssets.`banknote`.name
+    )
+    static let banknoteArrowDown = HugeiconsAsset(
+        sourceName: "banknote-arrow-down",
+        swiftIdentifier: "banknoteArrowDown",
+        resourceName: HugeiconsAssets.`banknoteArrowDown`.name
+    )
+    static let banknoteArrowUp = HugeiconsAsset(
+        sourceName: "banknote-arrow-up",
+        swiftIdentifier: "banknoteArrowUp",
+        resourceName: HugeiconsAssets.`banknoteArrowUp`.name
+    )
+    static let banknoteX = HugeiconsAsset(
+        sourceName: "banknote-x",
+        swiftIdentifier: "banknoteX",
+        resourceName: HugeiconsAssets.`banknoteX`.name
     )
     static let barChart = HugeiconsAsset(
         sourceName: "bar-chart",
@@ -17520,6 +18825,11 @@ enum HugeiconsCatalog {
         sourceName: "bar-code02",
         swiftIdentifier: "barCode02",
         resourceName: HugeiconsAssets.`barCode02`.name
+    )
+    static let barcode = HugeiconsAsset(
+        sourceName: "barcode",
+        swiftIdentifier: "barcode",
+        resourceName: HugeiconsAssets.`barcode`.name
     )
     static let barcodeScan = HugeiconsAsset(
         sourceName: "barcode-scan",
@@ -17551,6 +18861,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "baseballHelmet",
         resourceName: HugeiconsAssets.`baseballHelmet`.name
     )
+    static let baseline = HugeiconsAsset(
+        sourceName: "baseline",
+        swiftIdentifier: "baseline",
+        resourceName: HugeiconsAssets.`baseline`.name
+    )
     static let bash = HugeiconsAsset(
         sourceName: "bash",
         swiftIdentifier: "bash",
@@ -17571,6 +18886,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "basketballHoop",
         resourceName: HugeiconsAssets.`basketballHoop`.name
     )
+    static let bath = HugeiconsAsset(
+        sourceName: "bath",
+        swiftIdentifier: "bath",
+        resourceName: HugeiconsAssets.`bath`.name
+    )
     static let bathtub01 = HugeiconsAsset(
         sourceName: "bathtub01",
         swiftIdentifier: "bathtub01",
@@ -17585,6 +18905,11 @@ enum HugeiconsCatalog {
         sourceName: "batteries-energy",
         swiftIdentifier: "batteriesEnergy",
         resourceName: HugeiconsAssets.`batteriesEnergy`.name
+    )
+    static let battery = HugeiconsAsset(
+        sourceName: "battery",
+        swiftIdentifier: "battery",
+        resourceName: HugeiconsAssets.`battery`.name
     )
     static let batteryCharging01 = HugeiconsAsset(
         sourceName: "battery-charging01",
@@ -17651,6 +18976,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "beach02",
         resourceName: HugeiconsAssets.`beach02`.name
     )
+    static let beaker = HugeiconsAsset(
+        sourceName: "beaker",
+        swiftIdentifier: "beaker",
+        resourceName: HugeiconsAssets.`beaker`.name
+    )
     static let bean = HugeiconsAsset(
         sourceName: "bean",
         swiftIdentifier: "bean",
@@ -17711,6 +19041,21 @@ enum HugeiconsCatalog {
         swiftIdentifier: "beef",
         resourceName: HugeiconsAssets.`beef`.name
     )
+    static let beefOff = HugeiconsAsset(
+        sourceName: "beef-off",
+        swiftIdentifier: "beefOff",
+        resourceName: HugeiconsAssets.`beefOff`.name
+    )
+    static let beer = HugeiconsAsset(
+        sourceName: "beer",
+        swiftIdentifier: "beer",
+        resourceName: HugeiconsAssets.`beer`.name
+    )
+    static let beerOff = HugeiconsAsset(
+        sourceName: "beer-off",
+        swiftIdentifier: "beerOff",
+        resourceName: HugeiconsAssets.`beerOff`.name
+    )
     static let behance01 = HugeiconsAsset(
         sourceName: "behance01",
         swiftIdentifier: "behance01",
@@ -17721,6 +19066,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "behance02",
         resourceName: HugeiconsAssets.`behance02`.name
     )
+    static let bell = HugeiconsAsset(
+        sourceName: "bell",
+        swiftIdentifier: "bell",
+        resourceName: HugeiconsAssets.`bell`.name
+    )
     static let bellDot = HugeiconsAsset(
         sourceName: "bell-dot",
         swiftIdentifier: "bellDot",
@@ -17730,6 +19080,26 @@ enum HugeiconsCatalog {
         sourceName: "bell-electric",
         swiftIdentifier: "bellElectric",
         resourceName: HugeiconsAssets.`bellElectric`.name
+    )
+    static let bellMinus = HugeiconsAsset(
+        sourceName: "bell-minus",
+        swiftIdentifier: "bellMinus",
+        resourceName: HugeiconsAssets.`bellMinus`.name
+    )
+    static let bellOff = HugeiconsAsset(
+        sourceName: "bell-off",
+        swiftIdentifier: "bellOff",
+        resourceName: HugeiconsAssets.`bellOff`.name
+    )
+    static let bellPlus = HugeiconsAsset(
+        sourceName: "bell-plus",
+        swiftIdentifier: "bellPlus",
+        resourceName: HugeiconsAssets.`bellPlus`.name
+    )
+    static let bellRing = HugeiconsAsset(
+        sourceName: "bell-ring",
+        swiftIdentifier: "bellRing",
+        resourceName: HugeiconsAssets.`bellRing`.name
     )
     static let belt = HugeiconsAsset(
         sourceName: "belt",
@@ -17761,10 +19131,25 @@ enum HugeiconsCatalog {
         swiftIdentifier: "betweenHorizontalEnd",
         resourceName: HugeiconsAssets.`betweenHorizontalEnd`.name
     )
+    static let betweenHorizontalStart = HugeiconsAsset(
+        sourceName: "between-horizontal-start",
+        swiftIdentifier: "betweenHorizontalStart",
+        resourceName: HugeiconsAssets.`betweenHorizontalStart`.name
+    )
     static let betweenVerticalEnd = HugeiconsAsset(
         sourceName: "between-vertical-end",
         swiftIdentifier: "betweenVerticalEnd",
         resourceName: HugeiconsAssets.`betweenVerticalEnd`.name
+    )
+    static let betweenVerticalStart = HugeiconsAsset(
+        sourceName: "between-vertical-start",
+        swiftIdentifier: "betweenVerticalStart",
+        resourceName: HugeiconsAssets.`betweenVerticalStart`.name
+    )
+    static let bicepsFlexed = HugeiconsAsset(
+        sourceName: "biceps-flexed",
+        swiftIdentifier: "bicepsFlexed",
+        resourceName: HugeiconsAssets.`bicepsFlexed`.name
     )
     static let bicycle = HugeiconsAsset(
         sourceName: "bicycle",
@@ -17776,6 +19161,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "bicycle01",
         resourceName: HugeiconsAssets.`bicycle01`.name
     )
+    static let bike = HugeiconsAsset(
+        sourceName: "bike",
+        swiftIdentifier: "bike",
+        resourceName: HugeiconsAssets.`bike`.name
+    )
     static let billiard01 = HugeiconsAsset(
         sourceName: "billiard01",
         swiftIdentifier: "billiard01",
@@ -17785,6 +19175,11 @@ enum HugeiconsCatalog {
         sourceName: "billiard02",
         swiftIdentifier: "billiard02",
         resourceName: HugeiconsAssets.`billiard02`.name
+    )
+    static let binary = HugeiconsAsset(
+        sourceName: "binary",
+        swiftIdentifier: "binary",
+        resourceName: HugeiconsAssets.`binary`.name
     )
     static let binaryCode = HugeiconsAsset(
         sourceName: "binary-code",
@@ -18161,6 +19556,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "blocked",
         resourceName: HugeiconsAssets.`blocked`.name
     )
+    static let blocks = HugeiconsAsset(
+        sourceName: "blocks",
+        swiftIdentifier: "blocks",
+        resourceName: HugeiconsAssets.`blocks`.name
+    )
     static let blogger = HugeiconsAsset(
         sourceName: "blogger",
         swiftIdentifier: "blogger",
@@ -18206,15 +19606,30 @@ enum HugeiconsCatalog {
         swiftIdentifier: "bluetoothCircle",
         resourceName: HugeiconsAssets.`bluetoothCircle`.name
     )
+    static let bluetoothConnected = HugeiconsAsset(
+        sourceName: "bluetooth-connected",
+        swiftIdentifier: "bluetoothConnected",
+        resourceName: HugeiconsAssets.`bluetoothConnected`.name
+    )
     static let bluetoothNotConnected = HugeiconsAsset(
         sourceName: "bluetooth-not-connected",
         swiftIdentifier: "bluetoothNotConnected",
         resourceName: HugeiconsAssets.`bluetoothNotConnected`.name
     )
+    static let bluetoothOff = HugeiconsAsset(
+        sourceName: "bluetooth-off",
+        swiftIdentifier: "bluetoothOff",
+        resourceName: HugeiconsAssets.`bluetoothOff`.name
+    )
     static let bluetoothSearch = HugeiconsAsset(
         sourceName: "bluetooth-search",
         swiftIdentifier: "bluetoothSearch",
         resourceName: HugeiconsAssets.`bluetoothSearch`.name
+    )
+    static let bluetoothSearching = HugeiconsAsset(
+        sourceName: "bluetooth-searching",
+        swiftIdentifier: "bluetoothSearching",
+        resourceName: HugeiconsAssets.`bluetoothSearching`.name
     )
     static let bluetoothSquare = HugeiconsAsset(
         sourceName: "bluetooth-square",
@@ -18275,6 +19690,16 @@ enum HugeiconsCatalog {
         sourceName: "body-weight",
         swiftIdentifier: "bodyWeight",
         resourceName: HugeiconsAssets.`bodyWeight`.name
+    )
+    static let bold = HugeiconsAsset(
+        sourceName: "bold",
+        swiftIdentifier: "bold",
+        resourceName: HugeiconsAssets.`bold`.name
+    )
+    static let bolt = HugeiconsAsset(
+        sourceName: "bolt",
+        swiftIdentifier: "bolt",
+        resourceName: HugeiconsAssets.`bolt`.name
     )
     static let bomb = HugeiconsAsset(
         sourceName: "bomb",
@@ -18346,6 +19771,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "bookDashed",
         resourceName: HugeiconsAssets.`bookDashed`.name
     )
+    static let bookDown = HugeiconsAsset(
+        sourceName: "book-down",
+        swiftIdentifier: "bookDown",
+        resourceName: HugeiconsAssets.`bookDown`.name
+    )
     static let bookDownload = HugeiconsAsset(
         sourceName: "book-download",
         swiftIdentifier: "bookDownload",
@@ -18355,6 +19785,11 @@ enum HugeiconsCatalog {
         sourceName: "book-edit",
         swiftIdentifier: "bookEdit",
         resourceName: HugeiconsAssets.`bookEdit`.name
+    )
+    static let bookHeadphones = HugeiconsAsset(
+        sourceName: "book-headphones",
+        swiftIdentifier: "bookHeadphones",
+        resourceName: HugeiconsAssets.`bookHeadphones`.name
     )
     static let bookHeart = HugeiconsAsset(
         sourceName: "book-heart",
@@ -18375,6 +19810,11 @@ enum HugeiconsCatalog {
         sourceName: "book-lock",
         swiftIdentifier: "bookLock",
         resourceName: HugeiconsAssets.`bookLock`.name
+    )
+    static let bookMarked = HugeiconsAsset(
+        sourceName: "book-marked",
+        swiftIdentifier: "bookMarked",
+        resourceName: HugeiconsAssets.`bookMarked`.name
     )
     static let bookMinus = HugeiconsAsset(
         sourceName: "book-minus",
@@ -18411,10 +19851,20 @@ enum HugeiconsCatalog {
         swiftIdentifier: "bookSearch",
         resourceName: HugeiconsAssets.`bookSearch`.name
     )
+    static let bookText = HugeiconsAsset(
+        sourceName: "book-text",
+        swiftIdentifier: "bookText",
+        resourceName: HugeiconsAssets.`bookText`.name
+    )
     static let bookType = HugeiconsAsset(
         sourceName: "book-type",
         swiftIdentifier: "bookType",
         resourceName: HugeiconsAssets.`bookType`.name
+    )
+    static let bookUp2 = HugeiconsAsset(
+        sourceName: "book-up2",
+        swiftIdentifier: "bookUp2",
+        resourceName: HugeiconsAssets.`bookUp2`.name
     )
     static let bookUpTwo = HugeiconsAsset(
         sourceName: "book-up-two",
@@ -18501,6 +19951,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "bookmarkOff02",
         resourceName: HugeiconsAssets.`bookmarkOff02`.name
     )
+    static let bookmarkPlus = HugeiconsAsset(
+        sourceName: "bookmark-plus",
+        swiftIdentifier: "bookmarkPlus",
+        resourceName: HugeiconsAssets.`bookmarkPlus`.name
+    )
     static let bookmarkRemove01 = HugeiconsAsset(
         sourceName: "bookmark-remove01",
         swiftIdentifier: "bookmarkRemove01",
@@ -18510,6 +19965,11 @@ enum HugeiconsCatalog {
         sourceName: "bookmark-remove02",
         swiftIdentifier: "bookmarkRemove02",
         resourceName: HugeiconsAssets.`bookmarkRemove02`.name
+    )
+    static let bookmarkX = HugeiconsAsset(
+        sourceName: "bookmark-x",
+        swiftIdentifier: "bookmarkX",
+        resourceName: HugeiconsAssets.`bookmarkX`.name
     )
     static let books01 = HugeiconsAsset(
         sourceName: "books01",
@@ -18636,6 +20096,21 @@ enum HugeiconsCatalog {
         swiftIdentifier: "bot",
         resourceName: HugeiconsAssets.`bot`.name
     )
+    static let botMessageSquare = HugeiconsAsset(
+        sourceName: "bot-message-square",
+        swiftIdentifier: "botMessageSquare",
+        resourceName: HugeiconsAssets.`botMessageSquare`.name
+    )
+    static let botOff = HugeiconsAsset(
+        sourceName: "bot-off",
+        swiftIdentifier: "botOff",
+        resourceName: HugeiconsAssets.`botOff`.name
+    )
+    static let bottleWine = HugeiconsAsset(
+        sourceName: "bottle-wine",
+        swiftIdentifier: "bottleWine",
+        resourceName: HugeiconsAssets.`bottleWine`.name
+    )
     static let bounceLeft = HugeiconsAsset(
         sourceName: "bounce-left",
         swiftIdentifier: "bounceLeft",
@@ -18650,6 +20125,11 @@ enum HugeiconsCatalog {
         sourceName: "bounding-box",
         swiftIdentifier: "boundingBox",
         resourceName: HugeiconsAssets.`boundingBox`.name
+    )
+    static let bowArrow = HugeiconsAsset(
+        sourceName: "bow-arrow",
+        swiftIdentifier: "bowArrow",
+        resourceName: HugeiconsAssets.`bowArrow`.name
     )
     static let bowTie = HugeiconsAsset(
         sourceName: "bow-tie",
@@ -18671,10 +20151,20 @@ enum HugeiconsCatalog {
         swiftIdentifier: "bowlingPins",
         resourceName: HugeiconsAssets.`bowlingPins`.name
     )
+    static let box = HugeiconsAsset(
+        sourceName: "box",
+        swiftIdentifier: "box",
+        resourceName: HugeiconsAssets.`box`.name
+    )
     static let boxer = HugeiconsAsset(
         sourceName: "boxer",
         swiftIdentifier: "boxer",
         resourceName: HugeiconsAssets.`boxer`.name
+    )
+    static let boxes = HugeiconsAsset(
+        sourceName: "boxes",
+        swiftIdentifier: "boxes",
+        resourceName: HugeiconsAssets.`boxes`.name
     )
     static let boxingBag = HugeiconsAsset(
         sourceName: "boxing-bag",
@@ -18690,6 +20180,16 @@ enum HugeiconsCatalog {
         sourceName: "boxing-glove01",
         swiftIdentifier: "boxingGlove01",
         resourceName: HugeiconsAssets.`boxingGlove01`.name
+    )
+    static let braces = HugeiconsAsset(
+        sourceName: "braces",
+        swiftIdentifier: "braces",
+        resourceName: HugeiconsAssets.`braces`.name
+    )
+    static let brackets = HugeiconsAsset(
+        sourceName: "brackets",
+        swiftIdentifier: "brackets",
+        resourceName: HugeiconsAssets.`brackets`.name
     )
     static let brain = HugeiconsAsset(
         sourceName: "brain",
@@ -18710,6 +20210,11 @@ enum HugeiconsCatalog {
         sourceName: "brain03",
         swiftIdentifier: "brain03",
         resourceName: HugeiconsAssets.`brain03`.name
+    )
+    static let brainCircuit = HugeiconsAsset(
+        sourceName: "brain-circuit",
+        swiftIdentifier: "brainCircuit",
+        resourceName: HugeiconsAssets.`brainCircuit`.name
     )
     static let brainCog = HugeiconsAsset(
         sourceName: "brain-cog",
@@ -18750,6 +20255,11 @@ enum HugeiconsCatalog {
         sourceName: "brick-wall",
         swiftIdentifier: "brickWall",
         resourceName: HugeiconsAssets.`brickWall`.name
+    )
+    static let brickWallFire = HugeiconsAsset(
+        sourceName: "brick-wall-fire",
+        swiftIdentifier: "brickWallFire",
+        resourceName: HugeiconsAssets.`brickWallFire`.name
     )
     static let brickWallShield = HugeiconsAsset(
         sourceName: "brick-wall-shield",
@@ -18806,6 +20316,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "briefcase09",
         resourceName: HugeiconsAssets.`briefcase09`.name
     )
+    static let briefcaseBusiness = HugeiconsAsset(
+        sourceName: "briefcase-business",
+        swiftIdentifier: "briefcaseBusiness",
+        resourceName: HugeiconsAssets.`briefcaseBusiness`.name
+    )
     static let briefcaseConveyorBelt = HugeiconsAsset(
         sourceName: "briefcase-conveyor-belt",
         swiftIdentifier: "briefcaseConveyorBelt",
@@ -18815,6 +20330,11 @@ enum HugeiconsCatalog {
         sourceName: "briefcase-dollar",
         swiftIdentifier: "briefcaseDollar",
         resourceName: HugeiconsAssets.`briefcaseDollar`.name
+    )
+    static let briefcaseMedical = HugeiconsAsset(
+        sourceName: "briefcase-medical",
+        swiftIdentifier: "briefcaseMedical",
+        resourceName: HugeiconsAssets.`briefcaseMedical`.name
     )
     static let bringToFront = HugeiconsAsset(
         sourceName: "bring-to-front",
@@ -18845,6 +20365,11 @@ enum HugeiconsCatalog {
         sourceName: "brush",
         swiftIdentifier: "brush",
         resourceName: HugeiconsAssets.`brush`.name
+    )
+    static let brushCleaning = HugeiconsAsset(
+        sourceName: "brush-cleaning",
+        swiftIdentifier: "brushCleaning",
+        resourceName: HugeiconsAssets.`brushCleaning`.name
     )
     static let bubbleChat = HugeiconsAsset(
         sourceName: "bubble-chat",
@@ -19031,6 +20556,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "building06",
         resourceName: HugeiconsAssets.`building06`.name
     )
+    static let building2 = HugeiconsAsset(
+        sourceName: "building2",
+        swiftIdentifier: "building2",
+        resourceName: HugeiconsAssets.`building2`.name
+    )
     static let bulb = HugeiconsAsset(
         sourceName: "bulb",
         swiftIdentifier: "bulb",
@@ -19075,6 +20605,11 @@ enum HugeiconsCatalog {
         sourceName: "bus03",
         swiftIdentifier: "bus03",
         resourceName: HugeiconsAssets.`bus03`.name
+    )
+    static let busFront = HugeiconsAsset(
+        sourceName: "bus-front",
+        swiftIdentifier: "busFront",
+        resourceName: HugeiconsAssets.`busFront`.name
     )
     static let c = HugeiconsAsset(
         sourceName: "c",
@@ -19131,6 +20666,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "cafe",
         resourceName: HugeiconsAssets.`cafe`.name
     )
+    static let cake = HugeiconsAsset(
+        sourceName: "cake",
+        swiftIdentifier: "cake",
+        resourceName: HugeiconsAssets.`cake`.name
+    )
     static let cakeSlice = HugeiconsAsset(
         sourceName: "cake-slice",
         swiftIdentifier: "cakeSlice",
@@ -19176,6 +20716,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "calendar05",
         resourceName: HugeiconsAssets.`calendar05`.name
     )
+    static let calendar1 = HugeiconsAsset(
+        sourceName: "calendar1",
+        swiftIdentifier: "calendar1",
+        resourceName: HugeiconsAssets.`calendar1`.name
+    )
     static let calendarAdd01 = HugeiconsAsset(
         sourceName: "calendar-add01",
         swiftIdentifier: "calendarAdd01",
@@ -19191,6 +20736,16 @@ enum HugeiconsCatalog {
         swiftIdentifier: "calendarAnalysis",
         resourceName: HugeiconsAssets.`calendarAnalysis`.name
     )
+    static let calendarArrowDown = HugeiconsAsset(
+        sourceName: "calendar-arrow-down",
+        swiftIdentifier: "calendarArrowDown",
+        resourceName: HugeiconsAssets.`calendarArrowDown`.name
+    )
+    static let calendarArrowUp = HugeiconsAsset(
+        sourceName: "calendar-arrow-up",
+        swiftIdentifier: "calendarArrowUp",
+        resourceName: HugeiconsAssets.`calendarArrowUp`.name
+    )
     static let calendarBlock01 = HugeiconsAsset(
         sourceName: "calendar-block01",
         swiftIdentifier: "calendarBlock01",
@@ -19200,6 +20755,16 @@ enum HugeiconsCatalog {
         sourceName: "calendar-block02",
         swiftIdentifier: "calendarBlock02",
         resourceName: HugeiconsAssets.`calendarBlock02`.name
+    )
+    static let calendarCheck = HugeiconsAsset(
+        sourceName: "calendar-check",
+        swiftIdentifier: "calendarCheck",
+        resourceName: HugeiconsAssets.`calendarCheck`.name
+    )
+    static let calendarCheck2 = HugeiconsAsset(
+        sourceName: "calendar-check2",
+        swiftIdentifier: "calendarCheck2",
+        resourceName: HugeiconsAssets.`calendarCheck2`.name
     )
     static let calendarCheckIn01 = HugeiconsAsset(
         sourceName: "calendar-check-in01",
@@ -19220,6 +20785,21 @@ enum HugeiconsCatalog {
         sourceName: "calendar-check-out02",
         swiftIdentifier: "calendarCheckOut02",
         resourceName: HugeiconsAssets.`calendarCheckOut02`.name
+    )
+    static let calendarClock = HugeiconsAsset(
+        sourceName: "calendar-clock",
+        swiftIdentifier: "calendarClock",
+        resourceName: HugeiconsAssets.`calendarClock`.name
+    )
+    static let calendarCog = HugeiconsAsset(
+        sourceName: "calendar-cog",
+        swiftIdentifier: "calendarCog",
+        resourceName: HugeiconsAssets.`calendarCog`.name
+    )
+    static let calendarDays = HugeiconsAsset(
+        sourceName: "calendar-days",
+        swiftIdentifier: "calendarDays",
+        resourceName: HugeiconsAssets.`calendarDays`.name
     )
     static let calendarDownload01 = HugeiconsAsset(
         sourceName: "calendar-download01",
@@ -19245,6 +20825,11 @@ enum HugeiconsCatalog {
         sourceName: "calendar-fold",
         swiftIdentifier: "calendarFold",
         resourceName: HugeiconsAssets.`calendarFold`.name
+    )
+    static let calendarHeart = HugeiconsAsset(
+        sourceName: "calendar-heart",
+        swiftIdentifier: "calendarHeart",
+        resourceName: HugeiconsAssets.`calendarHeart`.name
     )
     static let calendarLock01 = HugeiconsAsset(
         sourceName: "calendar-lock01",
@@ -19276,6 +20861,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "calendarMinus02",
         resourceName: HugeiconsAssets.`calendarMinus02`.name
     )
+    static let calendarMinus2 = HugeiconsAsset(
+        sourceName: "calendar-minus2",
+        swiftIdentifier: "calendarMinus2",
+        resourceName: HugeiconsAssets.`calendarMinus2`.name
+    )
     static let calendarMortarboard = HugeiconsAsset(
         sourceName: "calendar-mortarboard",
         swiftIdentifier: "calendarMortarboard",
@@ -19286,6 +20876,21 @@ enum HugeiconsCatalog {
         swiftIdentifier: "calendarOff",
         resourceName: HugeiconsAssets.`calendarOff`.name
     )
+    static let calendarPlus = HugeiconsAsset(
+        sourceName: "calendar-plus",
+        swiftIdentifier: "calendarPlus",
+        resourceName: HugeiconsAssets.`calendarPlus`.name
+    )
+    static let calendarPlus2 = HugeiconsAsset(
+        sourceName: "calendar-plus2",
+        swiftIdentifier: "calendarPlus2",
+        resourceName: HugeiconsAssets.`calendarPlus2`.name
+    )
+    static let calendarRange = HugeiconsAsset(
+        sourceName: "calendar-range",
+        swiftIdentifier: "calendarRange",
+        resourceName: HugeiconsAssets.`calendarRange`.name
+    )
     static let calendarRemove01 = HugeiconsAsset(
         sourceName: "calendar-remove01",
         swiftIdentifier: "calendarRemove01",
@@ -19295,6 +20900,11 @@ enum HugeiconsCatalog {
         sourceName: "calendar-remove02",
         swiftIdentifier: "calendarRemove02",
         resourceName: HugeiconsAssets.`calendarRemove02`.name
+    )
+    static let calendarSearch = HugeiconsAsset(
+        sourceName: "calendar-search",
+        swiftIdentifier: "calendarSearch",
+        resourceName: HugeiconsAssets.`calendarSearch`.name
     )
     static let calendarSetting01 = HugeiconsAsset(
         sourceName: "calendar-setting01",
@@ -19325,6 +20935,16 @@ enum HugeiconsCatalog {
         sourceName: "calendar-user",
         swiftIdentifier: "calendarUser",
         resourceName: HugeiconsAssets.`calendarUser`.name
+    )
+    static let calendarX = HugeiconsAsset(
+        sourceName: "calendar-x",
+        swiftIdentifier: "calendarX",
+        resourceName: HugeiconsAssets.`calendarX`.name
+    )
+    static let calendarX2 = HugeiconsAsset(
+        sourceName: "calendar-x2",
+        swiftIdentifier: "calendarX2",
+        resourceName: HugeiconsAssets.`calendarX2`.name
     )
     static let calendars = HugeiconsAsset(
         sourceName: "calendars",
@@ -19781,6 +21401,16 @@ enum HugeiconsCatalog {
         swiftIdentifier: "capcutRectangle",
         resourceName: HugeiconsAssets.`capcutRectangle`.name
     )
+    static let captions = HugeiconsAsset(
+        sourceName: "captions",
+        swiftIdentifier: "captions",
+        resourceName: HugeiconsAssets.`captions`.name
+    )
+    static let captionsOff = HugeiconsAsset(
+        sourceName: "captions-off",
+        swiftIdentifier: "captionsOff",
+        resourceName: HugeiconsAssets.`captionsOff`.name
+    )
     static let car01 = HugeiconsAsset(
         sourceName: "car01",
         swiftIdentifier: "car01",
@@ -19811,6 +21441,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "carAlert",
         resourceName: HugeiconsAssets.`carAlert`.name
     )
+    static let carFront = HugeiconsAsset(
+        sourceName: "car-front",
+        swiftIdentifier: "carFront",
+        resourceName: HugeiconsAssets.`carFront`.name
+    )
     static let carParking01 = HugeiconsAsset(
         sourceName: "car-parking01",
         swiftIdentifier: "carParking01",
@@ -19825,6 +21460,11 @@ enum HugeiconsCatalog {
         sourceName: "car-signal",
         swiftIdentifier: "carSignal",
         resourceName: HugeiconsAssets.`carSignal`.name
+    )
+    static let carTaxiFront = HugeiconsAsset(
+        sourceName: "car-taxi-front",
+        swiftIdentifier: "carTaxiFront",
+        resourceName: HugeiconsAssets.`carTaxiFront`.name
     )
     static let carTime = HugeiconsAsset(
         sourceName: "car-time",
@@ -19845,6 +21485,11 @@ enum HugeiconsCatalog {
         sourceName: "card-exchange02",
         swiftIdentifier: "cardExchange02",
         resourceName: HugeiconsAssets.`cardExchange02`.name
+    )
+    static let cardSim = HugeiconsAsset(
+        sourceName: "card-sim",
+        swiftIdentifier: "cardSim",
+        resourceName: HugeiconsAssets.`cardSim`.name
     )
     static let cardigan = HugeiconsAsset(
         sourceName: "cardigan",
@@ -19896,6 +21541,21 @@ enum HugeiconsCatalog {
         swiftIdentifier: "carrot",
         resourceName: HugeiconsAssets.`carrot`.name
     )
+    static let caseLower = HugeiconsAsset(
+        sourceName: "case-lower",
+        swiftIdentifier: "caseLower",
+        resourceName: HugeiconsAssets.`caseLower`.name
+    )
+    static let caseSensitive = HugeiconsAsset(
+        sourceName: "case-sensitive",
+        swiftIdentifier: "caseSensitive",
+        resourceName: HugeiconsAssets.`caseSensitive`.name
+    )
+    static let caseUpper = HugeiconsAsset(
+        sourceName: "case-upper",
+        swiftIdentifier: "caseUpper",
+        resourceName: HugeiconsAssets.`caseUpper`.name
+    )
     static let cash01 = HugeiconsAsset(
         sourceName: "cash01",
         swiftIdentifier: "cash01",
@@ -19946,6 +21606,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "cassetteTape",
         resourceName: HugeiconsAssets.`cassetteTape`.name
     )
+    static let cast = HugeiconsAsset(
+        sourceName: "cast",
+        swiftIdentifier: "cast",
+        resourceName: HugeiconsAssets.`cast`.name
+    )
     static let castbox = HugeiconsAsset(
         sourceName: "castbox",
         swiftIdentifier: "castbox",
@@ -19966,6 +21631,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "castle02",
         resourceName: HugeiconsAssets.`castle02`.name
     )
+    static let cat = HugeiconsAsset(
+        sourceName: "cat",
+        swiftIdentifier: "cat",
+        resourceName: HugeiconsAssets.`cat`.name
+    )
     static let catalogue = HugeiconsAsset(
         sourceName: "catalogue",
         swiftIdentifier: "catalogue",
@@ -19976,10 +21646,20 @@ enum HugeiconsCatalog {
         swiftIdentifier: "cayanTower",
         resourceName: HugeiconsAssets.`cayanTower`.name
     )
+    static let cctv = HugeiconsAsset(
+        sourceName: "cctv",
+        swiftIdentifier: "cctv",
+        resourceName: HugeiconsAssets.`cctv`.name
+    )
     static let cctvCamera = HugeiconsAsset(
         sourceName: "cctv-camera",
         swiftIdentifier: "cctvCamera",
         resourceName: HugeiconsAssets.`cctvCamera`.name
+    )
+    static let cctvOff = HugeiconsAsset(
+        sourceName: "cctv-off",
+        swiftIdentifier: "cctvOff",
+        resourceName: HugeiconsAssets.`cctvOff`.name
     )
     static let cd = HugeiconsAsset(
         sourceName: "cd",
@@ -20186,6 +21866,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "chartColumnDecreasing",
         resourceName: HugeiconsAssets.`chartColumnDecreasing`.name
     )
+    static let chartColumnIncreasing = HugeiconsAsset(
+        sourceName: "chart-column-increasing",
+        swiftIdentifier: "chartColumnIncreasing",
+        resourceName: HugeiconsAssets.`chartColumnIncreasing`.name
+    )
     static let chartColumnStacked = HugeiconsAsset(
         sourceName: "chart-column-stacked",
         swiftIdentifier: "chartColumnStacked",
@@ -20226,6 +21911,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "chartIncrease",
         resourceName: HugeiconsAssets.`chartIncrease`.name
     )
+    static let chartLine = HugeiconsAsset(
+        sourceName: "chart-line",
+        swiftIdentifier: "chartLine",
+        resourceName: HugeiconsAssets.`chartLine`.name
+    )
     static let chartLineData01 = HugeiconsAsset(
         sourceName: "chart-line-data01",
         swiftIdentifier: "chartLineData01",
@@ -20255,6 +21945,21 @@ enum HugeiconsCatalog {
         sourceName: "chart-minimum",
         swiftIdentifier: "chartMinimum",
         resourceName: HugeiconsAssets.`chartMinimum`.name
+    )
+    static let chartNetwork = HugeiconsAsset(
+        sourceName: "chart-network",
+        swiftIdentifier: "chartNetwork",
+        resourceName: HugeiconsAssets.`chartNetwork`.name
+    )
+    static let chartNoAxesColumn = HugeiconsAsset(
+        sourceName: "chart-no-axes-column",
+        swiftIdentifier: "chartNoAxesColumn",
+        resourceName: HugeiconsAssets.`chartNoAxesColumn`.name
+    )
+    static let chartNoAxesColumnDecreasing = HugeiconsAsset(
+        sourceName: "chart-no-axes-column-decreasing",
+        swiftIdentifier: "chartNoAxesColumnDecreasing",
+        resourceName: HugeiconsAssets.`chartNoAxesColumnDecreasing`.name
     )
     static let chartNoAxesColumnIncreasing = HugeiconsAsset(
         sourceName: "chart-no-axes-column-increasing",
@@ -20295,6 +22000,11 @@ enum HugeiconsCatalog {
         sourceName: "chart-scatter",
         swiftIdentifier: "chartScatter",
         resourceName: HugeiconsAssets.`chartScatter`.name
+    )
+    static let chartSpline = HugeiconsAsset(
+        sourceName: "chart-spline",
+        swiftIdentifier: "chartSpline",
+        resourceName: HugeiconsAssets.`chartSpline`.name
     )
     static let chartUp = HugeiconsAsset(
         sourceName: "chart-up",
@@ -20546,6 +22256,21 @@ enum HugeiconsCatalog {
         swiftIdentifier: "chatting01",
         resourceName: HugeiconsAssets.`chatting01`.name
     )
+    static let check = HugeiconsAsset(
+        sourceName: "check",
+        swiftIdentifier: "check",
+        resourceName: HugeiconsAssets.`check`.name
+    )
+    static let checkCheck = HugeiconsAsset(
+        sourceName: "check-check",
+        swiftIdentifier: "checkCheck",
+        resourceName: HugeiconsAssets.`checkCheck`.name
+    )
+    static let checkLine = HugeiconsAsset(
+        sourceName: "check-line",
+        swiftIdentifier: "checkLine",
+        resourceName: HugeiconsAssets.`checkLine`.name
+    )
     static let checkList = HugeiconsAsset(
         sourceName: "check-list",
         swiftIdentifier: "checkList",
@@ -20696,20 +22421,100 @@ enum HugeiconsCatalog {
         swiftIdentifier: "chessKing",
         resourceName: HugeiconsAssets.`chessKing`.name
     )
+    static let chessKnight = HugeiconsAsset(
+        sourceName: "chess-knight",
+        swiftIdentifier: "chessKnight",
+        resourceName: HugeiconsAssets.`chessKnight`.name
+    )
     static let chessPawn = HugeiconsAsset(
         sourceName: "chess-pawn",
         swiftIdentifier: "chessPawn",
         resourceName: HugeiconsAssets.`chessPawn`.name
+    )
+    static let chessQueen = HugeiconsAsset(
+        sourceName: "chess-queen",
+        swiftIdentifier: "chessQueen",
+        resourceName: HugeiconsAssets.`chessQueen`.name
+    )
+    static let chessRook = HugeiconsAsset(
+        sourceName: "chess-rook",
+        swiftIdentifier: "chessRook",
+        resourceName: HugeiconsAssets.`chessRook`.name
     )
     static let chevronDoubleClose = HugeiconsAsset(
         sourceName: "chevron-double-close",
         swiftIdentifier: "chevronDoubleClose",
         resourceName: HugeiconsAssets.`chevronDoubleClose`.name
     )
+    static let chevronDown = HugeiconsAsset(
+        sourceName: "chevron-down",
+        swiftIdentifier: "chevronDown",
+        resourceName: HugeiconsAssets.`chevronDown`.name
+    )
+    static let chevronFirst = HugeiconsAsset(
+        sourceName: "chevron-first",
+        swiftIdentifier: "chevronFirst",
+        resourceName: HugeiconsAssets.`chevronFirst`.name
+    )
+    static let chevronLast = HugeiconsAsset(
+        sourceName: "chevron-last",
+        swiftIdentifier: "chevronLast",
+        resourceName: HugeiconsAssets.`chevronLast`.name
+    )
+    static let chevronLeft = HugeiconsAsset(
+        sourceName: "chevron-left",
+        swiftIdentifier: "chevronLeft",
+        resourceName: HugeiconsAssets.`chevronLeft`.name
+    )
+    static let chevronRight = HugeiconsAsset(
+        sourceName: "chevron-right",
+        swiftIdentifier: "chevronRight",
+        resourceName: HugeiconsAssets.`chevronRight`.name
+    )
+    static let chevronUp = HugeiconsAsset(
+        sourceName: "chevron-up",
+        swiftIdentifier: "chevronUp",
+        resourceName: HugeiconsAssets.`chevronUp`.name
+    )
+    static let chevronsDown = HugeiconsAsset(
+        sourceName: "chevrons-down",
+        swiftIdentifier: "chevronsDown",
+        resourceName: HugeiconsAssets.`chevronsDown`.name
+    )
     static let chevronsDownUp = HugeiconsAsset(
         sourceName: "chevrons-down-up",
         swiftIdentifier: "chevronsDownUp",
         resourceName: HugeiconsAssets.`chevronsDownUp`.name
+    )
+    static let chevronsLeft = HugeiconsAsset(
+        sourceName: "chevrons-left",
+        swiftIdentifier: "chevronsLeft",
+        resourceName: HugeiconsAssets.`chevronsLeft`.name
+    )
+    static let chevronsLeftRight = HugeiconsAsset(
+        sourceName: "chevrons-left-right",
+        swiftIdentifier: "chevronsLeftRight",
+        resourceName: HugeiconsAssets.`chevronsLeftRight`.name
+    )
+    static let chevronsLeftRightEllipsis = HugeiconsAsset(
+        sourceName: "chevrons-left-right-ellipsis",
+        swiftIdentifier: "chevronsLeftRightEllipsis",
+        resourceName: HugeiconsAssets.`chevronsLeftRightEllipsis`.name
+    )
+    static let chevronsRight = HugeiconsAsset(
+        sourceName: "chevrons-right",
+        swiftIdentifier: "chevronsRight",
+        resourceName: HugeiconsAssets.`chevronsRight`.name
+    )
+    static let chevronsRightLeft = HugeiconsAsset(
+        sourceName: "chevrons-right-left",
+        swiftIdentifier: "chevronsRightLeft",
+        resourceName: HugeiconsAssets.`chevronsRightLeft`.name
+    )
+    static let chevronsUp = HugeiconsAsset(
+        sourceName: "chevrons-up",
+        swiftIdentifier: "chevronsUp",
+        resourceName: HugeiconsAssets.`chevronsUp`.name
     )
     static let chickenThighs = HugeiconsAsset(
         sourceName: "chicken-thighs",
@@ -20911,6 +22716,21 @@ enum HugeiconsCatalog {
         swiftIdentifier: "circleArrowMoveUpRight",
         resourceName: HugeiconsAssets.`circleArrowMoveUpRight`.name
     )
+    static let circleArrowOutDownLeft = HugeiconsAsset(
+        sourceName: "circle-arrow-out-down-left",
+        swiftIdentifier: "circleArrowOutDownLeft",
+        resourceName: HugeiconsAssets.`circleArrowOutDownLeft`.name
+    )
+    static let circleArrowOutDownRight = HugeiconsAsset(
+        sourceName: "circle-arrow-out-down-right",
+        swiftIdentifier: "circleArrowOutDownRight",
+        resourceName: HugeiconsAssets.`circleArrowOutDownRight`.name
+    )
+    static let circleArrowOutUpLeft = HugeiconsAsset(
+        sourceName: "circle-arrow-out-up-left",
+        swiftIdentifier: "circleArrowOutUpLeft",
+        resourceName: HugeiconsAssets.`circleArrowOutUpLeft`.name
+    )
     static let circleArrowOutUpRight = HugeiconsAsset(
         sourceName: "circle-arrow-out-up-right",
         swiftIdentifier: "circleArrowOutUpRight",
@@ -21001,6 +22821,76 @@ enum HugeiconsCatalog {
         swiftIdentifier: "circleArrowVertical",
         resourceName: HugeiconsAssets.`circleArrowVertical`.name
     )
+    static let circleCheck = HugeiconsAsset(
+        sourceName: "circle-check",
+        swiftIdentifier: "circleCheck",
+        resourceName: HugeiconsAssets.`circleCheck`.name
+    )
+    static let circleCheckBig = HugeiconsAsset(
+        sourceName: "circle-check-big",
+        swiftIdentifier: "circleCheckBig",
+        resourceName: HugeiconsAssets.`circleCheckBig`.name
+    )
+    static let circleChevronDown = HugeiconsAsset(
+        sourceName: "circle-chevron-down",
+        swiftIdentifier: "circleChevronDown",
+        resourceName: HugeiconsAssets.`circleChevronDown`.name
+    )
+    static let circleChevronLeft = HugeiconsAsset(
+        sourceName: "circle-chevron-left",
+        swiftIdentifier: "circleChevronLeft",
+        resourceName: HugeiconsAssets.`circleChevronLeft`.name
+    )
+    static let circleChevronRight = HugeiconsAsset(
+        sourceName: "circle-chevron-right",
+        swiftIdentifier: "circleChevronRight",
+        resourceName: HugeiconsAssets.`circleChevronRight`.name
+    )
+    static let circleChevronUp = HugeiconsAsset(
+        sourceName: "circle-chevron-up",
+        swiftIdentifier: "circleChevronUp",
+        resourceName: HugeiconsAssets.`circleChevronUp`.name
+    )
+    static let circleDashed = HugeiconsAsset(
+        sourceName: "circle-dashed",
+        swiftIdentifier: "circleDashed",
+        resourceName: HugeiconsAssets.`circleDashed`.name
+    )
+    static let circleDollarSign = HugeiconsAsset(
+        sourceName: "circle-dollar-sign",
+        swiftIdentifier: "circleDollarSign",
+        resourceName: HugeiconsAssets.`circleDollarSign`.name
+    )
+    static let circleDot = HugeiconsAsset(
+        sourceName: "circle-dot",
+        swiftIdentifier: "circleDot",
+        resourceName: HugeiconsAssets.`circleDot`.name
+    )
+    static let circleDotDashed = HugeiconsAsset(
+        sourceName: "circle-dot-dashed",
+        swiftIdentifier: "circleDotDashed",
+        resourceName: HugeiconsAssets.`circleDotDashed`.name
+    )
+    static let circleEllipsis = HugeiconsAsset(
+        sourceName: "circle-ellipsis",
+        swiftIdentifier: "circleEllipsis",
+        resourceName: HugeiconsAssets.`circleEllipsis`.name
+    )
+    static let circleFadingArrowUp = HugeiconsAsset(
+        sourceName: "circle-fading-arrow-up",
+        swiftIdentifier: "circleFadingArrowUp",
+        resourceName: HugeiconsAssets.`circleFadingArrowUp`.name
+    )
+    static let circleFadingPlus = HugeiconsAsset(
+        sourceName: "circle-fading-plus",
+        swiftIdentifier: "circleFadingPlus",
+        resourceName: HugeiconsAssets.`circleFadingPlus`.name
+    )
+    static let circleGauge = HugeiconsAsset(
+        sourceName: "circle-gauge",
+        swiftIdentifier: "circleGauge",
+        resourceName: HugeiconsAssets.`circleGauge`.name
+    )
     static let circleLock01 = HugeiconsAsset(
         sourceName: "circle-lock01",
         swiftIdentifier: "circleLock01",
@@ -21051,6 +22941,21 @@ enum HugeiconsCatalog {
         swiftIdentifier: "circleLockRemove02",
         resourceName: HugeiconsAssets.`circleLockRemove02`.name
     )
+    static let circleMinus = HugeiconsAsset(
+        sourceName: "circle-minus",
+        swiftIdentifier: "circleMinus",
+        resourceName: HugeiconsAssets.`circleMinus`.name
+    )
+    static let circleOff = HugeiconsAsset(
+        sourceName: "circle-off",
+        swiftIdentifier: "circleOff",
+        resourceName: HugeiconsAssets.`circleOff`.name
+    )
+    static let circleParking = HugeiconsAsset(
+        sourceName: "circle-parking",
+        swiftIdentifier: "circleParking",
+        resourceName: HugeiconsAssets.`circleParking`.name
+    )
     static let circleParkingOff = HugeiconsAsset(
         sourceName: "circle-parking-off",
         swiftIdentifier: "circleParkingOff",
@@ -21065,6 +22970,31 @@ enum HugeiconsCatalog {
         sourceName: "circle-pile",
         swiftIdentifier: "circlePile",
         resourceName: HugeiconsAssets.`circlePile`.name
+    )
+    static let circlePlus = HugeiconsAsset(
+        sourceName: "circle-plus",
+        swiftIdentifier: "circlePlus",
+        resourceName: HugeiconsAssets.`circlePlus`.name
+    )
+    static let circlePoundSterling = HugeiconsAsset(
+        sourceName: "circle-pound-sterling",
+        swiftIdentifier: "circlePoundSterling",
+        resourceName: HugeiconsAssets.`circlePoundSterling`.name
+    )
+    static let circlePower = HugeiconsAsset(
+        sourceName: "circle-power",
+        swiftIdentifier: "circlePower",
+        resourceName: HugeiconsAssets.`circlePower`.name
+    )
+    static let circleQuestionMark = HugeiconsAsset(
+        sourceName: "circle-question-mark",
+        swiftIdentifier: "circleQuestionMark",
+        resourceName: HugeiconsAssets.`circleQuestionMark`.name
+    )
+    static let circleSlash2 = HugeiconsAsset(
+        sourceName: "circle-slash2",
+        swiftIdentifier: "circleSlash2",
+        resourceName: HugeiconsAssets.`circleSlash2`.name
     )
     static let circleSlashTwo = HugeiconsAsset(
         sourceName: "circle-slash-two",
@@ -21085,6 +23015,11 @@ enum HugeiconsCatalog {
         sourceName: "circle-unlock02",
         swiftIdentifier: "circleUnlock02",
         resourceName: HugeiconsAssets.`circleUnlock02`.name
+    )
+    static let circleX = HugeiconsAsset(
+        sourceName: "circle-x",
+        swiftIdentifier: "circleX",
+        resourceName: HugeiconsAssets.`circleX`.name
     )
     static let circuitBoard = HugeiconsAsset(
         sourceName: "circuit-board",
@@ -21110,6 +23045,11 @@ enum HugeiconsCatalog {
         sourceName: "city03",
         swiftIdentifier: "city03",
         resourceName: HugeiconsAssets.`city03`.name
+    )
+    static let clapperboard = HugeiconsAsset(
+        sourceName: "clapperboard",
+        swiftIdentifier: "clapperboard",
+        resourceName: HugeiconsAssets.`clapperboard`.name
     )
     static let clapping01 = HugeiconsAsset(
         sourceName: "clapping01",
@@ -21156,6 +23096,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "clipboard",
         resourceName: HugeiconsAssets.`clipboard`.name
     )
+    static let clipboardCheck = HugeiconsAsset(
+        sourceName: "clipboard-check",
+        swiftIdentifier: "clipboardCheck",
+        resourceName: HugeiconsAssets.`clipboardCheck`.name
+    )
     static let clipboardClock = HugeiconsAsset(
         sourceName: "clipboard-clock",
         swiftIdentifier: "clipboardClock",
@@ -21166,6 +23111,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "clipboardCopy",
         resourceName: HugeiconsAssets.`clipboardCopy`.name
     )
+    static let clipboardList = HugeiconsAsset(
+        sourceName: "clipboard-list",
+        swiftIdentifier: "clipboardList",
+        resourceName: HugeiconsAssets.`clipboardList`.name
+    )
     static let clipboardMinus = HugeiconsAsset(
         sourceName: "clipboard-minus",
         swiftIdentifier: "clipboardMinus",
@@ -21175,6 +23125,31 @@ enum HugeiconsCatalog {
         sourceName: "clipboard-paste",
         swiftIdentifier: "clipboardPaste",
         resourceName: HugeiconsAssets.`clipboardPaste`.name
+    )
+    static let clipboardPen = HugeiconsAsset(
+        sourceName: "clipboard-pen",
+        swiftIdentifier: "clipboardPen",
+        resourceName: HugeiconsAssets.`clipboardPen`.name
+    )
+    static let clipboardPenLine = HugeiconsAsset(
+        sourceName: "clipboard-pen-line",
+        swiftIdentifier: "clipboardPenLine",
+        resourceName: HugeiconsAssets.`clipboardPenLine`.name
+    )
+    static let clipboardPlus = HugeiconsAsset(
+        sourceName: "clipboard-plus",
+        swiftIdentifier: "clipboardPlus",
+        resourceName: HugeiconsAssets.`clipboardPlus`.name
+    )
+    static let clipboardType = HugeiconsAsset(
+        sourceName: "clipboard-type",
+        swiftIdentifier: "clipboardType",
+        resourceName: HugeiconsAssets.`clipboardType`.name
+    )
+    static let clipboardX = HugeiconsAsset(
+        sourceName: "clipboard-x",
+        swiftIdentifier: "clipboardX",
+        resourceName: HugeiconsAssets.`clipboardX`.name
     )
     static let clock01 = HugeiconsAsset(
         sourceName: "clock01",
@@ -21201,6 +23176,66 @@ enum HugeiconsCatalog {
         swiftIdentifier: "clock05",
         resourceName: HugeiconsAssets.`clock05`.name
     )
+    static let clock1 = HugeiconsAsset(
+        sourceName: "clock1",
+        swiftIdentifier: "clock1",
+        resourceName: HugeiconsAssets.`clock1`.name
+    )
+    static let clock10 = HugeiconsAsset(
+        sourceName: "clock10",
+        swiftIdentifier: "clock10",
+        resourceName: HugeiconsAssets.`clock10`.name
+    )
+    static let clock11 = HugeiconsAsset(
+        sourceName: "clock11",
+        swiftIdentifier: "clock11",
+        resourceName: HugeiconsAssets.`clock11`.name
+    )
+    static let clock12 = HugeiconsAsset(
+        sourceName: "clock12",
+        swiftIdentifier: "clock12",
+        resourceName: HugeiconsAssets.`clock12`.name
+    )
+    static let clock2 = HugeiconsAsset(
+        sourceName: "clock2",
+        swiftIdentifier: "clock2",
+        resourceName: HugeiconsAssets.`clock2`.name
+    )
+    static let clock3 = HugeiconsAsset(
+        sourceName: "clock3",
+        swiftIdentifier: "clock3",
+        resourceName: HugeiconsAssets.`clock3`.name
+    )
+    static let clock4 = HugeiconsAsset(
+        sourceName: "clock4",
+        swiftIdentifier: "clock4",
+        resourceName: HugeiconsAssets.`clock4`.name
+    )
+    static let clock5 = HugeiconsAsset(
+        sourceName: "clock5",
+        swiftIdentifier: "clock5",
+        resourceName: HugeiconsAssets.`clock5`.name
+    )
+    static let clock6 = HugeiconsAsset(
+        sourceName: "clock6",
+        swiftIdentifier: "clock6",
+        resourceName: HugeiconsAssets.`clock6`.name
+    )
+    static let clock7 = HugeiconsAsset(
+        sourceName: "clock7",
+        swiftIdentifier: "clock7",
+        resourceName: HugeiconsAssets.`clock7`.name
+    )
+    static let clock8 = HugeiconsAsset(
+        sourceName: "clock8",
+        swiftIdentifier: "clock8",
+        resourceName: HugeiconsAssets.`clock8`.name
+    )
+    static let clock9 = HugeiconsAsset(
+        sourceName: "clock9",
+        swiftIdentifier: "clock9",
+        resourceName: HugeiconsAssets.`clock9`.name
+    )
     static let clockAdd = HugeiconsAsset(
         sourceName: "clock-add",
         swiftIdentifier: "clockAdd",
@@ -21225,6 +23260,11 @@ enum HugeiconsCatalog {
         sourceName: "clock-check",
         swiftIdentifier: "clockCheck",
         resourceName: HugeiconsAssets.`clockCheck`.name
+    )
+    static let clockFading = HugeiconsAsset(
+        sourceName: "clock-fading",
+        swiftIdentifier: "clockFading",
+        resourceName: HugeiconsAssets.`clockFading`.name
     )
     static let clockPlus = HugeiconsAsset(
         sourceName: "clock-plus",
@@ -21271,25 +23311,60 @@ enum HugeiconsCatalog {
         swiftIdentifier: "cloudAngledZap",
         resourceName: HugeiconsAssets.`cloudAngledZap`.name
     )
+    static let cloudBackup = HugeiconsAsset(
+        sourceName: "cloud-backup",
+        swiftIdentifier: "cloudBackup",
+        resourceName: HugeiconsAssets.`cloudBackup`.name
+    )
     static let cloudBigRain = HugeiconsAsset(
         sourceName: "cloud-big-rain",
         swiftIdentifier: "cloudBigRain",
         resourceName: HugeiconsAssets.`cloudBigRain`.name
+    )
+    static let cloudCheck = HugeiconsAsset(
+        sourceName: "cloud-check",
+        swiftIdentifier: "cloudCheck",
+        resourceName: HugeiconsAssets.`cloudCheck`.name
+    )
+    static let cloudCog = HugeiconsAsset(
+        sourceName: "cloud-cog",
+        swiftIdentifier: "cloudCog",
+        resourceName: HugeiconsAssets.`cloudCog`.name
     )
     static let cloudDownload = HugeiconsAsset(
         sourceName: "cloud-download",
         swiftIdentifier: "cloudDownload",
         resourceName: HugeiconsAssets.`cloudDownload`.name
     )
+    static let cloudDrizzle = HugeiconsAsset(
+        sourceName: "cloud-drizzle",
+        swiftIdentifier: "cloudDrizzle",
+        resourceName: HugeiconsAssets.`cloudDrizzle`.name
+    )
     static let cloudFastWind = HugeiconsAsset(
         sourceName: "cloud-fast-wind",
         swiftIdentifier: "cloudFastWind",
         resourceName: HugeiconsAssets.`cloudFastWind`.name
     )
+    static let cloudFog = HugeiconsAsset(
+        sourceName: "cloud-fog",
+        swiftIdentifier: "cloudFog",
+        resourceName: HugeiconsAssets.`cloudFog`.name
+    )
+    static let cloudHail = HugeiconsAsset(
+        sourceName: "cloud-hail",
+        swiftIdentifier: "cloudHail",
+        resourceName: HugeiconsAssets.`cloudHail`.name
+    )
     static let cloudHailstone = HugeiconsAsset(
         sourceName: "cloud-hailstone",
         swiftIdentifier: "cloudHailstone",
         resourceName: HugeiconsAssets.`cloudHailstone`.name
+    )
+    static let cloudLightning = HugeiconsAsset(
+        sourceName: "cloud-lightning",
+        swiftIdentifier: "cloudLightning",
+        resourceName: HugeiconsAssets.`cloudLightning`.name
     )
     static let cloudLittleRain = HugeiconsAsset(
         sourceName: "cloud-little-rain",
@@ -21316,10 +23391,25 @@ enum HugeiconsCatalog {
         swiftIdentifier: "cloudMidSnow",
         resourceName: HugeiconsAssets.`cloudMidSnow`.name
     )
+    static let cloudMoonRain = HugeiconsAsset(
+        sourceName: "cloud-moon-rain",
+        swiftIdentifier: "cloudMoonRain",
+        resourceName: HugeiconsAssets.`cloudMoonRain`.name
+    )
     static let cloudOff = HugeiconsAsset(
         sourceName: "cloud-off",
         swiftIdentifier: "cloudOff",
         resourceName: HugeiconsAssets.`cloudOff`.name
+    )
+    static let cloudRain = HugeiconsAsset(
+        sourceName: "cloud-rain",
+        swiftIdentifier: "cloudRain",
+        resourceName: HugeiconsAssets.`cloudRain`.name
+    )
+    static let cloudRainWind = HugeiconsAsset(
+        sourceName: "cloud-rain-wind",
+        swiftIdentifier: "cloudRainWind",
+        resourceName: HugeiconsAssets.`cloudRainWind`.name
     )
     static let cloudSavingDone01 = HugeiconsAsset(
         sourceName: "cloud-saving-done01",
@@ -21346,10 +23436,35 @@ enum HugeiconsCatalog {
         swiftIdentifier: "cloudSnow",
         resourceName: HugeiconsAssets.`cloudSnow`.name
     )
+    static let cloudSunRain = HugeiconsAsset(
+        sourceName: "cloud-sun-rain",
+        swiftIdentifier: "cloudSunRain",
+        resourceName: HugeiconsAssets.`cloudSunRain`.name
+    )
+    static let cloudSync = HugeiconsAsset(
+        sourceName: "cloud-sync",
+        swiftIdentifier: "cloudSync",
+        resourceName: HugeiconsAssets.`cloudSync`.name
+    )
     static let cloudUpload = HugeiconsAsset(
         sourceName: "cloud-upload",
         swiftIdentifier: "cloudUpload",
         resourceName: HugeiconsAssets.`cloudUpload`.name
+    )
+    static let cloudy = HugeiconsAsset(
+        sourceName: "cloudy",
+        swiftIdentifier: "cloudy",
+        resourceName: HugeiconsAssets.`cloudy`.name
+    )
+    static let clover = HugeiconsAsset(
+        sourceName: "clover",
+        swiftIdentifier: "clover",
+        resourceName: HugeiconsAssets.`clover`.name
+    )
+    static let club = HugeiconsAsset(
+        sourceName: "club",
+        swiftIdentifier: "club",
+        resourceName: HugeiconsAssets.`club`.name
     )
     static let clubs01 = HugeiconsAsset(
         sourceName: "clubs01",
@@ -21390,6 +23505,11 @@ enum HugeiconsCatalog {
         sourceName: "code-square",
         swiftIdentifier: "codeSquare",
         resourceName: HugeiconsAssets.`codeSquare`.name
+    )
+    static let codeXml = HugeiconsAsset(
+        sourceName: "code-xml",
+        swiftIdentifier: "codeXml",
+        resourceName: HugeiconsAssets.`codeXml`.name
     )
     static let codepen = HugeiconsAsset(
         sourceName: "codepen",
@@ -21761,6 +23881,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "computerVideoCall",
         resourceName: HugeiconsAssets.`computerVideoCall`.name
     )
+    static let conciergeBell = HugeiconsAsset(
+        sourceName: "concierge-bell",
+        swiftIdentifier: "conciergeBell",
+        resourceName: HugeiconsAssets.`conciergeBell`.name
+    )
     static let cone01 = HugeiconsAsset(
         sourceName: "cone01",
         swiftIdentifier: "cone01",
@@ -21846,6 +23971,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "contactBook",
         resourceName: HugeiconsAssets.`contactBook`.name
     )
+    static let contactRound = HugeiconsAsset(
+        sourceName: "contact-round",
+        swiftIdentifier: "contactRound",
+        resourceName: HugeiconsAssets.`contactRound`.name
+    )
     static let container = HugeiconsAsset(
         sourceName: "container",
         swiftIdentifier: "container",
@@ -21876,6 +24006,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "contracts",
         resourceName: HugeiconsAssets.`contracts`.name
     )
+    static let contrast = HugeiconsAsset(
+        sourceName: "contrast",
+        swiftIdentifier: "contrast",
+        resourceName: HugeiconsAssets.`contrast`.name
+    )
     static let conversation = HugeiconsAsset(
         sourceName: "conversation",
         swiftIdentifier: "conversation",
@@ -21890,6 +24025,11 @@ enum HugeiconsCatalog {
         sourceName: "cookie",
         swiftIdentifier: "cookie",
         resourceName: HugeiconsAssets.`cookie`.name
+    )
+    static let cookingPot = HugeiconsAsset(
+        sourceName: "cooking-pot",
+        swiftIdentifier: "cookingPot",
+        resourceName: HugeiconsAssets.`cookingPot`.name
     )
     static let coordinate01 = HugeiconsAsset(
         sourceName: "coordinate01",
@@ -21946,6 +24086,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "copySlash",
         resourceName: HugeiconsAssets.`copySlash`.name
     )
+    static let copyX = HugeiconsAsset(
+        sourceName: "copy-x",
+        swiftIdentifier: "copyX",
+        resourceName: HugeiconsAssets.`copyX`.name
+    )
     static let copyleft = HugeiconsAsset(
         sourceName: "copyleft",
         swiftIdentifier: "copyleft",
@@ -21960,6 +24105,46 @@ enum HugeiconsCatalog {
         sourceName: "corn",
         swiftIdentifier: "corn",
         resourceName: HugeiconsAssets.`corn`.name
+    )
+    static let cornerDownLeft = HugeiconsAsset(
+        sourceName: "corner-down-left",
+        swiftIdentifier: "cornerDownLeft",
+        resourceName: HugeiconsAssets.`cornerDownLeft`.name
+    )
+    static let cornerDownRight = HugeiconsAsset(
+        sourceName: "corner-down-right",
+        swiftIdentifier: "cornerDownRight",
+        resourceName: HugeiconsAssets.`cornerDownRight`.name
+    )
+    static let cornerLeftDown = HugeiconsAsset(
+        sourceName: "corner-left-down",
+        swiftIdentifier: "cornerLeftDown",
+        resourceName: HugeiconsAssets.`cornerLeftDown`.name
+    )
+    static let cornerLeftUp = HugeiconsAsset(
+        sourceName: "corner-left-up",
+        swiftIdentifier: "cornerLeftUp",
+        resourceName: HugeiconsAssets.`cornerLeftUp`.name
+    )
+    static let cornerRightDown = HugeiconsAsset(
+        sourceName: "corner-right-down",
+        swiftIdentifier: "cornerRightDown",
+        resourceName: HugeiconsAssets.`cornerRightDown`.name
+    )
+    static let cornerRightUp = HugeiconsAsset(
+        sourceName: "corner-right-up",
+        swiftIdentifier: "cornerRightUp",
+        resourceName: HugeiconsAssets.`cornerRightUp`.name
+    )
+    static let cornerUpLeft = HugeiconsAsset(
+        sourceName: "corner-up-left",
+        swiftIdentifier: "cornerUpLeft",
+        resourceName: HugeiconsAssets.`cornerUpLeft`.name
+    )
+    static let cornerUpRight = HugeiconsAsset(
+        sourceName: "corner-up-right",
+        swiftIdentifier: "cornerUpRight",
+        resourceName: HugeiconsAssets.`cornerUpRight`.name
     )
     static let corporate = HugeiconsAsset(
         sourceName: "corporate",
@@ -22156,6 +24341,16 @@ enum HugeiconsCatalog {
         swiftIdentifier: "crop",
         resourceName: HugeiconsAssets.`crop`.name
     )
+    static let cross = HugeiconsAsset(
+        sourceName: "cross",
+        swiftIdentifier: "cross",
+        resourceName: HugeiconsAssets.`cross`.name
+    )
+    static let crosshair = HugeiconsAsset(
+        sourceName: "crosshair",
+        swiftIdentifier: "crosshair",
+        resourceName: HugeiconsAssets.`crosshair`.name
+    )
     static let crowdfunding = HugeiconsAsset(
         sourceName: "crowdfunding",
         swiftIdentifier: "crowdfunding",
@@ -22220,6 +24415,11 @@ enum HugeiconsCatalog {
         sourceName: "cube",
         swiftIdentifier: "cube",
         resourceName: HugeiconsAssets.`cube`.name
+    )
+    static let cupSoda = HugeiconsAsset(
+        sourceName: "cup-soda",
+        swiftIdentifier: "cupSoda",
+        resourceName: HugeiconsAssets.`cupSoda`.name
     )
     static let cupcake01 = HugeiconsAsset(
         sourceName: "cupcake01",
@@ -22626,6 +24826,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "databaseAdd",
         resourceName: HugeiconsAssets.`databaseAdd`.name
     )
+    static let databaseBackup = HugeiconsAsset(
+        sourceName: "database-backup",
+        swiftIdentifier: "databaseBackup",
+        resourceName: HugeiconsAssets.`databaseBackup`.name
+    )
     static let databaseExpand = HugeiconsAsset(
         sourceName: "database-expand",
         swiftIdentifier: "databaseExpand",
@@ -22656,6 +24861,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "databaseRestore",
         resourceName: HugeiconsAssets.`databaseRestore`.name
     )
+    static let databaseSearch = HugeiconsAsset(
+        sourceName: "database-search",
+        swiftIdentifier: "databaseSearch",
+        resourceName: HugeiconsAssets.`databaseSearch`.name
+    )
     static let databaseSetting = HugeiconsAsset(
         sourceName: "database-setting",
         swiftIdentifier: "databaseSetting",
@@ -22670,6 +24880,11 @@ enum HugeiconsCatalog {
         sourceName: "database-sync01",
         swiftIdentifier: "databaseSync01",
         resourceName: HugeiconsAssets.`databaseSync01`.name
+    )
+    static let databaseZap = HugeiconsAsset(
+        sourceName: "database-zap",
+        swiftIdentifier: "databaseZap",
+        resourceName: HugeiconsAssets.`databaseZap`.name
     )
     static let dateTime = HugeiconsAsset(
         sourceName: "date-time",
@@ -22866,6 +25081,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "desk02",
         resourceName: HugeiconsAssets.`desk02`.name
     )
+    static let dessert = HugeiconsAsset(
+        sourceName: "dessert",
+        swiftIdentifier: "dessert",
+        resourceName: HugeiconsAssets.`dessert`.name
+    )
     static let detergent = HugeiconsAsset(
         sourceName: "detergent",
         swiftIdentifier: "detergent",
@@ -22990,6 +25210,11 @@ enum HugeiconsCatalog {
         sourceName: "dice-faces06",
         swiftIdentifier: "diceFaces06",
         resourceName: HugeiconsAssets.`diceFaces06`.name
+    )
+    static let dices = HugeiconsAsset(
+        sourceName: "dices",
+        swiftIdentifier: "dices",
+        resourceName: HugeiconsAssets.`dices`.name
     )
     static let digestion = HugeiconsAsset(
         sourceName: "digestion",
@@ -23206,6 +25431,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "dna01",
         resourceName: HugeiconsAssets.`dna01`.name
     )
+    static let dnaOff = HugeiconsAsset(
+        sourceName: "dna-off",
+        swiftIdentifier: "dnaOff",
+        resourceName: HugeiconsAssets.`dnaOff`.name
+    )
     static let doNotTouch01 = HugeiconsAsset(
         sourceName: "do-not-touch01",
         swiftIdentifier: "doNotTouch01",
@@ -23225,6 +25455,11 @@ enum HugeiconsCatalog {
         sourceName: "doc02",
         swiftIdentifier: "doc02",
         resourceName: HugeiconsAssets.`doc02`.name
+    )
+    static let dock = HugeiconsAsset(
+        sourceName: "dock",
+        swiftIdentifier: "dock",
+        resourceName: HugeiconsAssets.`dock`.name
     )
     static let doctor01 = HugeiconsAsset(
         sourceName: "doctor01",
@@ -23291,6 +25526,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "dollarSend02",
         resourceName: HugeiconsAssets.`dollarSend02`.name
     )
+    static let dollarSign = HugeiconsAsset(
+        sourceName: "dollar-sign",
+        swiftIdentifier: "dollarSign",
+        resourceName: HugeiconsAssets.`dollarSign`.name
+    )
     static let dollarSquare = HugeiconsAsset(
         sourceName: "dollar-square",
         swiftIdentifier: "dollarSquare",
@@ -23305,6 +25545,11 @@ enum HugeiconsCatalog {
         sourceName: "domino",
         swiftIdentifier: "domino",
         resourceName: HugeiconsAssets.`domino`.name
+    )
+    static let donut = HugeiconsAsset(
+        sourceName: "donut",
+        swiftIdentifier: "donut",
+        resourceName: HugeiconsAssets.`donut`.name
     )
     static let door = HugeiconsAsset(
         sourceName: "door",
@@ -23321,6 +25566,16 @@ enum HugeiconsCatalog {
         swiftIdentifier: "door02",
         resourceName: HugeiconsAssets.`door02`.name
     )
+    static let doorClosed = HugeiconsAsset(
+        sourceName: "door-closed",
+        swiftIdentifier: "doorClosed",
+        resourceName: HugeiconsAssets.`doorClosed`.name
+    )
+    static let doorClosedLocked = HugeiconsAsset(
+        sourceName: "door-closed-locked",
+        swiftIdentifier: "doorClosedLocked",
+        resourceName: HugeiconsAssets.`doorClosedLocked`.name
+    )
     static let doorLock = HugeiconsAsset(
         sourceName: "door-lock",
         swiftIdentifier: "doorLock",
@@ -23330,6 +25585,11 @@ enum HugeiconsCatalog {
         sourceName: "door-open",
         swiftIdentifier: "doorOpen",
         resourceName: HugeiconsAssets.`doorOpen`.name
+    )
+    static let dot = HugeiconsAsset(
+        sourceName: "dot",
+        swiftIdentifier: "dot",
+        resourceName: HugeiconsAssets.`dot`.name
     )
     static let doughnut = HugeiconsAsset(
         sourceName: "doughnut",
@@ -23385,6 +25645,11 @@ enum HugeiconsCatalog {
         sourceName: "download-square02",
         swiftIdentifier: "downloadSquare02",
         resourceName: HugeiconsAssets.`downloadSquare02`.name
+    )
+    static let draftingCompass = HugeiconsAsset(
+        sourceName: "drafting-compass",
+        swiftIdentifier: "draftingCompass",
+        resourceName: HugeiconsAssets.`draftingCompass`.name
     )
     static let drag01 = HugeiconsAsset(
         sourceName: "drag01",
@@ -23460,6 +25725,11 @@ enum HugeiconsCatalog {
         sourceName: "drag-right04",
         swiftIdentifier: "dragRight04",
         resourceName: HugeiconsAssets.`dragRight04`.name
+    )
+    static let drama = HugeiconsAsset(
+        sourceName: "drama",
+        swiftIdentifier: "drama",
+        resourceName: HugeiconsAssets.`drama`.name
     )
     static let drawingCompass = HugeiconsAsset(
         sourceName: "drawing-compass",
@@ -23571,10 +25841,25 @@ enum HugeiconsCatalog {
         swiftIdentifier: "dropletOff",
         resourceName: HugeiconsAssets.`dropletOff`.name
     )
+    static let droplets = HugeiconsAsset(
+        sourceName: "droplets",
+        swiftIdentifier: "droplets",
+        resourceName: HugeiconsAssets.`droplets`.name
+    )
     static let dropper = HugeiconsAsset(
         sourceName: "dropper",
         swiftIdentifier: "dropper",
         resourceName: HugeiconsAssets.`dropper`.name
+    )
+    static let drum = HugeiconsAsset(
+        sourceName: "drum",
+        swiftIdentifier: "drum",
+        resourceName: HugeiconsAssets.`drum`.name
+    )
+    static let drumstick = HugeiconsAsset(
+        sourceName: "drumstick",
+        swiftIdentifier: "drumstick",
+        resourceName: HugeiconsAssets.`drumstick`.name
     )
     static let ds3Tool = HugeiconsAsset(
         sourceName: "ds3-tool",
@@ -23670,6 +25955,11 @@ enum HugeiconsCatalog {
         sourceName: "ease-out-control-point",
         swiftIdentifier: "easeOutControlPoint",
         resourceName: HugeiconsAssets.`easeOutControlPoint`.name
+    )
+    static let eclipse = HugeiconsAsset(
+        sourceName: "eclipse",
+        swiftIdentifier: "eclipse",
+        resourceName: HugeiconsAssets.`eclipse`.name
     )
     static let ecoEnergy = HugeiconsAsset(
         sourceName: "eco-energy",
@@ -23831,10 +26121,25 @@ enum HugeiconsCatalog {
         swiftIdentifier: "electricityStack",
         resourceName: HugeiconsAssets.`electricityStack`.name
     )
+    static let ellipse = HugeiconsAsset(
+        sourceName: "ellipse",
+        swiftIdentifier: "ellipse",
+        resourceName: HugeiconsAssets.`ellipse`.name
+    )
     static let ellipseSelection = HugeiconsAsset(
         sourceName: "ellipse-selection",
         swiftIdentifier: "ellipseSelection",
         resourceName: HugeiconsAssets.`ellipseSelection`.name
+    )
+    static let ellipsis = HugeiconsAsset(
+        sourceName: "ellipsis",
+        swiftIdentifier: "ellipsis",
+        resourceName: HugeiconsAssets.`ellipsis`.name
+    )
+    static let ellipsisVertical = HugeiconsAsset(
+        sourceName: "ellipsis-vertical",
+        swiftIdentifier: "ellipsisVertical",
+        resourceName: HugeiconsAssets.`ellipsisVertical`.name
     )
     static let encrypt = HugeiconsAsset(
         sourceName: "encrypt",
@@ -24001,6 +26306,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "euroSquare",
         resourceName: HugeiconsAssets.`euroSquare`.name
     )
+    static let evCharger = HugeiconsAsset(
+        sourceName: "ev-charger",
+        swiftIdentifier: "evCharger",
+        resourceName: HugeiconsAssets.`evCharger`.name
+    )
     static let evCharging = HugeiconsAsset(
         sourceName: "ev-charging",
         swiftIdentifier: "evCharging",
@@ -24076,10 +26386,25 @@ enum HugeiconsCatalog {
         swiftIdentifier: "externalDrive",
         resourceName: HugeiconsAssets.`externalDrive`.name
     )
+    static let externalLink = HugeiconsAsset(
+        sourceName: "external-link",
+        swiftIdentifier: "externalLink",
+        resourceName: HugeiconsAssets.`externalLink`.name
+    )
     static let eye = HugeiconsAsset(
         sourceName: "eye",
         swiftIdentifier: "eye",
         resourceName: HugeiconsAssets.`eye`.name
+    )
+    static let eyeClosed = HugeiconsAsset(
+        sourceName: "eye-closed",
+        swiftIdentifier: "eyeClosed",
+        resourceName: HugeiconsAssets.`eyeClosed`.name
+    )
+    static let eyeOff = HugeiconsAsset(
+        sourceName: "eye-off",
+        swiftIdentifier: "eyeOff",
+        resourceName: HugeiconsAssets.`eyeOff`.name
     )
     static let faceId = HugeiconsAsset(
         sourceName: "face-id",
@@ -24130,6 +26455,11 @@ enum HugeiconsCatalog {
         sourceName: "fan02",
         swiftIdentifier: "fan02",
         resourceName: HugeiconsAssets.`fan02`.name
+    )
+    static let fastForward = HugeiconsAsset(
+        sourceName: "fast-forward",
+        swiftIdentifier: "fastForward",
+        resourceName: HugeiconsAssets.`fastForward`.name
     )
     static let fastWind = HugeiconsAsset(
         sourceName: "fast-wind",
@@ -24226,6 +26556,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "fileAudio",
         resourceName: HugeiconsAssets.`fileAudio`.name
     )
+    static let fileAxis3D = HugeiconsAsset(
+        sourceName: "file-axis3-d",
+        swiftIdentifier: "fileAxis3D",
+        resourceName: HugeiconsAssets.`fileAxis3D`.name
+    )
     static let fileAxisThreeD = HugeiconsAsset(
         sourceName: "file-axis-three-d",
         swiftIdentifier: "fileAxisThreeD",
@@ -24261,6 +26596,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "fileBraces",
         resourceName: HugeiconsAssets.`fileBraces`.name
     )
+    static let fileBracesCorner = HugeiconsAsset(
+        sourceName: "file-braces-corner",
+        swiftIdentifier: "fileBracesCorner",
+        resourceName: HugeiconsAssets.`fileBracesCorner`.name
+    )
     static let fileChartColumn = HugeiconsAsset(
         sourceName: "file-chart-column",
         swiftIdentifier: "fileChartColumn",
@@ -24271,10 +26611,25 @@ enum HugeiconsCatalog {
         swiftIdentifier: "fileChartColumnIncreasing",
         resourceName: HugeiconsAssets.`fileChartColumnIncreasing`.name
     )
+    static let fileChartLine = HugeiconsAsset(
+        sourceName: "file-chart-line",
+        swiftIdentifier: "fileChartLine",
+        resourceName: HugeiconsAssets.`fileChartLine`.name
+    )
     static let fileChartPie = HugeiconsAsset(
         sourceName: "file-chart-pie",
         swiftIdentifier: "fileChartPie",
         resourceName: HugeiconsAssets.`fileChartPie`.name
+    )
+    static let fileCheck = HugeiconsAsset(
+        sourceName: "file-check",
+        swiftIdentifier: "fileCheck",
+        resourceName: HugeiconsAssets.`fileCheck`.name
+    )
+    static let fileCheckCorner = HugeiconsAsset(
+        sourceName: "file-check-corner",
+        swiftIdentifier: "fileCheckCorner",
+        resourceName: HugeiconsAssets.`fileCheckCorner`.name
     )
     static let fileClock = HugeiconsAsset(
         sourceName: "file-clock",
@@ -24295,6 +26650,11 @@ enum HugeiconsCatalog {
         sourceName: "file-code-corner",
         swiftIdentifier: "fileCodeCorner",
         resourceName: HugeiconsAssets.`fileCodeCorner`.name
+    )
+    static let fileCog = HugeiconsAsset(
+        sourceName: "file-cog",
+        swiftIdentifier: "fileCog",
+        resourceName: HugeiconsAssets.`fileCog`.name
     )
     static let fileCorrupt = HugeiconsAsset(
         sourceName: "file-corrupt",
@@ -24736,6 +27096,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "fingerPrintScan",
         resourceName: HugeiconsAssets.`fingerPrintScan`.name
     )
+    static let fingerprintPattern = HugeiconsAsset(
+        sourceName: "fingerprint-pattern",
+        swiftIdentifier: "fingerprintPattern",
+        resourceName: HugeiconsAssets.`fingerprintPattern`.name
+    )
     static let fins = HugeiconsAsset(
         sourceName: "fins",
         swiftIdentifier: "fins",
@@ -24801,6 +27166,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "firstBracketSquare",
         resourceName: HugeiconsAssets.`firstBracketSquare`.name
     )
+    static let fish = HugeiconsAsset(
+        sourceName: "fish",
+        swiftIdentifier: "fish",
+        resourceName: HugeiconsAssets.`fish`.name
+    )
     static let fishFood = HugeiconsAsset(
         sourceName: "fish-food",
         swiftIdentifier: "fishFood",
@@ -24820,6 +27190,11 @@ enum HugeiconsCatalog {
         sourceName: "fishing-hook",
         swiftIdentifier: "fishingHook",
         resourceName: HugeiconsAssets.`fishingHook`.name
+    )
+    static let fishingRod = HugeiconsAsset(
+        sourceName: "fishing-rod",
+        swiftIdentifier: "fishingRod",
+        resourceName: HugeiconsAssets.`fishingRod`.name
     )
     static let fitToScreen = HugeiconsAsset(
         sourceName: "fit-to-screen",
@@ -24856,6 +27231,26 @@ enum HugeiconsCatalog {
         swiftIdentifier: "flag03",
         resourceName: HugeiconsAssets.`flag03`.name
     )
+    static let flagOff = HugeiconsAsset(
+        sourceName: "flag-off",
+        swiftIdentifier: "flagOff",
+        resourceName: HugeiconsAssets.`flagOff`.name
+    )
+    static let flagTriangleLeft = HugeiconsAsset(
+        sourceName: "flag-triangle-left",
+        swiftIdentifier: "flagTriangleLeft",
+        resourceName: HugeiconsAssets.`flagTriangleLeft`.name
+    )
+    static let flagTriangleRight = HugeiconsAsset(
+        sourceName: "flag-triangle-right",
+        swiftIdentifier: "flagTriangleRight",
+        resourceName: HugeiconsAssets.`flagTriangleRight`.name
+    )
+    static let flame = HugeiconsAsset(
+        sourceName: "flame",
+        swiftIdentifier: "flame",
+        resourceName: HugeiconsAssets.`flame`.name
+    )
     static let flameKindling = HugeiconsAsset(
         sourceName: "flame-kindling",
         swiftIdentifier: "flameKindling",
@@ -24875,6 +27270,26 @@ enum HugeiconsCatalog {
         sourceName: "flashlight",
         swiftIdentifier: "flashlight",
         resourceName: HugeiconsAssets.`flashlight`.name
+    )
+    static let flashlightOff = HugeiconsAsset(
+        sourceName: "flashlight-off",
+        swiftIdentifier: "flashlightOff",
+        resourceName: HugeiconsAssets.`flashlightOff`.name
+    )
+    static let flaskConical = HugeiconsAsset(
+        sourceName: "flask-conical",
+        swiftIdentifier: "flaskConical",
+        resourceName: HugeiconsAssets.`flaskConical`.name
+    )
+    static let flaskConicalOff = HugeiconsAsset(
+        sourceName: "flask-conical-off",
+        swiftIdentifier: "flaskConicalOff",
+        resourceName: HugeiconsAssets.`flaskConicalOff`.name
+    )
+    static let flaskRound = HugeiconsAsset(
+        sourceName: "flask-round",
+        swiftIdentifier: "flaskRound",
+        resourceName: HugeiconsAssets.`flaskRound`.name
     )
     static let flaticon = HugeiconsAsset(
         sourceName: "flaticon",
@@ -24901,6 +27316,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "flipHorizontal",
         resourceName: HugeiconsAssets.`flipHorizontal`.name
     )
+    static let flipHorizontal2 = HugeiconsAsset(
+        sourceName: "flip-horizontal2",
+        swiftIdentifier: "flipHorizontal2",
+        resourceName: HugeiconsAssets.`flipHorizontal2`.name
+    )
     static let flipLeft = HugeiconsAsset(
         sourceName: "flip-left",
         swiftIdentifier: "flipLeft",
@@ -24925,6 +27345,11 @@ enum HugeiconsCatalog {
         sourceName: "flip-vertical",
         swiftIdentifier: "flipVertical",
         resourceName: HugeiconsAssets.`flipVertical`.name
+    )
+    static let flipVertical2 = HugeiconsAsset(
+        sourceName: "flip-vertical2",
+        swiftIdentifier: "flipVertical2",
+        resourceName: HugeiconsAssets.`flipVertical2`.name
     )
     static let floorPlan = HugeiconsAsset(
         sourceName: "floor-plan",
@@ -24971,6 +27396,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "flower",
         resourceName: HugeiconsAssets.`flower`.name
     )
+    static let flower2 = HugeiconsAsset(
+        sourceName: "flower2",
+        swiftIdentifier: "flower2",
+        resourceName: HugeiconsAssets.`flower2`.name
+    )
     static let flowerPot = HugeiconsAsset(
         sourceName: "flower-pot",
         swiftIdentifier: "flowerPot",
@@ -24986,10 +27416,25 @@ enum HugeiconsCatalog {
         swiftIdentifier: "flyingHuman",
         resourceName: HugeiconsAssets.`flyingHuman`.name
     )
+    static let focus = HugeiconsAsset(
+        sourceName: "focus",
+        swiftIdentifier: "focus",
+        resourceName: HugeiconsAssets.`focus`.name
+    )
     static let focusPoint = HugeiconsAsset(
         sourceName: "focus-point",
         swiftIdentifier: "focusPoint",
         resourceName: HugeiconsAssets.`focusPoint`.name
+    )
+    static let foldHorizontal = HugeiconsAsset(
+        sourceName: "fold-horizontal",
+        swiftIdentifier: "foldHorizontal",
+        resourceName: HugeiconsAssets.`foldHorizontal`.name
+    )
+    static let foldVertical = HugeiconsAsset(
+        sourceName: "fold-vertical",
+        swiftIdentifier: "foldVertical",
+        resourceName: HugeiconsAssets.`foldVertical`.name
     )
     static let folder01 = HugeiconsAsset(
         sourceName: "folder01",
@@ -25291,6 +27736,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "footballPitch",
         resourceName: HugeiconsAssets.`footballPitch`.name
     )
+    static let footprints = HugeiconsAsset(
+        sourceName: "footprints",
+        swiftIdentifier: "footprints",
+        resourceName: HugeiconsAssets.`footprints`.name
+    )
     static let forgotPassword = HugeiconsAsset(
         sourceName: "forgot-password",
         swiftIdentifier: "forgotPassword",
@@ -25300,6 +27750,16 @@ enum HugeiconsCatalog {
         sourceName: "fork",
         swiftIdentifier: "fork",
         resourceName: HugeiconsAssets.`fork`.name
+    )
+    static let forklift = HugeiconsAsset(
+        sourceName: "forklift",
+        swiftIdentifier: "forklift",
+        resourceName: HugeiconsAssets.`forklift`.name
+    )
+    static let form = HugeiconsAsset(
+        sourceName: "form",
+        swiftIdentifier: "form",
+        resourceName: HugeiconsAssets.`form`.name
     )
     static let forrst = HugeiconsAsset(
         sourceName: "forrst",
@@ -25346,6 +27806,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "fourSquare",
         resourceName: HugeiconsAssets.`fourSquare`.name
     )
+    static let frame = HugeiconsAsset(
+        sourceName: "frame",
+        swiftIdentifier: "frame",
+        resourceName: HugeiconsAssets.`frame`.name
+    )
     static let framer = HugeiconsAsset(
         sourceName: "framer",
         swiftIdentifier: "framer",
@@ -25375,6 +27840,11 @@ enum HugeiconsCatalog {
         sourceName: "frisbee",
         swiftIdentifier: "frisbee",
         resourceName: HugeiconsAssets.`frisbee`.name
+    )
+    static let frown = HugeiconsAsset(
+        sourceName: "frown",
+        swiftIdentifier: "frown",
+        resourceName: HugeiconsAssets.`frown`.name
     )
     static let fry = HugeiconsAsset(
         sourceName: "fry",
@@ -25431,15 +27901,50 @@ enum HugeiconsCatalog {
         swiftIdentifier: "functionSquare",
         resourceName: HugeiconsAssets.`functionSquare`.name
     )
+    static let funnel = HugeiconsAsset(
+        sourceName: "funnel",
+        swiftIdentifier: "funnel",
+        resourceName: HugeiconsAssets.`funnel`.name
+    )
+    static let funnelPlus = HugeiconsAsset(
+        sourceName: "funnel-plus",
+        swiftIdentifier: "funnelPlus",
+        resourceName: HugeiconsAssets.`funnelPlus`.name
+    )
+    static let funnelX = HugeiconsAsset(
+        sourceName: "funnel-x",
+        swiftIdentifier: "funnelX",
+        resourceName: HugeiconsAssets.`funnelX`.name
+    )
     static let galaxy = HugeiconsAsset(
         sourceName: "galaxy",
         swiftIdentifier: "galaxy",
         resourceName: HugeiconsAssets.`galaxy`.name
     )
+    static let galleryHorizontal = HugeiconsAsset(
+        sourceName: "gallery-horizontal",
+        swiftIdentifier: "galleryHorizontal",
+        resourceName: HugeiconsAssets.`galleryHorizontal`.name
+    )
     static let galleryHorizontalEnd = HugeiconsAsset(
         sourceName: "gallery-horizontal-end",
         swiftIdentifier: "galleryHorizontalEnd",
         resourceName: HugeiconsAssets.`galleryHorizontalEnd`.name
+    )
+    static let galleryThumbnails = HugeiconsAsset(
+        sourceName: "gallery-thumbnails",
+        swiftIdentifier: "galleryThumbnails",
+        resourceName: HugeiconsAssets.`galleryThumbnails`.name
+    )
+    static let galleryVertical = HugeiconsAsset(
+        sourceName: "gallery-vertical",
+        swiftIdentifier: "galleryVertical",
+        resourceName: HugeiconsAssets.`galleryVertical`.name
+    )
+    static let galleryVerticalEnd = HugeiconsAsset(
+        sourceName: "gallery-vertical-end",
+        swiftIdentifier: "galleryVerticalEnd",
+        resourceName: HugeiconsAssets.`galleryVerticalEnd`.name
     )
     static let game = HugeiconsAsset(
         sourceName: "game",
@@ -25465,6 +27970,16 @@ enum HugeiconsCatalog {
         sourceName: "gameboy",
         swiftIdentifier: "gameboy",
         resourceName: HugeiconsAssets.`gameboy`.name
+    )
+    static let gamepad = HugeiconsAsset(
+        sourceName: "gamepad",
+        swiftIdentifier: "gamepad",
+        resourceName: HugeiconsAssets.`gamepad`.name
+    )
+    static let gamepad2 = HugeiconsAsset(
+        sourceName: "gamepad2",
+        swiftIdentifier: "gamepad2",
+        resourceName: HugeiconsAssets.`gamepad2`.name
     )
     static let gamepadDirectional = HugeiconsAsset(
         sourceName: "gamepad-directional",
@@ -25496,6 +28011,16 @@ enum HugeiconsCatalog {
         swiftIdentifier: "gasStove",
         resourceName: HugeiconsAssets.`gasStove`.name
     )
+    static let gauge = HugeiconsAsset(
+        sourceName: "gauge",
+        swiftIdentifier: "gauge",
+        resourceName: HugeiconsAssets.`gauge`.name
+    )
+    static let gavel = HugeiconsAsset(
+        sourceName: "gavel",
+        swiftIdentifier: "gavel",
+        resourceName: HugeiconsAssets.`gavel`.name
+    )
     static let gears = HugeiconsAsset(
         sourceName: "gears",
         swiftIdentifier: "gears",
@@ -25525,6 +28050,11 @@ enum HugeiconsCatalog {
         sourceName: "georgian-lari",
         swiftIdentifier: "georgianLari",
         resourceName: HugeiconsAssets.`georgianLari`.name
+    )
+    static let ghost = HugeiconsAsset(
+        sourceName: "ghost",
+        swiftIdentifier: "ghost",
+        resourceName: HugeiconsAssets.`ghost`.name
     )
     static let gibbousMoon = HugeiconsAsset(
         sourceName: "gibbous-moon",
@@ -25561,6 +28091,16 @@ enum HugeiconsCatalog {
         swiftIdentifier: "gitBranch",
         resourceName: HugeiconsAssets.`gitBranch`.name
     )
+    static let gitBranchMinus = HugeiconsAsset(
+        sourceName: "git-branch-minus",
+        swiftIdentifier: "gitBranchMinus",
+        resourceName: HugeiconsAssets.`gitBranchMinus`.name
+    )
+    static let gitBranchPlus = HugeiconsAsset(
+        sourceName: "git-branch-plus",
+        swiftIdentifier: "gitBranchPlus",
+        resourceName: HugeiconsAssets.`gitBranchPlus`.name
+    )
     static let gitCommit = HugeiconsAsset(
         sourceName: "git-commit",
         swiftIdentifier: "gitCommit",
@@ -25571,30 +28111,65 @@ enum HugeiconsCatalog {
         swiftIdentifier: "gitCommitHorizontal",
         resourceName: HugeiconsAssets.`gitCommitHorizontal`.name
     )
+    static let gitCommitVertical = HugeiconsAsset(
+        sourceName: "git-commit-vertical",
+        swiftIdentifier: "gitCommitVertical",
+        resourceName: HugeiconsAssets.`gitCommitVertical`.name
+    )
     static let gitCompare = HugeiconsAsset(
         sourceName: "git-compare",
         swiftIdentifier: "gitCompare",
         resourceName: HugeiconsAssets.`gitCompare`.name
+    )
+    static let gitCompareArrows = HugeiconsAsset(
+        sourceName: "git-compare-arrows",
+        swiftIdentifier: "gitCompareArrows",
+        resourceName: HugeiconsAssets.`gitCompareArrows`.name
     )
     static let gitFork = HugeiconsAsset(
         sourceName: "git-fork",
         swiftIdentifier: "gitFork",
         resourceName: HugeiconsAssets.`gitFork`.name
     )
+    static let gitGraph = HugeiconsAsset(
+        sourceName: "git-graph",
+        swiftIdentifier: "gitGraph",
+        resourceName: HugeiconsAssets.`gitGraph`.name
+    )
     static let gitMerge = HugeiconsAsset(
         sourceName: "git-merge",
         swiftIdentifier: "gitMerge",
         resourceName: HugeiconsAssets.`gitMerge`.name
+    )
+    static let gitMergeConflict = HugeiconsAsset(
+        sourceName: "git-merge-conflict",
+        swiftIdentifier: "gitMergeConflict",
+        resourceName: HugeiconsAssets.`gitMergeConflict`.name
     )
     static let gitPullRequest = HugeiconsAsset(
         sourceName: "git-pull-request",
         swiftIdentifier: "gitPullRequest",
         resourceName: HugeiconsAssets.`gitPullRequest`.name
     )
+    static let gitPullRequestArrow = HugeiconsAsset(
+        sourceName: "git-pull-request-arrow",
+        swiftIdentifier: "gitPullRequestArrow",
+        resourceName: HugeiconsAssets.`gitPullRequestArrow`.name
+    )
     static let gitPullRequestClosed = HugeiconsAsset(
         sourceName: "git-pull-request-closed",
         swiftIdentifier: "gitPullRequestClosed",
         resourceName: HugeiconsAssets.`gitPullRequestClosed`.name
+    )
+    static let gitPullRequestCreate = HugeiconsAsset(
+        sourceName: "git-pull-request-create",
+        swiftIdentifier: "gitPullRequestCreate",
+        resourceName: HugeiconsAssets.`gitPullRequestCreate`.name
+    )
+    static let gitPullRequestCreateArrow = HugeiconsAsset(
+        sourceName: "git-pull-request-create-arrow",
+        swiftIdentifier: "gitPullRequestCreateArrow",
+        resourceName: HugeiconsAssets.`gitPullRequestCreateArrow`.name
     )
     static let gitPullRequestDraft = HugeiconsAsset(
         sourceName: "git-pull-request-draft",
@@ -25630,6 +28205,11 @@ enum HugeiconsCatalog {
         sourceName: "give-pill",
         swiftIdentifier: "givePill",
         resourceName: HugeiconsAssets.`givePill`.name
+    )
+    static let glassWater = HugeiconsAsset(
+        sourceName: "glass-water",
+        swiftIdentifier: "glassWater",
+        resourceName: HugeiconsAssets.`glassWater`.name
     )
     static let glasses = HugeiconsAsset(
         sourceName: "glasses",
@@ -25670,6 +28250,16 @@ enum HugeiconsCatalog {
         sourceName: "globe02",
         swiftIdentifier: "globe02",
         resourceName: HugeiconsAssets.`globe02`.name
+    )
+    static let globeLock = HugeiconsAsset(
+        sourceName: "globe-lock",
+        swiftIdentifier: "globeLock",
+        resourceName: HugeiconsAssets.`globeLock`.name
+    )
+    static let globeOff = HugeiconsAsset(
+        sourceName: "globe-off",
+        swiftIdentifier: "globeOff",
+        resourceName: HugeiconsAssets.`globeOff`.name
     )
     static let globeX = HugeiconsAsset(
         sourceName: "globe-x",
@@ -25735,6 +28325,11 @@ enum HugeiconsCatalog {
         sourceName: "go-forward-five-sec",
         swiftIdentifier: "goForwardFiveSec",
         resourceName: HugeiconsAssets.`goForwardFiveSec`.name
+    )
+    static let goal = HugeiconsAsset(
+        sourceName: "goal",
+        swiftIdentifier: "goal",
+        resourceName: HugeiconsAssets.`goal`.name
     )
     static let gold = HugeiconsAsset(
         sourceName: "gold",
@@ -25871,10 +28466,20 @@ enum HugeiconsCatalog {
         swiftIdentifier: "graduateMale",
         resourceName: HugeiconsAssets.`graduateMale`.name
     )
+    static let graduationCap = HugeiconsAsset(
+        sourceName: "graduation-cap",
+        swiftIdentifier: "graduationCap",
+        resourceName: HugeiconsAssets.`graduationCap`.name
+    )
     static let graduationScroll = HugeiconsAsset(
         sourceName: "graduation-scroll",
         swiftIdentifier: "graduationScroll",
         resourceName: HugeiconsAssets.`graduationScroll`.name
+    )
+    static let grape = HugeiconsAsset(
+        sourceName: "grape",
+        swiftIdentifier: "grape",
+        resourceName: HugeiconsAssets.`grape`.name
     )
     static let grapes = HugeiconsAsset(
         sourceName: "grapes",
@@ -25926,6 +28531,36 @@ enum HugeiconsCatalog {
         swiftIdentifier: "grid02",
         resourceName: HugeiconsAssets.`grid02`.name
     )
+    static let grid2X2 = HugeiconsAsset(
+        sourceName: "grid2-x2",
+        swiftIdentifier: "grid2X2",
+        resourceName: HugeiconsAssets.`grid2X2`.name
+    )
+    static let grid2X2Check = HugeiconsAsset(
+        sourceName: "grid2-x2-check",
+        swiftIdentifier: "grid2X2Check",
+        resourceName: HugeiconsAssets.`grid2X2Check`.name
+    )
+    static let grid2X2Plus = HugeiconsAsset(
+        sourceName: "grid2-x2-plus",
+        swiftIdentifier: "grid2X2Plus",
+        resourceName: HugeiconsAssets.`grid2X2Plus`.name
+    )
+    static let grid2X2X = HugeiconsAsset(
+        sourceName: "grid2-x2-x",
+        swiftIdentifier: "grid2X2X",
+        resourceName: HugeiconsAssets.`grid2X2X`.name
+    )
+    static let grid3X2 = HugeiconsAsset(
+        sourceName: "grid3-x2",
+        swiftIdentifier: "grid3X2",
+        resourceName: HugeiconsAssets.`grid3X2`.name
+    )
+    static let grid3X3 = HugeiconsAsset(
+        sourceName: "grid3-x3",
+        swiftIdentifier: "grid3X3",
+        resourceName: HugeiconsAssets.`grid3X3`.name
+    )
     static let gridOff = HugeiconsAsset(
         sourceName: "grid-off",
         swiftIdentifier: "gridOff",
@@ -25950,6 +28585,21 @@ enum HugeiconsCatalog {
         sourceName: "grinning",
         swiftIdentifier: "grinning",
         resourceName: HugeiconsAssets.`grinning`.name
+    )
+    static let grip = HugeiconsAsset(
+        sourceName: "grip",
+        swiftIdentifier: "grip",
+        resourceName: HugeiconsAssets.`grip`.name
+    )
+    static let gripHorizontal = HugeiconsAsset(
+        sourceName: "grip-horizontal",
+        swiftIdentifier: "gripHorizontal",
+        resourceName: HugeiconsAssets.`gripHorizontal`.name
+    )
+    static let gripVertical = HugeiconsAsset(
+        sourceName: "grip-vertical",
+        swiftIdentifier: "gripVertical",
+        resourceName: HugeiconsAssets.`gripVertical`.name
     )
     static let grok = HugeiconsAsset(
         sourceName: "grok",
@@ -25981,10 +28631,20 @@ enum HugeiconsCatalog {
         swiftIdentifier: "groupLayers",
         resourceName: HugeiconsAssets.`groupLayers`.name
     )
+    static let groww = HugeiconsAsset(
+        sourceName: "groww",
+        swiftIdentifier: "groww",
+        resourceName: HugeiconsAssets.`groww`.name
+    )
     static let guestHouse = HugeiconsAsset(
         sourceName: "guest-house",
         swiftIdentifier: "guestHouse",
         resourceName: HugeiconsAssets.`guestHouse`.name
+    )
+    static let guitar = HugeiconsAsset(
+        sourceName: "guitar",
+        swiftIdentifier: "guitar",
+        resourceName: HugeiconsAssets.`guitar`.name
     )
     static let gun = HugeiconsAsset(
         sourceName: "gun",
@@ -26046,6 +28706,16 @@ enum HugeiconsCatalog {
         swiftIdentifier: "hamburger02",
         resourceName: HugeiconsAssets.`hamburger02`.name
     )
+    static let hammer = HugeiconsAsset(
+        sourceName: "hammer",
+        swiftIdentifier: "hammer",
+        resourceName: HugeiconsAssets.`hammer`.name
+    )
+    static let hand = HugeiconsAsset(
+        sourceName: "hand",
+        swiftIdentifier: "hand",
+        resourceName: HugeiconsAssets.`hand`.name
+    )
     static let handBag01 = HugeiconsAsset(
         sourceName: "hand-bag01",
         swiftIdentifier: "handBag01",
@@ -26066,6 +28736,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "handCoins",
         resourceName: HugeiconsAssets.`handCoins`.name
     )
+    static let handFist = HugeiconsAsset(
+        sourceName: "hand-fist",
+        swiftIdentifier: "handFist",
+        resourceName: HugeiconsAssets.`handFist`.name
+    )
     static let handGrab = HugeiconsAsset(
         sourceName: "hand-grab",
         swiftIdentifier: "handGrab",
@@ -26076,10 +28751,25 @@ enum HugeiconsCatalog {
         swiftIdentifier: "handGrip",
         resourceName: HugeiconsAssets.`handGrip`.name
     )
+    static let handHeart = HugeiconsAsset(
+        sourceName: "hand-heart",
+        swiftIdentifier: "handHeart",
+        resourceName: HugeiconsAssets.`handHeart`.name
+    )
     static let handHelping = HugeiconsAsset(
         sourceName: "hand-helping",
         swiftIdentifier: "handHelping",
         resourceName: HugeiconsAssets.`handHelping`.name
+    )
+    static let handMetal = HugeiconsAsset(
+        sourceName: "hand-metal",
+        swiftIdentifier: "handMetal",
+        resourceName: HugeiconsAssets.`handMetal`.name
+    )
+    static let handPlatter = HugeiconsAsset(
+        sourceName: "hand-platter",
+        swiftIdentifier: "handPlatter",
+        resourceName: HugeiconsAssets.`handPlatter`.name
     )
     static let handPointingDown01 = HugeiconsAsset(
         sourceName: "hand-pointing-down01",
@@ -26151,6 +28841,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "handSanitizer",
         resourceName: HugeiconsAssets.`handSanitizer`.name
     )
+    static let handbag = HugeiconsAsset(
+        sourceName: "handbag",
+        swiftIdentifier: "handbag",
+        resourceName: HugeiconsAssets.`handbag`.name
+    )
     static let handcuffs = HugeiconsAsset(
         sourceName: "handcuffs",
         swiftIdentifier: "handcuffs",
@@ -26160,6 +28855,11 @@ enum HugeiconsCatalog {
         sourceName: "hands-clapping",
         swiftIdentifier: "handsClapping",
         resourceName: HugeiconsAssets.`handsClapping`.name
+    )
+    static let handshake = HugeiconsAsset(
+        sourceName: "handshake",
+        swiftIdentifier: "handshake",
+        resourceName: HugeiconsAssets.`handshake`.name
     )
     static let hanger = HugeiconsAsset(
         sourceName: "hanger",
@@ -26201,6 +28901,16 @@ enum HugeiconsCatalog {
         swiftIdentifier: "hardDriveUpload",
         resourceName: HugeiconsAssets.`hardDriveUpload`.name
     )
+    static let hardHat = HugeiconsAsset(
+        sourceName: "hard-hat",
+        swiftIdentifier: "hardHat",
+        resourceName: HugeiconsAssets.`hardHat`.name
+    )
+    static let hash = HugeiconsAsset(
+        sourceName: "hash",
+        swiftIdentifier: "hash",
+        resourceName: HugeiconsAssets.`hash`.name
+    )
     static let hashtag = HugeiconsAsset(
         sourceName: "hashtag",
         swiftIdentifier: "hashtag",
@@ -26211,10 +28921,30 @@ enum HugeiconsCatalog {
         swiftIdentifier: "hat",
         resourceName: HugeiconsAssets.`hat`.name
     )
+    static let hatGlasses = HugeiconsAsset(
+        sourceName: "hat-glasses",
+        swiftIdentifier: "hatGlasses",
+        resourceName: HugeiconsAssets.`hatGlasses`.name
+    )
+    static let haze = HugeiconsAsset(
+        sourceName: "haze",
+        swiftIdentifier: "haze",
+        resourceName: HugeiconsAssets.`haze`.name
+    )
+    static let hd = HugeiconsAsset(
+        sourceName: "hd",
+        swiftIdentifier: "hd",
+        resourceName: HugeiconsAssets.`hd`.name
+    )
     static let hdd = HugeiconsAsset(
         sourceName: "hdd",
         swiftIdentifier: "hdd",
         resourceName: HugeiconsAssets.`hdd`.name
+    )
+    static let hdmiPort = HugeiconsAsset(
+        sourceName: "hdmi-port",
+        swiftIdentifier: "hdmiPort",
+        resourceName: HugeiconsAssets.`hdmiPort`.name
     )
     static let hdr01 = HugeiconsAsset(
         sourceName: "hdr01",
@@ -26261,10 +28991,40 @@ enum HugeiconsCatalog {
         swiftIdentifier: "heading06",
         resourceName: HugeiconsAssets.`heading06`.name
     )
+    static let heading1 = HugeiconsAsset(
+        sourceName: "heading1",
+        swiftIdentifier: "heading1",
+        resourceName: HugeiconsAssets.`heading1`.name
+    )
+    static let heading2 = HugeiconsAsset(
+        sourceName: "heading2",
+        swiftIdentifier: "heading2",
+        resourceName: HugeiconsAssets.`heading2`.name
+    )
+    static let heading4 = HugeiconsAsset(
+        sourceName: "heading4",
+        swiftIdentifier: "heading4",
+        resourceName: HugeiconsAssets.`heading4`.name
+    )
+    static let heading5 = HugeiconsAsset(
+        sourceName: "heading5",
+        swiftIdentifier: "heading5",
+        resourceName: HugeiconsAssets.`heading5`.name
+    )
+    static let heading6 = HugeiconsAsset(
+        sourceName: "heading6",
+        swiftIdentifier: "heading6",
+        resourceName: HugeiconsAssets.`heading6`.name
+    )
     static let headphoneMute = HugeiconsAsset(
         sourceName: "headphone-mute",
         swiftIdentifier: "headphoneMute",
         resourceName: HugeiconsAssets.`headphoneMute`.name
+    )
+    static let headphoneOff = HugeiconsAsset(
+        sourceName: "headphone-off",
+        swiftIdentifier: "headphoneOff",
+        resourceName: HugeiconsAssets.`headphoneOff`.name
     )
     static let headphones = HugeiconsAsset(
         sourceName: "headphones",
@@ -26296,6 +29056,11 @@ enum HugeiconsCatalog {
         swiftIdentifier: "health",
         resourceName: HugeiconsAssets.`health`.name
     )
+    static let heart = HugeiconsAsset(
+        sourceName: "heart",
+        swiftIdentifier: "heart",
+        resourceName: HugeiconsAssets.`heart`.name
+    )
     static let heartAdd = HugeiconsAsset(
         sourceName: "heart-add",
         swiftIdentifier: "heartAdd",
@@ -26306,10 +29071,35 @@ enum HugeiconsCatalog {
         swiftIdentifier: "heartCheck",
         resourceName: HugeiconsAssets.`heartCheck`.name
     )
+    static let heartCrack = HugeiconsAsset(
+        sourceName: "heart-crack",
+        swiftIdentifier: "heartCrack",
+        resourceName: HugeiconsAssets.`heartCrack`.name
+    )
+    static let heartHandshake = HugeiconsAsset(
+        sourceName: "heart-handshake",
+        swiftIdentifier: "heartHandshake",
+        resourceName: HugeiconsAssets.`heartHandshake`.name
+    )
     static let heartMinus = HugeiconsAsset(
         sourceName: "heart-minus",
         swiftIdentifier: "heartMinus",
         resourceName: HugeiconsAssets.`heartMinus`.name
+    )
+    static let heartOff = HugeiconsAsset(
+        sourceName: "heart-off",
+        swiftIdentifier: "heartOff",
+        resourceName: HugeiconsAssets.`heartOff`.name
+    )
+    static let heartPlus = HugeiconsAsset(
+        sourceName: "heart-plus",
+        swiftIdentifier: "heartPlus",
+        resourceName: HugeiconsAssets.`heartPlus`.name
+    )
+    static let heartPulse = HugeiconsAsset(
+        sourceName: "heart-pulse",
+        swiftIdentifier: "heartPulse",
+        resourceName: HugeiconsAssets.`heartPulse`.name
     )
     static let heartRemove = HugeiconsAsset(
         sourceName: "heart-remove",
@@ -26440,6 +29230,11 @@ enum HugeiconsCatalog {
         sourceName: "hijab",
         swiftIdentifier: "hijab",
         resourceName: HugeiconsAssets.`hijab`.name
+    )
+    static let history = HugeiconsAsset(
+        sourceName: "history",
+        swiftIdentifier: "history",
+        resourceName: HugeiconsAssets.`history`.name
     )
     static let hockey = HugeiconsAsset(
         sourceName: "hockey",
@@ -26730,6 +29525,11 @@ enum HugeiconsCatalog {
         sourceName: "house-heart",
         swiftIdentifier: "houseHeart",
         resourceName: HugeiconsAssets.`houseHeart`.name
+    )
+    static let housePlug = HugeiconsAsset(
+        sourceName: "house-plug",
+        swiftIdentifier: "housePlug",
+        resourceName: HugeiconsAssets.`housePlug`.name
     )
     static let housePlus = HugeiconsAsset(
         sourceName: "house-plus",
@@ -40980,10 +43780,12 @@ enum HugeiconsCatalog {
     static let all: [HugeiconsAsset] = [
         aArrowDown,
         aArrowUp,
+        aLargeSmall,
         abacus,
         absolute,
         acceleration,
         access,
+        accessibility,
         accident,
         accountRecovery,
         accountSetting01,
@@ -41088,6 +43890,7 @@ enum HugeiconsCatalog {
         aiVoiceGenerator,
         aiWebBrowsing,
         aids,
+        airVent,
         airbnb,
         aircraftGame,
         airdrop,
@@ -41101,6 +43904,7 @@ enum HugeiconsCatalog {
         airplaneSeat02,
         airplaneTakeOff01,
         airplaneTakeOff02,
+        airplay,
         airplayLine,
         airpod01,
         airpod02,
@@ -41110,7 +43914,10 @@ enum HugeiconsCatalog {
         airportTower,
         alAqsaMosque,
         alarmClock,
+        alarmClockCheck,
+        alarmClockMinus,
         alarmClockOff,
+        alarmClockPlus,
         alarmSmoke,
         album,
         album01,
@@ -41135,9 +43942,13 @@ enum HugeiconsCatalog {
         alignBoxTopCenter,
         alignBoxTopLeft,
         alignBoxTopRight,
+        alignEndHorizontal,
+        alignEndVertical,
         alignHorizontalCenter,
+        alignHorizontalDistributeCenter,
         alignHorizontalDistributeEnd,
         alignHorizontalDistributeStart,
+        alignHorizontalJustifyCenter,
         alignHorizontalJustifyEnd,
         alignHorizontalJustifyStart,
         alignHorizontalSpaceAround,
@@ -41146,12 +43957,17 @@ enum HugeiconsCatalog {
         alignLeft,
         alignRight,
         alignSelection,
+        alignStartHorizontal,
+        alignStartVertical,
         alignTop,
         alignVerticalCenter,
         alignVerticalDistributeCenter,
         alignVerticalDistributeEnd,
         alignVerticalDistributeStart,
+        alignVerticalJustifyCenter,
+        alignVerticalJustifyEnd,
         alignVerticalJustifyStart,
+        alignVerticalSpaceAround,
         alignVerticalSpaceBetween,
         allBookmark,
         allah,
@@ -41173,6 +43989,8 @@ enum HugeiconsCatalog {
         americanFootball,
         amie,
         ammo,
+        ampersand,
+        ampersands,
         amphora,
         ampoule,
         analysisTextLink,
@@ -41189,13 +44007,17 @@ enum HugeiconsCatalog {
         angle01,
         angry,
         angryBird,
+        annoyed,
         anonymous,
         antenna,
         anvil,
         apartment,
+        aperture,
         api,
         apiGateway,
         appStore,
+        appWindow,
+        appWindowMac,
         apple,
         apple01,
         appleFinder,
@@ -41225,6 +44047,8 @@ enum HugeiconsCatalog {
         archiveOff03,
         archiveOff04,
         archiveRestore,
+        archiveX,
+        armchair,
         armoredBoot,
         arrange,
         arrangeByLettersAz,
@@ -41245,16 +44069,21 @@ enum HugeiconsCatalog {
         arrowDown03,
         arrowDown04,
         arrowDown05,
+        arrowDown10,
         arrowDownAz,
         arrowDownBig,
         arrowDownDouble,
         arrowDownFromLine,
         arrowDownLeft01,
         arrowDownLeft02,
+        arrowDownNarrowWide,
         arrowDownOneZero,
         arrowDownRight01,
         arrowDownRight02,
         arrowDownToDot,
+        arrowDownToLine,
+        arrowDownWideNarrow,
+        arrowDownZa,
         arrowDownZeroOne,
         arrowExpand,
         arrowExpand01,
@@ -41271,6 +44100,7 @@ enum HugeiconsCatalog {
         arrowLeftDouble,
         arrowLeftFromLine,
         arrowLeftRight,
+        arrowLeftToLine,
         arrowMoveDownLeft,
         arrowMoveDownRight,
         arrowMoveLeftDown,
@@ -41287,6 +44117,7 @@ enum HugeiconsCatalog {
         arrowRightBig,
         arrowRightDouble,
         arrowRightFromLine,
+        arrowRightToLine,
         arrowShrink,
         arrowShrink01,
         arrowShrink02,
@@ -41299,6 +44130,8 @@ enum HugeiconsCatalog {
         arrowUp03,
         arrowUp04,
         arrowUp05,
+        arrowUp10,
+        arrowUpAz,
         arrowUpBig,
         arrowUpDouble,
         arrowUpDown,
@@ -41312,10 +44145,12 @@ enum HugeiconsCatalog {
         arrowUpRight02,
         arrowUpRight03,
         arrowUpRightStack,
+        arrowUpToLine,
         arrowUpWideNarrow,
         arrowUpZa,
         arrowUpZeroOne,
         arrowVertical,
+        arrowsUpFromLine,
         artboard,
         artboardTool,
         artificialIntelligence01,
@@ -41335,6 +44170,7 @@ enum HugeiconsCatalog {
         astronaut01,
         astronaut02,
         at,
+        atSign,
         atm01,
         atm02,
         atom01,
@@ -41350,8 +44186,10 @@ enum HugeiconsCatalog {
         audioBook02,
         audioBook03,
         audioBook04,
+        audioLines,
         audioWave01,
         audioWave02,
+        audioWaveform,
         audit01,
         audit02,
         augmentedRealityAr,
@@ -41368,6 +44206,7 @@ enum HugeiconsCatalog {
         award05,
         awsLambda,
         axe,
+        axis3D,
         axisThreeD,
         baby01,
         baby02,
@@ -41387,40 +44226,56 @@ enum HugeiconsCatalog {
         badge,
         badgeAlert,
         badgeCent,
+        badgeCheck,
         badgeDollarSign,
         badgeEuro,
         badgeIndianRupee,
         badgeInfo,
         badgeJapaneseYen,
+        badgeMinus,
         badgePercent,
+        badgePlus,
         badgePoundSterling,
+        badgeQuestionMark,
         badgeRussianRuble,
         badgeSwissFranc,
         badgeTurkishLira,
+        badgeX,
         badminton,
         badmintonShuttle,
+        baggageClaim,
         balanceScale,
+        balloon,
         balloons,
+        ban,
         banana,
         bandage,
         bank,
+        banknote,
+        banknoteArrowDown,
+        banknoteArrowUp,
+        banknoteX,
         barChart,
         barChartHorizontal,
         barCode01,
         barCode02,
+        barcode,
         barcodeScan,
         barns,
         barrel,
         baseball,
         baseballBat,
         baseballHelmet,
+        baseline,
         bash,
         basketball01,
         basketball02,
         basketballHoop,
+        bath,
         bathtub01,
         bathtub02,
         batteriesEnergy,
+        battery,
         batteryCharging01,
         batteryCharging02,
         batteryEcoCharging,
@@ -41434,6 +44289,7 @@ enum HugeiconsCatalog {
         bbqGrill,
         beach,
         beach02,
+        beaker,
         bean,
         beanOff,
         beater,
@@ -41446,21 +44302,34 @@ enum HugeiconsCatalog {
         bedug01,
         bedug02,
         beef,
+        beefOff,
+        beer,
+        beerOff,
         behance01,
         behance02,
+        bell,
         bellDot,
         bellElectric,
+        bellMinus,
+        bellOff,
+        bellPlus,
+        bellRing,
         belt,
         bendTool,
         berlin,
         berlinTower,
         beta,
         betweenHorizontalEnd,
+        betweenHorizontalStart,
         betweenVerticalEnd,
+        betweenVerticalStart,
+        bicepsFlexed,
         bicycle,
         bicycle01,
+        bike,
         billiard01,
         billiard02,
+        binary,
         binaryCode,
         bing,
         binoculars,
@@ -41536,6 +44405,7 @@ enum HugeiconsCatalog {
         blockchain06,
         blockchain07,
         blocked,
+        blocks,
         blogger,
         blood,
         bloodBag,
@@ -41545,8 +44415,11 @@ enum HugeiconsCatalog {
         bluesky,
         bluetooth,
         bluetoothCircle,
+        bluetoothConnected,
         bluetoothNotConnected,
+        bluetoothOff,
         bluetoothSearch,
+        bluetoothSearching,
         bluetoothSquare,
         blur,
         blushBrush01,
@@ -41559,6 +44432,8 @@ enum HugeiconsCatalog {
         bodyPartSixPack,
         bodySoap,
         bodyWeight,
+        bold,
+        bolt,
         bomb,
         bone01,
         bone02,
@@ -41573,12 +44448,15 @@ enum HugeiconsCatalog {
         bookCheck,
         bookCopy,
         bookDashed,
+        bookDown,
         bookDownload,
         bookEdit,
+        bookHeadphones,
         bookHeart,
         bookImage,
         bookKey,
         bookLock,
+        bookMarked,
         bookMinus,
         bookOpen01,
         bookOpen02,
@@ -41586,7 +44464,9 @@ enum HugeiconsCatalog {
         bookOpenText,
         bookPlus,
         bookSearch,
+        bookText,
         bookType,
+        bookUp2,
         bookUpTwo,
         bookUpload,
         bookUser,
@@ -41604,8 +44484,10 @@ enum HugeiconsCatalog {
         bookmarkMinus02,
         bookmarkOff01,
         bookmarkOff02,
+        bookmarkPlus,
         bookmarkRemove01,
         bookmarkRemove02,
+        bookmarkX,
         books01,
         books02,
         bookshelf01,
@@ -41631,21 +44513,30 @@ enum HugeiconsCatalog {
         borderVertical,
         borobudur,
         bot,
+        botMessageSquare,
+        botOff,
+        bottleWine,
         bounceLeft,
         bounceRight,
         boundingBox,
+        bowArrow,
         bowTie,
         bowling,
         bowlingBall,
         bowlingPins,
+        box,
         boxer,
+        boxes,
         boxingBag,
         boxingGlove,
         boxingGlove01,
+        braces,
+        brackets,
         brain,
         brain01,
         brain02,
         brain03,
+        brainCircuit,
         brainCog,
         brandfetch,
         bread01,
@@ -41654,6 +44545,7 @@ enum HugeiconsCatalog {
         bread04,
         breastPump,
         brickWall,
+        brickWallFire,
         brickWallShield,
         bridge,
         briefcase01,
@@ -41665,14 +44557,17 @@ enum HugeiconsCatalog {
         briefcase07,
         briefcase08,
         briefcase09,
+        briefcaseBusiness,
         briefcaseConveyorBelt,
         briefcaseDollar,
+        briefcaseMedical,
         bringToFront,
         broccoli,
         brochure,
         brokenBone,
         browser,
         brush,
+        brushCleaning,
         bubbleChat,
         bubbleChatAdd,
         bubbleChatBlocked,
@@ -41710,6 +44605,7 @@ enum HugeiconsCatalog {
         building04,
         building05,
         building06,
+        building2,
         bulb,
         bulbCharging,
         bullet,
@@ -41719,6 +44615,7 @@ enum HugeiconsCatalog {
         bus01,
         bus02,
         bus03,
+        busFront,
         c,
         cProgramming,
         cabinet01,
@@ -41730,6 +44627,7 @@ enum HugeiconsCatalog {
         cactus,
         caduceus,
         cafe,
+        cake,
         cakeSlice,
         calculate,
         calculator,
@@ -41739,36 +44637,52 @@ enum HugeiconsCatalog {
         calendar03,
         calendar04,
         calendar05,
+        calendar1,
         calendarAdd01,
         calendarAdd02,
         calendarAnalysis,
+        calendarArrowDown,
+        calendarArrowUp,
         calendarBlock01,
         calendarBlock02,
+        calendarCheck,
+        calendarCheck2,
         calendarCheckIn01,
         calendarCheckIn02,
         calendarCheckOut01,
         calendarCheckOut02,
+        calendarClock,
+        calendarCog,
+        calendarDays,
         calendarDownload01,
         calendarDownload02,
         calendarFavorite01,
         calendarFavorite02,
         calendarFold,
+        calendarHeart,
         calendarLock01,
         calendarLock02,
         calendarLove01,
         calendarLove02,
         calendarMinus01,
         calendarMinus02,
+        calendarMinus2,
         calendarMortarboard,
         calendarOff,
+        calendarPlus,
+        calendarPlus2,
+        calendarRange,
         calendarRemove01,
         calendarRemove02,
+        calendarSearch,
         calendarSetting01,
         calendarSetting02,
         calendarSync,
         calendarUpload01,
         calendarUpload02,
         calendarUser,
+        calendarX,
+        calendarX2,
         calendars,
         call,
         call02,
@@ -41860,19 +44774,24 @@ enum HugeiconsCatalog {
         capStraight,
         capcut,
         capcutRectangle,
+        captions,
+        captionsOff,
         car01,
         car02,
         car03,
         car04,
         car05,
         carAlert,
+        carFront,
         carParking01,
         carParking02,
         carSignal,
+        carTaxiFront,
         carTime,
         caravan,
         cardExchange01,
         cardExchange02,
+        cardSim,
         cardigan,
         cardiogram01,
         cardiogram02,
@@ -41883,6 +44802,9 @@ enum HugeiconsCatalog {
         carouselHorizontal02,
         carouselVertical,
         carrot,
+        caseLower,
+        caseSensitive,
+        caseUpper,
         cash01,
         cash02,
         cashback,
@@ -41893,13 +44815,17 @@ enum HugeiconsCatalog {
         cashier,
         cashier02,
         cassetteTape,
+        cast,
         castbox,
         castle,
         castle01,
         castle02,
+        cat,
         catalogue,
         cayanTower,
+        cctv,
         cctvCamera,
+        cctvOff,
         cd,
         cells,
         cellularNetwork,
@@ -41941,6 +44867,7 @@ enum HugeiconsCatalog {
         chartColumn,
         chartColumnBig,
         chartColumnDecreasing,
+        chartColumnIncreasing,
         chartColumnStacked,
         chartDecrease,
         chartDown,
@@ -41949,12 +44876,16 @@ enum HugeiconsCatalog {
         chartHighLow,
         chartHistogram,
         chartIncrease,
+        chartLine,
         chartLineData01,
         chartLineData02,
         chartLineData03,
         chartMaximum,
         chartMedium,
         chartMinimum,
+        chartNetwork,
+        chartNoAxesColumn,
+        chartNoAxesColumnDecreasing,
         chartNoAxesColumnIncreasing,
         chartNoAxesCombined,
         chartNoAxesGantt,
@@ -41963,6 +44894,7 @@ enum HugeiconsCatalog {
         chartRing,
         chartRose,
         chartScatter,
+        chartSpline,
         chartUp,
         chat,
         chat01,
@@ -42013,6 +44945,9 @@ enum HugeiconsCatalog {
         chatUser,
         chatUser01,
         chatting01,
+        check,
+        checkCheck,
+        checkLine,
         checkList,
         checkUnread01,
         checkUnread02,
@@ -42043,9 +44978,25 @@ enum HugeiconsCatalog {
         chess02,
         chessBishop,
         chessKing,
+        chessKnight,
         chessPawn,
+        chessQueen,
+        chessRook,
         chevronDoubleClose,
+        chevronDown,
+        chevronFirst,
+        chevronLast,
+        chevronLeft,
+        chevronRight,
+        chevronUp,
+        chevronsDown,
         chevronsDownUp,
+        chevronsLeft,
+        chevronsLeftRight,
+        chevronsLeftRightEllipsis,
+        chevronsRight,
+        chevronsRightLeft,
+        chevronsUp,
         chickenThighs,
         child,
         chimney,
@@ -42086,6 +45037,9 @@ enum HugeiconsCatalog {
         circleArrowMoveRightDown,
         circleArrowMoveUpLeft,
         circleArrowMoveUpRight,
+        circleArrowOutDownLeft,
+        circleArrowOutDownRight,
+        circleArrowOutUpLeft,
         circleArrowOutUpRight,
         circleArrowReload01,
         circleArrowReload02,
@@ -42104,6 +45058,20 @@ enum HugeiconsCatalog {
         circleArrowUpRight,
         circleArrowUpRight02,
         circleArrowVertical,
+        circleCheck,
+        circleCheckBig,
+        circleChevronDown,
+        circleChevronLeft,
+        circleChevronRight,
+        circleChevronUp,
+        circleDashed,
+        circleDollarSign,
+        circleDot,
+        circleDotDashed,
+        circleEllipsis,
+        circleFadingArrowUp,
+        circleFadingPlus,
+        circleGauge,
         circleLock01,
         circleLock02,
         circleLockAdd01,
@@ -42114,18 +45082,28 @@ enum HugeiconsCatalog {
         circleLockMinus02,
         circleLockRemove01,
         circleLockRemove02,
+        circleMinus,
+        circleOff,
+        circleParking,
         circleParkingOff,
         circlePassword,
         circlePile,
+        circlePlus,
+        circlePoundSterling,
+        circlePower,
+        circleQuestionMark,
+        circleSlash2,
         circleSlashTwo,
         circleSmall,
         circleUnlock01,
         circleUnlock02,
+        circleX,
         circuitBoard,
         citrus,
         city01,
         city02,
         city03,
+        clapperboard,
         clapping01,
         clapping02,
         claude,
@@ -42135,20 +45113,40 @@ enum HugeiconsCatalog {
         clip,
         cliparts,
         clipboard,
+        clipboardCheck,
         clipboardClock,
         clipboardCopy,
+        clipboardList,
         clipboardMinus,
         clipboardPaste,
+        clipboardPen,
+        clipboardPenLine,
+        clipboardPlus,
+        clipboardType,
+        clipboardX,
         clock01,
         clock02,
         clock03,
         clock04,
         clock05,
+        clock1,
+        clock10,
+        clock11,
+        clock12,
+        clock2,
+        clock3,
+        clock4,
+        clock5,
+        clock6,
+        clock7,
+        clock8,
+        clock9,
         clockAdd,
         clockAlert,
         clockArrowDown,
         clockArrowUp,
         clockCheck,
+        clockFading,
         clockPlus,
         closedCaption,
         closedCaptionAlt,
@@ -42158,22 +45156,37 @@ enum HugeiconsCatalog {
         cloudAngledRain,
         cloudAngledRainZap,
         cloudAngledZap,
+        cloudBackup,
         cloudBigRain,
+        cloudCheck,
+        cloudCog,
         cloudDownload,
+        cloudDrizzle,
         cloudFastWind,
+        cloudFog,
+        cloudHail,
         cloudHailstone,
+        cloudLightning,
         cloudLittleRain,
         cloudLittleSnow,
         cloudLoading,
         cloudMidRain,
         cloudMidSnow,
+        cloudMoonRain,
         cloudOff,
+        cloudRain,
+        cloudRainWind,
         cloudSavingDone01,
         cloudSavingDone02,
         cloudServer,
         cloudSlowWind,
         cloudSnow,
+        cloudSunRain,
+        cloudSync,
         cloudUpload,
+        cloudy,
+        clover,
+        club,
         clubs01,
         clubs02,
         coPresent,
@@ -42182,6 +45195,7 @@ enum HugeiconsCatalog {
         codeFolder,
         codeSimple,
         codeSquare,
+        codeXml,
         codepen,
         codesandbox,
         coffee01,
@@ -42256,6 +45270,7 @@ enum HugeiconsCatalog {
         computerUser,
         computerVideo,
         computerVideoCall,
+        conciergeBell,
         cone01,
         cone02,
         conference,
@@ -42273,15 +45288,18 @@ enum HugeiconsCatalog {
         contact01,
         contact02,
         contactBook,
+        contactRound,
         container,
         containerTruck,
         containerTruck01,
         containerTruck02,
         contentWriting,
         contracts,
+        contrast,
         conversation,
         cookBook,
         cookie,
+        cookingPot,
         coordinate01,
         coordinate02,
         copilot,
@@ -42293,9 +45311,18 @@ enum HugeiconsCatalog {
         copyMinus,
         copyPlus,
         copySlash,
+        copyX,
         copyleft,
         copyright,
         corn,
+        cornerDownLeft,
+        cornerDownRight,
+        cornerLeftDown,
+        cornerLeftUp,
+        cornerRightDown,
+        cornerRightUp,
+        cornerUpLeft,
+        cornerUpRight,
         corporate,
         cos,
         cosine01,
@@ -42335,6 +45362,8 @@ enum HugeiconsCatalog {
         cricketHelmet,
         croissant,
         crop,
+        cross,
+        crosshair,
         crowdfunding,
         crown,
         crown02,
@@ -42348,6 +45377,7 @@ enum HugeiconsCatalog {
         csv01,
         csv02,
         cube,
+        cupSoda,
         cupcake01,
         cupcake02,
         cupcake03,
@@ -42429,15 +45459,18 @@ enum HugeiconsCatalog {
         database01,
         database02,
         databaseAdd,
+        databaseBackup,
         databaseExpand,
         databaseExport,
         databaseImport,
         databaseLightning,
         databaseLocked,
         databaseRestore,
+        databaseSearch,
         databaseSetting,
         databaseSync,
         databaseSync01,
+        databaseZap,
         dateTime,
         dates,
         datev,
@@ -42477,6 +45510,7 @@ enum HugeiconsCatalog {
         desk,
         desk01,
         desk02,
+        dessert,
         detergent,
         developer,
         deviantart,
@@ -42502,6 +45536,7 @@ enum HugeiconsCatalog {
         diceFaces04,
         diceFaces05,
         diceFaces06,
+        dices,
         digestion,
         digg,
         digitalClock,
@@ -42545,10 +45580,12 @@ enum HugeiconsCatalog {
         divideSignSquare,
         dna,
         dna01,
+        dnaOff,
         doNotTouch01,
         doNotTouch02,
         doc01,
         doc02,
+        dock,
         doctor01,
         doctor02,
         doctor03,
@@ -42562,14 +45599,19 @@ enum HugeiconsCatalog {
         dollarReceive02,
         dollarSend01,
         dollarSend02,
+        dollarSign,
         dollarSquare,
         dome,
         domino,
+        donut,
         door,
         door01,
         door02,
+        doorClosed,
+        doorClosedLocked,
         doorLock,
         doorOpen,
+        dot,
         doughnut,
         download01,
         download02,
@@ -42581,6 +45623,7 @@ enum HugeiconsCatalog {
         downloadCircle02,
         downloadSquare01,
         downloadSquare02,
+        draftingCompass,
         drag01,
         drag02,
         drag03,
@@ -42596,6 +45639,7 @@ enum HugeiconsCatalog {
         dragRight02,
         dragRight03,
         dragRight04,
+        drama,
         drawingCompass,
         drawingMode,
         dress01,
@@ -42618,7 +45662,10 @@ enum HugeiconsCatalog {
         dropdownFieldType,
         droplet,
         dropletOff,
+        droplets,
         dropper,
+        drum,
+        drumstick,
         ds3Tool,
         dua,
         dumbbell01,
@@ -42638,6 +45685,7 @@ enum HugeiconsCatalog {
         easeInOut,
         easeOut,
         easeOutControlPoint,
+        eclipse,
         ecoEnergy,
         ecoLab,
         ecoLab01,
@@ -42670,7 +45718,10 @@ enum HugeiconsCatalog {
         electricTower02,
         electricWire,
         electricityStack,
+        ellipse,
         ellipseSelection,
+        ellipsis,
+        ellipsisVertical,
         encrypt,
         energy,
         energyEllipse,
@@ -42704,6 +45755,7 @@ enum HugeiconsCatalog {
         euroReceive,
         euroSend,
         euroSquare,
+        evCharger,
         evCharging,
         evil,
         exchange01,
@@ -42719,7 +45771,10 @@ enum HugeiconsCatalog {
         expandParagraph,
         expander,
         externalDrive,
+        externalLink,
         eye,
+        eyeClosed,
+        eyeOff,
         faceId,
         facebook01,
         facebook02,
@@ -42730,6 +45785,7 @@ enum HugeiconsCatalog {
         fallingStar,
         fan01,
         fan02,
+        fastForward,
         fastWind,
         favourite,
         favouriteCircle,
@@ -42749,6 +45805,7 @@ enum HugeiconsCatalog {
         fileArchive,
         fileAttachment,
         fileAudio,
+        fileAxis3D,
         fileAxisThreeD,
         fileBadge,
         fileBitcoin,
@@ -42756,13 +45813,18 @@ enum HugeiconsCatalog {
         fileBookmark,
         fileBox,
         fileBraces,
+        fileBracesCorner,
         fileChartColumn,
         fileChartColumnIncreasing,
+        fileChartLine,
         fileChartPie,
+        fileCheck,
+        fileCheckCorner,
         fileClock,
         fileCloud,
         fileCode,
         fileCodeCorner,
+        fileCog,
         fileCorrupt,
         fileDatabase,
         fileDiff,
@@ -42851,6 +45913,7 @@ enum HugeiconsCatalog {
         fingerPrintMinus,
         fingerPrintRemove,
         fingerPrintScan,
+        fingerprintPattern,
         fins,
         fire,
         fire02,
@@ -42864,10 +45927,12 @@ enum HugeiconsCatalog {
         firstBracket,
         firstBracketCircle,
         firstBracketSquare,
+        fish,
         fishFood,
         fishOff,
         fishSymbol,
         fishingHook,
+        fishingRod,
         fitToScreen,
         fiveCircle,
         fiveSquare,
@@ -42875,20 +45940,30 @@ enum HugeiconsCatalog {
         flag01,
         flag02,
         flag03,
+        flagOff,
+        flagTriangleLeft,
+        flagTriangleRight,
+        flame,
         flameKindling,
         flash,
         flashOff,
         flashlight,
+        flashlightOff,
+        flaskConical,
+        flaskConicalOff,
+        flaskRound,
         flaticon,
         flickr,
         flimSlate,
         flipBottom,
         flipHorizontal,
+        flipHorizontal2,
         flipLeft,
         flipPhone,
         flipRight,
         flipTop,
         flipVertical,
+        flipVertical2,
         floorPlan,
         floppyDisk,
         flow,
@@ -42898,10 +45973,14 @@ enum HugeiconsCatalog {
         flowchart01,
         flowchart02,
         flower,
+        flower2,
         flowerPot,
         flushed,
         flyingHuman,
+        focus,
         focusPoint,
+        foldHorizontal,
+        foldVertical,
         folder01,
         folder02,
         folder03,
@@ -42962,8 +46041,11 @@ enum HugeiconsCatalog {
         folders,
         football,
         footballPitch,
+        footprints,
         forgotPassword,
         fork,
+        forklift,
+        form,
         forrst,
         fortress,
         forward01,
@@ -42973,12 +46055,14 @@ enum HugeiconsCatalog {
         fourFinger03,
         fourK,
         fourSquare,
+        frame,
         framer,
         frameworks,
         frenchFries01,
         frenchFries02,
         fridge,
         frisbee,
+        frown,
         fry,
         fuel,
         fuel01,
@@ -42990,25 +46074,37 @@ enum HugeiconsCatalog {
         functionCircle,
         functionOfX,
         functionSquare,
+        funnel,
+        funnelPlus,
+        funnelX,
         galaxy,
+        galleryHorizontal,
         galleryHorizontalEnd,
+        galleryThumbnails,
+        galleryVertical,
+        galleryVerticalEnd,
         game,
         gameController01,
         gameController02,
         gameController03,
         gameboy,
+        gamepad,
+        gamepad2,
         gamepadDirectional,
         garage,
         garbageTruck,
         garlands,
         gasPipe,
         gasStove,
+        gauge,
+        gavel,
         gears,
         gem,
         geologyCrust,
         geometricShapes01,
         geometricShapes02,
         georgianLari,
+        ghost,
         gibbousMoon,
         gif01,
         gif02,
@@ -43016,13 +46112,22 @@ enum HugeiconsCatalog {
         giftCard,
         giftCard02,
         gitBranch,
+        gitBranchMinus,
+        gitBranchPlus,
         gitCommit,
         gitCommitHorizontal,
+        gitCommitVertical,
         gitCompare,
+        gitCompareArrows,
         gitFork,
+        gitGraph,
         gitMerge,
+        gitMergeConflict,
         gitPullRequest,
+        gitPullRequestArrow,
         gitPullRequestClosed,
+        gitPullRequestCreate,
+        gitPullRequestCreateArrow,
         gitPullRequestDraft,
         gitbook,
         github,
@@ -43030,6 +46135,7 @@ enum HugeiconsCatalog {
         gitlab,
         giveBlood,
         givePill,
+        glassWater,
         glasses,
         global,
         globalEditing,
@@ -43038,6 +46144,8 @@ enum HugeiconsCatalog {
         globalSearch,
         globe,
         globe02,
+        globeLock,
+        globeOff,
         globeX,
         glove,
         gnome,
@@ -43051,6 +46159,7 @@ enum HugeiconsCatalog {
         goForward30Sec,
         goForward60Sec,
         goForwardFiveSec,
+        goal,
         gold,
         goldBuy,
         goldIngots,
@@ -43078,7 +46187,9 @@ enum HugeiconsCatalog {
         gpu,
         graduateFemale,
         graduateMale,
+        graduationCap,
         graduationScroll,
+        grape,
         grapes,
         graphicCard,
         gravity,
@@ -43089,18 +46200,29 @@ enum HugeiconsCatalog {
         greenHouse,
         grid,
         grid02,
+        grid2X2,
+        grid2X2Check,
+        grid2X2Plus,
+        grid2X2X,
+        grid3X2,
+        grid3X3,
         gridOff,
         gridTable,
         gridView,
         grimacing,
         grinning,
+        grip,
+        gripHorizontal,
+        gripVertical,
         grok,
         grok02,
         group,
         group01,
         groupItems,
         groupLayers,
+        groww,
         guestHouse,
+        guitar,
         gun,
         gymnastic,
         gymnasticRings,
@@ -43113,13 +46235,19 @@ enum HugeiconsCatalog {
         ham,
         hamburger01,
         hamburger02,
+        hammer,
+        hand,
         handBag01,
         handBag02,
         handBeater,
         handCoins,
+        handFist,
         handGrab,
         handGrip,
+        handHeart,
         handHelping,
+        handMetal,
+        handPlatter,
         handPointingDown01,
         handPointingDown02,
         handPointingDown03,
@@ -43134,8 +46262,10 @@ enum HugeiconsCatalog {
         handPointingRight04,
         handPrayer,
         handSanitizer,
+        handbag,
         handcuffs,
         handsClapping,
+        handshake,
         hanger,
         hangingClock,
         hangout,
@@ -43144,9 +46274,15 @@ enum HugeiconsCatalog {
         hardDrive,
         hardDriveDownload,
         hardDriveUpload,
+        hardHat,
+        hash,
         hashtag,
         hat,
+        hatGlasses,
+        haze,
+        hd,
         hdd,
+        hdmiPort,
         hdr01,
         hdr02,
         heading,
@@ -43156,16 +46292,28 @@ enum HugeiconsCatalog {
         heading04,
         heading05,
         heading06,
+        heading1,
+        heading2,
+        heading4,
+        heading5,
+        heading6,
         headphoneMute,
+        headphoneOff,
         headphones,
         headset,
         headsetConnected,
         headsetOff,
         healtcare,
         health,
+        heart,
         heartAdd,
         heartCheck,
+        heartCrack,
+        heartHandshake,
         heartMinus,
+        heartOff,
+        heartPlus,
+        heartPulse,
         heartRemove,
         heartbreak,
         heater,
@@ -43192,6 +46340,7 @@ enum HugeiconsCatalog {
         highHeels02,
         highlighter,
         hijab,
+        history,
         hockey,
         hold01,
         hold02,
@@ -43250,6 +46399,7 @@ enum HugeiconsCatalog {
         house04,
         house05,
         houseHeart,
+        housePlug,
         housePlus,
         houseSolarPanel,
         houseWifi,
